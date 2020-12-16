@@ -1,0 +1,151 @@
+\documentclass{book}
+\usepackage{fontspec}
+\usepackage{makeidx}
+\usepackage{amsmath}                                                                         %\tfrac for fractions in text
+\usepackage{amssymb}    
+\usepackage{gensymb}  
+\usepackage{amsthm}      						%theorem environment. started using in the maths book
+\usepackage{mathtools}
+\usepackage{multicol}
+\usepackage{commath}									%differentiation symbols
+\usepackage{polyglossia}    
+\setmainlanguage[numerals=maghrib]{arabic}     %for english numbers use numerals=maghrib, for arabic numerals=arabicdigits
+\setotherlanguages{english}
+
+\newfontfamily\arabicfont[Scale=1.0,Script=Arabic]{Jameel Noori Nastaleeq} 
+\setmonofont{DejaVu Sans Mono}                                                                  %had to add this and the next line to get going after ubuntu upgrade
+\let\arabicfontt\ttfamily                                                                                  %had to add this and the above line to get going after ubuntu upgrade
+\newfontfamily\urduTechTermsfont[Scale=1.0,Script=Arabic]{AA Sameer Sagar Nastaleeq Bold}
+\newfontfamily\urdufont[WordSpace=1.0,Script=Arabic]{Jameel Noori Nastaleeq}
+\newfontfamily\urdufontBig[Scale=1.25,WordSpace=1.0,Script=Arabic]{Jameel Noori Nastaleeq}
+\newfontfamily\urdufontItalic[Scale=1.25,WordSpace=1.0,Script=Arabic]{Jameel Noori Nastaleeq Italic}
+\setlength{\parskip}{5mm plus 4mm minus 3mm}
+\begin{document}
+حصہ
+2.3\\
+ہارمونی مرتائش\\
+کلا سیے کی ہارمونی مرتائش کمیت
+m
+اور لچک کے سپرنگ پر مشتمل ہوتا ہے . کمیت کی حرکت قانون حک 
+\[F=-kx=m\frac{\dif{^{2}x}}{\dif{t^{2}}}\]
+کے تحت ہوگی جس میں رگڑ کو نظر انداز کیا گیا ہے . اور جس کا حل
+\[x(t)=A\sin{\omega t}+B\cos{\omega t}\]
+ہوگا۔ جہاں
+\(\omega\)
+کو تعریف 
+\[\omega\equiv \sqrt{\frac{k}{m}}\]
+ہوگی۔ جو زاویائی تعدد کو ظاہر کرتا ہے . خفی قو
+\[V(x)=\frac{1}{2}Kx^{2}\]
+ہوگا جس کو ترسیم قط مقاسی ہوگی۔ \\
+حقیقت میں کامل ہارمونی متعاش نہیں ہوتا۔ اگر آپ سپرنگ تو بہت زیاده کھینچیں تو وه ٹوٹ جائے گا اور قانون حک اس سے بہت پہلے ناکارآمد ہو چکا ہوگا۔ لیکن حقيقتا کوئی بھی خفی قو مقامی کم سے کم نقطہ کے پڑوس میں تخمينا قطا مکافی صورت کا ہوگا۔ شکل
+2.4
+خفی قو
+\(V(x)\)
+کو تم سے کم نقطہ کے اردگرد ٹیلر تسلسل سے پھیلا کر
+\[V(x)=V( x_{0})+V'(x_{0})(x-x_{0})+\frac{1}{2}V''(x_{0})(x-x_{0})^{2}+\dotsc\]
+اس سے
+\(V(x_{0}\)
+منفی کر کہ (ہم
+\(V(x)\)
+سے کوئی بھی مستقل بغیر خطر وفکر منفی کرسکتے ہیں کیونکہ اس سے قوت تبدیل نہیں ہوتا ) . اور یہ جانتے ہوئے
+\(V'(x_{0}=0\)
+ہوگا چونکہ
+\(x_{0}\)
+کم سے کم نقطہ ہوگا۔ تسلسل کے بلند درجی اجزاء کو رد کرتے ہوئے جو
+\(x-x_{0}\)
+کی فیمت کم ہونے کی صورت میں قابل نظرانداز ہونگے۔ ہمیں درج ذیل حاصل ہو گا۔\\
+\[V(x)\cong\frac{1}{2}V''(x_{0})(x-x_{0})^{2}\]
+جو ساده ہارمونی ارتعاش کو نقطہ
+\( x_{0}\)
+پر بیان کرتا ہے .
+معثر مکیاسی پچک
+\(k=v''(x_{0})\)
+ہوگا۔ اس کی بنا ساده ہارمونی متعا ش ایمبت کی حامل ہے 
+تقریباً ہر وہ متعاشی حرکت جس کا ہیتا کم ہو تخمینا سادہ ہارمونی ہوگا۔\\
+کوانٹم مکانیات میں ہمیں خفی قو
+\[V(x)=\frac{1}{2}m\omega ^{2}x^{2}\]
+کے لیے شرودنگر کی مساوات حل کرنا ہوگی۔ جہاں لچک کی جگہ کلا سیے کی تعدد مساوات 
+2.41
+استعمال کرتے ہوئے کیا گیا ہے جیسا کہ ہم دیکھ چکے کہ ہم وقت سے غیر تابع شرودنگر مساوات
+\[\frac{-\hbar ^{2}}{2m}\frac{\dif{^{2}\psi}}{\dif{x^{2}}}+\frac{1}{2}m\omega ^{2}x^{2}\psi=E\psi\]
+کو حل کریں۔ اس مسئلے کو حل کرنے کے لیے دو بالکل مختلف طریقے پائے جاتے ہیں۔ پہلی ترقیب میں تفرقی مساوات کو حل کرنے کی طاقت تسلسل کی ترقیب استعمال کی جاتی ہے . جو دیگر خفی مخفی قو کے لیے بھی کارآمد ثابت ہوتا ہے . اور جسے استعمال کرتے ہوئے ہم باب 4
+میں کولمب کی قو کے لیے اسے حل کریں گے۔ دوسری الجبرائی تکنیک ہے جس میں عامل سیٹرھی استعمال ہوتی ہے . میں آپکی واقفیت پہلے الجبرائی تکنیک کی ترقیب سے کرواؤں جس کا حل ساده ، زیادہ دلچسپ اور جلد حاصل ہوگا۔ اگر آپ طافتی تسلسل کی تقریب تو استعمال نہ کرنا چاہیں تو آپ ایسا کر سکتے ہیں۔ لیکن کہی نہ کہیں جاکر آپکو یہ ترقیب سیکھنی ہوگی \\
+حصہ
+2.3 1\\
+الجبرائی ترقیب \\
+ہم مساوات 
+2.44
+کو زیادہ معنی خیز صورت میں لکھ کر شروع کرتے ہیں .
+\[\frac{1}{2}[p^{2}+(m\omega x)^{2}]\psi=E\psi\]
+جہاں
+\(p\equiv \frac{\hbar}{i}\frac{d}{\dif{x}}\)
+معیار حرکت کا عامل ہے۔ آپ بنیادی طور پرجو ہیملٹونی کو جو ضرب کی شکل میں لکھتے ہو
+\[H=\frac{1}{2}[p^{2}+(m\omega x)^{2}]\]
+اگر یہ عداد ہوتے تو ہم یوں لکھ سکتے تھے .
+\[u^{2}+v^{2}=(iu+v)(-iu+v)\]
+البته یہاں پر چیزیں اتنی ساده نہیں ہیں چونکہ
+p
+اور
+x
+عامل ہیں لور عامل عمومی طور پر قابل تبادل نہیں ہوتے ہیں۔ یعنی آپ
+xp
+کا مطلب
+px
+نہیں ہے سکتے ہیں۔ اس کے باوجود یہ ہمیں درج ذیل مقداروں پر غور کرنے پر آمادہ کرتا ہے .
+\[a\pm\equiv \frac{1}{\sqrt{2\hbar m\omega}}(\mp ip+m\omega x)\]
+جہاں قوسین کے باہر جو ضربی لگانے سے آخری نتیجه بیستر نظر آئے گا۔
+آئین دیکھیں
+\(a_{-}a_{+}\)
+کا حاصل ضرب کیا ہوگا۔\\
+\begin{align*}
+a_{-}a_{+}&=\frac{1}{2\hbar m\omega}(ip+m\omega x)(-ip+m\omega x)\\
+&=\frac{1}{2\hbar m\omega}[p^{2}+(m\omega x)^{2}-im\omega(xp-px)]\\
+\end{align*}
+اس میں متوقع اضافی جز
+\(xp-px\)
+پایا جاتا ہے، ہم اس کو
+x
+اور
+p
+کا کوانٹم تبادل کہتے ہیں۔ جو ان کی آپس می قابل تبادل نه ہونے کی ناک ہے . عمومی طور پر عامل
+A
+اور
+B
+کا بدلن جسے چکور قوسین میں لکھا ہے درج ذیل ہوگا۔
+\[[A,B]\equiv AB-BA\]
+اس علامتیت میں درج ذیل ہوگا۔
+\[a_{-}a_{+}=\frac{1}{2\hbar m\omega}[p^{2}+(m\omega x)^{2}]-\frac{i}{2\hbar}[x,p]\]
+ہمیں
+x
+اور
+p
+کے بدلن کے درکار ہیں . زہن میں ہی لین کام کرنے میں آپ غلطی کریں گے۔ بہتر ہوگا آپ انھیں پرکھنے کے لیے انھیں تفال
+\(f(x)\)
+دیں جس پر یہ عمل کرے آپ آخر میں اس پر کھی تفال کو رو کر کہ صرف عاملین پر مبنی مساوات حاصل کر سکتے ہیں . موجودہ صورت میں درج ذیل ہو گا۔
+\[[x,p]f(x)=\big[x\frac{\hbar}{i}\frac{d}{\dif{x}}(f)-\frac{\hbar}{i}\frac{d}{\dif{x}}(xf)\big ]=\frac{\hbar}{i}\big (x\frac{\dif{f}}{\dif{x}}-x\frac{\dif{f}}{\dif{x}}-f\big )=-i\hbar f(x)\]
+پر کھی تقال کو رد کرتے ہوئے درج ذیل ہو گا۔
+\[[x,p]=i\hbar\]
+یہ خوبصورت نتیجہ جوہر جگہ پایا جاتا ہے باضابطہ تعلق تبدیلی کہلاتا ہے .\\
+اسے کے استعمال سے مساوات
+2.49
+درج ذیل صورت اختيار کرتا ہے 
+\[a_{-}a_{+}-\frac{1}{\hbar\omega}H+\frac{1}{2}\]
+یا
+\[H=\hbar\omega\big (a_{-}a{+}-\frac{1}{2} \big )\]
+آپ دیکھ سکتے ہیں کہ ہیملٹونی کو ٹھیک اجرا ضربی کی صورت میں نہیں لكھا جا سکتا . اور دائیں ہاتھ 
+\(-1/2\)
+اضافی موجود ہوگا . یاد رہے گا یہاں 
+\(a_{+}\)
+اور
+\(a_{-}\)
+کو ترتیب بہت اہم ہے . اگر آپ
+\(a_{+}\)
+کو بائیں ہاتھ رکھیں تو درج ذیل حاصل ہوگا۔
+\[a_{+}a_{-}=\frac{1}{\hbar\omega}H-\frac{1}{2}\]
+بالخصوص
+\[[a_{-},a_{+}]=1\]
+لہذا ہیملٹونی کو درج ذیل بھی لکھا جاسکتا ہے
+\[H=\hbar\omega\big (a_{+}a_{-}+\frac{1}{2}\big )\]
+
+
+\end{document}

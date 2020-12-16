@@ -1,0 +1,12 @@
+\select@language {arabic}
+\contentsline {chapter}{میری پہلی کتاب کا دیباچہ}{v}% 
+\contentsline {chapter}{\numberline {1}تفاعل موج}{1}% 
+\contentsline {section}{\numberline {1.1}شروڈنگر مساوات}{1}% 
+\contentsline {section}{\numberline {1.2}شماریاتی مفہوم}{2}% 
+\contentsline {section}{\numberline {1.3}احتمال}{4}% 
+\contentsline {subsection}{\numberline {1.3.1} غیر مسلسل متغیرات}{4}% 
+\contentsline {subsection}{\numberline {1.3.2}استمراری متغیرات}{7}% 
+\contentsline {section}{\numberline {1.4}معیار حرکت}{10}% 
+\contentsline {section}{\numberline {1.5}اصول عدم یقینیت}{12}% 
+\contentsline {chapter}{\numberline {2}غیر تابع وقت شروڈنگر مساوات}{15}% 
+\contentsline {chapter}{جوابات}{23}% 
