@@ -9,4 +9,6 @@
 \contentsline {section}{\numberline {1.4}معیار حرکت}{10}% 
 \contentsline {section}{\numberline {1.5}اصول عدم یقینیت}{12}% 
 \contentsline {chapter}{\numberline {2}غیر تابع وقت شروڈنگر مساوات}{15}% 
-\contentsline {chapter}{جوابات}{23}% 
+\contentsline {section}{\numberline {2.1}ہارمونی مرتعش}{22}% 
+\contentsline {section}{\numberline {2.2}الجبرائی ترکیب}{23}% 
+\contentsline {chapter}{جوابات}{27}% 
