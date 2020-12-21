@@ -9,6 +9,9 @@
 \contentsline {section}{\numberline {1.4}معیار حرکت}{10}% 
 \contentsline {section}{\numberline {1.5}اصول عدم یقینیت}{12}% 
 \contentsline {chapter}{\numberline {2}غیر تابع وقت شروڈنگر مساوات}{15}% 
-\contentsline {section}{\numberline {2.1}ہارمونی مرتعش}{22}% 
-\contentsline {section}{\numberline {2.2}الجبرائی ترکیب}{23}% 
-\contentsline {chapter}{جوابات}{27}% 
+\contentsline {section}{\numberline {2.1}ساکن حالات}{15}% 
+\contentsline {section}{\numberline {2.2}لامتناہی چکور کنواں}{21}% 
+\contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{29}% 
+\contentsline {section}{\numberline {2.4}الجبرائی ترکیب}{30}% 
+\contentsline {chapter}{\numberline {3}یکساں ذرات}{33}% 
+\contentsline {chapter}{جوابات}{35}% 
