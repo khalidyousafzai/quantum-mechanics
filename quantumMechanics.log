@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  21 DEC 2020 14:22
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  22 DEC 2020 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20201221862.tex)...disabled (restricted).
+runsystem(touch w18-test-20201222906.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20201221862.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20201222906.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1860,7 +1860,14 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquattion.aux)
-(./tex/quantumIdenticalParticles.aux))
+(./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux)
+(./tex/quantumIdenticalParticles.aux)
+(./tex/quantumTimeIndependentPertubationTheory.aux)
+(./tex/quantumTheVariationalPrinciple.aux)
+(./tex/quantumTheWKBapproximation.aux)
+(./tex/quantumTimeDependentPertubationTheory.aux)
+(./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
+(./tex/quantumAfterword.aux))
 \openout1 = `quantumMechanics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
@@ -2047,22 +2054,22 @@ e 160.
 (./quantumMechanics.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
-)
+ [3])
 \tf@toc=\write6
 \openout6 = `quantumMechanics.toc'.
 
- [3]
+ [4]
 \openout2 = `./tex/prefaceFirstBook.aux'.
 
- (./tex/prefaceFirstBook.tex [4
-
-
-
-
-]
+ (./tex/prefaceFirstBook.tex
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/bx/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
- [5]) [6]
+ [5
+
+
+
+
+]) [6]
 \openout2 = `./tex/quantumTheWaveFunction.aux'.
 
 
@@ -2161,34 +2168,148 @@ Missing character: There is no ̇ in font zplmr7m!
 LaTeX Warning: Command \. invalid in math mode on input line 318.
 
 Missing character: There is no ̇ in font zplmr7m!
-[25] [26] [27] [28] [29] [30] [31]) [32]
+[25] [26] [27] [28] [29] [30] [31]
+Underfull \hbox (badness 4634) in paragraph at lines 529--529
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 سائن نما امواج کی وسعت لامتناہی تک پہنچ
+تی ہے اور یہ معمول پر لانے کے قابل نہیں ہوتی ہیں۔ تاہم ایسی امواج کا خطی میل تب
+اہ کن مداخلت پیدا کرتا ہے، جس کی بنا مقام بندی اور معمول زنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--539
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 تفاعل  $\OML/zplm/m/it/8 f\OT1/zplm/m/n
+/8 (\OML/zplm/m/it/8 x\OT1/zplm/m/n/8 )$  \TU/JameelNooriNastaleeq(0)/m/n/8 پر 
+عائد لازم اور کافی پابندی یہ ہے کہ  $[][] [][] [] \OML/zplm/m/it/8 x$  \TU/Jame
+elNooriNastaleeq(0)/m/n/8 متناہی ہو۔ (ایسی صورت میں  $[][] [][] [] \OML/zplm/m/
+it/8 k$  \TU/JameelNooriNastaleeq(0)/m/n/8 بھی متناہی ہو گا، اور حقیقتاً ان دون
+وں تکملات[]
+ []
+
+[32] [33] [34] [35] [36] [37]) [38]
+\openout2 = `./tex/quantumFormalism.aux'.
+
+ (./tex/quantumFormalism.tex
+باب 3.
+) [39
+
+
+
+
+]
+\openout2 = `./tex/quantumMechanicsInThreeDimensions.aux'.
+
+ (./tex/quantumMechanicsInThreeDimensions.tex [40
+
+
+
+
+]
+باب 4.
+) [41]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
- (./tex/quantumIdenticalParticles.tex
-باب 3.
-) [33
+ (./tex/quantumIdenticalParticles.tex [42
 
 
 
 
-] [34
+]
+باب 5.
+) [43]
+\openout2 = `./tex/quantumTimeIndependentPertubationTheory.aux'.
+
+ (./tex/quantumTimeIndependentPertubationTheory.tex [44
 
 
 
-] (./answer.tex) [35] [36
+
+]
+باب 6.
+) [45]
+\openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
+
+ (./tex/quantumTheVariationalPrinciple.tex [46
+
+
+
+
+]
+باب 7.
+) [47]
+\openout2 = `./tex/quantumTheWKBapproximation.aux'.
+
+ (./tex/quantumTheWKBapproximation.tex [48
+
+
+
+
+]
+باب 8.
+) [49]
+\openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
+
+ (./tex/quantumTimeDependentPertubationTheory.tex [50
+
+
+
+
+]
+باب 9.
+) [51]
+\openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
+
+ (./tex/quantumTheAdiabaticApproximation.tex [52
+
+
+
+
+]
+باب 10.
+) [53]
+\openout2 = `./tex/quantumScattering.aux'.
+
+ (./tex/quantumScattering.tex [54
+
+
+
+
+]
+باب 11.
+) [55]
+\openout2 = `./tex/quantumAfterword.aux'.
+
+ (./tex/quantumAfterword.tex [56
+
+
+
+
+]
+باب 12.
+) [57] [58
+
+
+
+] (./answer.tex) [59] [60
 
 
 ]
 No file quantumMechanics.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
 (./quantumMechanics.aux
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquattion.aux)
-(./tex/quantumIdenticalParticles.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
+(./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux)
+(./tex/quantumIdenticalParticles.aux)
+(./tex/quantumTimeIndependentPertubationTheory.aux)
+(./tex/quantumTheVariationalPrinciple.aux)
+(./tex/quantumTheWKBapproximation.aux)
+(./tex/quantumTimeDependentPertubationTheory.aux)
+(./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
+(./tex/quantumAfterword.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 244.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2197,15 +2318,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
- 57524 strings out of 492922
- 1439833 string characters out of 6133407
- 1810131 words of memory out of 5000000
- 60524 multiletter control sequences out of 15000+600000
+ 57638 strings out of 492922
+ 1443455 string characters out of 6133407
+ 1816896 words of memory out of 5000000
+ 60575 multiletter control sequences out of 15000+600000
  571129 words of font info for 190 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2353b,1216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quantumMechanics.pdf (42 pages).
+Output written on quantumMechanics.pdf (66 pages).

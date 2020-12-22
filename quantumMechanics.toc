@@ -13,5 +13,14 @@
 \contentsline {section}{\numberline {2.2}لامتناہی چکور کنواں}{21}% 
 \contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{29}% 
 \contentsline {section}{\numberline {2.4}الجبرائی ترکیب}{30}% 
-\contentsline {chapter}{\numberline {3}یکساں ذرات}{33}% 
-\contentsline {chapter}{جوابات}{35}% 
+\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{39}% 
+\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{41}% 
+\contentsline {chapter}{\numberline {5}یکساں ذرات}{43}% 
+\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{45}% 
+\contentsline {chapter}{\numberline {7}تغیری اصول}{47}% 
+\contentsline {chapter}{\numberline {8}وکب تخمین}{49}% 
+\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{51}% 
+\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{53}% 
+\contentsline {chapter}{\numberline {11}بکھراو}{55}% 
+\contentsline {chapter}{\numberline {12}آخری الفاظ}{57}% 
+\contentsline {chapter}{جوابات}{59}% 
