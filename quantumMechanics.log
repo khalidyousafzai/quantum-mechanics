@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  22 DEC 2020 15:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  23 DEC 2020 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20201222906.tex)...disabled (restricted).
+runsystem(touch w18-test-20201223950.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20201222906.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20201223950.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2185,12 +2185,18 @@ it/8 k$  \TU/JameelNooriNastaleeq(0)/m/n/8 بھی متناہی ہو گا، او�
 وں تکملات[]
  []
 
-[32] [33] [34] [35] [36] [37]) [38]
+[32] [33] [34] [35] [36] [37] [38]
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 732.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 732.
+ [39] [40] [41] [42]) [43] [44]
 \openout2 = `./tex/quantumFormalism.aux'.
 
- (./tex/quantumFormalism.tex
+
+(./tex/quantumFormalism.tex
 باب 3.
-) [39
+) [45
 
 
 
@@ -2198,98 +2204,98 @@ it/8 k$  \TU/JameelNooriNastaleeq(0)/m/n/8 بھی متناہی ہو گا، او�
 ]
 \openout2 = `./tex/quantumMechanicsInThreeDimensions.aux'.
 
- (./tex/quantumMechanicsInThreeDimensions.tex [40
+ (./tex/quantumMechanicsInThreeDimensions.tex [46
 
 
 
 
 ]
 باب 4.
-) [41]
+) [47]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
- (./tex/quantumIdenticalParticles.tex [42
+ (./tex/quantumIdenticalParticles.tex [48
 
 
 
 
 ]
 باب 5.
-) [43]
+) [49]
 \openout2 = `./tex/quantumTimeIndependentPertubationTheory.aux'.
 
- (./tex/quantumTimeIndependentPertubationTheory.tex [44
+ (./tex/quantumTimeIndependentPertubationTheory.tex [50
 
 
 
 
 ]
 باب 6.
-) [45]
+) [51]
 \openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
 
- (./tex/quantumTheVariationalPrinciple.tex [46
+ (./tex/quantumTheVariationalPrinciple.tex [52
 
 
 
 
 ]
 باب 7.
-) [47]
+) [53]
 \openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumTheWKBapproximation.tex [48
+ (./tex/quantumTheWKBapproximation.tex [54
 
 
 
 
 ]
 باب 8.
-) [49]
+) [55]
 \openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
 
- (./tex/quantumTimeDependentPertubationTheory.tex [50
+ (./tex/quantumTimeDependentPertubationTheory.tex [56
 
 
 
 
 ]
 باب 9.
-) [51]
+) [57]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [52
+ (./tex/quantumTheAdiabaticApproximation.tex [58
 
 
 
 
 ]
 باب 10.
-) [53]
+) [59]
 \openout2 = `./tex/quantumScattering.aux'.
 
- (./tex/quantumScattering.tex [54
+ (./tex/quantumScattering.tex [60
 
 
 
 
 ]
 باب 11.
-) [55]
+) [61]
 \openout2 = `./tex/quantumAfterword.aux'.
 
- (./tex/quantumAfterword.tex [56
+ (./tex/quantumAfterword.tex [62
 
 
 
 
 ]
 باب 12.
-) [57] [58
+) [63] [64
 
 
 
-] (./answer.tex) [59] [60
+] (./answer.tex) [65] [66
 
 
 ]
@@ -2321,12 +2327,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
- 57638 strings out of 492922
- 1443455 string characters out of 6133407
- 1816896 words of memory out of 5000000
- 60575 multiletter control sequences out of 15000+600000
- 571129 words of font info for 190 fonts, out of 8000000 for 9000
+ 57682 strings out of 492922
+ 1444331 string characters out of 6133407
+ 1818210 words of memory out of 5000000
+ 60618 multiletter control sequences out of 15000+600000
+ 571137 words of font info for 191 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2353b,1216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quantumMechanics.pdf (66 pages).
+Output written on quantumMechanics.pdf (72 pages).
