@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  23 DEC 2020 15:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  4 JAN 2021 09:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20201223950.tex)...disabled (restricted).
+runsystem(touch w18-test-202114542.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20201223950.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202114542.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2328,7 +2328,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
  57682 strings out of 492922
- 1444331 string characters out of 6133407
+ 1444330 string characters out of 6133407
  1818210 words of memory out of 5000000
  60618 multiletter control sequences out of 15000+600000
  571137 words of font info for 191 fonts, out of 8000000 for 9000

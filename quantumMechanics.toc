@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{39}% 
 \contentsline {chapter}{\numberline {3}قواعد و ضوابط}{45}% 
 \contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{47}% 
-\contentsline {chapter}{\numberline {5}یکساں ذرات}{49}% 
+\contentsline {chapter}{\numberline {5}متماثل ذرات}{49}% 
 \contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{51}% 
 \contentsline {chapter}{\numberline {7}تغیری اصول}{53}% 
 \contentsline {chapter}{\numberline {8}وکب تخمین}{55}% 
