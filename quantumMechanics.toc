@@ -13,17 +13,17 @@
 \contentsline {section}{\numberline {2.2}لامتناہی چکور کنواں}{21}% 
 \contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{29}% 
 \contentsline {section}{\numberline {2.4}الجبرائی ترکیب}{30}% 
-\contentsline {section}{\numberline {2.5}ڈیلٹا تفاعل مخفیہ}{38}% 
-\contentsline {subsection}{\numberline {2.5.1}مقید حالات اور بکھراو حالات}{38}% 
-\contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{39}% 
-\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{45}% 
-\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{47}% 
-\contentsline {chapter}{\numberline {5}متماثل ذرات}{49}% 
-\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{51}% 
-\contentsline {chapter}{\numberline {7}تغیری اصول}{53}% 
-\contentsline {chapter}{\numberline {8}وکب تخمین}{55}% 
-\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{57}% 
-\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{59}% 
-\contentsline {chapter}{\numberline {11}بکھراو}{61}% 
-\contentsline {chapter}{\numberline {12}آخری الفاظ}{63}% 
-\contentsline {chapter}{جوابات}{65}% 
+\contentsline {section}{\numberline {2.5}ڈیلٹا تفاعل مخفیہ}{42}% 
+\contentsline {subsection}{\numberline {2.5.1}مقید حالات اور بکھراو حالات}{42}% 
+\contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{43}% 
+\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{49}% 
+\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{51}% 
+\contentsline {chapter}{\numberline {5}متماثل ذرات}{53}% 
+\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{55}% 
+\contentsline {chapter}{\numberline {7}تغیری اصول}{57}% 
+\contentsline {chapter}{\numberline {8}وکب تخمین}{59}% 
+\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{61}% 
+\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{63}% 
+\contentsline {chapter}{\numberline {11}بکھراو}{65}% 
+\contentsline {chapter}{\numberline {12}پس نوشت}{67}% 
+\contentsline {chapter}{جوابات}{69}% 

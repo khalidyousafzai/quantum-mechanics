@@ -1,5 +1,7 @@
 english term	urdu equivalent
 	
+accelerate	
+acceleration, accelerating	اسراع، مسرع یا سرعت پزیر
 AC, DC	یک سمت رو، بدلتا رو
 AC voltage, DC voltage	یک سمت رو برقی دباو، بدلتا رو برقی دباو
 AC motor, DC motor	یک سمت رو موٹر، بدلتا رو موٹر
@@ -17,6 +19,7 @@ ADC: analog to digital converter	مماثل سے عددی مبادل کار
 admit; admit a solution	تسلیم کرنا؛ حل تسلیم کرتا ہے
 Adrien Marie Legendre	اڈریان مری لیژانڈر
 advanced text	اعلٰی درجے کی کتاب
+Ahاranov-Bohm effect	اہارانو و بوہم اثر
 ASICs	خصوصی استعمال کے مخلوط ادوار
 Accuracy, 3 digit accuracy	درستگی، اشاریہ کے بعد تین ہندسوں تک درستگی
 Achille Ernest Delesse’r rule	اشیلہ ارنسٹ دولس، قاعدہ دولس
@@ -30,8 +33,8 @@ addition, subtraction	جمع، تفریق
 additional	اضافی، زائد
 additive	جمعی
 additivity	جمع پذیری
-adiabatic process	حرارت نا گزر عمل
-adjacent [states]	ہمسایہ، پڑوسی
+adiabatic process; near adiabatic	حرارت نا گزر عمل؛ قریب حرارت نا گزر
+adjacent [states]	ہمسایہ، پڑوسی، برابر والا
 adjoint matrix	شریک قالب
 adjust	درست کرنا، مطابق بنانا
 Admittance, impedance (electrical)	برقی رکاوٹ، برقی فراوانی
@@ -40,14 +43,18 @@ advantage, disadvantage	افادیت، قباحت
 aerodynamics	ہوائی حرکیات
 aerofoil	ہوائی پترا
 aging	عمر رسیدگی
+agnostic position	انکاری سوچ
 agree, agreement	موافق ہونا، موافقت
 air conditioner	ایئر کنڈشنر
 air foil (this is american spelling), aerofoil	ہوائی پترا
+air gun [pallet]	ہوائی بندوق [چھرا]
+Airy’s equation, functions	مساوات ایئری، تفاعلات ایئری
 Alaska	ایلاسکا
 alcalii (base)	القلی (اساس)
 Aleksander Mikhailovich Lyapunov (russian Maths)	سکندر میکائل لیاپونو
 Alexander	سکندر
 Alexandria	سکندریا
+all, [same]	ہمہ، [ہم]
 algebraic multiplicity	الجبرائی کثرت
 algebraic, transcendental functions or numbers	الجبرائی اور ماورائی تفاعل یا اعداد
 align, alignment, aligned	سیدھ میں لانا، صف بندی، ہم صف، صف بستہ کئے ہوئے ہے
@@ -63,6 +70,7 @@ alternating series theorem	مسئلہ بدلتا تسلسل
 ammeter	ایمپیئر پیما
 ampere	ایمپیئر
 ampere's circuital law	ایمپیئر کا دوری قانون
+amplification	افزائش
 amplifier	افزائش کار، ایمپلی فائر
 amplifier: preamplifier, power amplifier	ابتدائی ایمپلی فائر، قوی ایمپلی فائر
 amplitude	حیط، حیطہ
@@ -77,13 +85,14 @@ analyticity	تحلیلی ہونا، تحلیل پذیری
 analytical tools	تجزیاتی آلات
 AND, OR, NOT	ضرب گیٹ، جمع گیٹ، نفی گیٹ
 Andre Louis Cholesky	اندرِ لوئی شولسکی
-angioplasty	انجویپلاسٹی
+nnihilation	فنا
 angle	زاویہ
 angle of elevation; angle of depression	زاویہ صعود؛ زاویہ نزول
 angular displacement	زاویائی ہٹاو
 angular form: of writing complex numbers=r, theta	زاویائی طرز
 angular frequency	زاویاتی تعدادِ ارتعاش
 angular speed, velocity: ω	زاویاتی رفتار، سمتیہ زاویاتی رفتار
+about	
 antireflective coating	غیر انعکاسی تہہ
 anion, (cation)	منفی باررداریہ (مثبت بارداریہ)
 anisotropic	سمتی خاصیت
@@ -107,6 +116,7 @@ applicable, fit	موزوں، کا اطلاق ہو سکتا ہے
 Application: practical application	استعمال: عملی استعمال؛ کی اطلاق
 applied	لاگو، عملی، اطلاقی
 apply, apply voltage	لاگو کرنا، برقی دباؤ لاگو کرنا
+appreciable	نمایاں
 approach	پہنچنے کی کوشش کرنا
 approach zero	صفر کے قریب تر
 appropriate	موزوں، مناسب، درست
@@ -115,6 +125,7 @@ Approximate: we can approximate sinx by its taylor series	ہم سائن کو ت�
 approximate: find approximate value of x	ایکس کی قیمت کا تخمینہ لگائیں
 approximation errors	خلل تخمین
 approximation polynomial	تخمینی کثیر رکنی
+approximation: impulse approximation	تخمین ضرب
 Approximate: approximate the curve with a chord	مشابہ
 approximate	قریب قریب قیمت دینا
 approximate: to approximate with	تخمیناً برابر کرنا
@@ -147,7 +158,7 @@ Associative, associative law	قانون تلازمی، تلازم
 assume (probability)	اختیار کرنا
 astroids (not asteroids)	ستارہ نما
 astronomy: radio astronomy	ریڈیائی فلکیات
-asymptote, asympototically	متقارب، متقاربی طور پر
+asymptote, asymptotically	متقارب، متقاربی طور پر
 asymptotic expansion	متقارب اتساع
 asymptotically equal	متقاربی برابر
 Atlantic ocean	بحرالقیانوس
@@ -178,7 +189,8 @@ axis of twist	محورِ پیچ، موڑ کا محور
 axis of x	 کا محور x
 axis: like axis of motor	محور: وہ فرضی خط جس پر کوئی جسم  گھومتا ہے
 axis: vertical axis	انتصابی محور
-azimuthal quantum number	 شمالی کوانٹائی عدد
+azimuth, [azimuths]	اسّمت، [اسُّموت]
+azimuthal quantum number	 شمالی کوانٹائی عدد، السّمتی کوانٹائی عدد
 back	پشت
 background	پس منظر
 balanced three phase currents	متوازن تین دور کی برقی رو
@@ -205,6 +217,7 @@ BCD binary coded decimal	اعشاری اعداد کی دہری علامتیں
 beam, log	لکڑ، شہتیر
 beam solid angle (antenna)	اخراجی ٹھوس زاویہ
 beats	تھاپ
+beautiful (english)	شائستہ
 behavior, behave	رویہ
 bell: bell curve	جرس،  قوس جرس
 Bell: John Bell	جان بل
@@ -213,6 +226,7 @@ bending moment	خماو کا معیار اثر
 benzene	بنزین
 Bernard Bolzano (german pronunciation)	برنارت بُلزانو
 Bernoulli: Jacob Bernoulli (ordinary diff eq)	یعقوب برنولی
+Berry’s phase	ہیّت بیری
 Bessel function, spherical bessel function	بیسل تفاعل، کروی بیسل تفاعل
 Beta function	بیٹا تفاعل
 between	بیچ
@@ -232,7 +246,7 @@ bisector	مساوی متقاطع
 bit	دہرا ہندسہ: ہندسہ
 bit: binary code, binary digit, binary arithmetic	ثنائی need to change in digital book
 blackbody	سیاہ جسم
-blackbody radiation	سیاہ جسمی شعاعی اخراج
+blackbody radiation	سیاہ جسمی شعاعی اخراج، سیاہ جسمی اشعاع
 blackboard	تختہ سیاہ
 Bliss’s theorem	مسئلہ بلس
 Bloch theorem	مسئلہ بلوخ
@@ -246,16 +260,20 @@ bobbin	پھرکی، چرخی
 Bode: Hendrik Wade Bode	ہنڈرک واڈ بوڈا
 Bode plots	بوڈا خطوط
 Bohr formula, bohr radius	کلیہ بوہر، رداس بوہر
+Bohr magneton	بوہر مقناطیسہ
 bolt, nut	قابلہ، ڈھبری
 Boltzmann constant	بولٹزمن کا مستقل
-bond, bonded, covalent bond	بند، بندھا، شریک گرفتی بند
+bond, bonded, covalent bond	بند، بندھا، شریک گرفتی بندھ، بندھن
 boost converter: power supply	اٹھان منبع
+Born approximation	بارن تخمین
 Born interpretation	بارن مفہوم
+Born-Oppenheimer approximation	بارن و اوپن ہائیمر تخمین
 borrow, carry	حاصل، ادھار
 Bose condensation	بوس انجماد
 Bose-Einstein distribution	بوس آئنشٹائن تقسیم
 Boson (quantum mech)	بوسن
 bounce back	ٹکرا کر واپس پلٹنا
+bounce, bouncing	ٹپا کھانا یا دینا، ٹپٹپیاں کھانا یا دینا، ٹپکی
 bound: upper bound	بالائی حد بندی
 bound: upper bound; bounded from above (sequences)	بالائی حد بندی؛ اوپر سے محدود
 bound: least upper bound (sequences)	کم سے کم بالائی حد بندی
@@ -281,6 +299,7 @@ Brinell hardness	برینل سختی
 britain, scotland, england, english	ولایت، سکاٹستان، انگلستان، فرنگی
 broadside array, end-fire array	چوڑائی جانب اخراجی قطار، لمبائی جانب اخراجی قطار
 brute force	طاقت کے بل بوتے پر
+bubble chamber	بلبلہ خانہ
 buffer	مستحکم کار
 buffer, inverting, non inverting	وابسطہ: منفی وابسطہ
 building	عمارت
@@ -332,6 +351,8 @@ Cauchy condensation test	کوشی پرکھ جمود
 Cauchy's determinant	کوشی مقطع
 Cauchy-Riemann equation	کوشی ریمان مساوات
 Cauchy-Schwarz inequality, Herman Amandus Schwarz	کوشی شوارز عدم مساوات، ہرمن امندس شوارز
+cause, causal, causality	سبس، سببی  ، سببیت
+causal: [ethereal]	[آسمانی]
 caution	انتباہ
 Cavalieri’s theorem ( Bonaventura Francesco Cavalieri)	مسئلہ کوالئیرے (بوناونتورا کوالئیرے)
 ceiling and floor function	عدد صحیح چھت تفاعل، کم ترین عدد تفاعل
@@ -352,6 +373,7 @@ characteristic, characteristics	خاصیت، خصوصیات ، خصلت
 characteristic: magnitude characteristic, phase characteristic (Bode plot)	مقداری خصلت، زاویائی خصلت
 characteristics	خصوصیات، خط، خطِ منحنی، منحنی
 characteristic equation,  (differential equations as^2+bs+c=0)	امتیازی مساوات
+characterize	تصویر کشی کرنا
 charge, free, bound	آزاد اور بندھا بار
 charge, discharge a capacitor	بار بھرنا، بار کا نکاس
 charged	بار بردار
@@ -380,10 +402,12 @@ class midpoints, class marks	جماعتی وسطی نقطے، جماعتی نش�
 class interval	جماعتی وقفہ
 class room	تدریسی کمرہ
 clear, preset	زبردستی بلند، زبردستی پست
+clearly	صراحت، صریحتاً
 Clebsch-Gordan coefficients	کلیبش گورڈن عددی سر
 cliff	چٹان، کھڑا چٹان
 clockwise, anti clock wise	گھڑی کی سوئی کے رخ، گھڑی کی سمت
 clock signal	ساعتی اشارہ
+clone	قلمیہ
 closed, open	بند، کھلا
 closed loop	بند دائرہ
 closed solution, closed form	بند حل، بند روپ
@@ -396,7 +420,8 @@ coefficient	ضربیہ، عددی سر
 coefficient matrix	عددی سر قالب
 coefficient: reflection, transmission	شرح انعکاس، شرح ترسیل
 Cofactor (determinants and matrices)	ہم ضربی
-coherent states (quantum mech)	منطقی حالات
+coherence, incoherence	اتساق، عدم اتساق
+coherent, incoherent states (quantum mech)	منطقی حالات، اتساقی حال، غیر اتساقی حال
 co-president	ہم-صدر
 coil	لچھا،گچھ لچھا، تقسیم شدہ لچھا
 coincidence, coincident lines	ہم مکانیت، ہم مکان خطوط
@@ -469,7 +494,7 @@ Confidence, confidence interval	اعتماد، وقفہ اعتماد
 confidence: lower and upper confidence limits	نچلی اور بالائی حد اعتماد
 confidence level	سطح اعتماد
 configuration	تنظیم
-conflicting requirements	متصادم ضروریات
+conflicting requirements	متصادم ضروریات، تضاد ضروریات
 confocal	ہم ماسکہ
 conformal mapping, conformality	محافظ زاویہ نقشہ، محافظت زاویہ
 congruent triangles	مماثل تکون
@@ -491,6 +516,7 @@ constant: constant current	مستقل برقی رو
 constant: separation constant	علیحدگی مستقل
 constant, variable	مستقل،اٹل،  متغیر
 constant of integration or arbitrary constant	تکمل کا مستقل یا اختیاری مستقل
+constitute	تشکیل دینا
 constrained, constrained maxima and minima	جبراً پابند، جبری پابند, مشروط زیادہ سے زیادہ اور کم سے کم قیمتیں
 constraint	مسلط شرط، مسلط پابندی
 construction (matric)	عمک بناوٹ (تشکیلات)
@@ -543,12 +569,14 @@ core loss	ضیاع قالب: قالبی ضیاع
 core, iron core, air core, core-less	لوہے کی قالب؛ خلائی قالب؛ بے قالب
 Coriolis effect	کوریولس اثر
 corollary	ضمنی نتیجہ
-correction	درستگی
+correction	درستگی، تصحیح
 correlation analysis (statistics)	تجزیہ باہمی رشتہ
-corresponding point	نظیری نقطہ
+correlation, anti-correlation	باہمی رشتہ، باہم ضد رشتہ
+corresponding point	نظیری نقطہ، مطابقتی نقطہ
 corrugated	نالیدار
 Copenhagen	کوپن ہیگن
 cosine, cosine integral, complementary cosine integral	کوسائن، کوسائن تکمل، متمم کوسائن تکمل
+cosine law	قانون کوسائن
 cosmic rays	کائناتی شعاعیں
 cost	لاگت
 coupled: magnetically coupled circuits	رابطے میں ہیں۔مقناطیسی میدان کے ذریعہ آپس میں رابطے میں ہیں۔
@@ -562,13 +590,13 @@ coupled circuits	مزدوج ادوار
 coupler	وابستہ کار
 coupling capacitor, bypass capacitor	جفتی کپیسٹر 
 coupling coefficient: M=k(L1 L2)^(0.5)	ارتباطی مستقل
-covalent bond, bonded	شریک گرفتی بند، بندھا
+covalent bond, bonded	شریک گرفتی بندھ، بندھا
 CPLDs	مخلوط قابلِ تشکیل ترتیبی ادوار
 Cramer's rule	کریمر کا قاعدہ
 crest: (read wave)	فراز
 criteria	مسلمہ معیار، (نقطہ فاصل جانچنے کا مسلمہ معیار)
 critical: critical damping	فاصل تقصیر
-critical equilibrium, critical angle, critical function, value	نازکی توازن، زاویہ فاصل، فاصل تفاعل، فاصل قیمت
+critical equilibrium, critical angle, critical function, value	نازکی توازن [فاصل توازن]، زاویہ فاصل، فاصل تفاعل، فاصل قیمت
 critical point, value	فاصل نقطہ، فاصل قیمت، نقطہ فاصل
 critical points (phase plane) improper node, proper node, saddle point, centre, spiral point and degenerate node	غیر مناسب جوڑ، مناسب جوڑ، نقطہ زین، وسط، نقطہ مرغولہ، انحطاطی جوڑ
 critical race	بحرانی دوڑ
@@ -603,7 +631,7 @@ curved surface	خم دار سطح
 cusp	کنگرہ
 Cut-off mode: transistor	منقطع حال
 cycle, cyclic	پھیرا، چکر، چکردار
-cycle	چکر
+cycle	چکر، پھیرا
 cycloid, hypocycloid, epicycloid	تدویر، فلک تدویر، بر تدویر
 cyclotron	سائکلوٹران
 cylinder	نلی، یکساں قطر والی نلی
@@ -632,8 +660,9 @@ DC series connected self excited generator	یک سمت سلسلہ وار جُڑ�
 de Broglie	ڈی بروگ لی
 Deca; deca meter	ڈیکا
 decay	تنزل
-decay: radioactive decay	تابکاری تحلیل
-decay: inverse beta decay	مخالف بیٹا تحلیل
+decay mode [quantum mech, of excited state]	انداز تنزل
+decay: radioactive decay	تابکاری تحلیل، تابکاری تنزل
+decay: inverse beta decay	مخالف بیٹا تحلیل، مخالف بیٹا تنزل
 decoder	شناخت کار
 decimal: 3D accuracy	تین اعشاریہ درست
 decimal number	اعشاری عدد، عشری عدد
@@ -649,6 +678,7 @@ defined on an interval (means that it has a value)	معین
 definition: by definition	تعریف کی رو سے
 defined: well defined	پوری طرح معین
 defining rule, defining function	تعریفی قاعدہ، تعریفی تفاعل
+defines (english)	پہچان
 definite, indefinite	غیر مبہم، مبہم
 deform, deformed, mutilate, distort	مسخ کرنا، مسخ شدہ
 degeneracy pressure	انحطاطی دباو
@@ -680,9 +710,12 @@ derive	اخذ کرنا
 design, designed, design voltage	بناوٹ، بنائی گئی ہو، تخلیق، بناوٹی دباو
 design voltage, current, frequency	بناوٹی دباو، رو،تعدد
 designer	تخلیق کار
+detector, [sensor]	کاشف، محسس
+detect	معلوم کرنا، کشف کرنا
 Determinant  (symbol=D or |A| )	مقطع، مقطع قالب (میٹرک کتاب)
 determinant: characteristic determinant of A matrix	امتیازی مقطع
 determinate, indeterminate	قابل معلوم، نا قابل معلوم، تعیین، غیر تعیین
+determinacy, indeterminacy	تعیینیت، عدم تعیینیت
 determine	تعین کرنا، طے کرنا
 determined upto multiples of 2	دو کی مضرب تک تعین کی جا سکتی ہے
 develop	تیار
@@ -730,11 +763,14 @@ dimensional: two dimensional	دو ابعاد، دو ابعادی
 dimensional: three dimensional	ابعاد ثلاثہ والا
 dimensional:three dimensional plot	تین بعدی ترسیم، سہ ابعادی ترسیم
 dimple	ٹویا، ٹوئے
+dip	گہرائی??
 dipole, dipole moment	جفت قطب، جفت قطب کا معیار اثر
+dipole: quadrupole, multipole	چو قطب، متعدد قطب
 dipole antenna	جفت قطبی اینٹینا
 Dirac: Paul Adrien Maurice Dirac	پال اڈرین مارث ڈیراک
 Dirac comb	ڈائی رک کنگھی
 Dirac delta function	ڈائی رک ڈیلٹائی تفاعل
+direct integral (quantum mech)	بلا واسطہ تکمل
 direct method	بلا واسطہ ترکیب
 direct current  DC	راست رُو، یک سمت رُو
 direct reception (antenna)	سیدھی رسائی، سیدھی وصولی
@@ -804,6 +840,7 @@ doubly	دو چند، دو چند طور پر، دوہرے طور پر
 drift	بہاو برقی رو
 drift velocity	رفتار بہاو
 driving force	متحرک قوت
+driving frequency	جبری تعدد
 driving function: (forcing function)	جبری تفاعل
 Duffing equation	ڈفنگ مساوات
 dummy variable (of integration)	نقلی متغیر
@@ -829,6 +866,7 @@ effective current	موثر رو
 effective aperture (antenna)	اخراجی رقبہ
 efficiency	کارگزاری
 efficient	موثر
+Ehrenberg-Siday effect	اہرنبرگ و سڈے اثر
 Ehrenfest’s theorem	مسئلہ اہرنفسٹ
 Eigenvalues, Eigenvectors, Eigenspace	آئگنی قدر، آئگنی سمتیات، آئگنی اقدار،  آئگنی فضا، امتیازی
 eigenfunction: position eigenfunction, momentum eigenfunction	امتیازی تفاعل مقام، امتیازی تفاعل معیار حرکت
@@ -882,6 +920,7 @@ entry (matrix a_11 etc)	اندراجات
 envelope (of AM signal)	غلاف
 environment	ماحول
 epicycloid	بر تدویر
+EPR paradox	آئنشٹائن پوڈلسکی و روزن تضاد
 equation	مساوات
 equation: point-slope and slope-intercept equations	نقطہ-ڈھلوان اور ڈھلوان-قطع مساوات
 Equate, equating two equations	ان مساوات کو مساوی رکھتے ہوئے، برابر رکھتے ہوئے
@@ -907,7 +946,7 @@ error: experimental error	تجربی خلل
 error:truncation error	قطع چال خلل
 error: rounding error	پور و پور خلل
 error:rounding up, rounding down	اوپر پورا کرنا، نیچے پورا کرنا، اپور پور و پور، نیچے پور و پور
-escape	فرار
+escape	فرار، بچ نکلنا
 escape velocity	گریزی رفتار
 escribed circle (matric)	جانبی دائرہ
 essential	لازمی
@@ -935,6 +974,7 @@ Everett formula (interpolation)	کلیہ ایورٹ
 evolution, evolves	ارتقا، ارتقا پانا
 exact; exactly 5	بالکل درست، ٹھیک؛ ٹھیک پانچ
 exchange operator, interchange	عامل مبادلہ؛ باہمی مبادلہ
+exchange integral (quantum mech)	مبادلہ تکمل
 excitation current	ہیجان انگیز برقی رو
 excitation table (DLD)	ہیجان انگیز جدول
 excitation voltage	 ہیجان انگیز برقی دباؤ
@@ -950,7 +990,7 @@ expected	متوقع
 explicit function	صریح تفاعل
 explicitly	صریحاً
 exponent	قوت نما
-exponential decay	قوت نمائی انحطاط
+exponential decay	قوت نمائی انحطاط، قوت نمائی تنزل
 exponential function	قوت نمائی تفاعل
 exponential Fourier series	قوت نمائی فوریئر تسلسل
 expression: mathematical expression	ترکیب، کلیہ، تعلق، جملہ
@@ -983,12 +1023,14 @@ feedback system, feedback circuit	واپسی دور، واپسی نظام
 feedback signal	واپسی اشارہ، واپسی خبر، خارجی خبر
 feedback positive, negative	مثبت واپسی ایمپلیفائر، منفی واپسی ایمپلیفائر
 femto	فیمٹو
+Feynmann diagrams	فائن من اشکال
 Frermat's difference quotient	فرمٹ تفریقی حاصل تقسیم
 Fermi-Dirac distribution	فرمی  ڈیراک تقسیم
 fermion	فرمیان
 ferrite	فیرائٹ
 ferroelectric	برقی چال
 ferromagnetic	فولادی مقناطیسی اشیاء
+Feynman-Hellmamm theorem	مسئلہ فائنمن  و ہلمن
 Fibonacci numbers	فبونیکی اعداد
 Field: magnetic field	حلقہ عمل: وہ علاقہ یا جگہ جس میں کسی قوت کا اثر محسوس کیا جائے
 field, armature	میدان، قوی لچھا  ؟؟
@@ -998,6 +1040,7 @@ file: computer file	دستاویز
 filter, low pass, high pass, band pass, band stop	پٹی گزار چھلنی، پٹی روک چھلنی، پست گزار چھلنی اور بلند گزار چھلنی
 filter, low pass, high pass, band pass, band stop	پٹی گزار فلٹر، پٹی روک فلٹر،بلند گزار اور پست گزار فلٹر
 fine	باریک
+fine structure, hyperfine structure (quantum mech)	مہین ساخت، نہایت مہین ساخت
 finite processes	متناہی چال
 finite sum	متناہی مجموعہ
 Finland	فن لینڈ
@@ -1045,6 +1088,7 @@ formal, informal	با ضابطہ، غیر رسمی
 formalize	دستوری شکل دینا
 former, latter	اول الذکر، موخر الذکر
 fossil fuel, fossil bones	حجریہ ایندھن، حجریہ ہڈی
+Foucault pendulum	فوقو لٹکن
 fourier: Jean Baptiste Joseph Fourier	ژاں باٹِیسٹ یوسف فوریئر
 fourier series, double fourier series	فوریئر تسلسل، دوہرا فوریئر تسلسل
 fourier series: exponential series, trignometric series	قوت نمائی فوریئر تسلسل، تکونیاتی فوریئر تسلسل
@@ -1081,6 +1125,7 @@ fringing	پھول جانا، پھولنا
 Frobenius: Ferdinand Georg Frobenius	فرڈینانڈ گیوگ فروبنیوس
 frustum	مخروط مقطوع
 full adder	جمع کرنے والا مکمل دور
+full width at half maximum	زیادہ سے زیادہ قیمت کی نصف پر پوری چوڑائی
 function: two variable function	دو متغیری تفاعل
 function boundary	تفاعلی سرحد
 function y(x)	تفاعل۔وائی ایکس کا تفاعل ہے
@@ -1091,6 +1136,7 @@ fuse	فتیلہ
 gabriel	جبرائیل
 gain, voltage gain, current gain, transconductance gain, transresistance gain	افزائش، افزائشِ برقی دباؤ، افزائش برقی رو، افزائش موصلیت-نما، افزائش مزاحمت-نما
 Gamma function; incomplete gamma function	گیما تفاعل، غیر مکمل گیما تفاعل
+Gamov’s theory of alpha decay	الفا تحلیل کا نظریہ گامو، الفا تنزل کا نظریہ گامو
 gap, air gap	درز، خلائی درز
 Gauss: Johann Carl Friedrich Gauss	یوہان کارل فرڈرش گاوس
 Gauss's convergence theorem	گاوسی مسئلہ ارتکاز
@@ -1115,6 +1161,7 @@ geostationary orbit, geosynchronous	ہم عصر مدار
 geology	ارضیات
 geometric mean, geometric series	ہندسی اوسط، ہندسی تسلسل
 geometric multiplicity	جیومیٹریائی کثرت
+geometric phase	جیومیٹریائی ہیّت
 geometry, geometrical	جیومیٹری، جیومیٹریائی
 Georg Cantor (german pronunciation)	گیورگ کانتور
 Gershgorin: Semyon Aronovich Gershgorin	سمیون ارانووچ گرشگرین
@@ -1168,6 +1215,7 @@ Hans Ferdinand Mayer: norton theorem	ہنس فرڈینانڈ میئر
 happen: it so happens	ایسا ہوتا ہے، ایسے ہے کہ
 harmonic	ہارمونی، سمعیاتِ موسیقی
 HCF (highest common factor)	عاد اعظم
+head on	رو بہ رو
 heat capacity, specific heat capacity	مخصوص حراری استعداد
 heat conduction	ایصال حرارت
 heat convection	اتصال حرارت
@@ -1187,6 +1235,8 @@ Hermitian matrix; Charles Hermite	چارلس ہرمائٹ؛ ہرمشی قالب
 hermitian, anti-hermitian, skew hermitian	ہرمشی، خلاف ہرمشی، منحرف ہرمشی
 hertz: heinrich hertz	ہائنرک ہرٹز
 hexagon, hexagonal	مسدس، مسدسی
+hidden variable	درپردہ متغیر
+hierarchy	تنظیمی ڈھانچہ
 high, highest, low lowest	بلند، بلند تر، کم، کم تر
 higher functions or special functions (maths)	اعلٰی تفاعل
 high impedance state	بلند رکاؤٹ حال
@@ -1197,6 +1247,7 @@ hilbert space: live in hilbert space	ہلبرٹ فضا میں بستے ہیں
 hint	اشارہ
 hold: equation or theorem holds 	کارآمد رہنا
 hollow	کھوکھلا
+holonomic	ہمہ قواعد؟؟؟؟؟
 homogeneous, non homogeneous	ہر طرف یکساں خاصیت، ہر طرف غیر یکساں خاصیت، یکساں خاصیت
 homogeneous equation, heterogeneous equation	متجانس مسوات، غیر متجانس مساوات
 Hooke's law; Robert Hooke	قانون ہک؛ روبرٹ ہک
@@ -1223,13 +1274,14 @@ ibn Sahl's law of refraction	ابن سھل کا قانون انحراف
 IC integrated circuit	مخلوط دور
 Icarus asteroid	آئکارس سیارچہ
 ice age	برفانی عہد
+idea	تصور
 ideal	مثالی
 ideal, non ideal	کامل: غیر کامل
 ideal gas law	مثالی گیس کا قانون
 if ever, if any	اگر ایسا ہو بھی، اگر کبھی ایسا ہو بھی
-indentical	متماثل
-identical particles	یکساں ذرات
-identical states (quantum)	یکساں حالات
+identical	متماثل
+identical particles	یکساں ذرات، متماثل ذرات
+identical states (quantum)	یکساں حالات، متماثل حالات
 identically zero (maths)	مکمل صفر
 identity: euler identity	مماثل: یولر مماثل
 identity function	شناختی تفاعل  f(x)=x
@@ -1287,6 +1339,7 @@ inductivity	امالیت
 inductor	امالہ گیر
 industry	صنعت، کارخانہ
 inertia	جمود
+inertial frame	جمودی  چھوکٹ
 infinite; finite	لامتناہی؛ متناہی
 infinitesimal	لامتناہی چھوٹا
 inflection point	نقطہ تصریف
@@ -1315,7 +1368,7 @@ integer	عدد صحیح
 integrable, absolutely integrable	قابل تکمل،مطلق قابل تکمل
 integral curve	منحنی تکمل
 integral: definite integral, indefinite integral	قطعی تکمل، غیر قطعی تکمل
-integral: line integral	خطی تکمل (khati is linear and nor line)
+integral: line integral	خطی تکمل (khati is linear and nor line)، لکیری تکمل
 integer: integer floor function, greatest integer function	بڑا ترین عدد صحیح، عدد صحیح زمین تفاعل
 integer:  least integer function, integer ceiling function	کم ترین عدد صحیح تفاعل،  عدد صحیح چھت تفاعل
 integral, integrals	تکملہ، تکمل، تکملات، تکملی
@@ -1362,13 +1415,14 @@ inverse law	مقلوب قانون
 inverse matrix	ریاضی معکوس، معکوس قالب
 inversely proportional, directly proportional	بالعکس متناسب، راست متناسب
 inverse transform	الٹ بدل
-inversion	الٹ جانا، الٹنا
+inversion: population inversion	الٹ جانا، الٹنا
 inverting, non-inverting input	مثبت مداخل، منفی مداخل
 inverting amplifier, non-inverting amplifier	منفی ایمپلیفائر، مثبت ایمپلیفائر
 investigation	تحقیق
 involute	در پیچیدہ
-ion	آئن
-ionization	بارداری عمل
+ion	آئن، بارداریہ
+ionization	بارداری عمل، بارداریت
+ionization energy, second ionization energy	بارداریتی توانائی، دوم بارداریتی توانائی
 input output (input-output)	اخراجات و پیداوار
 Irish (of Ireland)	آئرستانی
 Isaac Newton	اسحاق نیوٹن
@@ -1411,6 +1465,7 @@ kinetic energy	حرکی توانائی
 kink (quantum mech)	بل
 Kirchoff: Gustav Robert Kirchoff	گستاف روبرٹ کرخوف
 Kirchoff's current law, voltage law	کرخوف قانونِ رو، کرخوف قانونِ دباو
+Kramers relation	رشتہ کرامرس
 Kronecker delta, Leopold Kronecker	لیوپولڈ کرونیکر، کرونیکر ضرب، کرونیکر ڈیلٹا
 Kronig-Penny model	کرانگ پینی نمونہ
 lab, laboratory	دارالتجربہ، تجزیہ گاہ، تجربہ گاہ
@@ -1426,7 +1481,9 @@ Lagrange identity	لیگرینج مماثل، [لگرانج مماثل]
 Lagrange multipliers	لیگرینج مضرب، [لگرانج مضرب]
 Laguerre's equation: Edmond Nicolas Laguerre	ایڈمنڈ نیکولس لاگیغ
 Laguerre: associated Laguerre polynomial	شریک لاگیغ کثیر رکنی
+Lamb shift	لیمب انتقال 
 lamination	باریک چادر یا پتری کو تہ در تہ رکھ کر بنایا جاتا ہے
+Lande g factor	لنڈے جی جزو ضرب
 Landau levels	لنڈو سطحیں
 laplacian operator	لاپلاسی عامل
 laplace transform; inverse laplace transform	لاپلاس بدل؛ الٹ لاپلاس بدل
@@ -1434,6 +1491,7 @@ Laplace transformation	لاپلاس تبادلہ
 largest and smallest values	سب سے بڑی اور سب سے چھوٹی قیمت
 Larmor precession, precesses	لارمر استقبالی حرکت، استقبالی حرکت کرنا
 laser	لیزر
+LCAO (quantum mechanics)	جوہری مدارچوں کا خطی جوڑ
 lateral, lateral area	پہلو کا، رقبہ پہلو
 latitude	خط عرض بلد
 lattice, [net]	شبکہ، جال، جنگلہ
@@ -1495,7 +1553,7 @@ linear equation	سادہ مساوات
 linear expansion	طولی پھیلاؤ
 linear function	سادہ تفاعل
 linear independence	خطی طور غیر تابعیت
-linear polarized	خطی قطبی
+linear polarized	خطی قطبی، خطی تقطیب شدہ
 linear relationship	وہ ترسیمی تعلق جو خطِ مستقیم کی صورت ظاہر کیا جائے اور دو متغیرات میں بلا واسطہ تعلق کق ظاہر کرے
 linearity	خطیّت
 linearization, linearized	خط بندی، خط بند
@@ -1511,11 +1569,14 @@ load data (digital circuits)	مواد چڑھانا
 load, loaded, unloaded	بوجھ، بار ، بار بردار، بے بار، میکانی بار، برقی بار
 lobe, main lobe (antenna)	مرکزی شعاع
 lobe, minor lobe (antenna)	ثانوی شعاع
-localization	مقام بندی
+local, nonlocal [quantum mech]	مقامی، غیر مقامی
+localization: principle of locality	اصول مقمایت
+locality	مقام
+localized	مقامی
 lock, unlock	بندھن جوڑنا، بندھن توڑنا
 Log-log, semi-log axis	لاگ لاگ، نیم لاگ محور
 logarithm, logarithmic decrement	لوگارتھم، لوگارتھمی گھٹاو
-logarithmic differentiation	لوگارتھمی تفرق
+logarithmic differentiation	    
 logarithm, common, natural	قدرتی اور عام لوگارتھم
 longitude	خط طول بلد
 longitudinal wave	طولی موج
@@ -1524,6 +1585,7 @@ loop analysis	دائری تجزیہ
 loop, node	دائرہ، جوڑ
 loop closed	بند دائرہ
 loop current	دائری رو
+loophole, loopholes	کمی، کمیاں
 Lorentz force equation, Hendrik Lorentz	لورنز قوت کی مساوات، ہینڈرک لورنز
 loss	ضائع کرنا، ضیاع
 loss less, lossy	بے ضیاع، ضیاع کار
@@ -1536,6 +1598,7 @@ Lotka-Volterra (predator-prey model); Alfred Jmaes Lotka, Vito Volterra	الفر
 lower bound (of sequence)	زیریں حد بندی
 lower: bounded from below (sequences)	نیچے سے محدود
 lower limit	زیریں حد
+luminosity	تابندگی
 machine: working, faulty	فعال، غیر فعال
 maclaurin's series: Colin Maclaurin	مکلارن تسلسل: کولن مکلارن
 macroscopic, macroscopic level	کلاں، کلاں بینی سطح
@@ -1551,6 +1614,7 @@ magnetically coupling	مقناطیسی رابطہ
 magnify	بڑا دکھانا
 magnitude	مقدار، جسامت
 major, semimajor 	اکبر، نصف اکبر
+majority	اکثریت
 Map, mapping (maths)	نقش، نقشہ، نقشہ کشی
 marginal cost of production	حاشیہ لاگت پیداوار
 marginal distribution	حاشیہ تقسیم
@@ -1561,8 +1625,8 @@ mathematician	ریاضی دان
 Malthus' law; Thomas Robert Malthus	قانون مالتُھس؛ طامس روبرٹ مالتُھس
 mass	ماس
 mass production	بڑے پیمانے پر پیداوار
-matched	ہمہ رکاوٹ
-matching stub (transmission lines)	ہمہ رکاوٹی بنانے والا تار کا ٹکڑا؛ تار کا ٹکڑا
+matched	ہم رکاوٹ
+matching stub (transmission lines)	ہم رکاوٹی بنانے والا تار کا ٹکڑا؛ تار کا ٹکڑا
 matching: half-wave matching (transmission lines)	نصف طول موج کی ترکیب
 material	مادّہ،  مواد
 material strength	مادی مضبوطی
@@ -1597,6 +1661,7 @@ mean position, extreme position	وسطی نقطہ، انتہائی مقام
 mean value theorem	مسئلہ اوسط قیمت
 measure	ناپنا
 measures of dispersion	انتشاری پیمانے
+mechanism	تکنیکی پہلو
 median (meddle quartile), lower & upper quartile, interquartile range	نصف چوتھائی، نچلی اور بالائی چوتھائی، چوتھائی سعت
 median of a triangle	وسطانیہ
 medium	ذریعہ
@@ -1623,6 +1688,7 @@ minterms, maxterms	ارکانِ جمع، ارکانِ ضرب
 minor, semiminor	اصغر، نصف اصغر
 minor lobe (antenna)	ثانوی شعاع
 minor (matrix)	اصغر
+Misra, Sudarshan	مسرا، سدرشان
 missile	مزائل
 mistake	غلطی
 mixed differential du^2/dudy	مدغم تفرق
@@ -1632,6 +1698,7 @@ mobility, surface mobility, bulk mobility	سطحی حرکت پذیری، گہر�
 modeling	نمونہ کشی
 model;transistor model (mathematical model)	ریاضی نمونہ؛ باریک اشاراتی پائے ریاضی نمونہ
 mode, mode of operation	طریقِ کار، اندازِ کارکردگی، طرز
+mode [waves]	انداز
 mode:higher order mode	انداز: بلند رتبی انداز
 mode: higher mode frequency (wave guide)	انداز: بلند انداز تعدد
 moderate	معتدل
@@ -1652,13 +1719,18 @@ moment arm of torque	مروڑی اثر کا بازو
 moment: method of moments	ترکیب معیار اثر
 momentum	معیار حرکت
 momentum space wave function	معیار حرکت و فضائی تفاعل موج
+momentum transfer	منتقلی معیار حرکت
 momentarily	لمحاتی طور پر، عارضی طور پر، پل بھر کے لئے
 monoatomic ion, polyatomic ion	یک جوہری بارداریہ،  کثیر جوہری بارداریہ
+monoatomic ion, polyatomic ion	
+monochromatic	یک رنگی
 monotone: monotone increasing, decreasing	یک سر بڑھتا، گھٹتا، یک کیفی بڑھتا یا گھٹتا
 monotonic function	یک سُر تفاعل، یک کیفی تفاعل
+moral	سبق
 morphic:meromorphic	جزوی شکلہ
 morphic: holomorphic	کل شکلہ
 motivate	آمادہ کرنا
+motivation	حوصلہ افزائی
 motorway	موٹروے
 multistage	کثیرالمراحل
 multiple integrals	تکمل بالکثرت
@@ -1669,6 +1741,8 @@ multiplier, (multiplicand), [multlipliers]	ضارب یا ضریب، (مضروب)
 multiply connected, multiply connected domain	مضرب تعلق، مضرب تعلق دائرہ کار
 multivalued	کثیر قیمتی
 muon, muonic	میون، میونی
+muonic hydrogen	میونی ہائیڈروجن
+muonium	میونیئم
 mutivariable function	کثیر المتغیر تفاعل
 mutual	باہمی، مشترکہ،اجتماعی
 mutual distance	باہمی فاصلہ
@@ -1720,7 +1794,7 @@ normal (not special)	عمومی
 Normal, binormal , principal normal (maths)	عمودی، خطِ عمود، دوہرا عمودی، صدر عمودی 
 normal distribution, normal distributed	عمومی تقسیم، عمومی بانٹی ہوئی
 normal mode:nth normal mode (vibrating string)	این ویں عمودی انداز
-normalization	معمول زنی
+normalization, normalization constant	معمول زنی، مستقل معمول زنی
 normalize, normalize with alpha	تقابل پذیر، بمطابق الفا، معمول پر لانا
 normalized	تقابل پذیر، معمول شدہ
 normal line	خطِ عمودی
@@ -1733,7 +1807,10 @@ notch filter	دندانہ چھلنی
 note that	یاد رہے کہ، دھیان، توجہ
 notice	محسوس کرنا، دھیان دینا
 Nucleus, nuclei	مرکزہ، مراکزہ
+nucleus: parent, daughter	والدہ مرکزہ، بیٹی مرکزہ
 nuclear	مرکزوی
+nuclear fission reaction, [nuclear fusion reaction]	مرکزوی انشقاق تعامل، [مرکزوی ملاپ تعامل]
+nuclear: nuclear  short range, midrange, long range forces	مرکزوی کم فاصلہ، درمیانی فاصلہ، طویل فاصلہ قوت
 Nucleus (cell)	مرکزہ
 nucleon	مرکزویہ
 Null, nullity (set, maths), null space	معدوم، معدومیت، معدوم فضا
@@ -1765,6 +1842,7 @@ odd	طاق
 odd function symmetry	طاق تفاعل تشاکل
 ODE (ordinary differential equation)	سادہ تفرقی مساوات
 odometer	مسافت پیما
+ofcourse	یقیناً
 offset voltage: read output offset voltage	
 Ohm :Georg Simon Ohm	اوہم : جارج سائمن اوہم
 ohm meter	مزاحمت پیما
@@ -1821,11 +1899,12 @@ orthonormality	معیاری قائمیت
 orthonormalization	معیاری عمود زنی
 orthonormalized	معیاری عمود شدہ
 oscar perron	اسکار پیغوں
-oscillation	ارتعاش
-oscillator	مرتعش
+oscillation, oscillations	ارتعاش، ارتعاشات
+oscillator	مرتعش، مرتعشات
 osmosis	انجذاب
 otherwise	بصورت دیگر
 out / in	خارج، داخل
+outgoing spherical wave	رخصتی کروی موج
 outcome	انجام
 output offset voltage, input offset voltage	داخلی انحرافی برقی دباؤ، خارجی انحرافی برقی دباؤ
 out of phase: when angles are not equal	الگ زاویہ ہونا
@@ -1833,7 +1912,9 @@ output	ماحصل
 output	پیداوار
 output pin, output port	خرجی پنیہ، خارجی راہ, برآمد، برآمدی
 over damped	زیادہ مقصور
-overlap	ڈھانپنا
+overlapped, partially overlapped region	منطبق، جزوی منطبق خطہ
+overlap	ڈھانپنا، چڑنا، چھانا
+overlap integral (quantum mech)	تکمل ڈھامپ
 overview	 جائزہ، سرسری جائزہ
 Pacific ocean	بحرالکاہل
 packet: spectral packet	شعاعی پٹی
@@ -1844,12 +1925,14 @@ parabola, parabolas	قطع مکافی، قطعات مکافی
 paraboloid	قطع مکافی مجسم  قطع مکافی سطح
 parahelium	نزد ہیلیم
 parallel (parallel circuit)	متوازی
+parallel, anti-parallel	متوازی، ضد متوازی
 parallel axis theorem	مسئلہ متوازی محور
 parallel lines	مماثلت، مماثل لکیر
 parallel port	متوزی راہ
 parallelogram law	متوازی الاضلاع: سمتیوں کا متوازی الاضلاع
 parallelepiped, hexagonal; rectangular	مسدسی متوازی السطوح، مستطیلی متوازی السطوح
 parameter	مقدار معلوم
+parameter: impact parameter	ٹکراو مقدار معلوم
 parametric curve	منحنی مقدار معلوم
 parametric representation, parametric form	مقدار معلوم روپ
 parametrization	مقدار معلوم روپ کا حصول
@@ -1860,6 +1943,9 @@ partial fraction	جزوی کسر
 partial fraction expansion	جزوی کسری پھیلاو
 partial fractions: method of partial fractions	جزوی کسری ترکیب
 partial sum	جزوی مجموعہ
+partial wave analysis	جزوی موج تجزیہ
+partial wave amplitude	جزوی موج حیطہ
+particle physicist	ماہر طبیعیات ذرات
 particular solution	مخصوص حل
 partition: the partition, partitions	خانے بنانا، خانہ یا خانے، خانہ بندی
 partition norm	خانہ بندی کا معیار
@@ -1868,6 +1954,7 @@ Pashen	پاشن
 passive component, active component eg resistor, transistor	غیر عامل جزو، عامل جزو، عامل پرزہ، غیر عامل پرزہ
 passive sign convention	انفعالی رائج سمت
 password	خفیہ لفظ، سم سم،  کھل جا سم سم
+patch, patching wave function (quantum mech)	پیوند کرنا، پیوند کار تفاعل موج
 patent	سند ایجاد
 path	راہ
 path: independent of path	راہ سے آزاد
@@ -1877,14 +1964,14 @@ Pauli spin matrices (Wolgang Ernst Pauli)	ولگنگ ارنسٹ پالی، پا�
 Pauli exclusion principle	پالی  اصول مناعت
 peak	چوٹی
 peel off	چھیلنا
-pendulum	لٹکن
+pendulum: simple pendulum	لٹکن، سادہ رقاص
 percentile	صدویہ
 perfect square	مکمل چکور
 perform	سرانجام دینا
 perigee	حضیض
 perihelion	حضیض شمس
 periodic, aperiodic, periodicity	دوری، غیر دوری، دوریت
-periodic table	دعری جدول
+periodic table	دوری جدول
 period: time period	دوری عرصہ
 periodic motion	دوری حرکت
 perimeter	محیط
@@ -1894,18 +1981,19 @@ perpendicular, drop a perpendicular	عمودی، عمود گرانا
 perpendicular axis theorem	مسئلہ عمودی محور
 perturbation: perturbation theory	خلل، اضطراب، نظریہ اضطراب
 perturbation: first order theory, second order theory	رتبہ اول نظریہ، رتبہ دوم نظریہ
-perturbation: first order correction	رتبہ اول درستگی
+perturbation: first order correction	رتبہ اول درستگی، اول رتبی تصحیح
 perturbed, unperturbed	مضطرب، غیر مضطرب
 pH (acidity)	طاقت ہائیڈروجن
 pharmaceutical	دوا ساز
 pharmacist	دوا ساز
 phase	زاویاتی دور، زاویائی فرق،  ہیّت
-phase: single phase and three phase system	یک دوری، تین دوری نظام
+phase: single phase and three phase system	یک دوری، تین دوری نظام، 
 phase angle	زاویائی فاصلہ
 phase constant, attenuation constant (waves)	زاویائی مستقل، تقلیلی مستقل
 phase current, phase voltage	دوری دباو، دوری رو
 phase difference	زاویائی فرق
 phase plane, phase diagram, phase plane representation	سطح مرحلہ، شکل مرحلہ، سطح مرحلہ اشکال
+phase shift (quantum mech)	منتقلی ہیّت
 phase velocity, group velocity	دوری سمتی رفتار، مجموعی سمتی رفتار
 phase voltage, phase current	دوری برقی دباؤ، دوری برقی رو
 phase: in phase: when angles are equal	ہم زاویہ
@@ -1942,6 +2030,7 @@ plane (surface)	مسطح (سطح)
 planar sheet	مسطح چادر
 planet	سیارہ، سیارات
 planimeter	سطح پیما
+platform	چبوترا
 plausible	بظاہر معقول
 Pluto	پلوٹو
 point:dotted line	نقطہ دار لکیر
@@ -1951,8 +2040,12 @@ Poisson integral formula, Simeon Denis Poisson	پوسوں تکملی کلیہ؛ 
 polar, non polar	قطبی، غیر قطبی
 polar coordinates	قطبی محدد
 polar representation, polar form	قطبی روپ
+polar	قطبی
+polarizing	تقطیبی
+polarizable	قابل تقطیب
 Polarization: wave polarization, linear, elliptic and circular	تقطیب: تقطیب موج، خطی، بیضوی، دائری تقطیب
 polarization: to polarize, polarized	تقطیب زنی، تقطیب شدہ
+polarized	تقطیب شدہ
 pole, poles	قطب، قطبین
 Pole-zero plot	ترسیم قطبین و صفر
 pollution, (pollutant)	آلودگی، (نجاست)
@@ -1962,7 +2055,7 @@ Polynomial	کثیر رکنی
 population	آبادی
 position	مقام، درجہ، صورت، حالت، انداز، جگہ
 position wave function	موضع تفاعل موج
-position space wave function	موضع فضائی تفاعل موج
+position space wave function	موضع و فضائی تفاعل موج
 position: extreme position	انتہائی مقام
 position vector, function	تعین گر سمتیہ، تفاعل
 positional	مقام کے متعلق
@@ -1985,13 +2078,13 @@ power:complex S, real P, reactive Q, apparent abs(S)	مخلوط، حقیقی، �
 power units:complex=VA, real=Watt, reactive=var	
 power amplifier	قوی ایمپلی فائر
 power electronics	طاقت سنبھالنے والی الیکٹرانکس،  پُرطاقت الیکٹرانکس، قوی الیکٹرانکس
-power factor correction	درستگی جزو طاقت؛ جزو طاقت کی درستگی
+power factor correction	درستگی جزو طاقت؛ جزو طاقت کی درستگی تصحیح
 power factor, power factor angle	طاقت کا جُزو ضربی، جُزو ضربی طاقت، طاقت کے جُزو ضربی کا زاویہ
 power factor	جزو طاقت
 power factor angle	زاویہ جزو طاقت
 power loss	ضیاع طاقت
 power plant	بجلی گھر
-power series	طاقتی سلسلہ
+power series	طاقتی سلسلہ ، طاقتی تسلسل
 power supply	برقی طاقت کی سپلائی
 power supply. AC, DC	یک سمت منبع، بدلتا منبع
 power triangle (electric circuits)	طاقتی تکون
@@ -2001,6 +2094,7 @@ preamplifier	ابتدائی ایمپلی فائر
 precise definition	باضابطہ تعریف
 precisely: more precisely	یہ کہنا زیادہ درست ہو گا کہ
 precisely one	واحد ایک
+precision	حتمیت؛ اس کی قیمت نہایت پرکھیت کے ساتھ حاصل کی گئی ہے
 Predictor-corrector method	پیش گو، مصحح ترکیب
 prescribed	معینہ
 prescription	طرز عمل
@@ -2045,6 +2139,7 @@ projectile, projectile motion	گولا، حرکت گولا
 propagation: propagation of waves	موجوں کی اشاعت
 Propagation constant, attenuation constant &  phase constant of waves	حرکی مستقل، تضعیفی مستقل اور زاویائی مستقل
 propagation delay (gates DLD)	دورانیہ ردِ عمل
+propagator [quantum mech, feynmann diagrams]	اشاعت کار
 propeller (of plane)	پنکھا
 proper and improper fraction	واجب، غیر واجب کسر matric
 proper integral, improper integral (having infinite interval)	مناسب تکمل، غیر مناسب تکمل
@@ -2067,7 +2162,7 @@ quadratic equation	دو درجی الجبرائی مساوات
 quadrant, quadrants	ربع اول، ربع دوم، ربع سوم، ربع چہارم، ربعات
 quadrature power (electric circuits)	تربیعی طاقت
 quadric surfaces	مربع سطحیں
-quadrilateral	چار الاضلاع
+quadrilateral	چار الاضلاع، چار ضلعی
 qualitative assessment	کیفی تجزیہ
 quality control	ضبط معیار
 quality factor Q (resonator)	معیاری مستقل
@@ -2075,6 +2170,7 @@ quality: acceptable quality level, rejectable quality level	سطح قابل قب
 quality: average outgoing quality	اوسط خارجی معیار
 quality:average outgoing quality limit	اوسط خارجی حد معیار
 quantitative assesment	مقداری تجزیہ
+quantum dots	کوانٹم نقطے
 quantum mechanical: particle theory	ذراتی نظریہ: کوانٹم نظریہ
 quark, quarks, antiquark	کوارک، کوارکے، ضد کوارک
 Quarter-wave matching (transmission lines)	چوتھائی طول موج کی ترکیب، چوتھائی طول موج سے ہم رکاوٹ بنانا
@@ -2082,6 +2178,7 @@ quartic	چو درجی
 quartz	کوارٹز، سنگ مردہ
 quasilinear	بظاہر خطی
 Quotient (maths)	حاصل تقسیم، خارج قاسم
+Rabi frequency	رابی تعدد
 radar	ریڈار
 radial equation	رداسی مساوات
 radial segment, segments	رداسی قطعہ، قطعات
@@ -2091,8 +2188,10 @@ radiation intensity (antenna)	اخراجی شدت
 radiation resistance (antenna)	اخراجی مزاحمت
 radiation(nuclear)	تابکاری
 radiation: solar radiation	شمسی اخراج
+radiation zone	خطہ اشعاعی
 radicand	زیر جذر (رقم)
-radioactive decay, radioactive	تابکاری تحلیل، تابکار
+radioactive decay, radioactive	تابکاری تحلیل، تابکار؛ تابکاری تنزل، تابکار
+radio frequency	ریڈیائی تعدد
 radium, radon, polonium	ریڈیم، ریڈان،پولونیم
 radius	رداس
 RAM: volatile memory	عارضہ حافظہ
@@ -2121,11 +2220,13 @@ reactive power: quadrature power 	متعاملی طاقت: تربیعی طاقت
 reaction	رد عمل
 real: (read complex number above)	حقیقی
 real time, real time computing	فوری، فوری حساب
+realist	حقیقت پسند
 rearrangement	ردوبدل
 receiver	وصول کنندہ
 receiving antenna	وصولی اینٹینا
 reciprocal	بالعکس متناسب، باہمی، باہم
 reciprocal rule	قاعدہ بالعکس متناسب
+recoil	اچھلنا
 record	قلم بند
 rectangular form: of writing complex numbers=3+j2	مستطیلی طرز
 rectangular wave	مستطیل موج
@@ -2154,7 +2255,7 @@ regardless	قطع نظر
 region	خطہ، دائرہ عمل
 region: rejection, acceptance, critical	خطہ منظوری، خطہ نا منظوری، خطہ فاصل
 register	رجسٹر، کھاتا
-Register: shift left, shift right	دائیں منتقل، بائیں منتقل کھاتا
+Register: shift left, shift right	دائیں منتقل، بائیں منتقل کھاتا  
 Regression, regression analysis, regression line	 رجعت، رجعی تجزیہ، خط رجعت
 regular distance (english)	برابر وقفوں پر
 regular	منظم
@@ -2169,6 +2270,7 @@ relative magnitudes, relative motion	اضافی مقادیر، اضافی حرک
 relative position, relative rank,	اوضاع اضافیہ، اضافی عہدہ
 relativity: special theory of relativity	خصوصی نظریہ اضافت
 relativistic	اضافیتی
+relativistic correction	اضافیتی تصحیح
 relaxation method	ترکیب ڈھیل
 reluctance	 ہچکچاہٹ
 remainder (series), remainder term	باقی، جزو باقی
@@ -2194,6 +2296,7 @@ resolve	تحلیل کرنا
 resonance	گمک
 resonant circuit, resonant frequency	گمکی دور، گمکی تعدد
 resonance factor (maths)	گمکی جزو
+resonance: nuclear magnetic resonance	مرکزوی مقناطیسی گمک
 resonator	گمکیا
 respective	متعلقہ
 response	ردِ عمل
@@ -2207,6 +2310,7 @@ resultant	ما حصل
 retarded potentials	تاخیری دباو
 retina	پردہ بصارت، آنکھ پردہ
 revenue, profit, cost, interest	آمدنی، منافع، لاگت، ربا یا سود
+reversible, irreversible process	قابل واپسی، ناقابل واپسی عمل
 revival time	حیات نو وقت، تجدیدی وقت
 revolving	طواف
 Richard Dedekind (german pronunciation)	رشارت  دےدےکند
@@ -2236,6 +2340,7 @@ root mean square rms	موثر قیمت
 Ronald Aylmer Fisher	رونلڈ ایلمر فشر
 rotate	گھومنا
 rotating	گھومنا
+rotating wave approximation	گھومتی موج تخمین
 rotational axis	گھومنے کا محور
 rotation: generator of rotations	گھومنے کا پیداکار
 rotor	حرکت پذیر، گھومنے والا حصہ
@@ -2255,7 +2360,7 @@ Rydberg constane	رڈبرگ
 Saddle point, stationary point	ساکن نقطہ، نقطہ زین
 safe	محفوظ
 salient pole	ابھرے قطب اور ہموار قطب
-same	ایک جیسی
+same	ایک جیسی، یہی، وہی، بعینہہ یہی یا وہی
 Sample  [Model]	نمونہ [حسابی نمونہ]
 sample distribution function	تقسیمی تفاعل نمونہ
 sample space	نمونی فضا
@@ -2284,8 +2389,13 @@ scale: change of scale	پیمائشی فیتہ میں ردوبدل، درجہ و
 Scale: log-log scale	پیمائش: لاگ لاگ پیمائش، ناپ
 scaling, row scaling	تبدیلی پیما، تبدیلی پیما صف
 scatter	فشاں؟، بکھرنا، بکھراو
+scatter off	بکھرتا ہے، بکھرنا
+scattering amplitude	حیطہ بکھراو
+scattering angle	زاویہ بکھراو
 scattering states (quantum mech)	بکھرتے حالات، بکھراو حال
 scattering: quantum scattering	کوانٹائی بکھراو
+scattering: differential (scattering) cross section	تفریقی (بکھراو) عمودی تراش
+scattering: Rutherford scattering	ردرفورڈ بکھراو
 Schrodinger: time-independent Schrodinger equation	غیر تابع وقت شروڈنگر مساوات
 scope	دائرہ گفتگو
 scot (of scotland)	اسکاچی
@@ -2307,6 +2417,7 @@ Sense: broader sense	وسیع معنوں میں
 sense: positive sense of curve (maths) (also called positive direction)	منحنی کی مثبت دائری سمت (مثبت سمت)
 sensitive	حساس
 sensitivity	حساسیت، اثر پذیری
+sensor, [detector]	محسس، [کاشف]
 separable equation (ordinary differential equations)	قابل علیحدگی مساوات
 separately excited DC machine	بیرونی ہیجان یک سمتی مشین، خارجی ہیجان شدہ
 separation constant	علیحدگی مستقل
@@ -2339,11 +2450,12 @@ share	شریک بنانا
 shearing force	جزی قوت
 orbit	مدار
 shell	خول
+shield	چاند بادلوں کی اوٹ میں ہے۔ دھندلا نظر آنا، چھپ جانا، آڑ مہیا کرنا
 shield, to shield, shielded, electrostatic shielding	سپر، سپر کرنا، سپر شدہ، برقی سکونی سپر
 shielded wire, unshielded: faraday shield	فیراڈے پردہ، بے پردہ تار، پردے میں تار
 shift	سرک جانا، منتقل ہو جانا
 shifted: time shifted unit step function	وقتی منقولہ اکائی سیڑھی تفاعل
-shift left, shift right, serial shift, parallel shift	دائیں منتقلی، بائیں منتقلی، سلسلہ وار منتقلی، متوازی منتقلی
+shift left, shift right, serial shift, parallel shift	دائیں منتقلی، بائیں منتقلی، سلسلہ وار منتقلی، متوازی منتقلی  
 short circuit	قصرِ دور: وہ نسبتا کم مزاحمت والا بغلی دور جو زیادہ مزاحمت والے برقی دور کے دو نقطوں کر درمیان بن جاتا ہے
 side: primary side, secondary side	جانب، طرف: ابتدائی جانب، ثانوی جانب
 side (of triangle or square)	ضلع
@@ -2400,6 +2512,7 @@ Smith chart	سمتھ نقشہ
 Smooth (a function is smooth at x0 if all its derivatives exist at x0)	ہموار
 smooth: piecewise smooth	ٹکڑوں میں ہموار
 smooth surface	ہموار سطح
+smooth (english)	روانی
 snail	گھونگا
 Snell's law,  ibn Sahl's law of refraction	سنیل کا قانون، ابن سھل کا قانون انحراف
 snow flakes (Helge von koch)	برفانی روئی، برف کی روئی (ہلگے ون کوچ)
@@ -2444,6 +2557,7 @@ special functions or higher functions (maths)	اعلٰی تفاعل
 species	نسل
 specification	تخصیص
 spectral decomposition	طیفی تحلیل
+spectral lines	طیفی خطوط
 spectral packet	شعاعی پٹی
 spectrometer	طیف پیما
 spectroscopy, spectroscopist	طیف بینی، طیف پیمائی کار
@@ -2461,14 +2575,18 @@ spherical harmonics	کروی ہارمونیات
 spherically	کرّے کے طور پر
 Spike, spikes, spikes at the point	سوزن، سوزنات ، نقطہ پر سوزن نما  ہوتا ہے
 spike: voltage spike	سوزن نما دباو
+split 	بٹ جانا، بٹنا
+splitting: zeeman splitting, hyper fine splitting	زیمان بٹوارا، نہایت مہین بٹوارا
 spin (quantum )	خلقی گھماو، چکر
 spin (english use)	گھومنا، گھماو
 spin field (calculus last chapter)	چکری میدان
-spin: up spin, down spin (quantum)	چکر، اوپر چکر، نیچے چکر، ہمہ میدان اور مخالف میدان چکر
+spin: up spin, down spin (quantum)	چکر، اوپر چکر، نیچے چکر، ہم میدان اور مخالف میدان چکر
 spin state	چکری حال
 spinor, spinors	چکرکار
 spiral, helical	پیچ دار
 spline; modern term is flexible curve	لچکدار منحنی
+splitting	بانٹ، تقسیم
+spontaneous: spontaneous emission	خود بخود؛ خود بخود اخراج
 spring; spring constant (modulus of elasticity)	اسپرنگ؛ اسپرنگ مستقلہ، (مقیاس لچک)
 square	مربع
 square: completing the square	تکمیل مربع۔ مربع مکمل کرنا
@@ -2479,6 +2597,7 @@ square well	چکور کنواں
 squirrel cage	پنجرہ نما
 stability	توازن
 stable, unstable	مستحکم، استحکام، غیر مستحکم
+stable: meta stable	نازک استحکام، نازک مستحکم 
 stable, unstable	مستحکم، متوازن، مضبوط، پائیدار، نا پائیدار
 stable: keep stable	قابو رکھنا، قابو کرنا
 stage: three stage adder	درجہ: درجہ تین جمع کرنے والا دور
@@ -2486,9 +2605,11 @@ standing wave ratio (s)	شرح ساکن موج
 standard deviation	معیاری انحراف
 Standard: standard form (of differential equation)	معیار، معیاری: معیاری حالت یا صورت یا شکل
 standard rule	رواج، رائج طریقہ
+Stark effect	شٹارک اثر
 start from	آغاز کرنا
 star connected: Y-connected, Delta connected	ستارا نما جُڑے، تکونی جُڑے یا تکون نما جُڑے
 state vector	سمتیہ حال
+statics	سکونیات
 stationary point, saddle point	ساکن نقطہ
 statistics, statistician	شماریات۔ ماہر شماریات
 statistics: order statistics	شماریات رجحان
@@ -2513,6 +2634,7 @@ step function (oliver heaviside)	 سیڑھی تفاعل: اکائی سیڑھی �
 stereographic projection	مجسم نگارانہ تظلیل
 Stern-Gerlach	شٹرن گرلاخ
 stiff, stiffness	سخت، سختی، (اکڑ، اکڑا، اکڑا پن،  کڑا پن)
+stimulated, stimulate	تحرک زدہ یا تحرک شدہ،  تحرک زنی یا تحرک دینا
 Stirling formula: James Stirling	کلیہ سٹرلنگ: جیمس سٹرلنگ
 stochastic; stochastic process	امکانی شماریات؛ امکانی شماریاتی عمل
 Stokes theorem (George Gabriel Stokes)	مسئلہ سٹوکس (جارج جبرائیل سٹوکس)
@@ -2526,8 +2648,9 @@ stream function	تفاعل بہاو
 strength: strength of impulse function	زور
 stretch	تان
 strong dependence	زیادہ تابعیت
+strip off (electrons)	اکھاڑنا
 strongly depend	زیادہ تابع ہے
-stub; matching stub (transmission lines)	ہمہ رکاوٹی بنانے والا تار کا ٹکڑا، تار کا ٹکڑا، ٹکڑا تار
+stub; matching stub (transmission lines)	ہم رکاوٹی بنانے والا تار کا ٹکڑا، تار کا ٹکڑا، ٹکڑا تار
 study	مطالعہ
 Sturm-liouville problems; jacques charles francois sturm, joseph liouville	سٹیورم لیوویل مسئلہ؛ جیکویس چارلس فرانکوئس سٹیوورم، یوسف لییویل
 sub: sub interval	ذیلی: ذیلی وقفہ
@@ -2570,9 +2693,11 @@ Switzerland	سوئزرلینڈ
 symbol	علامت
 symmetry	تشاکل
 symmetry, translational, rotational	انتقالی تشاکل، گردشی تشاکل
-symmetric	متشاکل تناسب
+symmetric	متشاکل تناسب، تشاکلی
 symmetric: antisymmetric	خلاف تشاکل
 symmetric matrix, skew symmetric matrix	تشاکلی قالب، منحرف تشاکلی قالب
+symmetrized	تشاکلی شدہ
+symmetrization	تشاکلیت
 symmetrization requirement, antisymmetrization requirement	ضرورت تشاکلیت، جرورت خلاف تشاکلیت
 synchronous, synchronously	ہم عصر، قدم ملا کر چلنا
 synchronous generator	معاصر جنریٹر
@@ -2591,7 +2716,7 @@ tangential	مماسہ
 tangent,tangential	مماس۔ مماسی:سطح کو ایک نقطہ پر چھونے والا خط جو متقاطع نہ ہو
 tangential length	مماس کا طول
 tangent: loss tangent (waves)	مماس ضیاع
-target, target value	ہدف، مطلوبہ قیمت
+target, target value, [targets]	ہدف، مطلوبہ قیمت، [اہداف]
 tank (water tank)	حوض، سبیل
 tautochrones	یکساں وقتی منحنی
 Taylor series: Brook Taylor	ٹیلر تسلس: بروک ٹیلر
@@ -2619,6 +2744,7 @@ Tesla	ٹسلا
 test charge	پیمہ بار، پیمائشی بار
 Test (a test for something)	پرکھنا، پرکھ
 tests:extrinsic and intrinsic	بیرونی پرکھ، اندرونی پرکھ
+test: test function (quantum mechanics)	پرکھی تفاعل، پرکھیا تفاعل
 test: Leibniz test	لیبنٹز پرکھ
 test: limit comparison test	پرکھ تقابل حد
 test: comparison test	تقابلی پرکھ
@@ -2628,7 +2754,7 @@ test: root test, ratio test, comparison test	جذری پرکھ، تناسبی پ
 test: nth root test	این واں جذر پرکھ
 test: direct comparison test, limit comparison test	بلا واسطہ تقابلی پرکھ، تقابل حد پرکھ
 testing	پرکھنا
-tetrahedron	چو سطحہ
+tetrahedron	چو سطحہ، چو سطحی
 text book	درسی کتاب
 theorem	مسئلہ
 theorem: alternating series estimation theorem	مسئلہ بدلتے تسلسل کا اندازہ
@@ -2644,6 +2770,7 @@ thermometer	تھرمامیٹر
 thermostatic switch	خود کار حراری سوئچ
 thevenin	تھوِنن
 thevenin: Leon Charles Thevenin	لیوں شارلس تھونن
+Thomas precession	طامس استقبالی حرکت
 three dimensional	تین طرفہ
 three phase system	تین دوری نظام
 threshold	دہلیز
@@ -2666,7 +2793,7 @@ topic	موضوع
 torsion	مروڑ
 torsional vibration	مروڑی ارتعاش
 toroid, torus	چھلا، اندرسہ
-torque, moment arm	قوت مروڑ، مروڑی اثر کا بازو
+torque, moment arm	قوت مروڑ، معیار اثر کا بازو
 torque: moment of force	قوت کا معیار اثر
 total	کُل
 totality	کل تعداد
@@ -2692,13 +2819,15 @@ transient, transient state,transient state operation	عارضی، عارضی ح�
 transistor: active mode	افزائندہ حال
 transistor: saturation mode	غیر-افزائندہ حال
 transistor: cutoff mode	منقطع حال
-transition from one state to another	ایک حال سے دوسری حال میں عبور کرتا ہے
-transition probability	عبوری امکان، عبوری احتمال
-transitional period	عبوری دور
+transition from one state to another	ایک حال سے دوسری حال میں عبور کرتا ہے، تحویل
+transition frequency	تحویلی تعدد
+transition probability	عبوری امکان، عبوری احتمال، تحویلی احتمال
+transition rate	تحویلی شرح
+transitional period	عبوری دور، تحویلی دوری عرصہ
 translation	مستقیم حرکت
 transmission coefficient	شرح ترسیل، ترسیلی مستقل
 transmitter	ٹرانسمٹر، مرسل، ترسیل کنندہ
-transmitting antenna	اخراجی اینٹینا
+transmitting antenna	اخراجی اینٹینا، ترسیلی اینٹینا
 transmission lines	ترسیلی تار
 transposition (of matrix)	تبدیلی محل
 transpose matrix G^T	تبدیل محل قالب
@@ -2732,7 +2861,7 @@ trough: (read wave)	نشیب
 true, false, high, low, high state	درست، غلط، بلند حال، پست حال
 truth table	فہرستِ درستگی
 tuned	ہمسر
-tunneling, tunneling effect	سرنگ زنی، سرنگ زنی اثر
+tunneling, tunneling effect, tunneling rate	سرنگ زنی، سرنگ زنی اثر، سرنگ زنی شرح
 tuple:  N tuple	این اجزائی
 turbine: water turbine	چرخاب
 turns	چکر
@@ -2784,6 +2913,7 @@ valid	کارآمد
 value, evaluation	قیمت، تخمینہ
 value: exceptional value (essential singularity)	مخصوص قیمت
 van del Pol equation (Balthasar van der Pol)	مساوات ون در پول
+Van der Waals interaction	ون در والس باہم عمل
 vanish	معدوم
 variable, variables, dependent, independent	 متغیرہ , متغیرات، متغیر، آزاد اور تابع متغیرہ
 variable AC, DC	یک سمت  رومتغیر، بدلتا رو متغیر
@@ -2791,6 +2921,7 @@ variable capacitor	تغیر پذیر برق گیر
 variable separation technique (ordinary differential equations)	علحدگی متغیرات تکنیک
 variance, covariance	تغیریت، باہمی تغیریت
 variation of parameter	مقدار معلوم بدلنے کا طریقہ
+variational principle	اصول تغیریت
 vector	سمتیہ
 vector	سمتیہ: ایک ایسی لکیر جو ایک خاص سمت میں ایک ابتدائی نقطہ سے اختتامی نقطہ کی طرف کھینچی جائی
 vector addition	جمع سمتیات
@@ -2816,6 +2947,7 @@ Verhulst equation (logistic equation, population growth); Pierre Francois Verhul
 verify	تصدیق
 versus	بمقابلہ، مقابل، بالمقابل
 vertex, vertices of triangle	راس، راسیں، راسوں
+vertex factors [quantum mech]	جزو ضربی راس
 vertical	سیدھی کھڑی
 vertical line, vertical plane	انتصابی خط، عمودی سطح
 vertical, vertical axis	انتصابی محور، عمودی
@@ -2889,6 +3021,8 @@ wire	تار
 wireless	بے تار
 wireless broadcast	بے تار نشریات
 wiring: house wiring diagram	گھریلو تار بندی کا نقشہ
+WKB approximation (Wentzel, Kramers, Brillouin)	ونٹزل کرامرس برلوان تخمین
+Wooters, Zurek, Dieks	ووٹرز، زورک، ڈائکز
 work integral	تکمل کام
 working	کارکردگی
 working origin; method of	ترکیب مبدا کام
@@ -2902,8 +3036,15 @@ y21: short-circuit  transadmittance	قصر دور فراوانی نما
 y22: short-circuit output admittance	قصر دور خارجی فراوانی
 Young's modulus of elasticity	ینگ مقیاس لچک
 Y parameters: y11, y12, y21, y22 	Y مقدار
+Yukawa potential	یوکاوا مخفیہ
+Yukawa scattering	یوکاوا بکھراو
+Zeeman effect	زیمان اثر
+Zeeman splitting	زیمان بٹوارا
+Zeno effect	زینو اثر
+Zeno paradox	زینو تضاد
 zero: non zero	غیر صفر
 zero crossing	عبور صفر
+zero point	نقطہ آغاز، نقطہ صفر، صفر نقطی
 Zig-zag	بھل کھاتا،کنگی نما
 	
 antiproton, antielectron, antineutron	ضد پروٹان، ضد الیکٹران، ضد نیوٹران
@@ -2915,7 +3056,6 @@ dianion	دوہرا منفی بارداریہ
 dication	دوہرا مثبت بارداریہ
 ionization	بارداری عمل
 charged	باردار
-ionization	بارداری عمل
 ionized	باردارہ
 ionic	بارداروی
 ionic compound	بارداروی مرکب
@@ -2962,6 +3102,7 @@ stoichiometry	کیمیائی مقادیر پیمائش
 wavefunction	موج تفاعل
 numerical difference method	عددی فرق کا طریقہ
 vice versa	معکوس عکس، معکوس امر
+reaction (chemistry)	تعامل
 reactive (chemistry)	متعامل،  عامل
 product (chemistry)	ماحصل
 organic chemistry	نامیاتی کیمیا
@@ -2969,4 +3110,5 @@ inorganic chemistry	غیر نامیاتی کمییا
 electronic structure	برقیاتی ساخت
 cohesion	ہم اتصالی
 adhesion	غیر اتصالی
+combustion	احتراق
 
