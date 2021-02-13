@@ -14,17 +14,18 @@
 \contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{30}% 
 \contentsline {subsection}{\numberline {2.3.1}الجبرائی ترکیب}{31}% 
 \contentsline {subsection}{\numberline {2.3.2}تحلیلی طریقہ کار}{40}% 
-\contentsline {section}{\numberline {2.4}ڈیلٹا تفاعل مخفیہ}{53}% 
-\contentsline {subsection}{\numberline {2.4.1}مقید حالات اور بکھراو حالات}{53}% 
-\contentsline {subsection}{\numberline {2.4.2}ڈیلٹا تفاعل کنواں}{54}% 
-\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{59}% 
-\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{61}% 
-\contentsline {chapter}{\numberline {5}متماثل ذرات}{63}% 
-\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{65}% 
-\contentsline {chapter}{\numberline {7}تغیری اصول}{67}% 
-\contentsline {chapter}{\numberline {8}وکب تخمین}{69}% 
-\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{71}% 
-\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{73}% 
-\contentsline {chapter}{\numberline {11}بکھراو}{75}% 
-\contentsline {chapter}{\numberline {12}پس نوشت}{77}% 
-\contentsline {chapter}{جوابات}{79}% 
+\contentsline {section}{\numberline {2.4}آزاد ذرہ}{46}% 
+\contentsline {section}{\numberline {2.5}ڈیلٹا تفاعل مخفیہ}{54}% 
+\contentsline {subsection}{\numberline {2.5.1}مقید حالات اور بکھراو حالات}{54}% 
+\contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{55}% 
+\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{61}% 
+\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{63}% 
+\contentsline {chapter}{\numberline {5}متماثل ذرات}{65}% 
+\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{67}% 
+\contentsline {chapter}{\numberline {7}تغیری اصول}{69}% 
+\contentsline {chapter}{\numberline {8}وکب تخمین}{71}% 
+\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{73}% 
+\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{75}% 
+\contentsline {chapter}{\numberline {11}بکھراو}{77}% 
+\contentsline {chapter}{\numberline {12}پس نوشت}{79}% 
+\contentsline {chapter}{جوابات}{81}% 

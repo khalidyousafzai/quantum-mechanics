@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  12 FEB 2021 17:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  13 FEB 2021 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20212121035.tex)...disabled (restricted).
+runsystem(touch w18-test-2021213850.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20212121035.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021213850.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2174,14 +2174,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 601--604
  []
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Underfull \hbox (badness 4634) in paragraph at lines 1201--1201
+Underfull \hbox (badness 4634) in paragraph at lines 1061--1061
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 سائن نما امواج کی وسعت لامتناہی تک پہنچ
 تی ہے اور یہ معمول پر لانے کے قابل نہیں ہوتی ہیں۔ تاہم ایسی امواج کا خطی میل تب
 اہ کن مداخلت پیدا کرتا ہے، جس کی بنا مقام بندی اور معمول زنی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1211--1211
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 تفاعل  $\OML/zplm/m/it/8 f\OT1/zplm/m/n
 /8 (\OML/zplm/m/it/8 x\OT1/zplm/m/n/8 )$  \TU/JameelNooriNastaleeq(0)/m/n/8 پر 
 عائد لازم اور کافی پابندی یہ ہے کہ  $[][] [][] [] \OML/zplm/m/it/8 x$  \TU/Jame
@@ -2190,117 +2190,117 @@ it/8 k$  \TU/JameelNooriNastaleeq(0)/m/n/8 بھی متناہی ہو گا، او�
 وں تکملات[]
  []
 
-[47] [48] [49] [50] [51] [52]
+[48] [49] [50] [51] [52] [53]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 1404.
+(Font)              scaled to size 5.0pt on input line 1264.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1404.
- [53] [54] [55] [56] [57]) [58]
+(Font)              scaled to size 9.0pt on input line 1264.
+ [54] [55] [56] [57] [58]) [59]
 \openout2 = `./tex/quantumFormalism.aux'.
 
 
-(./tex/quantumFormalism.tex
-باب 3.
-) [59
+(./tex/quantumFormalism.tex [60
 
 
 
 
 ]
+باب 3.
+) [61]
 \openout2 = `./tex/quantumMechanicsInThreeDimensions.aux'.
 
- (./tex/quantumMechanicsInThreeDimensions.tex [60
+ (./tex/quantumMechanicsInThreeDimensions.tex [62
 
 
 
 
 ]
 باب 4.
-) [61]
+) [63]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
- (./tex/quantumIdenticalParticles.tex [62
+ (./tex/quantumIdenticalParticles.tex [64
 
 
 
 
 ]
 باب 5.
-) [63]
+) [65]
 \openout2 = `./tex/quantumTimeIndependentPertubationTheory.aux'.
 
- (./tex/quantumTimeIndependentPertubationTheory.tex [64
+ (./tex/quantumTimeIndependentPertubationTheory.tex [66
 
 
 
 
 ]
 باب 6.
-) [65]
+) [67]
 \openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
 
- (./tex/quantumTheVariationalPrinciple.tex [66
+ (./tex/quantumTheVariationalPrinciple.tex [68
 
 
 
 
 ]
 باب 7.
-) [67]
+) [69]
 \openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumTheWKBapproximation.tex [68
+ (./tex/quantumTheWKBapproximation.tex [70
 
 
 
 
 ]
 باب 8.
-) [69]
+) [71]
 \openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
 
- (./tex/quantumTimeDependentPertubationTheory.tex [70
+ (./tex/quantumTimeDependentPertubationTheory.tex [72
 
 
 
 
 ]
 باب 9.
-) [71]
+) [73]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [72
+ (./tex/quantumTheAdiabaticApproximation.tex [74
 
 
 
 
 ]
 باب 10.
-) [73]
+) [75]
 \openout2 = `./tex/quantumScattering.aux'.
 
- (./tex/quantumScattering.tex [74
+ (./tex/quantumScattering.tex [76
 
 
 
 
 ]
 باب 11.
-) [75]
+) [77]
 \openout2 = `./tex/quantumAfterword.aux'.
 
- (./tex/quantumAfterword.tex [76
+ (./tex/quantumAfterword.tex [78
 
 
 
 
 ]
 باب 12.
-) [77] [78
+) [79] [80
 
 
 
-] (./answer.tex) [79] [80
+] (./answer.tex) [81] [82
 
 
 ]
@@ -2332,12 +2332,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 57724 strings out of 492922
- 1445231 string characters out of 6133407
- 1817559 words of memory out of 5000000
- 60660 multiletter control sequences out of 15000+600000
+ 57756 strings out of 492922
+ 1445884 string characters out of 6133407
+ 1817794 words of memory out of 5000000
+ 60692 multiletter control sequences out of 15000+600000
  571137 words of font info for 191 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2353b,1216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quantumMechanics.pdf (86 pages).
+Output written on quantumMechanics.pdf (88 pages).
