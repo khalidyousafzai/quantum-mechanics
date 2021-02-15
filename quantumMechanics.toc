@@ -6,26 +6,30 @@
 \contentsline {section}{\numberline {1.3}احتمال}{4}% 
 \contentsline {subsection}{\numberline {1.3.1} غیر مسلسل متغیرات}{4}% 
 \contentsline {subsection}{\numberline {1.3.2}استمراری متغیرات}{7}% 
-\contentsline {section}{\numberline {1.4}معیار حرکت}{10}% 
-\contentsline {section}{\numberline {1.5}اصول عدم یقینیت}{12}% 
-\contentsline {chapter}{\numberline {2}غیر تابع وقت شروڈنگر مساوات}{15}% 
-\contentsline {section}{\numberline {2.1}ساکن حالات}{15}% 
-\contentsline {section}{\numberline {2.2}لامتناہی چکور کنواں}{21}% 
-\contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{30}% 
-\contentsline {subsection}{\numberline {2.3.1}الجبرائی ترکیب}{31}% 
-\contentsline {subsection}{\numberline {2.3.2}تحلیلی طریقہ کار}{40}% 
-\contentsline {section}{\numberline {2.4}آزاد ذرہ}{46}% 
-\contentsline {section}{\numberline {2.5}ڈیلٹا تفاعل مخفیہ}{54}% 
-\contentsline {subsection}{\numberline {2.5.1}مقید حالات اور بکھراو حالات}{54}% 
-\contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{55}% 
-\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{61}% 
-\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{63}% 
-\contentsline {chapter}{\numberline {5}متماثل ذرات}{65}% 
-\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{67}% 
-\contentsline {chapter}{\numberline {7}تغیری اصول}{69}% 
-\contentsline {chapter}{\numberline {8}وکب تخمین}{71}% 
-\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{73}% 
-\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{75}% 
-\contentsline {chapter}{\numberline {11}بکھراو}{77}% 
-\contentsline {chapter}{\numberline {12}پس نوشت}{79}% 
-\contentsline {chapter}{جوابات}{81}% 
+\contentsline {section}{\numberline {1.4}معمول زنی}{10}% 
+\contentsline {section}{\numberline {1.5}معیار حرکت}{12}% 
+\contentsline {section}{\numberline {1.6}اصول عدم یقینیت}{15}% 
+\contentsline {chapter}{\numberline {2}غیر تابع وقت شروڈنگر مساوات}{19}% 
+\contentsline {section}{\numberline {2.1}ساکن حالات}{19}% 
+\contentsline {section}{\numberline {2.2}لامتناہی چکور کنواں}{25}% 
+\contentsline {section}{\numberline {2.3}ہارمونی مرتعش}{34}% 
+\contentsline {subsection}{\numberline {2.3.1}الجبرائی ترکیب}{35}% 
+\contentsline {subsection}{\numberline {2.3.2}تحلیلی طریقہ کار}{44}% 
+\contentsline {section}{\numberline {2.4}آزاد ذرہ}{50}% 
+\contentsline {section}{\numberline {2.5}ڈیلٹا تفاعل مخفیہ}{58}% 
+\contentsline {subsection}{\numberline {2.5.1}مقید حالات اور بکھراو حالات}{58}% 
+\contentsline {subsection}{\numberline {2.5.2}ڈیلٹا تفاعل کنواں}{59}% 
+\contentsline {chapter}{\numberline {3}قواعد و ضوابط}{65}% 
+\contentsline {chapter}{\numberline {4}تین ابعادی کوانٹم میکانیات}{71}% 
+\contentsline {section}{\numberline {4.1}کروی محدد میں مساوات شروڈنگر}{71}% 
+\contentsline {subsection}{\numberline {4.1.1}علیحدگی متغیرات}{73}% 
+\contentsline {subsection}{\numberline {4.1.2}زاویائی مساوات}{75}% 
+\contentsline {chapter}{\numberline {5}متماثل ذرات}{89}% 
+\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{91}% 
+\contentsline {chapter}{\numberline {7}تغیری اصول}{93}% 
+\contentsline {chapter}{\numberline {8}وکب تخمین}{95}% 
+\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{97}% 
+\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{99}% 
+\contentsline {chapter}{\numberline {11}بکھراو}{101}% 
+\contentsline {chapter}{\numberline {12}پس نوشت}{103}% 
+\contentsline {chapter}{جوابات}{105}% 

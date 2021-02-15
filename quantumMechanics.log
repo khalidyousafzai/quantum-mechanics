@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  13 FEB 2021 14:10
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  15 FEB 2021 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021213850.tex)...disabled (restricted).
+runsystem(touch w18-test-2021215939.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021213850.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021215939.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2127,19 +2127,19 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 52.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/bx/n' will be
 (Font)              scaled to size 12.0pt on input line 52.
- [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]) [14]
+ [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]) [17]
 \openout2 = `./tex/quantumMechanicsTime_independentSchrodingerEquattion.aux'.
 
 
-(./tex/quantumMechanicsTime_independentSchrodingerEquattion.tex
+(./tex/quantumMechanicsTime_independentSchrodingerEquattion.tex [18
+
+
+
+
+]
 باب 2.
-[15
-
-
-
-
-] [16] [17]
-Overfull \hbox (6.72006pt too wide) in paragraph at lines 92--94
+[19] [20] [21]
+Overfull \hbox (6.72006pt too wide) in paragraph at lines 93--95
 []\TU/JameelNooriNastaleeq(0)/bx/n/10 تعداد کے حل  $\OT1/zplm/m/n/10 (\OML/zplm
 /m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )\OT1/ppl/m/n
 /10 ,  \OML/zplm/m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/
@@ -2150,8 +2150,8 @@ staleeq(0)/bx/n/10 دے گا جہاں ہر ایک حل کے ساتھ ایک عل
 /10 , \OML/zplm/m/it/10 E[]\OT1/ppl/m/n/10 , [] \OT1/zplm/m/n/10 )$[]
  []
 
-[18] [19] [20] [21] [22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
+[22] [23] [24] [25] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 آپ یہاں نقلی متغیر کو  $\OML/zplm/m/it/
 8 m$  \TU/JameelNooriNastaleeq(0)/m/n/8 یا  $\OML/zplm/m/it/8 n$  \TU/JameelNoo
 riNastaleeq(0)/m/n/8 یا کوئی تیسرا حرف لے سکتے ہیں (بس اتنا خیال رکھیں کہ مساوا
@@ -2159,29 +2159,29 @@ riNastaleeq(0)/m/n/8 یا کوئی تیسرا حرف لے سکتے ہیں (بس 
 ]
  []
 
-[24]
+[28]
 
-LaTeX Warning: Command \. invalid in math mode on input line 318.
-
-Missing character: There is no ̇ in font zplmr7m!
-
-LaTeX Warning: Command \. invalid in math mode on input line 318.
+LaTeX Warning: Command \. invalid in math mode on input line 319.
 
 Missing character: There is no ̇ in font zplmr7m!
-[25] [26] [27] [28] [29] [30] [31] [32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 601--604
+
+LaTeX Warning: Command \. invalid in math mode on input line 319.
+
+Missing character: There is no ̇ in font zplmr7m!
+[29] [30] [31] [32] [33] [34] [35] [36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 602--605
 [][]
  []
 
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Underfull \hbox (badness 4634) in paragraph at lines 1061--1061
+[38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+Underfull \hbox (badness 4634) in paragraph at lines 1062--1062
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 سائن نما امواج کی وسعت لامتناہی تک پہنچ
 تی ہے اور یہ معمول پر لانے کے قابل نہیں ہوتی ہیں۔ تاہم ایسی امواج کا خطی میل تب
 اہ کن مداخلت پیدا کرتا ہے، جس کی بنا مقام بندی اور معمول زنی[]
  []
 
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1072
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 تفاعل  $\OML/zplm/m/it/8 f\OT1/zplm/m/n
 /8 (\OML/zplm/m/it/8 x\OT1/zplm/m/n/8 )$  \TU/JameelNooriNastaleeq(0)/m/n/8 پر 
 عائد لازم اور کافی پابندی یہ ہے کہ  $[][] [][] [] \OML/zplm/m/it/8 x$  \TU/Jame
@@ -2190,117 +2190,242 @@ it/8 k$  \TU/JameelNooriNastaleeq(0)/m/n/8 بھی متناہی ہو گا، او�
 وں تکملات[]
  []
 
-[48] [49] [50] [51] [52] [53]
+[52] [53] [54] [55] [56] [57]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 1264.
+(Font)              scaled to size 5.0pt on input line 1265.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1264.
- [54] [55] [56] [57] [58]) [59]
+(Font)              scaled to size 9.0pt on input line 1265.
+ [58] [59] [60] [61] [62]) [63]
 \openout2 = `./tex/quantumFormalism.aux'.
 
 
-(./tex/quantumFormalism.tex [60
+(./tex/quantumFormalism.tex [64
 
 
 
 
 ]
 باب 3.
-) [61]
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+[][]
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 67--98
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--110
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--116
+[][]
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 133--146
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+[][]
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--237
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--246
+[][]
+ []
+
+[68]
+Overfull \hbox (27.8362pt too wide) in paragraph at lines 253--275
+[]\TU/JameelNooriNastaleeq(0)/bx/n/10 ا) ایک آزاد ذرہ کے لیے وقت تابع schroding
+er مساوات کو معیار حرکت فضاه میں لکھ کر حل کریں۔ جواب: $[]\OT1/zplm/m/n/10 (\OM
+S/zplm/m/n/10 ^^@\OML/zplm/m/it/10 ip[]t\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2\OML
+/zplm/m/it/10 m\U/msb/m/n/10 }\OT1/zplm/m/n/10 )^^H(\OML/zplm/m/it/10 p\OT1/ppl
+/m/n/10 , 0$\TU/JameelNooriNastaleeq(0)/bx/n/10 ) []
+ []
+
+) [69]
 \openout2 = `./tex/quantumMechanicsInThreeDimensions.aux'.
 
- (./tex/quantumMechanicsInThreeDimensions.tex [62
+ (./tex/quantumMechanicsInThreeDimensions.tex [70
 
 
 
 
 ]
 باب 4.
-) [63]
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 جہاں کلاسیکی مشہود اور عامل میں فرق کرن
+ا دشوار ہو، وہاں میں عامل پر "ٹوپی" کا نشان بناتا ہوں۔ اس باب میں ایسا کوئی موق
+ع نہیں پایا جاتا جہاں ان کی پہچان مشکل ہو لہٰذا یہاں سے عاملین پر[]
+ []
+
+[71] [72]
+Overfull \hbox (2.43707pt too wide) detected at line 96
+ []$[]   \OMS/zplm/m/n/10 ^^@ [][][][][]\OML/zplm/m/it/10 r[][][] \OT1/zplm/m/n
+/10 + [][][] [] \OML/zplm/m/it/10 ^^R[][] \OT1/zplm/m/n/10 + [][][] + \OML/zplm
+/m/it/10 VRY \OT1/zplm/m/n/10 = \OML/zplm/m/it/10 ERY  $ 
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 ایسا کرنے سے ہم عمومیت نہیں کھوتے ہیں، 
+چونکہ یہاں  $\OML/zplm/m/it/8 l$  \TU/JameelNooriNastaleeq(0)/m/n/8 کوئی بھی مخ
+لوط عدد ہو سکتا ہے۔ بعد میں ہم دیکھیں گے کہ  $\OML/zplm/m/it/8 l$  \TU/JameelNo
+oriNastaleeq(0)/m/n/8 کو لازماً عدد صحیح ہونا ہو گا۔اسی نتیجہ کو ذہن میں رکھتے 
+ہوئے میں نے[]
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 یہاں بھی ہم عمومیت نہیں کھوتے ہیں، چونک
+ہ  $\OML/zplm/m/it/8 m$  \TU/JameelNooriNastaleeq(0)/m/n/8 کوئی بھی مخلوط عدد ہ
+و سکتا ہے؛ اگرچہ ہم جلد دیکھیں گے کہ  $\OML/zplm/m/it/8 m$  \TU/JameelNooriNast
+aleeq(0)/m/n/8 کو عدد صحیح ہونا ہو گا۔ \TU/JameelNooriNastaleeq(0)/m/n/9 انتباہ
+: \TU/JameelNooriNastaleeq(0)/m/n/8 اب حرف  $\OML/zplm/m/it/8 m$  \TU/JameelNoo
+riNastaleeq(0)/m/n/8 دو مختلف چیزوں، کمیت اور[]
+ []
+
+[75]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 214.
+
+[76] [77]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [78]
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
+language=DFLT;!
+ [79] [80]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 486.
+
+[81] [82] [83] [84] [85] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 795--802
+[][]
+ []
+
+[87]) [88]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
- (./tex/quantumIdenticalParticles.tex [64
+ (./tex/quantumIdenticalParticles.tex
+باب 5.
+) [89
 
 
 
 
 ]
-باب 5.
-) [65]
 \openout2 = `./tex/quantumTimeIndependentPertubationTheory.aux'.
 
- (./tex/quantumTimeIndependentPertubationTheory.tex [66
+ (./tex/quantumTimeIndependentPertubationTheory.tex [90
 
 
 
 
 ]
 باب 6.
-) [67]
+) [91]
 \openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
 
- (./tex/quantumTheVariationalPrinciple.tex [68
+ (./tex/quantumTheVariationalPrinciple.tex [92
 
 
 
 
 ]
 باب 7.
-) [69]
+) [93]
 \openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumTheWKBapproximation.tex [70
+ (./tex/quantumTheWKBapproximation.tex [94
 
 
 
 
 ]
 باب 8.
-) [71]
+) [95]
 \openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
 
- (./tex/quantumTimeDependentPertubationTheory.tex [72
+ (./tex/quantumTimeDependentPertubationTheory.tex [96
 
 
 
 
 ]
 باب 9.
-) [73]
+) [97]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [74
+ (./tex/quantumTheAdiabaticApproximation.tex [98
 
 
 
 
 ]
 باب 10.
-) [75]
+) [99]
 \openout2 = `./tex/quantumScattering.aux'.
 
- (./tex/quantumScattering.tex [76
+ (./tex/quantumScattering.tex [100
 
 
 
 
 ]
 باب 11.
-) [77]
+) [101]
 \openout2 = `./tex/quantumAfterword.aux'.
 
- (./tex/quantumAfterword.tex [78
+ (./tex/quantumAfterword.tex [102
 
 
 
 
 ]
 باب 12.
-) [79] [80
+) [103] [104
 
 
 
-] (./answer.tex) [81] [82
+] (./answer.tex) [105] [106
 
 
 ]
@@ -2332,12 +2457,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 57756 strings out of 492922
- 1445884 string characters out of 6133407
- 1817794 words of memory out of 5000000
- 60692 multiletter control sequences out of 15000+600000
+ 57810 strings out of 492922
+ 1446851 string characters out of 6133407
+ 1820180 words of memory out of 5000000
+ 60746 multiletter control sequences out of 15000+600000
  571137 words of font info for 191 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2353b,1216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quantumMechanics.pdf (88 pages).
+Output written on quantumMechanics.pdf (112 pages).
