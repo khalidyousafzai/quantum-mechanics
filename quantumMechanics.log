@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  15 FEB 2021 15:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.8)  16 FEB 2021 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,9 +1818,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021215939.tex)...disabled (restricted).
+runsystem(touch w18-test-2021216930.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021215939.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021216930.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2322,110 +2322,109 @@ riNastaleeq(0)/m/n/8 دو مختلف چیزوں، کمیت اور[]
 
 LaTeX Warning: Command \textgreater invalid in math mode on input line 214.
 
-[76] [77]
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
- [78]
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq/OT:script=arab;
-language=DFLT;!
- [79] [80]
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 معمول زنی مستقل کو سوال 4.54 میں حاصل ک
+یا گیا ہے؛ نظریہ زاویائی معیار حرکت میں مستعمل علامتیت کے ساتھ ہم آہنگی کی خاطر
+  $\OML/zplm/m/it/8 ^^O$  \TU/JameelNooriNastaleeq(0)/m/n/8 (جس کی قیمت  $\OT1/
+ppl/m/n/8 1$  \TU/JameelNooriNastaleeq(0)/m/n/8 یا  $\OMS/zplm/m/n/8 ^^@\OT1/pp
+l/m/n/8 1$  \TU/JameelNooriNastaleeq(0)/m/n/8 ہو گی) کی علامت کا[]
+ []
 
-LaTeX Warning: Command \textless invalid in math mode on input line 486.
+[77] [78] [79] [80] [81]
 
-[81] [82] [83] [84] [85] [86]
-Underfull \hbox (badness 10000) in paragraph at lines 795--802
+LaTeX Warning: Command \textless invalid in math mode on input line 449.
+
+[82] [83] [84] [85] [86] [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 759--766
 [][]
  []
 
-[87]) [88]
+) [89]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
- (./tex/quantumIdenticalParticles.tex
-باب 5.
-) [89
+ (./tex/quantumIdenticalParticles.tex [90
 
 
 
 
 ]
+باب 5.
+) [91]
 \openout2 = `./tex/quantumTimeIndependentPertubationTheory.aux'.
 
- (./tex/quantumTimeIndependentPertubationTheory.tex [90
+ (./tex/quantumTimeIndependentPertubationTheory.tex [92
 
 
 
 
 ]
 باب 6.
-) [91]
+) [93]
 \openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
 
- (./tex/quantumTheVariationalPrinciple.tex [92
+ (./tex/quantumTheVariationalPrinciple.tex [94
 
 
 
 
 ]
 باب 7.
-) [93]
+) [95]
 \openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumTheWKBapproximation.tex [94
+ (./tex/quantumTheWKBapproximation.tex [96
 
 
 
 
 ]
 باب 8.
-) [95]
+) [97]
 \openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
 
- (./tex/quantumTimeDependentPertubationTheory.tex [96
+ (./tex/quantumTimeDependentPertubationTheory.tex [98
 
 
 
 
 ]
 باب 9.
-) [97]
+) [99]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [98
+ (./tex/quantumTheAdiabaticApproximation.tex [100
 
 
 
 
 ]
 باب 10.
-) [99]
+) [101]
 \openout2 = `./tex/quantumScattering.aux'.
 
- (./tex/quantumScattering.tex [100
+ (./tex/quantumScattering.tex [102
 
 
 
 
 ]
 باب 11.
-) [101]
+) [103]
 \openout2 = `./tex/quantumAfterword.aux'.
 
- (./tex/quantumAfterword.tex [102
+ (./tex/quantumAfterword.tex [104
 
 
 
 
 ]
 باب 12.
-) [103] [104
+) [105] [106
 
 
 
-] (./answer.tex) [105] [106
+] (./answer.tex) [107] [108
 
 
 ]
@@ -2457,12 +2456,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 57810 strings out of 492922
- 1446851 string characters out of 6133407
- 1820180 words of memory out of 5000000
- 60746 multiletter control sequences out of 15000+600000
+ 57848 strings out of 492922
+ 1447602 string characters out of 6133407
+ 1820477 words of memory out of 5000000
+ 60784 multiletter control sequences out of 15000+600000
  571137 words of font info for 191 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2353b,1216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on quantumMechanics.pdf (112 pages).
+Output written on quantumMechanics.pdf (114 pages).

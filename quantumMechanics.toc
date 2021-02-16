@@ -24,12 +24,14 @@
 \contentsline {section}{\numberline {4.1}کروی محدد میں مساوات شروڈنگر}{71}% 
 \contentsline {subsection}{\numberline {4.1.1}علیحدگی متغیرات}{73}% 
 \contentsline {subsection}{\numberline {4.1.2}زاویائی مساوات}{75}% 
-\contentsline {chapter}{\numberline {5}متماثل ذرات}{89}% 
-\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{91}% 
-\contentsline {chapter}{\numberline {7}تغیری اصول}{93}% 
-\contentsline {chapter}{\numberline {8}وکب تخمین}{95}% 
-\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{97}% 
-\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{99}% 
-\contentsline {chapter}{\numberline {11}بکھراو}{101}% 
-\contentsline {chapter}{\numberline {12}پس نوشت}{103}% 
-\contentsline {chapter}{جوابات}{105}% 
+\contentsline {subsection}{\numberline {4.1.3}رداسی مساوات}{79}% 
+\contentsline {section}{\numberline {4.2}ہائیڈروجن جوہر}{83}% 
+\contentsline {chapter}{\numberline {5}متماثل ذرات}{91}% 
+\contentsline {chapter}{\numberline {6}غیر تابع وقت نظریہ اضطراب}{93}% 
+\contentsline {chapter}{\numberline {7}تغیری اصول}{95}% 
+\contentsline {chapter}{\numberline {8}وکب تخمین}{97}% 
+\contentsline {chapter}{\numberline {9}تابع وقت نظریہ اضطراب}{99}% 
+\contentsline {chapter}{\numberline {10}حرارت نا گزر تخمین}{101}% 
+\contentsline {chapter}{\numberline {11}بکھراو}{103}% 
+\contentsline {chapter}{\numberline {12}پس نوشت}{105}% 
+\contentsline {chapter}{جوابات}{107}% 
