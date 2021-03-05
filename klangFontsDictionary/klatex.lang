@@ -366,6 +366,7 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 
     <context id="kFem" style-ref="kFeminine">
 
+<keyword>girl</keyword>
 <keyword>اساس</keyword>
 <keyword>افواہ</keyword>
 <keyword>اکائی</keyword>
