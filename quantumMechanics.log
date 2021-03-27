@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  10 MAR 2021 16:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  27 MAR 2021 12:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021310961.tex)...disabled (restricted).
+runsystem(touch w18-test-2021327768.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021310961.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021327768.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -5855,161 +5855,193 @@ Underfull \hbox (badness 10000) in paragraph at lines 1709--1710
  []
 
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 1711--1716
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حل کریں۔ تصدیق کریں کہ آپ کی توانائیاں عی
-ن میری حاصل کردہ توانائیوں کے مطابق ہے مساواتمساوات[]
+Underfull \hbox (badness 2435) in paragraph at lines 1711--1714
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٣٦:  عین مبدا پر  $\OMS/zplm/m/n
+/10 ^^@\OML/zplm/m/it/10 a < x < \OT1/zplm/m/n/10 +\OML/zplm/m/it/10 a$  \TU/Ja
+meelNooriNastaleeq(1)/m/sl/10 کے بیچ لامتناہی چکور کنواں کے اندر $\OML/zplm/m/i
+t/10 V\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 ) = \OT1/ppl/m/n/10
+ 0$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1711--1716
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوبارہ معمول پر لانے سے آپ کی سائی حاصل ہ
-وگی۔ اپنے اولین تین حل ترسیم کریں اور ان کا موازنہ شکل  شکل 2.‏2[]
+Underfull \hbox (badness 1348) in paragraph at lines 1711--1714
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اسے حل کریں۔ تصدیق کریں کہ آپ کی توانائیا
+ں عین میری حاصل کردہ توانائیوں (مساوات٢.٢٧[]) کے مطابق[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1716--1718
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٣٧:  لامتناہیچکور کنواں مساوات  
-مساوات 2.‏19  میں ایک ذرے کے ابتدائی تفاعل موج درج ذیل[]
+Underfull \hbox (badness 6978) in paragraph at lines 1711--1714
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تمام  $\OML/zplm/m/it/10  $  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 حاصل ہوتی ہیں۔ اپنے اولین تین حل ترسیم کریں اور ان کا م
+وازنہ شکل  2.‏2  سے کریں۔ دھیان رہے کہ یہاں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1722
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مستقل $\OML/zplm/m/it/10 A$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 اور  $\OT1/zplm/m/n/10 ^^I(\OML/zplm/m/it/10 x\OT1/pp
+l/m/n/10 , \OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 تلاش کر کے وقت کے لحاظ سے  $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 x\OMS/z
+plm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا حساب لگائیں۔ توانائی کی ت
+وقعاتی قیمت کیا ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1722
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گی؟  \TU/JameelNooriNastaleeq(1)/m/n/9 اش
+ارہ :  $[][] \OML/zplm/m/it/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $
+[][] \OML/zplm/m/it/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو تخفیف کے بع
+د $[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 m^^R\OT1/zplm/m/n/10 )$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 اور  $[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 m^^R\OT1/zpl
+m/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے خطی جوڑ لکھا جا سکتا ہے جہاں
+ []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1722--1726
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٣٨:  کمیت $\OML/zplm/m/it/10 m$ 
- \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک ذرہ لامتناہیچکور کنواں میں مساوات م
-ساوات 2.‏19میں زمینی حال[]
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک ذرہ لامتناہی چکور کنواں ( مساوات ٢.
+١٩[]) میں زمینی حال میں ہے ۔[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1722--1726
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں ہے ۔ اچانک کنواں کا دایاں دیوار  $\OM
-L/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے حرکت کرتے ہوئے  $\OT1
-/ppl/m/n/10 2\OML/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 منتقل ہو
-تا ہے جس سے کنواں کی چوڑائی دگنی ہو[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اچانک کنویں کا دایاں دیوار  $\OML/zplm/m/
+it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے  $\OT1/ppl/m/n/10 2\OML/zplm/m
+/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 منتقل ہوتا ہے جس سے کنواں کی چوڑ
+ائی دگنی ہو جاتی ہے۔ لمحاتی طور پر اس عمل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1729--1730
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 توانائی کی توقعاتی قیمت کیا ہوگی؟ اشارہ
-۔ اگر آپ دیکھیں کہ آپ کو لامتناہی تسلسل کا سامنا پڑ گیا ہے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1731--1732
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 توانائی کی توقعاتی قیمت کیا ہو گی؟  \TU
+/JameelNooriNastaleeq(1)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آ
+پ کو لامتناہی تسلسل کا سامنا ہو تب کوئی دوسری ترکیب[]
  []
 
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
-t=arab;language=dflt;mapping=tex-text;!
+LaTeX Info: Redefining \rmfamily on input line 1737.
+LaTeX Info: Redefining \sffamily on input line 1737.
+LaTeX Info: Redefining \ttfamily on input line 1737.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دیواروں سے ٹکرا کر دائیں سے بائیں اور ب
-ائیں سے دائیں حرکت کرتے ہوۓ ایک ذرہ جس کی توانائی  $\OML/zplm/m/it/10 E$  \TU/J
-ameelNooriNastaleeq(1)/m/sl/10 ہو کا کلاسیکی[]
+ائیں سے دائیں حرکت کرتے ہوئے ایک ذرہ جس کی توانائی  $\OML/zplm/m/it/10 E$  \TU/
+JameelNooriNastaleeq(1)/m/sl/10 ہو کا کلاسیکی[]
  []
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 1760--1763
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1766
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤١:  ایک ذرہ جس کی کمیت $\OML/zp
-lm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے ہارمونی مرتعیش کی مخفی کو
-  مساوات 2.‏43 میں درج ذیل حال سے[]
+lm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے ہارمونی مرتعش کی مخفیہ (م
+ساوات ٢.٤٣[]) میں درج ذیل حال سے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1782--1785
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثلا ایک ایسا سپرنگ جس کو کھینچا تو جا سک
-تا ہے لیکن اسے دبایا نہیں جاسکتا ہے۔ اشارہ ۔ اس کو حل کرنے[]
+Underfull \hbox (badness 1057) in paragraph at lines 1789--1791
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مثلاً ایک ایسا اسپرنگ جس کو کھینچا تو جا
+ سکتا ہے لیکن اسے دبایا نہیں جا سکتا ہے۔) \TU/JameelNooriNastaleeq(1)/m/n/9 اشا
+رہ: \TU/JameelNooriNastaleeq(1)/m/sl/10 اس کو حل کرنے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1790--1793
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٤:  مکدہ پر درج ذیل لامتناہیچکو
-ر کنواں جس کے وسط پر ڈیلٹا تفاعل رکاوٹ ہو کے لیے وقت کا غیرتابع[]
+Underfull \hbox (badness 4193) in paragraph at lines 1798--1801
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٤:  مبدا پر لامتناہی چکور کنواں
+، جس کے وسط پر درج ذیل ڈیلٹا تفاعل رکاوٹ ہو، کے لیے غیر تابع وقت[]
  []
 
-[74]
-Underfull \hbox (badness 4886) in paragraph at lines 1797--1799
+
+Underfull \hbox (badness 4886) in paragraph at lines 1807--1809
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جفت اور طاق تفاعل امواج کو علیحدہ علیحدہ 
 حل کریں ۔انہیں معمول پر لانے کی ضرورت نہیں ہے ۔ اجازتی توانائیوں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1797--1799
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو اگر ضرورت ہو ترسیمی طور پر تلاش کریں۔ 
-ان کا موازنہ ڈیلٹا تفاعل کی غیر موجودگی میں مطابقتی توانائیوں کے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو ( اگر ضرورت پیش آئے) ترسیمی طور پر تلا
+ش کریں۔ ان کا موازنہ ڈیلٹا تفاعل کی غیر موجودگی میں مطابقتی[]
  []
 
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
-t=arab;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٥:  ایسے دو یا دو سے زیادہ وقت 
-کے غیرتابع شروڈ نگر مساوات کے حل جن کی توانائی  $\OML/zplm/m/it/10 E$  \TU/Jame
-elNooriNastaleeq(1)/m/sl/10 ایک دوسرے[]
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1811
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 ایسے دو حل جن میں صرف جزو ضربی کا فرق پ
+ایا جاتا ہو (جن میں ایک مرتبہ معمول پر لانے کے بعد صرف دوری جزو  $\OML/zplm/m/i
+t/8 e[]$  \TU/JameelNooriNastaleeq(1)/m/n/8 کا[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 1811.
+LaTeX Info: Redefining \sffamily on input line 1811.
+LaTeX Info: Redefining \ttfamily on input line 1811.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جیسی ہو کو انحطاطی حال کہتے ہیں۔ مثال کے 
-طور پر آزاد ذرہ حالات دوہری انحطاطی ہیں۔ ان میں سے ایک حل دائیں رخ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور دوسرا بائیں رخ حرکت کو ظاہر کرتا ہے ۔
- لیکن ہم نے ایسے کوئی انحطاطی حل نہیں دیکھے جو معمول پر لانے کے قابل[]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٥: []ایسے دو یا دو سے زیادہ غیر
+ تابع وقت شروڈنگر مساوات کے منفرد[][] حل جن کی توانائی  $\OML/zplm/m/it/10 E$  
+\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوں اور یہ محض ایک اتفاق نہیں ہے۔ درج ذیل
- مسئلہ ثابت کریں ۔ ایک دور میں کوئی مقید انحطاطی حال بھی پائے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے جیسی ہو کو  \TU/AASameerSagarNastal
+eeqBold(0)/m/n/10 انحطاطی[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں۔ مثا
+ل کے طور پر آزاد ذرہ کے حال دوہری انحطاطی ہیں۔ ان میں سے ایک حل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر مساوات کو  $\OML/zplm/m/it/10  []
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دیں اور اس سے  $\OML/zplm/m/it/10
-  []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے شروڈنگر مساوات کو  $\OML/zplm/m/it
-/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دے کر[]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دائیں رخ اور دوسرا بائیں رخ حرکت کو ظاہر 
+کرتا ہے ۔ تاہم ہم نے ایسے کوئی انحطاطی حل نہیں دیکھے جو معمول پر لانے کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قابل ہر حل $\OMS/zplm/m/n/10 ^^F1$  \TU/J
-ameelNooriNastaleeq(1)/m/sl/10 ہوگا اس حقیقت کو استعمال کرتے ہوۓ دکھائیں کہ یہ 
-مستقل در حقیقت صفر ہوگا اس سے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قابل ہوں اور یہ محض ایک اتفاق نہیں ہے۔ در
+ج ذیل مسئلہ ثابت کریں : \TU/JameelNooriNastaleeq(1)/m/n/9 یک بعدی مقید انحطاطی 
+حال نہیں پائے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1808
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ یہ نتیجہ آخذ کر سکتے ہیں کہ  $\OML/zpl
-m/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دراصل  $\OML/zplm/m/it/10  
-[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا مضرب ہو گا لہذا یہ دو حل الگ الگ نہ
-یں ہو سکتے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[]\TU/JameelNooriNastaleeq(1)/m/n/9 جاتے ہیں۔[][] اشارہ: \TU/JameelNooriNastale
+eq(1)/m/sl/10 فرض کریں  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/
+sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ایسے دو
+ حل ہوں جن کی توانائی،  $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(1)/m/sl/
+10 ، ایک دوسری جیسی ہو ۔ حل  $\OML/zplm/m/it/10  []$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٦:  فرض کریں کمیت m  کا ایک معط
-ی ایک دایری چھلا پر بےرگڑ حرکت کرتا ہے۔ چھلے کا محیط  $\OML/zplm/m/it/10 L$  \T
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1817
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی شروڈنگر مساوات کو  $\OML/zplm/m/it/10 
+ []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دیں اور اس سے  $\OML/zplm/m/it
+/10  []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی شروڈنگر مساوات کو  $\OML/zplm/m
+/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دے کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1817--1820
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٢.٤٦:  فرض کریں کمیت m کا ایک موتی
+ ایک دائری چھلا پر بے رگڑ حرکت کرتا ہے۔ چھلے کا محیط  $\OML/zplm/m/it/10 L$  \T
 U/JameelNooriNastaleeq(1)/m/sl/10 ہے ۔[]
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 1808--1813
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انہیں معمول پر لائیں اور ان کے مطابقتی ای
-جاد تی توانائیاں تلاش کریں ۔ آپ دیکھیں گے کہ ہر توانائی $\OML/zplm/m/it/10 E[]$
-  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے دو آپس[]
+Underfull \hbox (badness 5064) in paragraph at lines 1817--1820
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 معمول پر لائیں اور ان کی مطابقتی اجازتی ت
+وانائیاں دریافت کریں ۔ آپ دیکھیں گے کہ ہر ایک توانائی $\OML/zplm/m/it/10 E[]$  
+\TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے دو آپس[]
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 1808--1813
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں غیرتابع حل پائے جائیں گے جن میں سے ای
-ک گھڑی وار اور دوسرا خلاف گھڑی حرکت کے لیے[]
+Underfull \hbox (badness 5771) in paragraph at lines 1817--1820
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں غیر تابع حل پائے جائیں گے جن میں سے ا
+یک گھڑی وار اور دوسرا خلاف گھڑی حرکت کے لیے[]
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 1808--1813
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ جنہیں آپ $\OML/zplm/m/it/10  []\OT1
-/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(
-1)/m/sl/10 اور  $\OML/zplm/m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1
-/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کہہ سکتے ہیں۔ سوال 2.‏45 ک
-ے مسئلہ کو مد نظر رکھتے ہوئے آپ اس انحطاط[]
+Underfull \hbox (badness 10000) in paragraph at lines 1817--1820
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا، جنہیں آپ $\OML/zplm/m/it/10  []\OT
+1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq
+(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT
+1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کہہ سکتے ہیں۔سوال ٢.٤٥[] 
+کے مسئلہ کو مد نظر رکھتے ہوئے آپ اس انحطاط[]
  []
 
 ) [75]
@@ -7133,10 +7165,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 55018 strings out of 479819
- 1447438 string characters out of 11645846
- 14058381 words of memory out of 24000000
- 71003 multiletter control sequences out of 15000+600000
+ 55032 strings out of 479819
+ 1447699 string characters out of 11645846
+ 14058521 words of memory out of 24000000
+ 71017 multiletter control sequences out of 15000+600000
  571305 words of font info for 212 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2641b,1139s stack positions out of 5000i,500n,10000p,12000000b,80000s
