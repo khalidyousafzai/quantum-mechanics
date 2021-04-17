@@ -28,6 +28,9 @@
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {91}}%
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {95}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {96}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {106}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {108}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {109}}%
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {107}}%
 \contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {109}}%
 \contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {111}}%
