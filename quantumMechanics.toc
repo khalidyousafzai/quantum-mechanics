@@ -43,3 +43,8 @@
 \contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {129}}%
 \contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {131}}%
 \contentsline {chapter}{جوابات}{\arabicdigits {133}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {135}}%
+\bgroup 
+\selectlanguage *{english}
+\egroup 
+\selectlanguage *{urdu}
