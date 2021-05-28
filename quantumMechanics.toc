@@ -1,5 +1,5 @@
 \selectlanguage *{urdu}
-\contentsline {chapter}{میری پہلی کتاب کا دیباچہ}{v}%
+\contentsline {chapter}{میری پہلی کتاب کا دیباچہ}{vii}%
 \contentsline {chapter}{\numberline {\arabicdigits {1}}تفاعل موج}{\arabicdigits {1}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {1}}شروڈنگر مساوات}{\arabicdigits {1}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {2}}شماریاتی مفہوم}{\arabicdigits {2}}%
@@ -25,23 +25,33 @@
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {77}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {79}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}متعمم شماریاتی مفہوم}{\arabicdigits {83}}%
-\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {91}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {91}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {93}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {94}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {99}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {103}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {104}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {114}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {116}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {117}}%
-\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {119}}%
-\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {121}}%
-\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {123}}%
-\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {125}}%
-\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {127}}%
-\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {129}}%
-\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {131}}%
-\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {133}}%
-\contentsline {chapter}{جوابات}{\arabicdigits {135}}%
-\contentsline {chapter}{فرہنگ}{\arabicdigits {137}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}اصول عدم یقینیت }{\arabicdigits {86}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {87}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {90}}%
+\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {97}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {97}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {99}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {100}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {105}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {109}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {110}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {120}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {122}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {123}}%
+\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {125}}%
+\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {127}}%
+\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {129}}%
+\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {131}}%
+\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {133}}%
+\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {135}}%
+\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {137}}%
+\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {139}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {141}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {143}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {143}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {145}}%
