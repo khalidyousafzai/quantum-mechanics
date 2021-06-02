@@ -40,20 +40,20 @@
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {132}}%
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {134}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {135}}%
-\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {137}}%
-\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {139}}%
-\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {141}}%
-\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {143}}%
-\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {145}}%
-\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {147}}%
-\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {149}}%
-\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {151}}%
-\contentsline {chapter}{جوابات}{\arabicdigits {153}}%
-\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {155}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {155}}%
-\contentsline {chapter}{فرہنگ}{\arabicdigits {157}}%
+\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {139}}%
+\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {141}}%
+\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {143}}%
+\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {145}}%
+\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {147}}%
+\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {149}}%
+\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {151}}%
+\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {153}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {155}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {157}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {157}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {159}}%
