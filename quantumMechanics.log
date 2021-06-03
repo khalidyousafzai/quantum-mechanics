@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  3 JUN 2021 14:42
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  3 JUN 2021 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202163882.tex)...disabled (restricted).
+runsystem(touch w18-test-2021631023.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202163882.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021631023.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -3260,87 +3260,105 @@ LaTeX Info: Redefining \sffamily on input line 513.
 LaTeX Info: Redefining \ttfamily on input line 513.
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں آپ ایک لمبی رسی کا ایک سر اوپر ن
-یچے ہلا کر موج پیدا کرتے ہیں (شکل 1.‏7)۔ اب اگر پوچھا جائے کہ[]
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ موج ٹھیک کہاں پائی جاتی ہے تو آپ غالبا
-ً اس کا جواب دینے سے قاصر ہونگے۔ موج کسی ایک جگہ نہیں[]
- []
-
-
-Underfull \hbox (badness 6559) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بلکہ کئی میٹر لمبائی پر پائی جاتی ہے۔ اس 
-کی بجائے اگر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 طول موج[][] \TU/JameelNoo
-riNastaleeq(1)/m/sl/10 پوچھی جائے تو آپ اس کا معقول جواب دے سکتے[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں آپ ایک لمبی رسی کا بایاں سر اوپر
+ نیچے ہلا کر موج پیدا کرتے ہیں (شکل ١.٧[])۔ اب اگر پوچھا جائے کہ یہ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں: اس کا طول موج تقریباً ایک میٹر ہے۔ ا
-س کے برعکس اگر آپ رسی کو ایک جھٹکا دیں تو ایک نوکیلی موج[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موج ٹھیک کہاں پائی جاتی ہے تو آپ غالباً ا
+س کا جواب دینے سے قاصر ہونگے۔ موج کسی ایک جگہ نہیں بلکہ []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیدا ہو گی (شکل 1.‏8)۔ یہ موج دوری نہیں ہ
-ے لہٰذا اس کے طول موج کی بات کرنا بے معنی ہو گا۔ اب آپ طول موج[]
+[]$\OT1/ppl/m/n/10 60$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میٹر لمبائی پر پائی
+ جاتی ہے۔ اس کی بجائے اگر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 طول موج[][] 
+\TU/JameelNooriNastaleeq(1)/m/sl/10 پوچھی جائے تو آپ اس کا معقول جواب دے سکتے[]
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بتانے سے قاصر ہوں گے جبکہ موج کا مقام بتا
-نا ممکن ہو گا۔ اول الذکر میں موج کا مقام پوچھنا بے معنی سوال ہو گا جبکہ[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں: اس کا طول موج تقریباً  $\OT1/ppl/m/n
+/10 7$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میٹر ہے۔ اس کے برعکس اگر آپ رسی کو 
+ایک جھٹکا دیں تو ایک نوکیلی موج پیدا[]
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 513--514
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گی (شکل ١.٨[])۔ یہ موج دوری نہیں ہے لہ
+ٰذا اس کے طول موج کی بات کرنا بے معنی ہو گا۔ اب آپ طول موج بتانے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موخر الذکر میں طول موج جاننا بے معنی ہو گ
-ا۔ ہم ان دو صورتوں کے بیچ کے حالات بھی پیدا کر سکتے ہیں جن میں[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے قاصر ہوں گے جبکہ موج کا مقام بتانا ممک
+ن ہو گا۔ اول الذکر میں موج کا مقام پوچھنا بے معنی سوال ہو گا جبکہ موخر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مقام موج اور طول موج خاصی حد تک قابل تعین
- ہوں۔ تاہم ان صورتوں میں طول موج بہتر سے بہتر جانتے ہوئے[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طول موج خاصی حد تک قابل تعین ہوں۔ تاہم ان
+ صورتوں میں طول موج بہتر سے بہتر جانتے ہوئے مقام موج کم[]
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 513--514
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مقام موج کم سے کم بتانا ممکن ہو گا یا پھر
- مقام بہتر سے بہتر جانتے ہوئے طول موج کم سے کم قابل تعین ہو گا۔ فوریئر[]
+Underfull \hbox (badness 4120) in paragraph at lines 513--514
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے کم بتانا ممکن ہو گا یا پھر مقام بہتر س
+ے بہتر جانتے ہوئے طول موج کم سے کم قابل تعین ہو گا۔ فوریئر تجزیہ کا[]
  []
 
 [17]
-LaTeX Info: Redefining \rmfamily on input line 517.
-LaTeX Info: Redefining \sffamily on input line 517.
-LaTeX Info: Redefining \ttfamily on input line 517.
+Overfull \hbox (12.15134pt too wide) in paragraph at lines 520--530
+ [][][][][][] 
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--530
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 شكل ١.٧: |اس موج کا طول موج اچھا خاصا م
+عین[]
+ []
+
+
+Overfull \hbox (14.51048pt too wide) in paragraph at lines 536--543
+ [][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 شكل ١.٨: |اس موج کا مقام اچھا خاصا معین
+[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 548.
+LaTeX Info: Redefining \sffamily on input line 548.
+LaTeX Info: Redefining \ttfamily on input line 548.
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ حقائق ہر موجی مظہر، بشمول کوانٹم میک
 انی موج تفاعل، کے لیے درست ہیں۔ اب ایک ذرے کے  $\OT1/zplm/m/n/10 ^^I$  \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 کے طول موج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--522
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 پیش کرتا ہے۔یوں طول موج میں پھیلاو معیار 
 حرکت میں پھیلاو کے مترادف ہے اور اب ہمارا عمومی[]
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 520--522
+Underfull \hbox (badness 2119) in paragraph at lines 551--553
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مشاہدہ یہ ہو گا کہ کسی ذرے کا مقام ٹھیک ٹ
 ھیک جانتے ہوئے ہم اس کی معیار حرکت کم سے کم جان سکتے ہیں۔[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 525.
-LaTeX Info: Redefining \sffamily on input line 525.
-LaTeX Info: Redefining \ttfamily on input line 525.
+[18]
+LaTeX Info: Redefining \rmfamily on input line 556.
+LaTeX Info: Redefining \sffamily on input line 556.
+LaTeX Info: Redefining \ttfamily on input line 556.
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--526
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 ^^[[]$  \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^[[]$  \TU/JameelNooriNast
 aleeq(1)/m/sl/10 بالترتیب  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastaleeq(1)/m
@@ -3349,72 +3367,72 @@ aleeq(1)/m/sl/10 بالترتیب  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastale
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--526
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
 []\TU/AASameerSagarNastaleeqBold(0)/m/n/10 اصول عدم یقینیت[][] \TU/JameelNooriN
 astaleeq(1)/m/sl/10 ہے۔ (اس کا ثبوت باب ٣[] میں پیش کیا جائے گا۔میں نے اس کو یہ
 اں اس لئے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نتائج کی طرح معیار حرکت کی پیمائش بھی ٹھی
 ک ٹھیک نتائج دے گی۔ یہاں ”پھیلاو” سے مراد یہ ہے[]
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 527--529
+Underfull \hbox (badness 5231) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ یکساں تیار کردہ نظاموں پر پیمائشیں بال
 کل ایک جیسے نتائج نہیں دیں گی۔ آپ چاہیں تو ( $\OT1/zplm/m/n/10 ^^I$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 کو نوکیلی بنا کر) ایسا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 حال تیار کر سکتے ہیں جس پر مقام کی پیمائش
 یں قریب قریب نتائج دیں لیکن ایسی صورت میں معیار[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت کی پیمائشوں کے نتائج ایک دوسرے سے بہ
 ت مختلف ہوں گی۔ اس طرح آپ چاہیں تو ( $\OT1/zplm/m/n/10 ^^I$  \TU/JameelNooriNas
 taleeq(1)/m/sl/10 کو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک لمبی سائن نما موج بنا کر) ایسا حال تی
 ار کر سکتے ہیں جس پر معیار حرکت کی پیمائشوں کے نتائج ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے کے قریب قریب ہوں گے لیکن ایسی صورت 
 میں ذرے کے مقام کی پیمائشوں کے نتائج ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے سے بہت مختلف ہوں گے۔اور ہاں آپ ایسا
  حال بھی تیار کر سکتے ہیں جس میں نہ تو مقام اور نا ہی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 معیار حرکت ٹھیک سے معلوم ہو۔ مساوات ١.٤٠[
 ] درحقیقت ایک عدم مساوات ہے جس میں  $\OML/zplm/m/it/10 ^^[[]$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ابھار اور گڑھے پائے جاتے ہوں اور جس میں ک
 وئی تواتر نہ پایا جاتا ہو،  $\OML/zplm/m/it/10 ^^[[]$  \TU/JameelNooriNastaleeq
 (1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^[[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
  کی قیمتیں جتنی چاہیں بڑھا سکتے[]
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 565--567
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 596--598
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کثافت احتمال  $\OML/zplm/m/it/10 ^^Z\OT
 1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastale
 eq(1)/m/sl/10 کیا ہو گا؟ اشارہ: زاویہ  $\OML/zplm/m/it/10 ^^R$  \TU/JameelNoori
@@ -3426,7 +3444,7 @@ iNastaleeq(1)/m/sl/10 ہو گا۔[]
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 565--567
+Underfull \hbox (badness 4621) in paragraph at lines 596--598
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 متغیر  $\OML/zplm/m/it/10 ^^R$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 کے لحاظ سے  $\OML/zplm/m/it/10 ^^Z\OT1/zplm/m/n/10 (
 \OML/zplm/m/it/10 ^^R\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
@@ -3434,7 +3452,7 @@ lNooriNastaleeq(1)/m/sl/10 کے لحاظ سے  $\OML/zplm/m/it/10 ^^Z\OT1/zplm/m
 ترسیم کریں (ظاہر ہے اس وقفے کا کچھ حصہ درکار نہیں ہے[]
  []
 
-) [19] [156
+) [20] [156
 
 
 
@@ -3550,12 +3568,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 252.
  ) 
 Here is how much of TeX's memory you used:
- 55895 strings out of 479819
- 1469282 string characters out of 11645846
- 14077943 words of memory out of 24000000
- 71891 multiletter control sequences out of 15000+600000
+ 56007 strings out of 479819
+ 1471680 string characters out of 11645846
+ 14223890 words of memory out of 24000000
+ 72003 multiletter control sequences out of 15000+600000
  571281 words of font info for 209 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,17n,380p,2641b,2597s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (37 pages).
+Output written on quantumMechanics.pdf (38 pages).
