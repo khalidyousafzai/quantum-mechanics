@@ -517,11 +517,11 @@ T=\frac{1}{2}mv^{2}=\frac{p^{2}}{2m}
 \begin{minipage}{0.45\textwidth}
 \centering
 \begin{tikzpicture}[declare function={f(\x)=cos(360/7*\x);g(\x)=e^(-0.1*(\x-14))*cos(360/7*\x);
-gg(\x)=e^(0.1*(\x+14))*cos(360/7*\x);h(\x)=-e^(-0.1*(\x-14))*cos(360/50*(\x-17.5));hh(\x)=-e^(0.1*(\x+14))*cos(360/50*(\x+17.5));}]
+gg(\x)=e^(0.1*(\x+14))*cos(360/7*\x);h(\x)=-e^(-0.1*(\x-14)-0.3*(\x-17.5))*cos(360/60*(\x-17.5));hh(\x)=-e^(0.1*(\x+14)+0.3*(\x+17.5))*cos(360/50*(\x+17.5));}]
 \begin{axis}[clip=false,axis lines=middle,small,xtick={-20,-10,10,20,30},xticklabels={$10$,$20$,$40$,$50$,$60$},ytick={\empty}, y axis line style={draw=none},xmax=35,xlabel={[میٹر]},xlabel style={at={(current axis.right of origin)},anchor={north west}}]
 \addplot[thick,domain=-14:14,samples=600]{f(x)};
 \addplot[thick,domain=14:17.5,smooth]{g(x)};
-\addplot[thick,domain=17.5:30,smooth]{h(x)};
+\addplot[thick,domain=17.5:35,smooth]{h(x)};
 \addplot[thick,domain=-14:-17.5,smooth]{gg(x)};
 \addplot[thick,domain=-17.5:-30,smooth]{hh(x)};
 \addplot[fill] plot coordinates {(-30,0)}node[circ]{};

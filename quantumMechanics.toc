@@ -13,13 +13,13 @@
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {21}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چکور کنواں}{\arabicdigits {27}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {36}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {37}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {46}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {52}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {60}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {60}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {61}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {69}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {38}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {47}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {53}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {61}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {61}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {63}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {70}}%
 \contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {79}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {79}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {79}}%

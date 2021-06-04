@@ -1,0 +1,8 @@
+Print("======================================");
+kill(all);
+print("schrodinger numerical solution");
+load("dynamics");
+
+plotdf ( [v,(x^2-1)*y], [u, v], [trajectory_at, 1, 0], [u, 0,2],[v, -5,5], , [versus_t, 1] );
+
+sol: rk([v,(x^2-1)*y],[y,v],[1,0],[x,-3,3,0.02]);
