@@ -1007,34 +1007,74 @@ K=2n+1
 E_{n}&=(n+\tfrac{1}{2} )\hslash\omega && n=0,1,2\cdots
 \end{align}
 یوں ہم  ایک  مختلف طریقہ کار سے مساوات \حوالہ{مساوات_شروڈنگر_ہارمونی_حالات} میں الجبرائی طریقہ سے حاصل کردہ بنیادی کوانٹازنی شرط دوبارہ حاصل کرتے ہیں۔ ابتدائی طور پر یہ حیرانی کی بات نظر آتی ہے کہ توانائی کی کوانٹازنی، شروڈنگر مساوات کے طاقتی تسلسل حل  کے ایک تکنیکی نقطہ سے حاصل ہوتی ہے۔ آئیں اسے ایک مختلف نقطہ نظر سے دیکھتے ہیں۔ یقیناً  \عددی{E} کے کسی بھی قیمت کے لئے  مساوات \حوالہ{مساوات_شروڈنگر_تحلیلی_حل_الف} کے حل ممکن ہیں (درحقیقت ہر \عددی{E} کے لیے اس کے دو خطی  غیر تابع حل پائے جاتے ہیں)۔ تاہم ان میں سے زیادہ تر حل،  بڑی \عددی{x} پر، بے قابو قوت نمائی بڑھتے ہیں جس کی بنا یہ معمول پر لانے کے قابل نہیں رہتے۔ مثال کے طور پر فرض کریں ہم \عددی{E} کی کسی ایک اجازتی قیمت  سے معمولی کم   قیمت (مثلاً \عددی{0.49\hslash \omega}) لے کر حل کو ترسیم کرتے ہیں (شکل \حوالہ{شکل_غیر_تابع_دم_کی_حرکت}-ا)؛ اس کی دم لامتناہی کی طرف بڑھے گی۔ اب \عددی{E} کی قیمت کسی ایک اجازتی قیمت سے معمولی زیادہ  (مثلاً  \عددی{0.51\hslash\omega})  تصور کر کے حل کو  ترسیم کرتے ہیں؛ اب حل کی دم دوسری سمت میں لامتناہی کی طرف
- بڑھے گی (شکل \حوالہ{شکل_غیر_تابع_دم_کی_حرکت}-ب)۔  اگر  ہم اس مقدار معلوم کی قیمت \عددی{0.49} اور \عددی{0.51} کے بیچ چھوٹے  چھوٹے قدم لے کر تبدیل کریں تو ہر مرتبہ \عددی{0.50} سے گزرتے ہوئے  حل کی دم  الٹ (مخالف)  طرف لامتناہی کی طرف بڑھے گی۔ ٹھیک \عددی{0.50} پر اس کی دم صفر  کو پہنچ کر معمول زنی کے قابل حل دے گی۔
+ بڑھے گی (شکل \حوالہ{شکل_غیر_تابع_دم_کی_حرکت}-ب)۔  اگر  ہم اس مقدار معلوم کی قیمت \عددی{0.49} اور \عددی{0.51} کے بیچ چھوٹے  چھوٹے قدم لے کر تبدیل کریں تو ہر مرتبہ \عددی{0.50} سے گزرتے ہوئے  حل کی دم  الٹ (مخالف)  طرف لامتناہی کی طرف بڑھے گی۔ ٹھیک \عددی{0.50} پر اس کی دم صفر  کو پہنچ کر معمول زنی کے قابل حل دے گی (شکل \حوالہ{شکل_غیر_تابع_دم_کی_حرکت}-ج)۔
+
+\begin{comment}
+the tail flipping figure  (Fig 2.6, p67 below)  is produced with the octave code (./tex/octave/tailFlipping.m) reproduced below. this code named "tailFlipping.m"  produces the data "tailFlipUP.dat" ,  "tailFlipDN.dat" and "tailFlipNone.dat" which must be placed in the folder "./tex/tables" (as set by "\pgfplotsset{table/search path={./tex/tables},}" in the preamble).   Octave must be run independantly to produce this data.
+
+"./tex/octave/tailFlipping.m"
+{
+vdp = @(t,y) [y(2); (t^2-0.98)*y(1)];
+lin=linspace(0,3.75,50);
+[t,y] = ode45 (fvdp, lin, [1,0]);
+plot(t,y(:,1));
+
+ty=[t,y(:,1)];
+save tailFlipUP.dat ty
+
+fvdp = @(t,y) [y(2); (t^2-1.02)*y(1)];
+lin=linspace(0,3.75,50);
+[t,y] = ode45 (fvdp, lin, [1,0]);
+plot(t,y(:,1));
+
+ty=[t,y(:,1)];
+save tailFlipDn.dat ty
+
+fvdp = @(t,y) [y(2); (t^2-1)*y(1)];
+lin=linspace(0,3.75,50);
+[t,y] = ode45 (fvdp, lin, [1,0]);
+plot(t,y(:,1));
+
+ty=[t,y(:,1)];
+save tailFlipNone.dat ty
+}
+\end{comment}
 
 \begin{figure}
 \centering
-\begin{subfigure}{0.45\textwidth}
+\begin{subfigure}{0.30\textwidth}
 \centering
-\begin{tikzpicture}[declare function={f(\x)=20+(\x+3)*(\x+1)*(\x-1)*(\x-3);}]
-\begin{axis}[small,axis lines=middle,ymin=-15,xlabel={$\xi$},xtick={-4,-2,2,4},ytick={29},yticklabels={$1$},xmin=-4.2,xmax=4.75,xlabel style={at={(current axis.right of origin)},anchor=north}]
-\addplot[domain=-3.2:3.2,smooth] {f(x)};
+\begin{tikzpicture}
+\begin{axis}[width=5cm,axis lines=middle,xlabel={$\xi$},ylabel={$\psi$},ymin=-2.1,ymax=2.1,xmin=-4.1,xmax=4.5,xlabel style={at={(current axis.right of origin)},anchor={north}},enlargelimits,ytick={-2,-1,1,2},ylabel style={at={(current axis.above origin)},anchor=west}]
+\addplot[black] table[x index=0,y index=1,smooth,mark=none]  {tailFlipUP.dat};
+\addplot[black] table[x index=0,y index=1,smooth,mark=none,y index=1,  x expr={-\thisrowno{0} }]  {tailFlipUP.dat};
 \end{axis}
 \end{tikzpicture}
 \caption{}
 \end{subfigure}\hfill
-\begin{subfigure}{0.45\textwidth}
+\begin{subfigure}{0.30\textwidth}
 \centering
-\begin{tikzpicture}[declare function={f(\x)=20+(\x+3)*(\x+1)*(\x-1)*(\x-3);g(\x)=-20-(\x+3)*(\x+1)*(\x-1)*(\x-3);}]
-\pgfmathsetmacro{\kymax}{f(3.2)}
-\begin{axis}[small,axis lines=middle,ymin=-15,xlabel={$\xi$},xtick={-4,-2,2,4},ytick={29},yticklabels={$1$},xmin=-4.2,xmax=4.75,ymax=\kymax,xlabel style={at={(current axis.right of origin)},anchor=north}]
-\pgfmathsetmacro{\kz}{sqrt(5)}
-\pgfmathsetmacro{\kerr}{2*f(\kz)}
-\addplot[domain=-\kz:\kz,smooth] {f(x)};
-\addplot[domain=2.236:3,smooth] {g(x)+\kerr};
-\addplot[domain=-2.236:-3,smooth] {g(x)+\kerr};
+\begin{tikzpicture}
+\begin{axis}[width=5cm,axis lines=middle,xlabel={$\xi$},ylabel={$\psi$},ymin=-2.1,ymax=2.1,xmin=-4.1,xmax=4.5,xlabel style={at={(current axis.right of origin)},anchor={north}},enlargelimits,ytick={-2,-1,1,2},ylabel style={at={(current axis.above origin)},anchor=west}]
+\addplot[black] table[x index=0,y index=1,smooth,mark=none]  {tailFlipDN.dat};
+\addplot[black] table[x index=0,y index=1,smooth,mark=none,y index=1,  x expr={-\thisrowno{0} }]  {tailFlipDN.dat};
+\end{axis}
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.30\textwidth}
+\centering
+\begin{tikzpicture}
+\begin{axis}[width=5cm,axis lines=middle,xlabel={$\xi$},ylabel={$\psi$},ymin=-2.1,ymax=2.1,xmin=-4.1,xmax=4.5,xlabel style={at={(current axis.right of origin)},anchor={north}},enlargelimits,ytick={-2,-1,1,2},ylabel style={at={(current axis.above origin)},anchor=west}]
+\addplot[black] table[x index=0,y index=1,smooth,mark=none]  {tailFlipNone.dat};
+\addplot[black] table[x index=0,y index=1,smooth,mark=none,y index=1,  x expr={-\thisrowno{0} }]  {tailFlipNone.dat};
 \end{axis}
 \end{tikzpicture}
 \caption{}
 \end{subfigure}
-\caption{مساوات شروڈنگر کی (ا) \عددی{E=0.49\hslash \omega}، اور (ب) \عددی{E=0.51\hslash\omega} کی صورت میں حل۔}
+\caption{
+مساوات شروڈنگر کی (ا) \عددی{E=0.49\hslash \omega}،  (ب) \عددی{E=0.51\hslash\omega}  اور (ج) \عددی{E=\hslash\omega}   صورت میں حل۔
+}
 \label{شکل_غیر_تابع_دم_کی_حرکت}
 \end{figure}
  کلیہ توالی \عددی{K} کی اجازتی قیمتوں کے لیے  درج ذیل روپ اختیار کرتی ہے۔
@@ -1285,11 +1325,51 @@ A, & -a < x < a,\\
 =& \frac{1}{k\sqrt{\pi a}} \left( \frac{e^{ikx} - e^{-ikx}}{2i} \right) = \frac{1}{\sqrt{\pi a}} \frac{\sin(ka)}{k}
 \end{align*}
 آخر میں ہم اس کو دوبارہ مساوات  \حوالہ{مساوات_غیر_تابع_استمراری_شروڈنگر_حل}  میں پر کرتے ہیں۔ 
-\begin{align}
+\begin{align}\label{مساوات_غیر_تابع_مستطیل_سے_ارتقا_مشکل_ہے}
 \Psi (x,t) = \frac{1}{\pi \sqrt{2a}} \int_{-\infty}^{\infty} \frac{\sin (ka)}{k} e^{i(kx-\frac{\hslash k^{2}}{2m}t)} \dif k
 \end{align}
-بد قسمتی سے اس تکمل کو بنیادی تفاعل کی صورت میں حل کرنا ممکن نہیں ہے، تاہم اس کی قیمت کو اعدادی تراکیب سے حاصل کیا جا سکتا ہے (شکل \حوالہء{2.8})۔ (ایسی بہت کم صورتیں حقیقتاً پائی جاتی ہیں جن کے لئے \عددی{\Psi(x,t)} کا 
+بد قسمتی سے اس تکمل کو بنیادی تفاعل کی صورت میں حل کرنا ممکن نہیں ہے، تاہم اس کی قیمت کو اعدادی تراکیب سے حاصل کیا جا سکتا ہے (شکل \حوالہ{شکل_غیر_تابع_مستطیل_سے_ارتقا})۔ (ایسی بہت کم صورتیں حقیقتاً پائی جاتی ہیں جن کے لئے \عددی{\Psi(x,t)} کا 
 تکمل (مساوات  \حوالہ{مساوات_غیر_تابع_استمراری_شروڈنگر_حل}) صریحاً حل کرنا ممکن ہو۔ سوال \حوالہ{سوال_شروڈنگر_گاوسی_موجی_اکٹھ} میں ایسی ایک بالخصوص خوبصورت مثال پیش کی گئی ہے۔)
+
+\begin{comment}
+the evolution of a rectangular wave function (fig 2.8, p75) is produced by the octave code "./tex/octave/evolutionFromRectangular.m" reproduced below. this code produces the table "evolutionFromRectangular.dat" which must be placed in the folder "./tex/tables/" (as specified by "\pgfplotsset{table/search path={./tex/tables},}" in the preamble).
+
+"evolutionFromRectangular.m"
+{
+clear;
+clf;
+%
+for i=1:100
+a=1;
+f=@(k) 1/(pi*sqrt(2*a))*sin(k*a)./k.*cos(k.*(0.12*i-6)-k.^2*a^2/2);
+g=@(k) 1/(pi*sqrt(2*a))*sin(k*a)./k.*sin(k.*(0.12*i-6)-k.^2*a^2/2);
+psiSquared(i)=(quadgk(f,-30,30))^2+(quadgk(g,-30,30))^2;
+endfor
+%
+i=1:100;
+plot(i,psiSquared(i));
+%
+khorcat=rot90([psiSquared;0.12*i-6],-1);
+%
+kkk=fopen("evolutionFromRectangular.dat","w");
+fdisp(kkk,khorcat)
+fclose(kkk);
+}
+\end{comment}
+%
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\begin{axis}[small,axis lines=middle,xlabel={$\frac{x}{a}$},ylabel={$\abs{\Psi(x,t)}^2$},xlabel style={at={(current axis.right of origin)},anchor={west}},enlargelimits,,ylabel style={at={(current axis.above origin)},anchor=west},ytick={\empty},yticklabels={$0.1$,$0.2$,$0.3$,$0.4$,$0.5$},extra y tick style={y tick label style={left, xshift=-1.5ex}}, extra y ticks={0.1,0.2,0.3,0.4,0.5}]
+\addplot[black,thick] table[x index=0,y index=1,smooth,mark=none]  {evolutionFromRectangular.dat};
+\addplot[black,thick]plot coordinates{(-1,0)(-1,0.5)(1,0.5)(1,0)};
+\end{axis}
+\end{tikzpicture}
+\caption{
+تفاعل    \عددی{\abs{\Psi(x,t)}^2} کی لمحہ \عددی{t=0}پر    مستطیل    اور  \عددی{t=ma^2/\hslash} پر قوسی ترسیم   (مساوات \حوالہ{مساوات_غیر_تابع_مستطیل_سے_ارتقا_مشکل_ہے})۔
+}
+\label{شکل_غیر_تابع_مستطیل_سے_ارتقا}
+\end{figure}
 
  \begin{figure}
 \centering
