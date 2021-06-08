@@ -1707,18 +1707,8 @@ E>0\Rightarrow \text{\RL{بکھراو حال}}
 \begin{figure}
 \centering
 \begin{tikzpicture}
-\pgfmathsetmacro{\xa}{-0.2}
-\pgfmathsetmacro{\xb}{\xa+0.1}
-\pgfmathsetmacro{\xc}{\xb+0.1}
-\pgfmathsetmacro{\xd}{\xc+0.1}
-\pgfmathsetmacro{\xe}{\xd+0.1}
-\pgfmathsetmacro{\xg}{\xa-2}
-\pgfmathsetmacro{\xh}{\xe+2}
-\pgfmathsetmacro{\ya}{0.1}
-\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\delta(x)$},xtick={\empty},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east},ymax=1.15]
-\addplot[smooth,thick] plot coordinates {(\xg,0)(\xa,0)};
-\addplot[smooth,thick] plot coordinates {(\xe,0)(\xh,0)};
-\addplot[smooth,thick] plot coordinates {(\xa,0)(\xb,0.1)(\xc,1)(\xd,0.1)(\xe,0)};
+\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\abs{\Psi}^2$},xtick={\empty},xticklabels={$C$},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot [thick,domain=-0.5:0.5,samples=200,]	{exp(-1000*(x-0)^2)};
 \end{axis}
 \end{tikzpicture}
 \caption{ڈیراک ڈیلٹا تفاعل (مساوات \حوالہ{مساوات_شروڈنگر_ڈیلٹا_تفاعل_تعریف})}
@@ -1877,22 +1867,12 @@ G&=0,\quad\text{\RL{بائیں سے بکھراو}}
 \begin{figure}
 \centering
 \begin{tikzpicture}
-\pgfmathsetmacro{\xa}{-0.2}
-\pgfmathsetmacro{\xb}{\xa+0.1}
-\pgfmathsetmacro{\xc}{\xb+0.1}
-\pgfmathsetmacro{\xd}{\xc+0.1}
-\pgfmathsetmacro{\xe}{\xd+0.1}
-\pgfmathsetmacro{\xg}{\xa-2}
-\pgfmathsetmacro{\xh}{\xe+2}
-\pgfmathsetmacro{\ya}{0.1}
 \begin{axis}[clip=false,small,axis lines=middle,xlabel={$x$},ylabel={\empty},xtick={\empty},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east}]
-\addplot[smooth,thick] plot coordinates {(\xg,0)(\xa,0)};
-\addplot[smooth,thick] plot coordinates {(\xe,0)(\xh,0)};
-\addplot[smooth,thick] plot coordinates {(\xa,0)(\xb,-0.15)(\xc,-1)(\xd,-0.15)(\xe,0)};
-\addplot[-latex]  coordinates {(-0.5,0.4)(-1.5,0.4)}node[pos=0.5,below]{$Be^{-i\kappa x}$};
-\addplot[latex-]  coordinates {(-0.5,0.6)(-1.5,0.6)}node[pos=0.5,above]{$Ae^{i\kappa x}$};
-\addplot[latex-]  coordinates {(0.5,0.4)(1.5,0.4)}node[pos=0.5,below]{$Ge^{-i\kappa x}$};
-\addplot[-latex]  coordinates {(0.5,0.6)(1.5,0.6)}node[pos=0.5,above]{$Fe^{i\kappa x}$};
+\addplot [thick,domain=-0.5:0.5,samples=200,]	{-exp(-1000*(x-0)^2)};
+\addplot[-latex]  coordinates {(-0.15,0.4)(-0.5,0.4)}node[pos=0.5,below]{$Be^{-i\kappa x}$};
+\addplot[latex-]  coordinates {(-0.15,0.6)(-0.5,0.6)}node[pos=0.5,above]{$Ae^{i\kappa x}$};
+\addplot[latex-]  coordinates {(0.15,0.4)(0.5,0.4)}node[pos=0.5,below]{$Ge^{-i\kappa x}$};
+\addplot[-latex]  coordinates {(0.15,0.6)(0.5,0.6)}node[pos=0.5,above]{$Fe^{i\kappa x}$};
 \end{axis}
 \end{tikzpicture}
 \caption{ڈیلٹا تفاعل کنواں سے بکھراو۔}
@@ -1927,21 +1907,11 @@ T=\frac{\abs F^{2}}{\abs A^{2}}=\frac{1}{1+\beta^{2}}
   
    یہ ایک عجیب بات ہے کہ ہم لب لباب وقت کے تابع مسئلہ (جہاں ایک آمدی ذرہ مخفیہ سے  بکھر کر لامتناہی کی طرف رواں ہوتا ہے)  پر غور    \ترچھا{ ساکن   حالات} استعمال کرتے ہوئے کر پاتے  ہیں۔  آخر کار  (مساوات \حوالہ{مساوات_شروڈنگر_بایاں_حل_ڈیلٹا}  اور \حوالہ{مساوات_شروڈنگر_دایاں_حل_ڈیلٹا} میں) \عددی{  \psi }ایک مخلوط، غیر تابع وقت، سائن   نما تفاعل ہے جو (مستقل  حیطہ  کے ساتھ)  دونوں اطراف لا متناہی تک  پھیلا ہوا ہے۔ اس کے باوجود اس تفاعل پر موزوں سرحدی شرائط مسلط کر کے ہم  ایک ذرہ    (جسے مقامی موجی اکٹھ  سے ظاہر کیا گیا ہو)  کی مخفیہ سے انعکاس یا ترسیل کا احتمال تعین کر پاتے ہیں۔ اس ریاضیاتی کرامت کی وجہ میرے خیال میں یہ حقیقت ہے  کہ  ہم پوری  فضا میں پھیلے ہوئے تفاعل موج، جن کی تابعیت  وقت   نہ ہونے کے برابر ہو، کے خطی جوڑ لے کر ایک (حرکت پذیر)  نقطہ کے گرد ایسا تفاعل موج تیار کر سکتے ہیں جس پر  وقت کے لحاظ سے تفصیلًا غور کیا جا سکتا ہے(سوال  \حوالہ{سوال_شروڈنگر_ساکن_گاوسی_آزاد_ذرہ_موجی_اکٹھ})
   
-  \begin{figure}
+ \begin{figure}
 \centering
 \begin{tikzpicture}
-\pgfmathsetmacro{\xa}{-0.2}
-\pgfmathsetmacro{\xb}{\xa+0.1}
-\pgfmathsetmacro{\xc}{\xb+0.1}
-\pgfmathsetmacro{\xd}{\xc+0.1}
-\pgfmathsetmacro{\xe}{\xd+0.1}
-\pgfmathsetmacro{\xg}{\xa-2}
-\pgfmathsetmacro{\xh}{\xe+2}
-\pgfmathsetmacro{\ya}{0.1}
 \begin{axis}[clip=false,small,axis lines=middle,xlabel={$x$},ylabel={$V(x)=\alpha\delta(x)$},xtick={\empty},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=west},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
-\addplot[smooth,thick] plot coordinates {(\xg,0)(\xa,0)};
-\addplot[smooth,thick] plot coordinates {(\xe,0)(\xh,0)};
-\addplot[smooth,thick] plot coordinates {(\xa,0)(\xb,0.15)(\xc,1)(\xd,0.15)(\xe,0)};
+\addplot [thick,domain=-0.5:0.5,samples=200,]	{exp(-1000*(x-0)^2)};
 \end{axis}
 \end{tikzpicture}
 \caption{ڈیلٹا تفاعل رکاوٹ۔}

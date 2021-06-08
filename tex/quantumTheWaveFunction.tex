@@ -84,18 +84,8 @@
 \begin{figure}
 \centering
 \begin{tikzpicture}
-\pgfmathsetmacro{\xa}{1.5}
-\pgfmathsetmacro{\xb}{\xa+0.1}
-\pgfmathsetmacro{\xc}{\xb+0.1}
-\pgfmathsetmacro{\xd}{\xc+0.1}
-\pgfmathsetmacro{\xe}{\xd+0.1}
-\pgfmathsetmacro{\xg}{\xa-2}
-\pgfmathsetmacro{\xh}{\xe+2}
-\pgfmathsetmacro{\ya}{0.1}
-\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\abs{\Psi}^2$},xtick={1.7},xticklabels={$C$},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
-\addplot[smooth,thick] plot coordinates {(\xg,0)(\xa,0)};
-\addplot[smooth,thick] plot coordinates {(\xe,0)(\xh,0)};
-\addplot[smooth,thick] plot coordinates {(\xa,0)(\xb,0.1)(\xc,1)(\xd,0.1)(\xe,0)};
+\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\abs{\Psi}^2$},xtick={0.25},xticklabels={$C$},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot [thick,domain=-0.25:0.75,samples=200,]	{exp(-1000*(x-0.25)^2)};
 \end{axis}
 \end{tikzpicture}
 \caption{
