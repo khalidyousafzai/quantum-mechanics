@@ -84,14 +84,22 @@
 \begin{figure}
 \centering
 \begin{tikzpicture}
-\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\abs{\Psi}^2$},xmin=-1.5,xmax=7.5,xtick={4.75},xticklabels={$C$},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east}]
-\addplot[smooth,thick] plot coordinates {(-1,0)(4,0)};
-\addplot[smooth,thick] plot coordinates {(5.5,0)(6.5,0)};
-\addplot[smooth,thick] plot coordinates {(4,0)(4.6,0.1)(4.75,1)(4.9,0.1)(5.5,0)};
+\pgfmathsetmacro{\xa}{1.5}
+\pgfmathsetmacro{\xb}{\xa+0.1}
+\pgfmathsetmacro{\xc}{\xb+0.1}
+\pgfmathsetmacro{\xd}{\xc+0.1}
+\pgfmathsetmacro{\xe}{\xd+0.1}
+\pgfmathsetmacro{\xg}{\xa-2}
+\pgfmathsetmacro{\xh}{\xe+2}
+\pgfmathsetmacro{\ya}{0.1}
+\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={$\abs{\Psi}^2$},xtick={1.7},xticklabels={$C$},ytick={\empty},ylabel style={at={(current axis.above origin)},anchor=north east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot[smooth,thick] plot coordinates {(\xg,0)(\xa,0)};
+\addplot[smooth,thick] plot coordinates {(\xe,0)(\xh,0)};
+\addplot[smooth,thick] plot coordinates {(\xa,0)(\xb,0.1)(\xc,1)(\xd,0.1)(\xe,0)};
 \end{axis}
 \end{tikzpicture}
 \caption{
-تفاعل موج کا انہدام: پیمائش سے    \عددی{C} پر   ذرہ پائے  جانے کے فوراً بعد \عددی{\abs{\Psi}^2} کی ترسیم۔
+تفاعل موج کا انہدام:  اس لمحہ کے فوراً بعد \عددی{\abs{\Psi}^2} کی ترسیم جب پیمائش سے ذرہ  \عددی{C} پر  پایا گیا ہو۔
 }
 \label{شکل_تفاعل_موج_انہدام}
 \end{figure}

@@ -18,8 +18,8 @@
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {55}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {64}}%
 \contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {64}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {65}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {72}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {66}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {75}}%
 \contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {83}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {83}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {83}}%

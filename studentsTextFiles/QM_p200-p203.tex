@@ -1,0 +1,137 @@
+\documentclass{book}
+\usepackage{polyglossia}
+\usepackage{amsmath}
+\usepackage{enumitem}            
+\setmainlanguage[numerals=maghrib]{arabic}   
+\setotherlanguages{english}
+\newfontfamily\arabicfont[Scale=1.0,Script=Arabic]{Urdu Typesetting} 
+\newfontfamily\urdufont[Scale=1.25,WordSpace=60.0,Script=Arabic]{Urdu Typesetting}
+%\setlength{\parskip}{5mm plus 4mm minus 3mm}
+\begin{document}
+\setcounter{chapter}{4}
+\chapter{ یکساں ذرات } 
+ 
+
+\section{ دو زراتی نظام} 
+
+ایک زرہ کے لیے فلحال چکر کو نظر انداز کرتے ہوےٗ  
+$ \psi ( r , t ) $
+فضا ٗی مہدت r اور وقت t کا تفعال ہو گا۔ دو زراتی نظام کا حال پہلے زرے کے مخاطر 
+$ ( r_1 ) $
+دوسرے زرے کے مخاطر 
+$ ( r_2 ) $
+اور وقت کا طابع ہو گا۔ 
+\begin{align}   
+\psi ( r_1 , r_2 , t ) 
+\end{align}
+ ہمیشہ کی طرح یہ وقت کے لحاظ سے shrodinger مساوات 
+\begin{align}
+\iota \hbar \frac{ \partial \psi }{ \partial t } = H \psi
+\end{align}
+کے تحت ارتقا کرے گا۔ جہاں H مکمل  نظام کا Hamiltonian  ہے۔
+\begin{equation}
+H = - \frac{ \hbar }{ 2 m_1 } {v_1}^2  -  \frac{ \hbar }{ 2 m_2 } { v_2 }^2 +  v( r_1 , r_2 , t )
+\end{equation}
+زرہ ایک یا زرہ دو کے محددوں کے لحاظ سے  تفرقات لینے کو 
+$ \Delta $
+زیر نوشت میں ایک یا دو سے ظاہر کیا گیا ہے۔ زرہ ایک کا ہجم 
+$ d^3 r_1 $
+اور زرہ دو کا ہجم
+$ d^3 r_2 $
+پاےٗ جانے کا اہتمال درج ذیل ہو گا۔ 
+\begin{align}
+| \psi ( r_1 , r_2 , t ) |^2 { d^3 } { r_1 }  { d^3 } { r_2 }
+\end{align}
+ظاہر ہے کہ 
+$ \psi $
+کو درج ذیل کے لحاظ سے معمول پر لانا ہو گا۔ 
+\begin{align}
+\int | \psi ( r_1 , r_2 , t ) |^2 { d^3 } { r_1 } { d^3 } { r_2 } = 1
+\end{align}
+
+\newpage
+
+غیر تابع وقت مخفی توانا ٗی کے لیے علیحدگی  متغیرات  سے حلوں کا مکمل سلسلہ حاصل ہوتا ہے ۔ 
+\begin{align}
+\psi ( r_1 , r_2 , t ) =  \psi ( r_1 , r_2 ) {e}^\frac{ - i E t }{h}  
+\end{align}
+جہاں فضا ٗی تفعال معاج 
+$ \psi $
+غیر تابع وقت shroudinger مساوات 
+\begin{align}
+-\frac{ \hbar }{ 2 m_1 }  {\nabla_1^2} { \psi } - \frac{ \hbar }{ 2 m_2 } \nabla_2^2 { \psi } + V \psi 
+\end{align}
+جس میں E پورے نظام کی قل توانا ٗی ہے ۔ 
+
+سوال ۔5٫1:
+عام طور پر  باہمی مخفی توانا ٗی انحصار صرف 2 زرات کے بیچ صمتیہ
+$ r = r_1 - r_2 $
+پر ہو گا ۔ ایسی صورت میں متغیرات 
+$ r_1  $
+اور 
+$  r_2  $
+کی جگہ نےٗ متغیرات  اور مرکز کمیت
+$  R = \frac{ ( m_1 r_1 + m_2 r_2 ) }{ m_1 + m_2 } $
+مساوات shroudinger ہوتی ہے ۔ 
+
+
+(الف)۔  دکھا یٗں کہ 
+$ r_1 = R + (\frac{ \mu}{m_1} )r , r_2 = R - (\frac{ \mu }{ m_2 } )r   $ 
+اور 
+$ \nabla_1 = ( \frac{ \mu }{ m_2 } )\nabla_R + \nabla_r , \nabla_2 = ( \frac{ \mu }{ m_1 } ) \nabla_R - \nabla_r $ 
+جہاں 
+\begin{align}
+\mu = \frac{ m_1 m_2 }{ m_1 + m_2 }
+\end{align}
+نظام کی تشخیص شدہ کمیت ہے ۔
+ 
+(ب)۔ دکھا ٗیں کہ غیر تابع وقت shroudinger  مساوات درج ذیل رعب اختیار کرتی ہے ۔
+\[
+- \frac{ \hbar^2 }{ 2 ( m_1 + m_2 ) } { \nabla_R }^2  \psi - \frac{ \hbar^2 }{ 2 \mu } { \nabla_r }^2 { \psi } + V(r) \psi = E \psi
+\]
+
+(ج)۔ متغیرات کو 
+$ \psi ( R , r ) = { \psi_r }(R) { \psi_r } (r) $
+لیتے ہوےٗ علیحدہ کریں ۔ آپ دیکھیں گے کہ 
+$ \psi_r $
+ ایک ذرہ کی shroudinger مساوات جہاں کمیت 
+$ ( m_1 + m_2 ) $
+مخفی توانا یٗ صفر ہو اور نظام کی توانا ٗی 
+$ E_R $
+کو مطمٰن کرتا ہے ۔ جبکہ 
+$ \psi_r $
+ایک ذرے کی shroudinger مساوات جہاں تخفیف شدہ کمیت ہو ۔  مخفی توانا ٗی  V(r) ہو ، کو مطمٗن کرتا ہے ۔ قل توانا ٗی اور ان کا مجموعہ 
+$ E = E_R + E_r $
+ہو گا ۔ اس سے ہمیں یہ معلوم ہوتا ہے  کہ مرکز ی کمیت ایک آزاد ذرہ کی طرح حرکت کرتا ہے جبکہ ذرہ ایک کے لحاظ سے ذرہ دو کی  نصبطی حرکت ایسے ہی ہو گی جیسا مخفی توانا ٗی V میں تخفیف شدہ کمیت کا ایک ذرہ  کرتی ہے classical mechanics میں بھی بلکل یہی تحلیل ہو گی    جو 2 اجسام مسلے کو محاصل ایک جسم مسلہ میں  تبدیل کرتی ہے ۔ 
+
+\newpage 
+
+سوال 5٫2 : یوں Hydrogen کے مرکزہ کی حرکت کو درست کرنے کے لیے ہم electron  کی کمیت کی جگہ تخفیف شدہ کمیت استعمال کریں گے 
+
+(الف) ۔ hydrogen کی بندش کی توانا ٗی (مساوات 4٫77) جاننے کی خاطر 
+$ \mu $
+کی جگہ m استعمال کرنے سے  دو بمعنی ہندسوں تک فیصد خلل کتنا ہو گا۔  
+
+(ب) ۔ hydrogen اور Dueterium کے لیے 
+$ ( n=3 ) > ( n=2 ) $ 
+ سرخ بالمر لکیروں کے بیچ تفعال معاج میں فرق تلاش کریں ۔ 
+
+(ج) ۔ Positronium کی بندشی توانا ٗی تلاش کریں ۔ proton کی جگہ  positron رکھنے سے positronium پیدا ہو گا ۔ positron کی کمیت electron کی کمیت کے برابر ہو گا جبکہ اس کی علامت Electron کی علامت کے مخالف ہے ۔ 
+
+(د) ۔ فرض کریں آپ muonic hydrogen  جس میں electron کی جگہ ایک muon کی موجودگی کی تصدیق کرنا جانتے ہوں۔ muon کا bar  electron کے bar  کے برابر ہے ۔ جبکہ یہ electron سے 206٫77 گنا زیادہ  کمیت رکھتا ہے ۔  آپ Lyman \alpha لکیر  
+$ n = 2 $
+تا 
+$ n = 1 $
+کے لیے کس طور معاج پر نظر رکھیں گے ۔ 
+
+سوال 5٫3 : chlorine کے قدرتی دو ہم جا 
+$ Cl^35 and Cl^37 $ 
+پاےٗ جاتے ہیں ۔ دکھا ٗیں کہ HCL کی لرزشی طیف قریب قریب   جوڑیوں پر مشتمل ہو گا ۔ جن میں فرق 
+$ \Delta_v = 7.51 x {10}^-4 v $
+جہاں v خرجی photon کی تعدد ہے ۔  ( اشارہ : اس کو ایک Harmonium مرتعیش تصور کریں جہاں 
+$ \omega = sqrt{ \frac{ k }{ mu} } $
+ہو گا ۔ جہاں 
+$ \mu $
+تؒخفیف شدہ کمیت ( مساوات 5٫8 ) ہے ۔ جبکہ k دونوں ہمجا کے لیے ایک جیسا ہے ۔ 
+
+\end{document}
