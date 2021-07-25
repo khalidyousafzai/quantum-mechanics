@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  8 JUN 2021 15:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  25 JUL 2021 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202168958.tex)...disabled (restricted).
+runsystem(touch w18-test-2021725967.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202168958.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021725967.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -8868,96 +8868,185 @@ JameelNooriNastaleeq(1)/m/sl/10 کے حصول کا احتمال []
 
 ]
 باب \arabicdigits{6}.
-) [149]
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور ان کی متابقتى امتیازی اقدار  $\OML/zp
+lm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل کرتے ہیں۔ اب ہم مخفیہ
+ میں معمولی اضطراب پیدا کرتے ہیں (مثلا[]
+ []
+
+Missing character: There is no ي in font AA Sameer Sagar Nastaleeq Bold/OT:scri
+pt=arab;language=dflt;!
+Missing character: There is no ه in font AA Sameer Sagar Nastaleeq Bold/OT:scri
+pt=arab;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تاہم انتہائی خوش كسمتى کے علاوه کوئ و جه 
+نہیں پائ جاتی کے ہم اس پیچیدا مخفياه کے لیے مساوات شروڈنگر کو بالکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ٹھیک ٹھیک حل کر پائے گے۔ \TU/AASameerSaga
+rNastaleeqBold(0)/m/n/10 نظريه اضطراب \TU/JameelNooriNastaleeq(1)/m/sl/10 کو غي
+ر مضطرب صورت کے معلوم ٹھیک ٹھیک حلوں کو لے کر[]
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 17--19
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قدم بقدم چلتے ہوئے مضطرب مسئلے کے تخمينى 
+حل دیتا ہے ہم نئے ہيملٹنی کو دو اجزاء کا مجموعه لکھ کر آغاز کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 H[]$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 اضطراب ہے زیر بالا میں  $\OT1/ppl/m/n/10 0$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 ہمیشہ غير مضطرب مقدار کو ظاہر کرتا ہے ہم یہاں  $\OM
+L/zplm/m/it/10 ^^U$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو ایک چھوٹا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عدد تصور کرتے ہیں بعد میں اس کی قيمت کو ب
+ڑھا کر ایک  $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 کردی جائے گی اور  $\OML/zplm/m/it/10 H$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 اصل ہیملٹنی ہوگا اس کے[]
+ []
+
+[149]
+Underfull \hbox (badness 3792) in paragraph at lines 26--28
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں  $\OML/zplm/m/it/10 n$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 ویں امتيازى قدر کی قیمت میں \TU/AASameerSagarNastaleeqB
+old(0)/m/n/10 اول رتبی تصحیح \TU/JameelNooriNastaleeq(1)/m/sl/10 کو  $\OML/zplm
+/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر کرتا ہے جبکہ  $\OML/zpl
+m/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ویں امتيازى تفاعل میں \TU/AAS
+ameerSagarNastaleeqBold(0)/m/n/10 اول[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وغيره وغيره (رتبہ پر نظر رکھنے کی غرض سے 
+ہم نے  $\OML/zplm/m/it/10 ^^U$  \TU/JameelNooriNastaleeq(1)/m/sl/10 استمال کیا 
+اب اس کی ضرورت نہیں رہی لہٰذا اس کی[]
+ []
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ رتبہ اول نظریہ اضطراب کا بنیادی نتیجہ 
+ہے بلکہ عملاً یہ پوری کوانٹم میکانیات میں غالباً سب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے اہم مساوات ہے یہ کہتی ہے کے غير مضطرب 
+حال میں اضطراب کی توقعاتى قیمت توانائی کی اول رتبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 . فرض کریں ہم کنواں کی تہہ کو مستقل مقد
+ار  $\OML/zplm/m/it/10 V[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اوپر اٹھاتے ہو
+ئے اس نظام کو مضطرب کرتے ہیں شکل 6.‏2[]
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 80--80
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہاں کوئی چیز لامتناہی چکور کنواں کی خص
+وصیات پر منحصر نہیں ہے لہٰذا یہی کچھ کسی بھی مخفیہ کے لیے مستقل اضطراب کی صورت 
+میں[]
+ []
+
+) [151]
 \openout2 = `./tex/quantumTheVariationalPrinciple.aux'.
 
- (./tex/quantumTheVariationalPrinciple.tex [150
+ (./tex/quantumTheVariationalPrinciple.tex [152
 
 
 
 
 ]
 باب \arabicdigits{7}.
-) [151]
+) [153]
 \openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumTheWKBapproximation.tex [152
+ (./tex/quantumTheWKBapproximation.tex [154
 
 
 
 
 ]
 باب \arabicdigits{8}.
-) [153]
+) [155]
 \openout2 = `./tex/quantumTimeDependentPertubationTheory.aux'.
 
- (./tex/quantumTimeDependentPertubationTheory.tex [154
+ (./tex/quantumTimeDependentPertubationTheory.tex [156
 
 
 
 
 ]
 باب \arabicdigits{9}.
-) [155]
+) [157]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [156
+ (./tex/quantumTheAdiabaticApproximation.tex [158
 
 
 
 
 ]
 باب \arabicdigits{10}.
-) [157]
+) [159]
 \openout2 = `./tex/quantumScattering.aux'.
 
- (./tex/quantumScattering.tex [158
+ (./tex/quantumScattering.tex [160
 
 
 
 
 ]
 باب \arabicdigits{11}.
-) [159]
+) [161]
 \openout2 = `./tex/quantumAfterword.aux'.
 
- (./tex/quantumAfterword.tex [160
+ (./tex/quantumAfterword.tex [162
 
 
 
 
 ]
 باب \arabicdigits{12}.
-) [161]
+) [163]
 \openout2 = `./tex/questions.aux'.
 
- (./tex/questions.tex) [162
+ (./tex/questions.tex) [164
 
 
 
 
 
-] (./answer.tex) [163]
+] (./answer.tex) [165]
 \openout2 = `./tex/quantumAppendixLinearAlgebra.aux'.
 
 
-(./tex/quantumAppendixLinearAlgebra.tex [164
+(./tex/quantumAppendixLinearAlgebra.tex [166
 
 
 
 ]
 ضمیمہ ا.
-) [165] [166
+) [167] [168
 
 
 
-] (./quantumMechanics.ind [167
+] (./quantumMechanics.ind [169
 
 
 
 
 
-] [168] [169] [170] [171])
+] [170] [171] [172] [173])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -9037,12 +9126,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
  ) 
 Here is how much of TeX's memory you used:
- 57088 strings out of 479819
- 1495600 string characters out of 11645846
- 14531191 words of memory out of 24000000
- 73029 multiletter control sequences out of 15000+600000
+ 57097 strings out of 479819
+ 1495779 string characters out of 11645846
+ 14531357 words of memory out of 24000000
+ 73038 multiletter control sequences out of 15000+600000
  589493 words of font info for 281 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,380p,2641b,2597s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (179 pages).
+Output written on quantumMechanics.pdf (181 pages).
