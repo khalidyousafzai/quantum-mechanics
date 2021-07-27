@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  27 JUL 2021 09:40
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  27 JUL 2021 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021727580.tex)...disabled (restricted).
+runsystem(touch w18-test-2021727952.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021727580.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021727952.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1983,9 +1983,14 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
  [3]
 
+LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
+(Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
+e 57.
+
+
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 58.
+e 57.
 
 [4])
 \tf@toc=\write6
@@ -2206,15 +2211,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--78
  []
 
 
+Underfull \hbox (badness 2689) in paragraph at lines 75--80
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں تصحیح شدہ توانائیوں کی سطحیں  $\OML/z
+plm/m/it/10 E[] [] E[] \OT1/zplm/m/n/10 + \OML/zplm/m/it/10 V[]$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ہونگے جی ہاں تمام کی تمام  $\OML/zplm/m/it/10 V[]$  \TU/
+JameelNooriNastaleeq(1)/m/sl/10 مقدار سے اوپر اٹھتی ہیں یہاں[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 75--80
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت میں تمام بلند رتبی تصحیح صفر ہوں گی 
 [][] اس کے برعکس کنواں کی نصف چوڑائی تک اضطراب کی وسعت[]
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 90--91
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 6.‏9 ہمیں توانائی کی اول رتبی در
-ستگی دیتی ہے تفاعل موج کے لئے اول رتبی تصحیح حاصل کرنے کی غرض سے ہم[]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 6.‏9 ہمیں توانائی کی اول رتبی تص
+حیح دیتی ہے تفاعل موج کے لئے اول رتبی تصحیح حاصل کرنے کی غرض سے ہم[]
  []
 
 
@@ -2243,33 +2256,33 @@ t/10 c[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تعین کر کے ہم مسئل�
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--120
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جب تک غیر مضطرب توانائی طیف غیر انحطاطی ہ
-و نسب نما کوئی ی مسئلہ کڑا نہیں کرے گا (چونکہ کسی بھی عددی[]
+و نسب نما کوئی ی مسئلہ کھڑا نہیں کرے گا (چونکہ کسی بھی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--120
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے جتنی ہو تب مساوات 6.‏12 میں نسب نما
- میں صفر پایا جائے گا جو ہمیں مصیبت میں ڈالے گا ایسی[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک دوسرے جتنی ہو تب مساوات 6.‏12 میں نسب
+ نما میں صفر پایا جائے گا جو ہمیں مصیبت میں[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--120
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت میں انحطاطی نظریہ اضطراب کی ضرورت پی
-ش آئے گی جس پر حصہ 6.‏2 میں غور کیا جائے گا[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ڈالے گا ایسی صورت میں انحطاطی نظریہ اضطرا
+ب کی ضرورت پیش آئے گی جس پر حصہ 6.‏2 میں غور کیا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--120
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں اول رتبی نظریہ اضطراب مکمل ہوتا ہے تو
-انائی کی اول رتبی تصحیح  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m
-/sl/10 مساوات 6.‏9 دیتی ہے جبکہ تفاعل[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جائے گا یوں اول رتبی نظریہ اضطراب مکمل ہو
+تا ہے توانائی کی اول رتبی تصحیح  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastal
+eeq(1)/m/sl/10 مساوات 6.‏9 دیتی ہے جبکہ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--120
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موج کی اول رتبی درستگی  $\OML/zplm/m/it/1
-0  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 6.‏13 دیتی ہے میں آپ کو یہاں
- یہ ضرور بتانا چاہوں گا کہ اگرچہ[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعل موج کی اول رتبی تصحیح  $\OML/zplm/m
+/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 6.‏13 دیتی ہے میں آپ کو
+ یہاں یہ ضرور بتانا چاہوں گا کہ اگرچہ[]
  []
 
 
@@ -2281,14 +2294,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--120
  []
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 ^^K$  \TU/Jameel
-NooriNastaleeq(1)/m/sl/10 ایک مستقل ہے (الف) اجازتی توانائیوں کی اول رتبی تصحیح
- تلاش کریں بتائیں کہ جفت  $\OML/zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/
-sl/10 کی صورت میں[]
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اجازتی توانائیوں کی اول رتبی تصحیح تلاش
+ کریں بتائیں کہ جفت  $\OML/zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/sl/10
+ کی صورت میں توانائیاں مضطرب کیوں نہیں[]
  []
 
-) [153] [164
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 زمینی حال کی تصحیح  $\OML/zplm/m/it/10 
+ []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی مساوات مساوات 6.‏13 کی پھیلاو میں 
+ابتدائی تین غیر صفر اجزاء[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (الف) نہیں توانائیوں کی بالکل ٹھیک ٹھیک
+ قیمتیں حاصل کرے آپ نے کل یہ کو دوم رتبہ تک  $\OML/zplm/m/it/10 ^^O$  \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اب مساوات 6.‏9 استعمال کرتے ہوئے توانائ
+ی میں اول رتبی اضطراب کا حساب لگائیں یہاں  $\OML/zplm/m/it/10 H[]$  \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 کیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا اپنے نتیجے کا جزو(الف) کے ساتھ مواز
+نہ کرے اشارہ: نئے تکمل کی قیمت کے حصول کی نا ضرورت اور نہ[]
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 155--157
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 V[]$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 ایک مستقل ہے جس کا بعد توانائی ہے اور  $\OML/zplm/m/i
+t/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کنواں کی چوڑائی ہے کے ذریعے ایک دو
+سرے پر بہت معمولی اثر[]
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 159--161
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 پہلی قدم میں ذرات کے باہمی اثر کو نظر ا
+نداز کرتے ہوئے زمینی حال اور پہلے ہیجان حال کے تفاعلات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اول رتبی نظریہ اضطراب استعمال کرتے ہوئے
+ زمینی حال اور پہلے ہیجان حال کے توانائیوں پر ذرات کے[]
+ []
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگرچہ ہم اسی طرح آگے بڑھتے ہوئے تفاعل م
+وج کی دوم رتبی تصحیح  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl
+/10 توانائی کی سوم رتبی تصحیح وغیرہ وغیرہ حاصل کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--203
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 توانائیوں کی دوم رتبی درستگی  $\OT1/zpl
+m/m/n/10 (\OML/zplm/m/it/10 E[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)
+/m/sl/10 سوال 6.‏1 کی مخفیہ کے لیے تلاش کریں۔ تبصرہ: آپ تسلسل کا مجموعہ صریحاً[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٦.٥:  ایک ایسے باردار ذرہ پر غور ک
+ریں جو یک بعدی ہارمونی ارتعاشی مخفیہ میں پایا جاتا ہو۔ فرض کریں ہم ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دکھائیں کہ توانائیوں کی دو سطحوں میں کو
+ئی اول رتبی تبدیلی پیدا نہیں ہو گی۔ دو رتبی تصحیح تلاش کریں۔ اشارہ: سوال 3.‏33[
+]
+ []
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو بلا واسطہ حل کیا جا سکتا ہے۔ ایسا کرتے
+ ہوئے ٹھیک ٹھیک توانائیاں تلاش کر کے دکھائیں کہ یہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر غیر مضطرب حالات انحطاطی ہوں یعنی دو ی
+ا دو سے زیادہ منفرد حالات  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)
+/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ت
+وانائیاں ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے جیسی ہوں تب سادہ نظریہ اضطراب غیر ک
+ارآمد ہو گا چونکہ  $\OML/zplm/m/it/10 c[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
+ مساوات 6.‏12 اور  $\OML/zplm/m/it/10 E[]$ []
+ []
+
+) [155] [164
 
 
 
@@ -2385,12 +2493,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
  ) 
 Here is how much of TeX's memory you used:
- 55091 strings out of 479819
- 1448543 string characters out of 11645846
+ 55094 strings out of 479819
+ 1448616 string characters out of 11645846
  14062957 words of memory out of 24000000
- 71099 multiletter control sequences out of 15000+600000
+ 71102 multiletter control sequences out of 15000+600000
  562009 words of font info for 171 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,9n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,12n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (22 pages).
+Output written on quantumMechanics.pdf (24 pages).
