@@ -1,0 +1,130 @@
+\documentclass[leqno, b5paper]{khalid-urdu-book}
+\begin{document}
+\جزوحصہ{قواعد انتخاب} 
+شرع خود با خود اخراج درج ذیل روپ کے قاکبی ارکان معلوم کر کے حاصل کیا جا سکتا ہے۔
+\begin{align*}
+	\langle \psi_b\abs{r}\psi_a \rangle
+\end{align*}
+اگر آپ نے سوال \num{9.11} حل کیا ہو اگر نہیں کیا اسی وقت پہلے اس کو حل کریں تو آپ نے دیکھا ہوگا کہ یہ مقداریں عموماً صفر ہوتی ہیں۔ کیا بہتر ہوتا اگر ہم پہلے سے جان سکتے کہ کون سے تکملات صفر دیں گے تاکہ ہم اپنا قیمتی وقت غیر ضروری تکملات حل کرنے میں صرف نہ کرتے۔ فرض کریں ہم ہائڈروجن کی طرح کے نظام میں دلچسپی رکھتے ہیں جس کا ہیملٹنی کروی تشاکلی ہے۔ ایسی حالت میں ہم حالات کو عمومی کوانٹم اعداد \عددی{n,l} اور \عددی{m} سے ظاہر کر سکتے ہیں اور قالبی ارکان درج ذیل ہوں گے۔  
+\begin{align*}
+	\langle n^\prime l^\prime m^\prime\abs{r}nlm \rangle
+\end{align*}
+زاویائی معیاری حرکت تبادلی رشتوں اور زاویائی معیاری حرکت عاملین کی ہرمیشیپن مل کر اس مقدار پر طاقتور مابندیاں عائد کرتے ہیں۔
+
+انتخابی قواعد برائے \عددی{m} اور \(m^\prime\): ہم پہلے \عددی{x, y} اور \عددی{z} کے ساتھ \عددی{L_z} کے تبادل کار پر غور کرتے ہیں جنہیں باب 4 میں حاصل کیا گیا مساوات \num{4.122} دیکھیں۔
+\begin{align}
+	[L_z, x] = i\hbar y, [L_z, y] = -i\hbar x, [L_z, z] = 0
+\end{align}
+ان میں سے تیسرے سے درج ذیل حاصل ہوتا ہے۔
+\begin{align*}
+	0 &= \langle n^\prime l^\prime m^\prime\abs{[L_z, z]}nlm \rangle = \langle n^\prime l^\prime m^\prime\abs{L_zz - zL_z}nlm \rangle \\
+	&= \langle n^\prime l^\prime m^\prime\abs{[(m^\prime\hbar)z - z(m\hbar)]}nlm \rangle = (m^\prime - m)\hbar\langle n^\prime l^\prime m^\prime\abs{z}nlm \rangle
+\end{align*}
+ماخوذ 
+\begin{align}
+	\text{\RL{یا}} m^\prime = m \text{\RL{یا پھر}} \langle n^\prime l^\prime m^\prime\abs{z}nlm \rangle = 0 
+\end{align}
+لحاظہ ما سوائے \(m^\prime = m\) کی صورت میں \عددی{z} کے قالبی ارکان ہر صورت صفر ہوں گے۔
+
+ساتھ ہی \عددی{x} کے ساتھ \عددی{L_z} کا تبادل کار درج ذیل دے گا۔
+\begin{align*}
+	\langle n^\prime l^\prime m^\prime\abs{[L_z, x]}nlm \rangle &= \langle n^\prime l^\prime m^\prime\abs{(L_zx - xL_z)}nlm \rangle \\
+	&= (m^\prime - m)\hbar\langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle = i\hbar\langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle
+\end{align*}
+ماخوذ
+\begin{align}
+	(m^\prime - m)\langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle = i\langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle
+\end{align}
+یوں آپ \عددی{y} کے قالبی ارکان کو مطابقتی \عددی{x} کے قالبی ارکان سے حاصل کر سکتے ہیں اور آپ کو کبھی بھی \عددی{y} کے قالبی ارکان کا حساب کرنے کی ضرورت پیش نہیں آئے گی۔
+
+آخر میں \عددی{y} کے ساتھ \عددی{L_z} کا تبادل کار درج ذیل دیتا ہے۔ 
+\begin{align*}
+	\langle n^\prime l^\prime m^\prime\abs{[L_z, y]}nlm \rangle &= \langle n^\prime l^\prime m^\prime\abs{(L_zy-yL_z)}nlm \rangle\\
+	&= (m^\prime-m)\hbar\langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle = -i\hbar\langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle
+\end{align*}
+ماخوذ
+\begin{align}
+	(m^\prime - m)\langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle = -i\langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle
+\end{align}
+بلخصوص مساوات \num{9.70} اور مساوات \num{9.71} کو ملا کر 
+\begin{align*}
+	(m^\prime - m)^2\langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle = i(m^\prime - m)\langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle = \langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle
+\end{align*}
+لحاظہ درج ذیل ہوگا۔
+\begin{align}
+	\text{\RL{یا}} (m^\prime - m)^2 = 1, \text{\RL{یا پھر}} \langle n^\prime l^\prime m^\prime\abs{x}nlm \rangle = \langle n^\prime l^\prime m^\prime\abs{y}nlm \rangle = 0
+\end{align}
+مساوات\num{9.69} اور مساوات \num{9.72} سے ہمیں \عددی{m} کے لیئے انتخابی قواعد حاصل ہوتے ہیں۔
+\begin{align}
+	\Delta m = \pm 1 \text{\RL{یا}} 0 \text{\RL{کوئی عبور واقع نہیں ہوگا جب تک}} 
+\end{align}
+اس نےیجہ کو سمجھنا آسان ہے آپ کو یاد ہوگا فوٹان چکر ایک کا حامل ہے لحاظہ اس کے \عددی{m} کی قیمت \(1, 0\) یا \(-1\) ہوسکتی ہے زاویائی معیارِ حرکت کے \عددی{z} جزو کی بقا کے تحت فوٹان جو کچھ لے جاتا ہے جوہر اتنا کھوئے گا۔
+
+انتخابی قواعد جن میں \عددی{l} اور \(l^\prime\) شامل ہوں۔ آپ سے سوال  \num{9.12} میں درج ذیل تبادلی رشتہ اغذ کرنے کع کہا گیا۔
+\begin{align}
+	[L^2, [L^2, r]] = 2\hbar^2(rL^2 + L^2r)
+\end{align}
+ہمیشہ کی طرح ہم اس تبادل کار کو \(\mid nlm \rangle\) اور \(\langle n^\prime l^\prime m^\prime \mid\) کے بیچ لپیٹ کر انتخابی قائدہ اغذ کرتے ہیں 
+\begin{align*}
+	\langle n^\prime l^\prime m^\prime\abs{[L^2, [l^2, r]]}nlm\rangle &= 2\hbar^2\langle n^\prime l^\prime m^\prime\abs{(rL^2 + L^2)}nlm \rangle\\
+	&= 2\hbar^4[l(l+1)+l^\prime(l^\prime + 1)]\langle n^\prime l^\prime m^\prime\abs{r}nlm \rangle = \langle
+	 n^\prime l^\prime m^\prime\abs{(L^2[L^2, r]-[L^2, r]L^2)}nlm \rangle\\
+	 &=\hbar^2[l^\prime(l^\prime+1)-l(l+1)]\langle n^\prime l^\prime m^\prime\abs{[L^2, r]}nlm \rangle\\
+	 &= \hbar^2[l^\prime(l^\prime+1)-l(l+1)]\langle n^\prime l^\prime m^\prime\abs{(L^2r-rL^2)}nlm \rangle
+\end{align*}
+\begin{align}
+	=\hbar^4[l^\prime(l^\prime+1)-l(l+1)]^2\langle n^\prime l^\prime m^\prime\abs{r}nlm \rangle
+\end{align}
+ماخوذ
+\begin{align*}
+	2[l(l+1)+l^\prime(l^\prime+1)] = [l^\prime(l^\prime+1)-l(l+1)]^2 \text{\RL{یا}} 	
+\end{align*}
+\begin{align}
+	\langle n^\prime l^\prime m^\prime\abs{r}nlm \rangle = 0 \text{\RL{یا پھر}}
+\end{align}
+لیکن 
+\begin{align*}
+	[l^\prime(l^\prime+1)-l(l+1)] = (l^\prime+l+1)(l^\prime-l)
+\end{align*}
+اور
+\begin{align*}
+	2[l(l+1)+l^\prime(l^\prime+1)] = (l^\prime+l+1)^2+(l^\prime-l)^2-1
+\end{align*}
+کی بنا مساوات \num{9.76} میں پہلی شرط کو درج ذیل روپ میں لکھا جا سکتا ہے۔
+\begin{align}
+	[(l^\prime+l+1)^2-1][(l^\prime-l)^2-1] = 0
+\end{align}
+ان میں پہلا جزو ضربی صفر نہیں ہو سکتا ہے ما سوائے اُس صورت جب \(\l^\prime = l = 0\) ہو۔ اس پیچیدگی سے سوال \num{9.13} میں چھٹکارہ حاصل کیا گیا ہے لحاظہ یہ شرط \(l^\prime = l \pm 1\) کی سادہ روپ اختیار کرتی ہے۔ یوں \عددی{l} کے لیئے انتخابی قائدہ حاصل ہوتا ہے۔
+\begin{align}
+	\Delta l = \pm 1 \text{\RL{کوئی عبور واقع نہیں ہوگا جب تک}}
+\end{align}
+اگرچہ اس نتیجہ کو اغذ کرنا آسان کام نہیں ہے لیکن اس کی تشریح آسان ہے۔ فوٹان چکر ایک کا حامل ہے لحاظہ زاویائی معیارِ حرکت جمع کرنے کے قواعد \(l^\prime = l+1, l^\prime = l\)  یا \(l^\prime = l-1\) کی اجازت دیں گے۔ برقی جفت کتنی اخراج کے لیئے زاویائی معایارِ حرکت کی بقا درمیانی صورت کی اجازت دیتا ہے۔
+
+ لیکن حقیقت میں ایسا نہیں ہوتا ہے۔ یوں خود با خود اخراج کے ذریع تمام زیریں توانائی حالات تک تحویل ممکن نہیں ہوگی ان میں سے کئی کو انتخابی قواعد نہ ممکن بناتے ہیں شکل \num{9.6} میں ہائڈروجن کے لیئے ابتدائی چار بوہر سطحوں کے لیئے اجازتی تحویلات دیکھائے گئے ہیں۔ دیہان رہے کہ \(2S\) حال  \(\psi_{200}\) اسی جگہ پھنسا رہے گا۔ چونکہ \(l=1\) کا کوئی بھی زیریں توانائی حال نہیں پایا جاتا لحاظہ یہ تنظل پذیر نہیں ہوگا۔ اس کو نازک مستحکم حال کہتے ہیں اور یقیناً اس کا عرصہ حیات مثلاً \(2P\) حالات \(\psi_{211}, \psi_{210}\) اور \(\psi_{21-1}\) سے کافی لمبا ہے۔ نازک مستحکم حالات بھی آخر کار تصاداً کی بنا یا ممنوعہ تحویل کی بنا سوال \num{9.21} یا متعدد فوٹان  کے اخراج کے بنا تنزل پذیر ہوں گے۔
+ 
+\ابتدا{سوال}
+مساوات \num{9.74} میں دیگئی تبادلی رشتہ ثابت کریں۔ اشارہ: پہلے درج ذیل دیکھائیں
+\begin{align*}
+	[L^2, z] = 2i\hbar(xL_y-yL_x-i\hbar z)
+\end{align*}
+اس کو اور \(r.L = r.(r\times p) = 0\) کو استعمال کر کے درج ذیل دیکھائیں
+\begin{align*}
+[L^2, [L^2, z]] = 2\hbar^2(zL^2+L^2z)	
+\end{align*}
+\عددی{z} سے \عددی{r} تک عمومیت دینا آسان کام ہے۔
+\انتہا{سوال}
+\ابتدا{سوال}
+دیکھائیں کہ \(l^\prime = l = 0\) کی صورت میں \(\langle n^\prime l^\prime m^\prime \abs{r}nlm \rangle = 0\) ہوگا۔ اس سے مساوات \num{9.78} میں درپیش کمی ختم ہوگی۔
+\انتہا{سوال}
+\ابتدا{سوال}
+ہائڈروجن کے \(n = 3, l = 0, m = 0\) حال میں ایک الیکٹران زمینی حال تک کئی برقی جفت کتب تحویل کے زریع پہنچتا ہے۔
+
+(الف) اس تنزل کے لیئے کونسی راہیں کھلی ہیں؟ انہیں درج ذیل صورت میں پیش کریں۔
+\begin{align*}
+	\mid300\rangle\rightarrow \mid nlm\rangle\rightarrow \mid n^\prime l^\prime m^\prime \rangle\rightarrow\dots\rightarrow\mid100\rangle
+\end{align*}
+(ب) اگر آپ کے پاس ایک بوتل اس حال میں جوہروں سے بھرا ہوا ہے تب ہر راستے سے کتنا حصہ گزرے گا؟
+
+(ج) اس حال کا عرصہ حیات کیا ہوگا؟ اشارہ: پہلی تحویل کے بعد یہ حال \(\mid300\rangle\) میں نہیں ہوگا لحاظہ اس ترتیب میں ہر بار صرف پہلا قدم حل کر کے متعلقہ عرصہ حیات حاصل ہوگا۔ متعدد آزاد راستوں کی صورت میں تحویلی شرح ایک دوسرے کے ساتھ جمع ہوں گی۔
+\انتہا{سوال}
+\end{document}

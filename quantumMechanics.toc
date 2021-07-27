@@ -43,7 +43,7 @@
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {147}}%
 \contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {149}}%
 \contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {149}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندى}{\arabicdigits {149}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {149}}%
 \contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {150}}%
 \contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {153}}%
 \contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {155}}%
