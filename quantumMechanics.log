@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  28 JUL 2021 14:54
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  29 JUL 2021 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021728894.tex)...disabled (restricted).
+runsystem(touch w18-test-2021729671.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021728894.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021729671.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2398,16 +2398,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--220
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 236--238
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوئے اگر ہم اضطراب کو بند یعنی صفر کردیں 
-تب بالائی حال کا تخفیف  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/
-sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ایک 
-خطی جوڑ میں ہوگا[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی طرف بڑھاتے ہیں مشترک غیر مضطرب توانائی
+  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دو ٹکڑوں میں تقس
+یم ہو گا شکل 6.‏4 مخالف[]
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 236--238
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جبکہ زیریں حال کا تخفیف کسی دوسرے عمودی خ
-طی جوڑ میں ہوگا تاہم ہم قبل از وقت نہیں جان سکتے ہیں کہ یہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چلتے ہوئے اگر ہم اضطراب کو بند یعنی صفر ک
+ر دیں تب بالائی حال کا تخفیف  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq
+(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
+ے ایک خطی جوڑ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا جبکہ زیریں حال کا تخفیف کسی دوسرے ع
+مودی خطی جوڑ میں ہو گا تاہم ہم قبل از وقت نہیں جان سکتے ہیں کہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ موزوں خطی جوڑ کیا ہوں گے چونکہ ہم غیر 
+مضطرب حالات نہیں جانتے ہیں لہٰذا یہی وجہ ہے کہ ہم اول رتبی[]
  []
 
 
@@ -2419,14 +2432,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--240
 [155]
 Underfull \hbox (badness 10000) in paragraph at lines 258--260
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ  $\OML/zplm/m/it/10 H[]$  \TU/Jamee
-lNooriNastaleeq(1)/m/sl/10 ہرمشی ہے لہذا بائیں ہاتھ پہلا جزو دائیں ہاتھ کے پہلے
- جزو کے ساتھ کٹ جائے گا مساوات 6.‏17 کو[]
+lNooriNastaleeq(1)/m/sl/10 ہرمشی ہے لہٰذا بائیں ہاتھ پہلا جزو دائیں ہاتھ کے پہل
+ے جزو کے ساتھ کٹ جائے گا مساوات 6.‏17 کو[]
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 274--276
+Underfull \hbox (badness 6461) in paragraph at lines 274--276
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دھیان رہے کہ اصولاً ہمیں تمام  $\OML/zplm
-/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 معلوم ہے چونکه یہ غیر مضطرب تف
+/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 معلوم ہے چونکہ یہ غیر مضطرب تف
 اعلات موج  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\
 OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ[]
  []
@@ -2434,15 +2447,15 @@ OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ[]
 [156]
 Underfull \hbox (badness 10000) in paragraph at lines 286--290
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ انحطاطی نظریہ اضطراب کا بنیادی نتیجہ ہ
-ے جہاں دو جزر دو مضطرب توانائیوں سے مطابقت رکھتے[]
+ے جہاں دو جذر دو مضطرب توانائیوں سے مطابقت رکھتے[]
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 286--290
+Underfull \hbox (badness 2057) in paragraph at lines 286--290
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں لیکن صفر  $\OML/zplm/m/it/10 ^^K$  \T
-U/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں کیا ہوگا ایسی صورت میں  $\OML/zpl
-m/m/it/10 ^^L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1
-)/m/sl/10 ہوگا لہٰذا مساوات 6.‏22 کے تحت []
+U/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں کیا ہو گا ایسی صورت میں  $\OML/zp
+lm/m/it/10 ^^L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(
+1)/m/sl/10 ہو گا لہٰذا مساوات 6.‏22 کے تحت []
  []
 
 
@@ -2462,7 +2475,7 @@ riNastaleeq(1)/m/sl/10 پہلے سے موزوں خطی جوڑ تھے کیا اچ
 
 Underfull \hbox (badness 10000) in paragraph at lines 292--294
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 پاتے ایسی صورت میں ہم غیر انحطاطی نظریہ ا
-ضطراب استعمال کرپاتے حقیقت میں درج ذیل مسئلہ کے[]
+ضطراب استعمال کر پاتے حقیقت میں درج ذیل مسئلہ کے[]
  []
 
 
@@ -2483,11 +2496,36 @@ elNooriNastaleeq(1)/m/sl/10 کے بیک وقت امتیازی تفاعلات ک�
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 315--316
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 منتخب کرکے سادہ اول رتبی نظریہ اضطراب برو
-ئے کار لائے ایسا عامل تلاش نہ کرنے کی صورت میں[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 منتخب کر کے سادہ اول رتبی نظریہ اضطراب بر
+وئے کار لائے ایسا عامل تلاش نہ کرنے کی صورت میں[]
  []
 
-) [157] [158] [164
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٦.٧:  فرض کرے ایک ذرہ جس کی کمیت  
+$\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اپنے آپ پر بند یک
+ بعدی خطہ جس کی لمبائی  $\OML/zplm/m/it/10 L$ []
+ []
+
+Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
+t=arab;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مسئلہ کے لئے  $\OML/zplm/m/it/10  []
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 کی موزوں خطی جوڑ کیا ہوں گے دکھائے کہ ان حالات کے سات
+ھ آپ کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایسا ہرمشی عامل  $\OML/zplm/m/it/10 A$ 
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 تلاش کریں جو مسئلہ کے شرائط پر پورا اترتا 
+ہو دکھائیں کہ  $\OML/zplm/m/it/10 H[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور
+  $\OML/zplm/m/it/10 A$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے بیک وقت[]
+ []
+
+) [158] [159] [164
 
 
 
@@ -2592,4 +2630,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,12n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (27 pages).
+Output written on quantumMechanics.pdf (28 pages).
