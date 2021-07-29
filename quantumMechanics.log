@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  27 JUL 2021 15:52
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  28 JUL 2021 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021727952.tex)...disabled (restricted).
+runsystem(touch w18-test-2021728894.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021727952.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021728894.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1777,28 +1777,28 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/quantumAppendixLinearAlgebra.aux))
 \openout1 = `quantumMechanics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-53.
+54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
 
 ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': document ha
@@ -1813,7 +1813,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 153.
+Package chemgreek Info: Activating mapping `fontspec' on line 154.
 
 
 *geometry* driver: auto-detecting
@@ -1854,70 +1854,70 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box137
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-53.
+54.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-153.
+154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-153.
+154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-153.
+154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 153.
+(Font)              scaled to size 10.42007pt on input line 154.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 153.
+(Font)              scaled to size 7.91925pt on input line 154.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 153.
+(Font)              scaled to size 6.25204pt on input line 154.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 153.
+(Font)              scaled to size 10.42007pt on input line 154.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 153.
+(Font)              scaled to size 7.91925pt on input line 154.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 153.
+(Font)              scaled to size 6.25204pt on input line 154.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-153.
+154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
-3.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 164.
+(Font)              scaled to size 17.28pt on input line 165.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 164.
+(Font)              scaled to size 12.0pt on input line 165.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 164.
+(Font)              scaled to size 12.50409pt on input line 165.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 164.
+(Font)              scaled to size 9.37807pt on input line 165.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 164.
+(Font)              scaled to size 7.29405pt on input line 165.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 164.
+(Font)              scaled to size 12.50409pt on input line 165.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 164.
+(Font)              scaled to size 9.37807pt on input line 165.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 164.
+(Font)              scaled to size 7.29405pt on input line 165.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 164.
+(Font)              scaled to size 9.0pt on input line 165.
 
 Package fontspec Info: Font family 'DejaVuSansMono(1)' created for font
 (fontspec)             'DejaVu Sans Mono' with options
@@ -1971,12 +1971,12 @@ Space,Script=Arabic].
 
 ]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 166.
+(Font)              scaled to size 24.88pt on input line 167.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 166.
+e 167.
 
 (./quantumMechanics.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
@@ -1985,12 +1985,12 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 57.
+e 58.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 57.
+e 58.
 
 [4])
 \tf@toc=\write6
@@ -2396,7 +2396,98 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--220
  مساوات 6.‏12 اور  $\OML/zplm/m/it/10 E[]$ []
  []
 
-) [155] [164
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوئے اگر ہم اضطراب کو بند یعنی صفر کردیں 
+تب بالائی حال کا تخفیف  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/
+sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ایک 
+خطی جوڑ میں ہوگا[]
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جبکہ زیریں حال کا تخفیف کسی دوسرے عمودی خ
+طی جوڑ میں ہوگا تاہم ہم قبل از وقت نہیں جان سکتے ہیں کہ یہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اسی لیے ہم ان موزوں غیر مضطرب حالات کو 
+فی الحال عمومی روپ مساوات 6.‏17 میں لکھتے ہیں جہاں  $\OML/zplm/m/it/10 ^^K$ []
+ []
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ  $\OML/zplm/m/it/10 H[]$  \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 ہرمشی ہے لہذا بائیں ہاتھ پہلا جزو دائیں ہاتھ کے پہلے
+ جزو کے ساتھ کٹ جائے گا مساوات 6.‏17 کو[]
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 274--276
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دھیان رہے کہ اصولاً ہمیں تمام  $\OML/zplm
+/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 معلوم ہے چونکه یہ غیر مضطرب تف
+اعلات موج  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\
+OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ[]
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ انحطاطی نظریہ اضطراب کا بنیادی نتیجہ ہ
+ے جہاں دو جزر دو مضطرب توانائیوں سے مطابقت رکھتے[]
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 286--290
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں لیکن صفر  $\OML/zplm/m/it/10 ^^K$  \T
+U/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں کیا ہوگا ایسی صورت میں  $\OML/zpl
+m/m/it/10 ^^L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1
+)/m/sl/10 ہوگا لہٰذا مساوات 6.‏22 کے تحت []
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 292--294
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ٹھیک وہی ہیں جو ہم غیر انحطاطی نظریہ اضطر
+اب سے حاصل کرتے ہیں مساوات 6.‏9 یہ محض ہماری خوش[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قسمتی ہے حالات  $\OML/zplm/m/it/10  []$  
+\TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 پہلے سے موزوں خطی جوڑ تھے کیا اچھی بات ہوتی اگر ہم آغاز 
+سے موزوں حالات جان[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پاتے ایسی صورت میں ہم غیر انحطاطی نظریہ ا
+ضطراب استعمال کرپاتے حقیقت میں درج ذیل مسئلہ کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انحطاطی امتیازی تفاعلات  $\OML/zplm/m/it/
+10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/
+JameelNooriNastaleeq(1)/m/sl/10 عامل  $\OML/zplm/m/it/10 A$  \TU/JameelNooriNas
+taleeq(1)/m/sl/10 کے بھی امتیازی تفاعلات ہوں جن کے منفرد امتیازی[]
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 315--316
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ قابل تبادل ہو  $\OML/zplm/m/it/10
+ H[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 A$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 کے بیک وقت امتیازی تفاعلات کو اپنے غیر مضطرب حالات[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 منتخب کرکے سادہ اول رتبی نظریہ اضطراب برو
+ئے کار لائے ایسا عامل تلاش نہ کرنے کی صورت میں[]
+ []
+
+) [157] [158] [164
 
 
 
@@ -2417,8 +2508,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--220
 
 
 
-] [170]
-[171] [172] [173])
+]
+[170] [171] [172] [173])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2469,8 +2560,8 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (./quantumMechanics.aux
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
@@ -2484,13 +2575,13 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
 (./tex/quantumAfterword.aux) (./tex/questions.aux)
 (./tex/quantumAppendixLinearAlgebra.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 256.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
  55094 strings out of 479819
@@ -2501,4 +2592,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,12n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (24 pages).
+Output written on quantumMechanics.pdf (27 pages).
