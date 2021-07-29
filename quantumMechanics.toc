@@ -48,6 +48,7 @@
 \contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {154}}%
 \contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {155}}%
 \contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {155}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {159}}%
 \contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {153}}%
 \contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {155}}%
 \contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {157}}%

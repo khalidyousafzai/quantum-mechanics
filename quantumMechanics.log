@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  29 JUL 2021 11:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  29 JUL 2021 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021729671.tex)...disabled (restricted).
+runsystem(touch w18-test-2021729875.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021729671.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021729875.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2398,23 +2398,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--220
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 236--238
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی طرف بڑھاتے ہیں مشترک غیر مضطرب توانائی
-  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دو ٹکڑوں میں تقس
-یم ہو گا شکل 6.‏4 مخالف[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عام طور پر اضطراب  $\OT1/zplm/m/n/10 (\OM
+L/zplm/m/it/10 H[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 انحط
+اط کو ”توڑے” (یا ”منسوخ” کرے) گا جیسے جیسے ہم  $\OML/zplm/m/it/10 ^^U$  \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 کی قیمت صفر سے ایک کی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 236--238
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چلتے ہوئے اگر ہم اضطراب کو بند یعنی صفر ک
-ر دیں تب بالائی حال کا تخفیف  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq
-(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
-ے ایک خطی جوڑ میں[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طرف بڑھاتے ہیں مشترک غیر مضطرب توانائی  $
+\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دو ٹکڑوں میں تقسیم 
+ہو گا شکل 6.‏4 مخالف چلتے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 236--238
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا جبکہ زیریں حال کا تخفیف کسی دوسرے ع
-مودی خطی جوڑ میں ہو گا تاہم ہم قبل از وقت نہیں جان سکتے ہیں کہ[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوئے اگر ہم اضطراب کو بند یعنی صفر کر دیں
+ تب بالائی حال کا تخفیف  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m
+/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ایک
+ خطی جوڑ میں ہو گا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جبکہ زیریں حال کا تخفیف کسی دوسرے عمودی خ
+طی جوڑ میں ہو گا تاہم ہم قبل از وقت نہیں جان سکتے ہیں کہ[]
  []
 
 
@@ -2501,14 +2509,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 315--316
  []
 
 [157]
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 ^^K[]$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^L[]$  \TU/JameelNooriNast
+aleeq(1)/m/sl/10 کو معمول شدگی تک مساوات 6.‏22 یا مساوات 6.‏24 تعین کرتے ہیں صر
+یحاً درج ذیل[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 340--343
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٦.٧:  فرض کرے ایک ذرہ جس کی کمیت  
 $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اپنے آپ پر بند یک
  بعدی خطہ جس کی لمبائی  $\OML/zplm/m/it/10 L$ []
  []
 
-Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
-t=arab;language=dflt;mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 367--369
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مسئلہ کے لئے  $\OML/zplm/m/it/10  []
@@ -2525,7 +2539,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--370
   $\OML/zplm/m/it/10 A$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے بیک وقت[]
  []
 
-) [158] [159] [164
+[158]
+Underfull \hbox (badness 3449) in paragraph at lines 391--393
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر ہے کہ  $\OML/zplm/m/it/10 E[]$   $W$
+  \TU/JameelNooriNastaleeq(1)/m/sl/10 قالب کے امتیازی اقدار ہیں مساوات 6.‏26 اس
+ قالب کی امتیازی مساوات ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے امتیازی اقدار تلاش کرتے ہیں الجبرا کی 
+زبان میں موزوں غیر مضطرب تفاعلات موج کی تلاش سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مراد انحطاطی ذيلی فضا میں ایسا اساس تیار 
+کرنا ہے جو قالب  $\OML/zplm/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو 
+وتری بناتا ہو یہاں بھی ایک ایسا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عامل  $\OML/zplm/m/it/10 A$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 تلاش کر کے جو  $\OML/zplm/m/it/10 H[]$  \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 کا قابل تبادل ہو  $\OML/zplm/m/it/10 A$  \TU/JameelNooriNa
+staleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 H[]$  \TU/JameelNooriNastaleeq(1)/m/
+sl/10 کے بیک وقت امتیازی تفاعلات استعمال[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کر کے ہم قالب  $\OML/zplm/m/it/10 W$  \TU
+/JameelNooriNastaleeq(1)/m/sl/10 حاصل کریں گے جو از خود وتری ہو گا لہٰذا آپ کو 
+امتیازی مساوات حل کرنے کی ضرورت[]
+ []
+
+[159]) [160] [164
 
 
 
@@ -2628,6 +2678,6 @@ Here is how much of TeX's memory you used:
  71102 multiletter control sequences out of 15000+600000
  562009 words of font info for 171 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,12n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,16n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (28 pages).
+Output written on quantumMechanics.pdf (29 pages).
