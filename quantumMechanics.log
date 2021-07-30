@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  29 JUL 2021 14:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  30 JUL 2021 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021729875.tex)...disabled (restricted).
+runsystem(touch w18-test-2021730842.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021729875.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021730842.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2356,10 +2356,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 200--203
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 توانائیوں کی دوم رتبی درستگی  $\OT1/zpl
-m/m/n/10 (\OML/zplm/m/it/10 E[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)
-/m/sl/10 سوال 6.‏1 کی مخفیہ کے لیے تلاش کریں۔ تبصرہ: آپ تسلسل کا مجموعہ صریحاً[
-]
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 توانائیوں کی دوم رتبی تصحیح  $\OT1/zplm
+/m/n/10 (\OML/zplm/m/it/10 E[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 سوال 6.‏1 کی مخفیہ کے لیے تلاش کریں۔ تبصرہ: آپ تسلسل کا مجموعہ صریحاً[]
+
  []
 
 
@@ -2524,6 +2524,14 @@ $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اپنے آپ پ
  []
 
 
+Underfull \hbox (badness 4543) in paragraph at lines 360--367
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گیا ہوں مساوات 6.‏27 استعمال کرتے ہوئے  $
+\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی اول رتبی تصحیح ت
+لاش کریں اشارہ: چونکہ  $\OML/zplm/m/it/10 H[]$  \TU/JameelNooriNastaleeq(1)/m/s
+l/10 خطہ  $\OMS/zplm/m/n/10 ^^@\OML/zplm/m/it/10 a <$[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 367--369
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مسئلہ کے لئے  $\OML/zplm/m/it/10  []
 $  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/Jameel
@@ -2575,7 +2583,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--399
 امتیازی مساوات حل کرنے کی ضرورت[]
  []
 
-[159]) [160] [164
+[159]
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو ڈبہ کے ایک چوتھائی حصہ میں مخفیہ کو  $
+\OML/zplm/m/it/10 V[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مقدار بڑھاتا ہے شکل
+ 6.‏5 زمینی حال توانائی کی ایک رتبی تصحیح[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--445
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو ہمارے توقعات کے عین مطابق ہے اول ہیجان
+ حال جاننے کے لیے ہمیں انحطاطی نظریہ اضطراب کی پوری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--445
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صلاحیت درکار ہو گی پہلے قدم میں ہم قالب  
+$\OML/zplm/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کرتے ہیں اس کے 
+وتری ارکان وہی ہونگے جو زمینی حال[]
+ []
+
+[160]
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 476.
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 501--503
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 E[]$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 مشترکہ غیر مضطرب توانائی مساوات 6.‏35 ہے اضطراب توانا
+ئی  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تین منفرد توان
+ائیوں کی سطحوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں تقسیم کر کے انحطاط ختم کرتا ہے شکل 6.
+‏6 دیکھیں دھیان رہے اگر ہم بھولا پن میں اس مسئلے کو غیر انحطاطی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نظریہ اضطراب سے حل کرتے تب ہم اخذ کرتے کہ
+ اول رتبی تصحیح مساوات 6.‏9 تینوں حالات کے لئے[]
+ []
+
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 545--547
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 رکھ کر کنواں کو مضطرب کیا جاتا ہے۔ زمینی 
+حال اور تہرا انحطاطی اول ہیجان حالات کی توانائیوں میں اول رتبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--550
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٦.٩:  ایک ایسے کوانٹائی نظام پر غو
+ر کریں جس میں صرف تین خطی غیر تابع حالات پائے جاتے ہوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--577
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 قالب  $\OT1/zplm/b/n/10 H$  \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 کہ بالکل ٹھیک امتیازی اقدار کے لئے حل کریں ان میں سے ہ
+ر ایک کو  $\OML/zplm/m/it/10 ^^O$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت 
+میں دوم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--579
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اول رتبی اور دوم رتبی غیر انحطاطی نظریہ
+ اضطراب استعمال کرتے ہوئے اس حال کی امتیازی قدر کی تخمینی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--579
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قیمت تلاش کریں جو  $\OML/zplm/m/it/10 H[]
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے غیر انحطاطی امتیازی سمتیہ سے پیدا ہوت
+ا ہے آپ نے جواب کا جزو-ا کے بالکل[]
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ابتدائی طور پر انحطاطی دو امتیازی اقدار
+ کی اول رتبی تصحیح کو انحطاطی نظر یا ئے اضطراب سے تلاش کریں بالکل ٹھیک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--584
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٦.١٠:  میں دعویٰ چکا ہوں کہ  $\OML
+/zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پڑتا انحطاطی توانائی کے ا
+ول رتبی تصحیح قالب  $\OML/zplm/m/it/10 W$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
+کے امتیازی اقدار ہوں گے میں[]
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 581--584
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نے دعویٰ کیا کہ یہ  $\OML/zplm/m/it/10 n 
+\OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 صورت
+ کی قدرتی عمومیت ہے۔ اس کو ثابت کرنے کے لئے، حصہ 6.‏2.‏1 کی[]
+ []
+
+) [163] [172
 
 
 
@@ -2586,18 +2693,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
 
 
-] (./answer.tex) [165] [168
+] (./answer.tex) [173] [176
 
 
 
-] (./quantumMechanics.ind [169
+] (./quantumMechanics.ind [177
 
 
 
 
 
-]
-[170] [171] [172] [173])
+] [178]
+[179] [180] [181])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2672,12 +2779,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 55094 strings out of 479819
- 1448616 string characters out of 11645846
- 14062957 words of memory out of 24000000
- 71102 multiletter control sequences out of 15000+600000
- 562009 words of font info for 171 fonts, out of 12000000 for 9000
+ 55098 strings out of 479819
+ 1448668 string characters out of 11645846
+ 14062958 words of memory out of 24000000
+ 71105 multiletter control sequences out of 15000+600000
+ 563167 words of font info for 174 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,16n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,20n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (29 pages).
+Output written on quantumMechanics.pdf (32 pages).
