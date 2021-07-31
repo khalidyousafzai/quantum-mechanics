@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  30 JUL 2021 14:02
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  31 JUL 2021 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021730842.tex)...disabled (restricted).
+runsystem(touch w18-test-2021731947.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021730842.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021731947.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1985,12 +1985,12 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 58.
+e 59.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 58.
+e 59.
 
 [4])
 \tf@toc=\write6
@@ -2682,7 +2682,135 @@ Underfull \hbox (badness 2990) in paragraph at lines 581--584
  کی قدرتی عمومیت ہے۔ اس کو ثابت کرنے کے لئے، حصہ 6.‏2.‏1 کی[]
  []
 
-) [163] [172
+
+Underfull \hbox (badness 2334) in paragraph at lines 595--597
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو الیکٹران کی حرکی توانائی جمع کولمب مخف
+ی توانائی ہے۔ تاہم یہ مکمل کہانی نہیں ہے ہم  $\OML/zplm/m/it/10 m$  \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 کی بجائے تخفیف شده کمیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--597
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 5.‏1 استعمال کرکے ہیملٹنی میں حرکت م
+رکزہ کا اثر شامل کرنا سیکھ چکے ہیں زیادہ اہم مہین ساخت ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--597
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو در حقیقت دو منفرد وجوہات، اضافیتی تصحی
+ح اور چکر-مدار ربط، کی بنا پیدا ہوتا ہے۔ بوہر توانائیوں مساوات 4.‏70 کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مہین ساخت مستقل کہلاتا ہے اس سے بھی  $\OM
+L/zplm/m/it/10 ^^K$  \TU/JameelNooriNastaleeq(1)/m/sl/10 گنا چھوٹا لیمب انتقال 
+ہے جو بھر کی میدان کی کوانٹہ زنی سے وابستہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اور اس سے مزید کم نہایت مہین ساخت کہلا
+تا ہے جو الیکٹران اور پروٹان کے جفت قطب معیار اثر کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بیچ مقناطیسی باہم عمل سے پیدا ہوتا ہے اس 
+تنظیمی ڈھانچہ کو جدول 6.‏1 میں پیش کیا گیا ہے اس حصہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں ہم غیرت تعبہ وقت نظریہ اضطراب کی مثال
+ کے طور پر ہائیڈروجن کی مہین ساخت پر غور کریں گے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+[][] $\OML/zplm/m/it/10 ^^O[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ،  $\OML/zpl
+m/m/it/10 e$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ،  $\U/msb/m/n/10 }$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 c$  \TU/JameelNooriNastalee
+q(1)/m/sl/10 کی تجرباتی کی قیمتے استعمال کیے بغیر مہین ساخت مستقل کی قیمت تلاش 
+کریں تبصرہ پوری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طبیعت میں بلاشبہ مہین ساخت مستقل سب سے زی
+ادہ خالص بے بود بنیادی عدد ہے یہ برقناطیسیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 الیکٹران کا بار اضافیت روشنی کی رفتار اور
+ کوانٹم میکانیات پلانکس مستقل کے بنیادی مستقلات کے بیچ رشتہ[]
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 606--607
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بیان کرتا ہے اگر آپ جذو ب حل کر پائیں یقی
+نا آپ کو نوبیل انعام سے نوازا جائے گا البتہ میرا مشورہ ہوگا کہ[]
+ []
+
+[163]
+Underfull \hbox (badness 10000) in paragraph at lines 623--625
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں پہلا جزو کھل ضافیتی توانائی ہے جس می
+ں مخفی توانائی شامل نہیں ہے اور جس سے ہمیں فلحال غرض بھی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--625
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں ہے جبکہ دوسرا جزو ساکن توانائی ہے ان
+ دونوں کے بیچ فرق کو حرکت سے منسوب کیا جا سکتا ہے ہمیں[]
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 635--637
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر اضافیتی حد  $\OML/zplm/m/it/10 p \OMS
+/zplm/m/n/10 ^^\ \OML/zplm/m/it/10 mc$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی 
+صورت میں حرکی توانائی کی اضافیتی مساوات تخفیف کے بعد کلاسیکی[]
+ []
+
+[164]
+Underfull \hbox (badness 10000) in paragraph at lines 644--646
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر مضطرب حال میں  $\OML/zplm/m/it/10 H[]
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی توقعاتی قیمت رتبہ اول نظریہ اضطراب می
+ں  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی تصحیح ہوگی[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--660
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اب تک یہ مکمل طور پر ایک عمومی نتیجہ ہے ت
+اہم ہمیں ہائیڈروجن میں دلچسپی ہے جس کے لیے []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--664
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 E[]$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 زیر غور حال کی بوہر توانائی توانائی ہے یہ کام مکمل کر
+نے کی خاطر ہمیں غیر مضطرب حال  $\OML/zplm/m/it/10  []$ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--668
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 a$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 رداس بوہر مساوات 4.‏72 ہے دوسرا اتنا آسان نہیں ہے سوال 
+6.‏33 دیکھیں تاہم اس کا جواب درج[]
+ []
+
+[165]
+Underfull \hbox (badness 10000) in paragraph at lines 674--676
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یا مساوات 4.‏72 استعمال کرتے ہوئے  $\OML/
+zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو خارج کرکے باقی کو  $\OM
+L/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏70 کی صورت م
+یں لکھ کے درج ذیل[]
+ []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 4.56004pt on input line 681.
+) [166] [172
 
 
 
@@ -2774,17 +2902,21 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 256.
 
 
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 2.26395pt have occurred.
+
+
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 55098 strings out of 479819
- 1448668 string characters out of 11645846
+ 55166 strings out of 479819
+ 1450224 string characters out of 11645846
  14062958 words of memory out of 24000000
- 71105 multiletter control sequences out of 15000+600000
- 563167 words of font info for 174 fonts, out of 12000000 for 9000
+ 71166 multiletter control sequences out of 15000+600000
+ 573959 words of font info for 213 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,20n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (32 pages).
+Output written on quantumMechanics.pdf (35 pages).
