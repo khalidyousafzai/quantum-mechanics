@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  2 AUG 2021 11:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  2 AUG 2021 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202182710.tex)...disabled (restricted).
+runsystem(touch w18-test-202182926.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202182710.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202182926.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1985,12 +1985,12 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 59.
+e 60.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 59.
+e 60.
 
 [4])
 \tf@toc=\write6
@@ -2717,7 +2717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 599--602
 
 Underfull \hbox (badness 10000) in paragraph at lines 599--602
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 بیچ مقناطیسی باہم عمل سے پیدا ہوتا ہے اس 
-تنظیمی ڈھانچہ کو جدول 6.‏1 میں پیش کیا گیا ہے اس حصہ[]
+تنظیم ی ڈھانچہ کو جدول 6.‏1 میں پیش کیا گیا ہے اس حصہ[]
  []
 
 
@@ -2838,7 +2838,109 @@ m/it/10 r[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی توقعاتی قیمت �
 جواب کی[]
  []
 
-[166]) [167] [172
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مرکزہ کے گرد مدار میں الیکٹران کا تصور کر
+یں الیکٹران کے نقطہ نظر سے پروٹان اس کے گرد گھومتا ہے شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 6.‏7 مدار میں مثبت بار الیکٹران کے چھوکٹ 
+میں مقناطیسی میدان پیدا کرتا ہے جو چکر کھاتے ہوئے الیکٹران پر[]
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 724--728
+[]$[]\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 T$  \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 ہوگا مزید  $\OML/cmm/b/it/10 B$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\O
+ML/cmm/b/it/10 L$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دونوں کا رخ ایک دوسرے جی
+سا ہوگا شکل 6.‏7 میں اوپر جانب لہٰذا درج ذیل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 الیکٹران کا مقناطیسی جفت قطب معیار اثر:
+ ایک چکر کھاتے بار کا مقناطیسی جفت قطب معیار اثر اس کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چکر زاویائی معیار حرکت سے تعلق رکھتا ہے ا
+ن کے بیچ تناسبی جزو ضرب مسکن مقناطیسی مثبت ہوگا جس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کا سامنا ہم حصہ 4.‏4.‏2 میں کر چکے ہیں آئ
+یں اس مرتبہ کلاسیکی برقی حرکیات استعمال کرتے ہوئے اسے[]
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 735--736
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اخذ کریں ایک ایسا بار  $\OML/zplm/m/it/10
+ q$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جس کی لپائی رداس  $\OML/zplm/m/it/10 r
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے چلا پر کی گئی ہو اور جو محور کے گرد د
+وری عرصہ  $\OML/zplm/m/it/10 T$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے گھومتا 
+ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پر غور کریں شکل 6.‏8 اس چھلے کے مقناطیسی 
+جفت قطب معیار اثر کی تعریف رو  $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 q\OT1/zplm/
+m/n/10 /\OML/zplm/m/it/10 T\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/s
+l/10 ضرب رقبہ  $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^Yr[]\OT1/zplm/m/n/10 )$ [
+]
+ []
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 742--746
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اگر میرے پاس کوئی زیادہ پیچیدہ شکل و ص
+ورت کا جسم ہوتا مثلاً ایک کرہ صرف اتنا ضروری ہے کہ اپنے محور کے گرد[]
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 742--746
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گھومنے سے اس جسم کی شکل پیدا ہو میں اس کو
+ باریک چھلوں میں ٹکڑے کر کے تمام سے پیدا حصوں کا مجموعہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--746
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لے کر  $\OML/cmm/b/it/10 ^^V$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 اور  $\OML/cmm/b/it/10 S$  \TU/JameelNooriNastaleeq(1
+)/m/sl/10 کی قیمت معلوم کر پاتا جب تک کمیت اور بار کی تقسیم ایک جیسی ہو تاکہ با
+ر اور کمیت کا نسبت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--746
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یکساں ہو ہر چھلے کا اور لہٰذا پوری جسم کا
+ مسکن مقناطیسی نسبت ایک دوسرے جیسا ہوگا مزید  $\OML/cmm/b/it/10 ^^V$  \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 اور  $\OML/cmm/b/it/10 S$  \TU/JameelNooriNastaleeq(
+1)/m/sl/10 کے رخ ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--760
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس حساب میں ایک فریب سے کام لیا گیا ہے می
+ں نے الیکٹران کے ساکن چھوکٹ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--760
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تجزیہ کیا جو ایک غیر جمودی نظام ہے چونکہ 
+الیکٹران مرکزہ کے گرد گھومتا ہے لہٰذا یہ اسراع پذیر ہوگا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--760
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس حساب میں مجرد حرکیات تصحیح جسے طامس اس
+تقبالی حرکت کہتے ہیں شامل کرکے قبول[]
+ []
+
+) [168] [172
 
 
 
@@ -2859,8 +2961,8 @@ m/it/10 r[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی توقعاتی قیمت �
 
 
 
-]
-[178] [179] [180] [181])
+] [178]
+[179] [180] [181])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2947,4 +3049,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,20n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (36 pages).
+Output written on quantumMechanics.pdf (37 pages).
