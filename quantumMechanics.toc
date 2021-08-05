@@ -63,14 +63,18 @@
 \contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {197}}%
 \contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {199}}%
 \contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {201}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {1}}جزوی موج تجزیہ}{\arabicdigits {201}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {201}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {2}}لایاعمل}{\arabicdigits {204}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {2}}ینتقلات حیط}{\arabicdigits {206}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {3}}بارن تخمین}{\arabicdigits {209}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {3}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {209}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {3}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {212}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {3}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {216}}%
+\contentsline {chapter}{\numberline {\arabicdigits {12}}بکھراو}{\arabicdigits {203}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}تعارف}{\arabicdigits {203}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {1}}کلاسیکی نظریہ بکھراو}{\arabicdigits {203}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {2}}کوانٹم نظریہ بکھراو}{\arabicdigits {205}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}جزوی موج تجزیہ}{\arabicdigits {206}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {206}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {2}}لایاعمل}{\arabicdigits {209}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}ینتقلات حیط}{\arabicdigits {211}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}بارن تخمین}{\arabicdigits {214}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {214}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {218}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {222}}%
 \contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {221}}%
 \contentsline {chapter}{جوابات}{\arabicdigits {223}}%
 \contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {225}}%
