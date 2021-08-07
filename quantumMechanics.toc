@@ -80,6 +80,8 @@
 \contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {1}}آئنسٹائن پوڈلسکیو روزن تضاد}{\arabicdigits {234}}%
 \contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {2}}مسئلہ بل}{\arabicdigits {235}}%
 \contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {239}}%
+\contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {4}}شروڈنگر کی بلّی}{\arabicdigits {240}}%
+\contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {5}}کوانٹم زینو تضاد}{\arabicdigits {241}}%
 \contentsline {chapter}{جوابات}{\arabicdigits {241}}%
 \contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {243}}%
 \contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {243}}%
