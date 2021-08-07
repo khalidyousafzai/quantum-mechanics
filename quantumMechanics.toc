@@ -9,79 +9,83 @@
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {4}}معمول زنی}{\arabicdigits {12}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {5}}معیار حرکت}{\arabicdigits {15}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {6}}اصول عدم یقینیت}{\arabicdigits {18}}%
-\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت شروڈنگر مساوات}{\arabicdigits {23}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {23}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چکور کنواں}{\arabicdigits {29}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {38}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {40}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {49}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {57}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {66}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {66}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {68}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {77}}%
-\contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {87}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {87}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}قابلِ معلوم حالات}{\arabicdigits {91}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {93}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {93}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {95}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}متعمم شماریاتی مفہوم}{\arabicdigits {98}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}اصول عدم یقینیت }{\arabicdigits {102}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {102}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {106}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {106}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}ڈیراک علامتیت}{\arabicdigits {111}}%
-\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {125}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {125}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {127}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {128}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {133}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {137}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {138}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {148}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {150}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {151}}%
-\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {161}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {161}}%
-\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {169}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {169}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {169}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {170}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {174}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {175}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {175}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {179}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {183}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {184}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {187}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {191}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {191}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {193}}%
-\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {193}}%
-\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {195}}%
-\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {197}}%
-\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {199}}%
-\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {201}}%
-\contentsline {chapter}{\numberline {\arabicdigits {12}}بکھراو}{\arabicdigits {203}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}تعارف}{\arabicdigits {203}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {1}}کلاسیکی نظریہ بکھراو}{\arabicdigits {203}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {2}}کوانٹم نظریہ بکھراو}{\arabicdigits {205}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}جزوی موج تجزیہ}{\arabicdigits {206}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {206}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {2}}لایاعمل}{\arabicdigits {209}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}ینتقلات حیط}{\arabicdigits {211}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}بارن تخمین}{\arabicdigits {214}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {214}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {218}}%
-\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {222}}%
-\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {221}}%
-\contentsline {chapter}{جوابات}{\arabicdigits {223}}%
-\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {225}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {225}}%
-\contentsline {chapter}{فرہنگ}{\arabicdigits {227}}%
+\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت شروڈنگر مساوات}{\arabicdigits {25}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {25}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چکور کنواں}{\arabicdigits {31}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {40}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {42}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {51}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {59}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {68}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {68}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {70}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {79}}%
+\contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {89}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {89}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}قابلِ معلوم حالات}{\arabicdigits {93}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {95}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {95}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {97}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}متعمم شماریاتی مفہوم}{\arabicdigits {100}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}اصول عدم یقینیت }{\arabicdigits {104}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {104}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {108}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {108}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}ڈیراک علامتیت}{\arabicdigits {113}}%
+\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {127}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {127}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {129}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {130}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {135}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {139}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {140}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {150}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {152}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {153}}%
+\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {165}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {165}}%
+\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {173}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {173}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {173}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {174}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {178}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {179}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {179}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {183}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {187}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {188}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {191}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {195}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {195}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {197}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {3}}درمیانی طاقت میدان زیمان اثر}{\arabicdigits {198}}%
+\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {201}}%
+\contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {203}}%
+\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {205}}%
+\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {207}}%
+\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {209}}%
+\contentsline {chapter}{\numberline {\arabicdigits {12}}بکھراو}{\arabicdigits {211}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}تعارف}{\arabicdigits {211}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {1}}کلاسیکی نظریہ بکھراو}{\arabicdigits {211}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {1}.\arabicdigits {2}}کوانٹم نظریہ بکھراو}{\arabicdigits {213}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}جزوی موج تجزیہ}{\arabicdigits {214}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {214}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {2}.\arabicdigits {2}}لایاعمل}{\arabicdigits {217}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}ینتقلات حیط}{\arabicdigits {219}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}بارن تخمین}{\arabicdigits {222}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {222}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {226}}%
+\contentsline {subsection}{\numberline {\arabicdigits {12}.\arabicdigits {4}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {230}}%
+\contentsline {chapter}{\numberline {\arabicdigits {13}}پس نوشت}{\arabicdigits {233}}%
+\contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {1}}آئنسٹائن پوڈلسکیو روزن تضاد}{\arabicdigits {234}}%
+\contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {2}}مسئلہ بل}{\arabicdigits {235}}%
+\contentsline {section}{\numberline {\arabicdigits {13}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {239}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {241}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {243}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {243}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {245}}%
