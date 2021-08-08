@@ -45,21 +45,25 @@
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {2}}مقناطیسی میداں میں ایک الیکٹران }{\arabicdigits {158}}%
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {165}}%
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {165}}%
-\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {173}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {173}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {173}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {174}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {178}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {179}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {179}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {183}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {187}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {188}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {191}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {195}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {195}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {197}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {3}}درمیانی طاقت میدان زیمان اثر}{\arabicdigits {198}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}سخت پٹی}{\arabicdigits {177}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {2}}کوانٹم شماریاتی میکانیات}{\arabicdigits {182}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {1}}ایک مثال}{\arabicdigits {183}}%
+\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {187}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {187}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {187}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {188}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {192}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {193}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {193}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {197}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {201}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {202}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {205}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {209}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {209}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {211}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {3}}درمیانی طاقت میدان زیمان اثر}{\arabicdigits {212}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {4}}نہایت مہین بٹوارہ}{\arabicdigits {213}}%
 \contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {201}}%
 \contentsline {chapter}{\numberline {\arabicdigits {8}}وکب تخمین}{\arabicdigits {203}}%
 \contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {205}}%
