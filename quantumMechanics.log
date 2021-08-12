@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  12 AUG 2021 10:02
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  12 AUG 2021 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021812602.tex)...disabled (restricted).
+runsystem(touch w18-test-2021812987.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021812602.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021812987.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2098,7 +2098,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 ) [8]
 \openout2 = `./tex/quantumTheAdiabaticApproximation.aux'.
 
- (./tex/quantumTheAdiabaticApproximation.tex [228
+ (./tex/quantumTheAdiabaticApproximation.tex [230
 
 
 
@@ -2265,7 +2265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--10
  یہاں ایسا نہیں کروں گا مثال کے طور پر ہم لامتناہی چکور کنواں میں[]
  []
 
-[229]
+[231]
 Underfull \hbox (badness 10000) in paragraph at lines 12--14
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اب دائیں دیوار کو بہت آہستہ آہستہ مقام  $
 \OT1/ppl/m/n/10 2\OML/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر م
@@ -2333,7 +2333,7 @@ LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
 e 41.
 
-[230]
+[232]
 Underfull \hbox (badness 2293) in paragraph at lines 51--59
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں ہم کنواں کو ابتدائی چوڑائی کے 
 دگنا چوڑائی تک پھیلنے دیتے ہیں یوں بیرونی وقت  $\OML/zplm/m/it/10 w\OT1/zplm/m/
@@ -2356,10 +2356,43 @@ Underfull \hbox (badness 1087) in paragraph at lines 51--59
 NooriNastaleeq(1)/m/sl/10 ہوگا جس کے تحت تکمل کے دائرہ کار[]
  []
 
-)
+
+Underfull \hbox (badness 2173) in paragraph at lines 72--73
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مسئلہ حرارت نہ گزر بظاہر معقول نظر آتا ہے
+ اور اسے باآسانی بیان کیا جا سکتا ہے تاہم اس کو ثابت کرنا اتنا[]
+ []
+
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 193.
- [231] [246
+(Font)              scaled to size 10.0pt on input line 91.
+[233]
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت کے ساتھ تبدیل ہوتے ہوئے  $\OML/zplm/m
+/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں معیاری دوری جزو ضر
+بی کو عمومیت دیتا ہے میں[]
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 99--101
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کو ہمیشہ کی طرح عددی سر  $\OML/zplm/m/
+it/10 c[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 میں عزم کر سکتا تھا لیکن غیر تابع وقت ہيملٹنی کی صورت م
+یں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں وقت کے لحاظ سے تفرق کو نکتہ سے ظاہر 
+کیا گیا ہے مساوات 10.‏9 اور 10.‏13 کی بنا آخری دو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کا  $\OML/zplm/m/it/10  []$  \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 کے ساتھ اندرونی ظرب لے کر لمحاتی امتیازی تفاعلات کی 
+معیار ہمودیت مساوات 10.‏10[]
+ []
+
+[234]) [235] [246
 
 
 
@@ -2376,8 +2409,8 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
 
 
 
-] [252]
-[253] [254] [255])
+]
+[252] [253] [254] [255])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2454,10 +2487,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
 Here is how much of TeX's memory you used:
  55074 strings out of 479819
  1448043 string characters out of 11645846
- 14063068 words of memory out of 24000000
+ 14063069 words of memory out of 24000000
  71089 multiletter control sequences out of 15000+600000
  555833 words of font info for 147 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,14n,136p,2641b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (20 pages).
+Output written on quantumMechanics.pdf (22 pages).

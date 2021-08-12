@@ -67,4 +67,66 @@ E_n (t) \equiv n^2 \pi^2 \hslash^2 /2m \omega^2
 } ہوگا اس نتیجہ پر تبصرہ کریں 
 \end{enumerate}
 \انتہا{سوال}
+%================
+\جزوحصہ{مسئلہ حرارت نہ گزر کا ثبوت} 
+مسئلہ حرارت نہ گزر بظاہر معقول نظر آتا ہے اور اسے باآسانی بیان کیا جا سکتا ہے تاہم اس کو ثابت کرنا اتنا آسان نہیں ہے غیر تابع وقت ہيملٹنی کی صورت میں ایک ذرہ جو \عددی{n} وی امتیازی حال \عددی{\psi_n} میں آغاز کریں 
+\begin{align}
+H \psi_n = E_n \psi_n
+\end{align}
+ وہ ڈوری جزو ضربی اپنانے کے علاوہ اسی \عددی{n} وی امتیازی حال میں رہتا ہے 
+\begin{align}
+\Psi_n (t) = \psi_n e^{-i E_n t/ \hslash}
+\end{align}
+اگر ہيملٹنی وقت کے ساتھ تبدیل ہوتا ہوں تب امتیازی تفاعلات اور امتیازی اقدار بھی تابع وقت ہوں گے 
+\begin{align}
+H(t) \psi_n (t) = E_n (t) \psi_n (t)
+\end{align}
+لیکن اب بھی کسی ایک مخصوص لمحہ پر یہ معیار عمودی سلسلہ 
+\begin{align}
+\langle \psi_n (t) | \psi_m (t) \rangle \delta_{nm} 
+\end{align}
+تین گے جو مکمل ہے لہذا تابع وقت شروڈنگر مساوات 
+\begin{align}
+i \hslash \frac{\partial}{\partial t} \Psi (t) = H (t) \Psi (t)
+\end{align}
+کے عمومی حل کو ان کا خطی مجموعہ 
+\begin{align}
+\Psi (t) = \sum_n c_n (t) \psi_n (t) e^{i \theta_n (t)}
+\end{align}
+لکھا جا سکتا ہے جہاں 
+\begin{align}
+\theta_n (t) \approx - \frac{1}{\hslash} \int_0^1 E_n (t') \dif t'
+\end{align}
+وقت کے ساتھ تبدیل ہوتے ہوئے \عددی{E_n} کی صورت میں معیاری دوری جزو ضربی کو عمومیت دیتا ہے میں اس کو ہمیشہ کی طرح عددی سر \عددی{c_n (t)} میں عزم کر سکتا تھا لیکن غیر تابع وقت ہيملٹنی کی صورت میں بھی یہ پایا جاتا لہذا طبیعت وقت کے اس حصہ کو سریہن لکھنا موزوں ہوگا مساوات 10.12 کو مساوات 10.11 میں پر کرنے سے درج ذیل حاصل ہوگا 
+\begin{align}
+i \hslash \sum_n [\dot{c}_n \psi_n + c_n \dot{\psi}_n + i c_n \psi_n \theta_n] e^{i \dot{\theta}_n} = \sum_n c_n (H \psi_n) e^{i \theta_n} 
+\end{align}
+جہاں وقت کے لحاظ سے تفرق کو نکتہ سے ظاہر کیا گیا ہے مساوات 10.9 اور 10.13 کی بنا آخری دو اجزاء کٹ جاتے ہیں لہذا درج ذیل باقی رہتا ہے 
+\begin{align}
+\sum_n \dot{c}_n \psi_n e^{i \theta_n} = - \sum_n c_n \dot{\psi}_n e^{i \theta_n}
+\end{align}
+اس کا \عددی{\psi_m} کے ساتھ اندرونی ظرب لے کر لمحاتی امتیازی تفاعلات کی معیار ہمودیت مساوات 10.10 بروئے کار لاتے ہوئے 
+\begin{align*}
+\sum_n \dot{c}_n \delta mn e^{i \theta_n} = - \sum_n c_n \langle \psi_m | \psi_m \rangle e^{i \theta_n}
+\end{align*}
+یا درج ذیل ہوگا 
+\begin{align}
+\dot{c}_m (t) = - \sum_n c_n \langle \dot{\psi}_m | \psi_n \rangle e^{\theta_n - \theta_m}
+\end{align}
+اب مساوات 10.9 کا وقت کے ساتھ تفرق لیتے ہیں 
+\begin{align*}
+\dot{H} \psi_n + H \dot{\psi}_n = \dot{E}_n \psi_n + E_n \dot{\psi}_n
+\end{align*}
+اور یہاں بھی \عددی{\psi_m} کے ساتھ اندرونی ضرب لے کر درج ذیل ہوگا 
+\begin{align}
+\langle \psi_m | \dot{H} | \psi_n \rangle + \langle \psi_m | H | \dot{\psi}_n \rangle = \dot{E}_n \delta_{mn} + E_n \langle \psi_m | \dot{\psi}_n \rangle
+\end{align} 
+ہم \عددی{ H} کے ہرمشی ہونے سے فائدہ اٹھاتے ہوئے \عددی{
+\langle \psi_m | H | \dot{\psi}_n \rangle = E_m \langle \psi_m | \dot{\psi}_n \rangle
+} لکھتے ہیں یو \عددی{n \ne m} کی صورت میں درج ذیل ہوگا 
+\begin{align}
+\langle \psi_m | \dot{H} | \psi_n \rangle = (E_n - E_m) \langle \psi_m | \dot{\psi}_n \rangle
+\end{align}
+یہ جانتے ہوئے کے توانائیاں غیر انحطاطی ہے مساوات 10.18 
 
+%====================
