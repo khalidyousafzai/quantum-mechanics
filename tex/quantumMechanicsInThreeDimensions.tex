@@ -1,6 +1,6 @@
-%done till eq 4.97 on p172 and then after MISSING PAGES
+%done till eq 4.104 (p174) and then after MISSING PAGES
 %from  sec 4.4.1 spin 1/2 page 185 till start of prob 4.26
-%missing part is from eq 4.97 to prob 4.25 (p184) and
+%missing part is from eq 4.104 (p174) to prob 4.25 (p184) and
 %missing part is from prob 4.26 till prob 4.49 (p206)
 
 \باب{تین ابعادی کوانٹم میکانیات}\شناخت{باب_تین_ابعادی_کوانٹم_میکانیات}
@@ -845,8 +845,58 @@ L_{x}=yp_{z}-zp_{y}, \quad\quad L_{y}=zp_{x}-xp_{z}, \quad \quad L_{z}=xp_{y}-yp
 \end{gather}
 
 %%%%%%KKKKKK the above is eq 4.97 on p172
+%===========================
+باضابطہ مقلبیت رشتوں مساوات 4.10 سے ہم جانتے ہیں کہ صرف \عددی{x} اور \عددی{p_x}،  \عددی{y} اور \عددی{p_y}،  \عددی{z} اور \عددی{p_z} عاملین   غیر مقلوب ہیں یوں درمیانی دو اجزا ہدف ہوں گے لہذا درج ذیل ہوگا 
+\begin{align}
+[L_x, L_y] = y p_x [p_z, z] + x p_y [z, p_z] = i \hslash (x p_y - y p_x) = i \hslash L_z
+\end{align}
+ہم \عددی{
+[L_y, L_z]
+} یا \عددی{
+[L_z, L_x]
+} بھی تلاش کر سکتے تھے تاہم انہیں علیحدہ علیحدہ معلوم کرنے کی ضرورت نہیں ہے ہم اشاریہ کی چکری ادل بدل \عددی{
+(x \to y, y \to z, z \to x)
+} سے فوراً درج ذیل لکھ سکتے ہیں 
+\begin{align}
+[L_x, L_y] = i \hslash L_z ; \quad [L_y, L_z] = i \hslash L_x ; \quad [L_z, L_x] = i \hslash L_y
+\end{align}
+زاویائی معیار حرکت کی یہ بنیادی مقلبیت رشتے ہیں جن سے باقی سب کچھ اخذ ہوگا
 
-%in between the above and below is missing, that is from eq 4.97 (p172) to subsection 4.4.1 (p185)
+ دھیان رہے کہ \عددی{L_x} \عددی{L_y} اور \عددی{L_z} غير ہم آہنگ قابل مشاہدہ ہیں متعمم اصول عدم یقینیت مساوات 3.62 کے تحت 
+\begin{align*}
+\sigma_{L_x}^2 \sigma_{L_y}^2 \ge \big ( \frac{1}{2i} \langle i \hslash L_z \rangle \big )^2 = \frac{\hslash^2}{4} \langle L_z \rangle^2
+\end{align*}
+یا 
+\begin{align}
+\sigma_{L_x} \sigma_{L_y} \ge \frac{\hslash}{2} \abs{\langle L_z \rangle}
+\end{align}
+ہوگا یوں ایسے حالات کی تلاش جو \عددی{L_x} اور \عددی{L_y} کے بیک وقت امتیازی تفاعلات ہوں بے مقصد ہوگا اس کے برعکس کل زاویائی معیار حرکت کا مربع 
+\begin{align}
+L^2 \equiv L_x^2 + L_y^2 + L_z^2
+\end{align} 
+\عددی{L_x} کے ساتھ مقلوب ہے 
+\begin{align*}
+[L^2, L_x] &= [L_x^2, L_x] + [L_y^2, L_x] + [L_z^2, L_x] \\
+&= L_y [L_y, L_x] + [L_y, L_x] L_y + L_z [L_z, L_x] + [L_z, L_x] L_z \\
+&= L_y (- i \hslash L_z) + (- i \hslash L_z) L_y + L_z (i \hslash L_y) + (i \hslash L_y) L_z \\
+&= 0
+\end{align*}
+مقلبوں کی سادہ روپ حاصل کرنے کے لیے میں نے مساوات 3.64 استعمال کیا یہ بھی یاد رہے کہ ہر عامل اپنے ساتھ مقلوب ہوگا اس سے آپ اخذ کر سکتے ہیں کہ \عددی{L_y} اور \عددی{L_z} کے ساتھ بھی \عددی{L^2} مقلوب ہوگا 
+\begin{align}
+[L^2, L_x] = 0, \quad [L^2, L_y] = 0, \quad [L^2, L_z] = 0
+\end{align}
+یا مختصراً درج ذیل ہوگا 
+\begin{align}
+[L^2, \kvec{L}] = 0
+\end{align} 
+اس طرح \عددی{\kvec{L}} کے ہر جزو کے ساتھ \عددی{L^2} ہم آہنگ ہوگا اور ہم \عددی{L^2} کا مثلًا \عددی{L_z} کے ساتھ بیک وقت امتیازی حالات تلاش کرنے کی امید رکھ سکتےہیں
+\begin{align}
+L^2 f = \lambda f \quad & \text{\RL{ اور}} \quad L_z f = u f 
+\end{align}
+ہم نے حصہ 2.3.1 میں ہارمونی مرتعش پر سیڑھی عامل کی ترکیب استعمال کی یہی ترکیب یہاں پر بھی استعمال کرتے ہیں 
+
+%%%%%%KKKKKK the above is eq 4.104 on p174
+%in between the above and below is missing, that is from eq 4.104 (p174) to subsection 4.4.1 (p185)
 
 %below is sec 4.4.1 spin 1/2 (p185) till eq 4.158 (inclusive, P191)
 \جزوحصہء{ \عددی{1/2} چکر}
