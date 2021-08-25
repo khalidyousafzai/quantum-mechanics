@@ -19,7 +19,7 @@ ADC: analog to digital converter	مماثل سے عددی مبادل کار
 admit; admit a solution	تسلیم کرنا؛ حل تسلیم کرتا ہے
 Adrien Marie Legendre	اڈریان مری لیژانڈر
 advanced text	اعلٰی درجے کی کتاب
-Ahاranov-Bohm effect	اہارانو و بوہم اثر
+Aharanov-Bohm effect	اہارانو و بوہم اثر
 ASICs	خصوصی استعمال کے مخلوط ادوار
 Accuracy, 3 digit accuracy	درستگی، اشاریہ کے بعد تین ہندسوں تک درستگی
 Achille Ernest Delesse’r rule	اشیلہ ارنسٹ دولس، قاعدہ دولس
@@ -34,7 +34,7 @@ additional	اضافی، زائد
 additive	جمعی
 additivity	جمع پذیری
 adiabatic process; near adiabatic	حرارت نا گزر عمل؛ قریب حرارت نا گزر
-adjacent [states]	ہمسایہ، پڑوسی، برابر والا
+adjacent [states]	ہمسایہ، پڑوسی، برابر والا، قریب قریب، ساتھ ساتھ
 adjoint matrix	شریک قالب
 adjust	درست کرنا، مطابق بنانا
 Admittance, impedance (electrical)	برقی رکاوٹ، برقی فراوانی
@@ -97,6 +97,7 @@ antireflective coating	غیر انعکاسی تہہ
 anion, (cation)	منفی باررداریہ (مثبت بارداریہ)
 anisotropic	سمتی خاصیت
 anode	مثبت برقیرہ
+annihilation	نابودی،  فنا
 annulus, (washer)	چھلا
 antenna	اینٹینا
 antenna: end-fire antenna	محوری انٹینا
@@ -241,7 +242,7 @@ binomial coefficient, binomial distribution	ثنائی ترتیب، ثنائی �
 binomial series	الکراجی ثنائی تسلسل
 binormal vector	دوہری عمودی سمتیہ
 biophysicist	ماہر حیاتی طبیعیات
-Biot-savart law	بایوٹ-سیوارٹ کا قانون
+Biot-savart law	بایوٹ و سیوارٹ کا قانون
 bisector	مساوی متقاطع
 bit	دہرا ہندسہ: ہندسہ
 bit: binary code, binary digit, binary arithmetic	ثنائی need to change in digital book
@@ -366,6 +367,7 @@ celsius, fahrenheit	سیلسیئس، فارن ہائیٹ
 centripetal force	مرکز مائل قوت
 chance	امکان، اتفاق
 chaos	ابتری
+Chambers [name]	چیمبرز
 chamber, turbine chamber	خانہ، چرخی خانہ
 Chandrasekhar limit	چندرشیکھر حد
 chapter	باب
@@ -402,7 +404,7 @@ class midpoints, class marks	جماعتی وسطی نقطے، جماعتی نش�
 class interval	جماعتی وقفہ
 class room	تدریسی کمرہ
 clear, preset	زبردستی بلند، زبردستی پست
-clearly	صراحت، صریحتاً
+clearly	صراحت، صریحاً
 Clebsch-Gordan coefficients	کلیبش گورڈن عددی سر
 cliff	چٹان، کھڑا چٹان
 clockwise, anti clock wise	گھڑی کی سوئی کے رخ، گھڑی کی سمت
@@ -442,14 +444,21 @@ comment, [discuss]	تبصرہ، [بحث]
 common emitter amplifier, common collector and common base	ایمٹر مشترک ایمپلیفائر، کلکٹر مشترک اور بیس مشترک
 common mode signal	مشترکہ اشارہ
 communication	 ابلاغ، ذرائع ابلاغ
-commutes (A commutes with B)	اے اور بی قابل تبدل ہیں۔
-commuting, noncommuting	قابل تبادل، ناقابل تبادل
-commutation: canonical commutation relation	باضابطہ تبادلی رشتہ
+commutes [QM] (A commutes with B)	اے اور بی قابل تبدل ہیں۔
+commuting, noncommuting [QM]	قابل تبادل، ناقابل تبادل
+commutation [QM]: canonical commutation relation	باضابطہ تبادلی رشتہ
 commutative, commutation	قابل تبادل، تبادلی
-commutative law, commutative law of multiplication (maths)	قانون تبادل، ضرب کا استبدالی قانون
-commutator	میکانی سمت کار
 commutator (quantum mech)	تبادل کار
 commute: A and B commute	الف اور ب آپس میں قابل تبادل ہیں۔
+commutative law, commutative law of multiplication (maths)	قانون تبادل، ضرب کا استبدالی قانون
+commutator [DC machines]	میکانی سمت کار
+Commutation [quantum mech]	مقلبیت
+commutation [QM]: canonical commutation relation	باضابطہ مقلبیت رشتہ
+commutator (quantum mech)	مقلب
+Commutes (quantum mech)	مقلوب؛ الف اور ب مقلوب ہیں۔  الف کے ساتھ ب مقلوب ہے،
+commuting [QM]	مقلوبی
+Commutes [QM] (A commutes with B)	اے اور بی آپس میں مقلوب ہیں۔ اے اور بی مقلوب ہیں۔
+commutative[QM]	مقلبی
 company	ادارہ
 compare	موازنہ، مقابلہ
 comparison test	تقابلی پرکھ
@@ -771,8 +780,8 @@ dipole, dipole moment	جفت قطب، جفت قطب کا معیار اثر
 dipole: quadrupole, multipole	چو قطب، متعدد قطب
 dipole antenna	جفت قطبی اینٹینا
 Dirac: Paul Adrien Maurice Dirac	پال اڈرین مارث ڈیراک
-Dirac comb	ڈائی رک کنگھی
-Dirac delta function	ڈائی رک ڈیلٹائی تفاعل
+Dirac comb	ڈائی رک کنگھی، ڈیراک کنگھی
+Dirac delta function	ڈائی رک ڈیلٹائی تفاعل، ڈیراک ڈیلٹائی تفاعل
 direct integral (quantum mech)	بلا واسطہ تکمل
 direct method	بلا واسطہ ترکیب
 direct current  DC	راست رُو، یک سمت رُو
@@ -1044,6 +1053,7 @@ field, static	ساکن میدان
 file: computer file	دستاویز
 filter, low pass, high pass, band pass, band stop	پٹی گزار چھلنی، پٹی روک چھلنی، پست گزار چھلنی اور بلند گزار چھلنی
 filter, low pass, high pass, band pass, band stop	پٹی گزار فلٹر، پٹی روک فلٹر،بلند گزار اور پست گزار فلٹر
+finally	الغرض
 fine	باریک
 fine structure, hyperfine structure (quantum mech)	مہین ساخت، نہایت مہین ساخت
 finite processes	متناہی چال
@@ -1144,6 +1154,7 @@ gain, voltage gain, current gain, transconductance gain, transresistance gain	ا
 Gamma function; incomplete gamma function	گیما تفاعل، غیر مکمل گیما تفاعل
 Gamov’s theory of alpha decay	الفا تحلیل کا نظریہ گامو، الفا تنزل کا نظریہ گامو
 gap, air gap	درز، خلائی درز
+gauge invariant, gauge transformation	گیج غیر متغیر، گیج  تبادلہ، ماپ غیر متغیر، ماپ تبادلہ
 Gauss: Johann Carl Friedrich Gauss	یوہان کارل فرڈرش گاوس
 Gauss's convergence theorem	گاوسی مسئلہ ارتکاز
 Gauss, Gaussian	گاوس، گاوسی
@@ -1204,7 +1215,6 @@ group delay (dispersion)	مجموعی تاخی، گروہی تاخیرر
 group, grouping	گروہ، گروہ بندی
 group theory	گروہی نظریہ
 growth rate	شرح نمو
-guage invariant, guage transformation	گیج غیر متغیر، گیج  تبادلہ
 guarantee	ضمانت
 gyration, radius of gyration	دوار، حرکت دواری، رداس دوار
 H11 (hybrid parameters)	قصر دور داخلی رکاوٹ
@@ -1237,9 +1247,10 @@ helium, parahelium, [orthohelium]	ہیلیم, نزدہیلیم، [ہیلیم پ�
 helix	پیچ دار
 Helmholtz vector equation (Herman Ludwig von Helmholtz)	ہرمن لڈوگ فرڈینانڈ ون ہلم ہولٹز
 Henry	ہینری
-Hermite polynomials	ہامائٹ کثیر رکنی
+Hermite polynomials	ہارمائٹ کثیر رکنیر
 Hermitian matrix; Charles Hermite	چارلس ہرمائٹ؛ ہرمشی قالب
 hermitian, anti-hermitian, skew hermitian	ہرمشی، خلاف ہرمشی، منحرف ہرمشی
+hermiticity	ہرمشی پن
 hertz: heinrich hertz	ہائنرک ہرٹز
 hexagon, hexagonal	مسدس، مسدسی
 hidden variable	درپردہ متغیر
@@ -1254,7 +1265,7 @@ hilbert space: live in hilbert space	ہلبرٹ فضا میں بستے ہیں
 hint	اشارہ
 hold: equation or theorem holds 	کارآمد رہنا
 hollow	کھوکھلا
-holonomic	ہمہ قواعد؟؟؟؟؟
+holonomic process	ہمہ قواعد؟؟؟؟؟، گرگٹی عمل
 homogeneous, non homogeneous	ہر طرف یکساں خاصیت، ہر طرف غیر یکساں خاصیت، یکساں خاصیت
 homogeneous equation, heterogeneous equation	متجانس مسوات، غیر متجانس مساوات
 Hooke's law; Robert Hooke	قانون ہک؛ روبرٹ ہک
@@ -1325,7 +1336,7 @@ inclusion set	شمولی سلسلہ
 inclusive: for x between a and b, inclusive, A>B	بشمول، بشمول الف اور ب اور ان کے بیچ ش کے لئے ۔۔۔
 incoming, outgoing vector	آمدی، رخصتی سمتیہ
 incompressibility	داب نا پذیری
-incompatible observers (quantum mech)	غیر ہم آہنگ قابل مشاہدہ
+incompatible observables (quantum mech)	غیر ہم آہنگ قابل مشاہدہ
 increasing, decreasing	بڑھتا، گھٹتا
 increment, decrement	بڑھوتری، کٹوتی
 indeed	یقیناً، درحقیقت
@@ -1787,6 +1798,7 @@ neutral wire, cold wire	تعدیلی تار، سرد تار، ٹھنڈی تار
 neutralization	تعدیل
 newton's law of cooling	نیوٹن کا قانون ٹھنڈک
 nichrome	نائیکروم
+nine sided, [ten sided]	متسع ضلع، [معشر ضلع]
 Nobel prize	نوبل انعام یافتہ
 nodal point, nodal lines (vibrations)	نقطہ صفر ہٹاو، صفر ہٹاو لکیر
 node, anti node (string)	نقطہ صفر ہٹاو، عقدہ (عقدوں)، ضد عقدہ
@@ -1937,6 +1949,7 @@ overview	 جائزہ، سرسری جائزہ
 Pacific ocean	بحرالکاہل
 packet: spectral packet	شعاعی پٹی
 packet: wave packet (quantum mech)	موجی اکٹھ
+pair annihilation	نابودیِ جفت
 PAL	قابلِ تشکیل ایند جوڑ کے منتقی ترکیبی دور
 Pappus theorem (maths)	مسئلہ پاپس
 parabola, parabolas	قطع مکافی، قطعات مکافی
@@ -1963,6 +1976,7 @@ partial fractions: method of partial fractions	جزوی کسری ترکیب
 partial sum	جزوی مجموعہ
 partial wave analysis	جزوی موج تجزیہ
 partial wave amplitude	جزوی موج حیطہ
+particle, particles	ذرہ، ذرات
 particle physicist	ماہر طبیعیات ذرات
 particular solution	مخصوص حل
 partition: the partition, partitions	خانے بنانا، خانہ یا خانے، خانہ بندی
@@ -1999,7 +2013,7 @@ perpendicular, drop a perpendicular	عمودی، عمود گرانا
 perpendicular axis theorem	مسئلہ عمودی محور
 perturbation: perturbation theory	خلل، اضطراب، نظریہ اضطراب
 perturbation: first order theory, second order theory	رتبہ اول نظریہ، رتبہ دوم نظریہ
-perturbation: first order correction	رتبہ اول درستگی، اول رتبی تصحیح
+perturbation: first order correction, (second order)	رتبہ اول درستگی، اول رتبی تصحیح، ، (دوم رتبی)
 perturbed, unperturbed	مضطرب، غیر مضطرب
 pH (acidity)	طاقت ہائیڈروجن
 pharmaceutical	دوا ساز
@@ -2543,6 +2557,7 @@ Snell's law,  ibn Sahl's law of refraction	سنیل کا قانون، ابن س�
 snow flakes (Helge von koch)	برفانی روئی، برف کی روئی (ہلگے ون کوچ)
 snubber (power electronics: RC snubber)	چپٹی کار
 socket: electrical	ساکٹ
+sodium	سوڈیم
 software, hardware	سافٹ وئیر
 solar panel	شمسی چادر
 solid angle, beam solid angle (antenna)	ٹھوس زاویہ، ٹھوس زاویہ نقش
@@ -2557,6 +2572,7 @@ solution space	حل فضا
 solution vector	حل سمتیہ
 solution (of liquids)	محلول
 solve	حل کرنا
+solution, solute, [solvent]	محلول، منحل، [محلل]
 sonic boom	صوتی دھماکا
 source: dependent & independent voltage source	تابع منبع دباو، غیر تابع منبع دباو
 source: dependent & independent current source	تابع اور غیر تابع منبع رو
@@ -2572,6 +2588,7 @@ space: position space	مقامی فضا
 space: momentum space	معیار حرکی فضا
 space: dual space	دوہری فضا
 space: null space (maths)	معدوم فضا
+space: outer	بیرونی فضا
 space, row space, column space (set, maths)	فضا، صف فضا، قطار فضا
 space: solution space	حل فضا
 span (set, maths)	احاطہ
@@ -2843,7 +2860,7 @@ transform, laplace transform	لاپلاس بدل
 transform: to transform	تبادلہ کرنا
 transformation	مبدل
 transformation: impedance transformation	برقی رکاؤٹ کا تبادلہ
-transformation:angular transformation, linear transformation	خطی تبادلہ یا خطی تبادل، زاویائی تبادلہ
+transformation:angular transformation, linear transformation	خطی تبادلہ، زاویائی تبادلہ
 transient state, steady state	برقرار چالو، عارضی صورت
 transient, transient state,transient state operation	عارضی، عارضی حالت، عارضی حال میں چالو
 transistor: active mode	افزائندہ حال
@@ -2906,7 +2923,7 @@ typist	ٹائپ کار
 ultraviolet	بالائے بصری شعاع
 Ultra-relativistic	بالائے اضافیتی
 unbiased	غیر جانب دارانہ
-uncertainty principle	عدم یقینیت کا اصول
+uncertainty principle, [uncertainty]	عدم یقینیت کا اصول، [عدم یقینیت]
 uncovered charges	بے پردہ، نمودار
 undamped	بلا تقصیر
 undamped natural frequency	بلا تقصیر قدرتی تعدد
