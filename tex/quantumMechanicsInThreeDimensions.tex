@@ -1,6 +1,6 @@
 %done till prob 4.20 (p179) and then after MISSING PAGES
 %from  sec 4.4.1 spin 1/2 page 185 till start of prob 4.26
-%missing part is from prob 4.20 (p179) to prob 4.25 (p184) and
+%missing is from section 4.4 (p183) to subsection 4.4.1 (p185)
 %missing part is from prob 4.26 till prob 4.49 (p206)
 
 \باب{تین ابعادی کوانٹم میکانیات}\شناخت{باب_تین_ابعادی_کوانٹم_میکانیات}
@@ -1066,7 +1066,144 @@ V(\kvec{r})
 \انتہا{سوال}
 
 %the above is prob 4.20 (p179)
-%in between the above and below is missing, that is from subsection 4.3.2 (p179) to subsection 4.4.1 (p185)
+%===============
+\جزوحصہ{امتیازی تفاعلات}
+ہمیں سب سے پہلے \عددی{L_x}،  \عددی{L_y} اور \عددی{L_z} کو کروی محدت میں لکھنا ہوگا اب  \عددی{
+\kvec{L} = (\hslash/i)(\kvec{r} \times \kvec{\nabla})
+} ہے جبکہ کروی محدد میں ڈھلوان درج ذیل ہوگا 
+\begin{align}
+\kvec{\nabla} = \hat{r} \frac{\partial}{\partial r} + \hat{\theta} \frac{1}{r} \frac{\partial}{\partial \theta} + \hat{\phi} \frac{1}{r \sin {\theta}} \frac{\partial}{\partial \phi}
+\end{align}
+جہاں \عددی{
+\kvec{r} = r \hat{r}
+} ہوگا یوں درج ذیل لکھا جا سکتا ہے 
+\begin{align*}
+\kvec{L} = \frac{\hslash}{i} \big [ r (\hat{r} \times \hat{r}) \frac{\partial}{\partial r} + (\hat{r} \times \hat{\theta}) \frac{\partial}{\partial \theta} + (\hat{r} \times \hat{\phi}) \frac{1}{\sin \theta} \frac{\partial}{\partial \phi} \big ]
+\end{align*}
+اب \عددی{
+(\hat{r} \times \hat{r}) = 0
+} \عددی{
+(\hat{r} \times \hat{\theta}) = \hat{\phi}
+} اور \عددی{
+(\hat{r} \times \hat{phi}) = - \hat{theta}
+} ہوتے ہیں شکل 4.1 لہذا درج ذیل ہوگا 
+\begin{align}
+\kvec{L} = \frac{\hslash}{i} \big ( \hat{\phi} \frac{\partial}{\partial \theta} - \hat{\theta} \frac{1}{\sin \theta} \frac{\partial}{\partial \phi} \big )
+\end{align}
+اکائ سمتیات \عددی{\hat{\theta}} اور \عددی{\hat{\phi}} کو ان کے کارتیسی اجزاء میں لکھتے ہیں 
+\begin{align}
+\hat{\theta} = (\cos \theta \cos \phi) \hat{i} + (\cos \theta \sin {phi}) \hat{j} - (\sin \theta) \hat{k}
+\end{align}
+\begin{align}
+\hat{\phi} = - (\sin \phi) \hat{i} + (\cos \phi) \hat{j}
+\end{align}
+یوں 
+\begin{align*}
+\kvec{L} = \frac{\hslash}{i} [(- \sin \phi \hat{i} + \cos \phi \hat{j}) \frac{\partial}{\partial \theta} - (\cos \theta \cos \phi \hat{i} + \cos \theta \sin \phi \hat{j} - \sin \theta \hat{k}) \frac{1}{\sin \theta} \frac{\partial}{\phi}]
+\end{align*}
+ہوگا ظاہر ہے درج ذیل ہوں گے 
+\begin{align}
+L_x = \frac{\hslash}{i} \big ( - \sin \phi \frac{\partial}{\partial \theta} - \cos \phi \cot \theta \frac{\partial}{\partial \phi} \big )
+\end{align}
+\begin{align}
+L_y = \frac{\hslash}{i} \big ( + \sin \phi \frac{\partial}{\partial \theta} - \cos \phi \cot \theta \frac{\partial}{\partial \phi} \big )
+\end{align} 
+\begin{align}
+L_z = \frac{\hslash}{i} \frac{\partial}{\partial \phi}
+\end{align} 
+ہمیں آمل رفت اور امل تقلیل بھی درکار ہوں گے 
+\begin{align*}
+L_{\pm} = L_x \pm i L_y = \frac{\hslash}{i} \big [ (- \sin \phi \pm i \cos \phi) \frac{\partial}{\partial \theta} - (\cos \phi \pm i \sin \phi) \cot \theta \frac{\partial}{\partial \phi} \big ]
+\end{align*}
+چونکہ \عددی{
+\cos \phi \pm i \sin \phi = e^{\pm i \phi}
+} ہوتا ہے لہذا درج ذیل ہوگا 
+\begin{align}
+L_{\pm} = \pm \hslash e^{\pm i \phi} \big ( \frac{\partial}{\partial \theta} \pm i \cot \theta \frac{\partial}{\partial \phi} \big )
+\end{align}
+بالخصوص سوال 4.21(a) درج ذیل ہوگا 
+\begin{align}
+L_{+} L_{-} = - \hslash^2 \big ( \frac{\partial^2}{\partial \theta^2} + \cot \theta \frac{\partial}{\partial \theta} + \cot^2 \theta \frac{\partial^2}{\partial \phi^2} + i \frac{\partial}{\partial \phi} \big )
+\end{align}
+لہذا سوال 4.21(b) درج ذیل حاصل ہوتا ہے 
+\begin{align}
+L^2 = - \hslash^2 \big [ \frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \big ( \sin \theta \frac{\partial}{\partial \theta} \big ) + \frac{1}{\sin^2 \theta} \frac{\partial^2}{\partial \phi^2} \big ]
+\end{align}
+ہم اب \عددی{
+f_l^m (\theta, \phi)  
+} پائين کر سکتے ہیں یہ \عددی{
+L^2
+} کا امتیازی تفاعل ہے جس کی امتیازی قدر \عددی{
+\hslash^2 l (l + 1)
+} ہے 
+\begin{align*}
+L^2 f_l^m = - \hslash^2 \big [ \frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \big ( \sin \theta \frac{\partial}{\partial \theta} \big ) + \frac{1}{\sin^2 \theta} \frac{\partial^2}{\partial \phi^2} \big ] f_l^m = \hslash^2 l (l + 1) f_l^m
+\end{align*}
+یہ ٹھیک زاویائی مساوات 4.18 ہے ساتھ ہی یہ \عددی{L_z} کا امتیازی تفاعل بھی ہے جہاں اس کا امتیازی قدر \عددی{m \hslash} ہوگا 
+\begin{align*}
+L_z f_l^m = \frac{\hslash}{i} \frac{\partial}{\partial \phi} f_l^m = \hslash m f_l^m
+\end{align*}
+جوائن شمالی مساوات مساوات 4.21 کا معادل ہے ہم ان مساوات کا نظام حل کر چکے ہیں ان کا معمول شدا نتیجہ کروی ہارمونیات \عددی{
+Y_l^m (\theta , \phi)
+} ہے اس سے ہم یہ نتیجہ اخذ کرتے ہیں کے \عددی{L^2} اور \عددی{L_z} کے امتیازی تفاعلات کروی ہارمونیات ہونگے حصہ 4.1 میں علیحدگی متغیرات کی ترکیب سے مساوات شروڈنگر حل کرتے ہوئے ہم انجانے میں تین مقلوبی عاملین \عددی{H} \عددی{L^2} اور \عددی{L_z} کے بیک وقت امتیازی تفاعلات تیار کر رہے تھے 
+\begin{align}
+H \psi = E \psi , \quad L^2 \psi = \hslash^2 l (l + 1) \psi , \quad L_z \psi = \hslash m \psi
+\end{align}
+ہم مساوات 4.132 استعمال کرتے ہوئے مساوات شروڈنگر مساوات 4.14 کو مختصرا درج ذیل لکھ سکتے ہیں 
+\begin{align*}
+\frac{1}{2m r^2} \big [ - \hslash^2 \frac{\partial}{\partial r} \big ( r^2 \frac{\partial}{\partial r} \big ) + L^2 \big ]  \psi + V \psi = E \psi
+\end{align*}
+یہاں ایک دلچسپ صورتحال پیدا ہوتی ہے علحدگی متغیرات کی ترکیب سے امتیازی تفاعلات کی صرف عدد صحیح \عددی{l} قیمتیں مساوات 4.29 حاصل ہوئی جبکہ زاویائی معیار حرکت کی الجبرائی نظریہ \عددی{l} اور لہذا \عددی{m} بھی کی نصف عدد صحیح قیمتیں مساوات 4.119 بھی دیتی ہے آپ کا خیال ہوگا کہ نصف عدد صحیح نتائج غیر ضروری ہے لیکن جیسا آپ اگلے حصوں میں دیکھیں گے کہ یہ انتہائی زیادہ اہمیت کے حمل ہے 
+\ابتدا{سوال}
+\begin{enumerate}[a.]
+\item
+مساوات 4.130 سے مساوات 4.131 اخذ کریں اشارہ تفاعل برق استعمال کرنا نہ بھولیں 
+\item
+مساوات 4.129 اور 4.131 سے مساوات 4.132 اخذ کریں اشارہ مساوات 4.112 استعمال کریں 
+\end{enumerate}
+\انتہا{سوال} 
+\ابتدا{سوال}
+\begin{enumerate}[a.]
+\item
+حساب کیے بغیر بتائیں \عددی{
+L_{+} Y_l^l
+} کیا ہوگا 
+\item
+مساوات 4.130 کے ساتھ جزو ( الف) کا نتیجہ اور یہ جانتے ہوئے کہ \عددی{
+L_z Y_l^l = \hslash l Y_l^l
+} ہوگا \عددی{
+Y_l^l (\theta , \phi)
+} کی ایک مستقل تک معمول شدہ قیمت تلاش کریں 
+\item
+بلاواسطہ تکمل کے ذریعے مستقل معمول ذنی تعین کریں اپنی حتمی نتیجے کا سوال 4.5 کے نتیجے کے ساتھ موازنہ کریں 
+\end{enumerate} 
+\انتہا{سوال}
+\ابتدا{سوال}
+آپ نے سوال 4.3 میں درج ذیل دکھایا 
+\begin{align*} 
+Y_2^1 (\theta , \phi) = - \sqrt{15/8 \pi} \sin \theta \cos \theta e^{i \phi}
+\end{align*}
+عامل رفت کا \عددی{
+Y_2^2 (\theta , \phi)
+} پر اطلاق کریں معمول زنی کے لیے مساوات 4.121 استعمال کریں 
+\انتہا{سوال}
+\ابتدا{سوال}
+بے کمیت کا ایک ڈنڈا جس کی لمبائی \عددی{a} ہے کے دونوں سروں پر کمیت \عددی{m}  کے ذرات بندے ہوئے ہیں يہ نظام وسط کے گرد آزادی سے تین بودی حرکت کرسکتا ہے جبکہ نظام کا وسط از  خود حرکت نہیں کرتا 
+\begin{enumerate}[a.]
+\item
+دکھائیں کے اس نظام کی اجازتی توانائیاں درج ذیل ہو نگی 
+\begin{align*}
+E_n& = \frac{\hslash^2 n (n + 1)}{m a^2} ,&& n=0,1,2,\dotsc 
+\end{align*}
+اشارہ کلاسیکی تمنائیوں کو کل زاویائی معیار حرکت کی صورت میں لکھیں 
+\item
+اس نظام کی معمول شدہ امتیازی تفاعلات کیا ہوںگے اس نظام کی \عددی{n} وی توانائی سطح کی انحطاطیت کیا ہوگی 
+\end{enumerate}
+\انتہا{سوال}
+
+%the above is prob 4.24 (p182)
+
+%in between the above and below is missing, that is from section 4.4 (p183) to subsection 4.4.1 (p185)
 
 %below is sec 4.4.1 spin 1/2 (p185) till eq 4.158 (inclusive, P191)
 \جزوحصہء{ \عددی{1/2} چکر}
