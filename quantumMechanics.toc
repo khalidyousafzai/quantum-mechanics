@@ -46,18 +46,19 @@
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {4}}چکر}{\arabicdigits {165}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {1}}مقناطیسی میداں میں ایک الیکٹران }{\arabicdigits {172}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {2}}زاویائی معیار حرکت کا مجموعہ}{\arabicdigits {176}}%
-\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {187}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {187}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوزان اور فرمیون}{\arabicdigits {189}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {2}}قوت مبادلہ}{\arabicdigits {192}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {2}}جوہر}{\arabicdigits {195}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {1}}ہیلیم}{\arabicdigits {196}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {2}}دوری جدول}{\arabicdigits {198}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {3}}ٹھوس اجسام}{\arabicdigits {200}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {1}}آزاد الیکٹرون گیس}{\arabicdigits {201}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {2}}سخت پٹی}{\arabicdigits {204}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {4}}کوانٹم شماریاتی میکانیات}{\arabicdigits {209}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {1}}ایک مثال}{\arabicdigits {210}}%
+\contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {191}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {191}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوزان اور فرمیون}{\arabicdigits {193}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {2}}قوت مبادلہ}{\arabicdigits {196}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {2}}جوہر}{\arabicdigits {199}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {1}}ہیلیم}{\arabicdigits {200}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {2}}دوری جدول}{\arabicdigits {202}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {3}}ٹھوس اجسام}{\arabicdigits {204}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {1}}آزاد الیکٹرون گیس}{\arabicdigits {205}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {2}}سخت پٹی}{\arabicdigits {208}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {4}}کوانٹم شماریاتی میکانیات}{\arabicdigits {213}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {1}}ایک مثال}{\arabicdigits {214}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {2}}عمومی صورت}{\arabicdigits {216}}%
 \contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {213}}%
 \contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {213}}%
 \contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {213}}%
