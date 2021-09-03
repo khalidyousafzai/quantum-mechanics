@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  1 SEP 2021 14:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  3 SEP 2021 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202191861.tex)...disabled (restricted).
+runsystem(touch w18-test-202193549.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202191861.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202193549.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1766,8 +1766,326 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquattion.aux)
-(./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux)
-(./tex/quantumIdenticalParticles.aux)
+(./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux
+
+LaTeX Warning: Label `footdir@1' multiply defined.
+
+
+LaTeX Warning: Label `footdir@2' multiply defined.
+
+
+LaTeX Warning: Label `footdir@3' multiply defined.
+
+
+LaTeX Warning: Label `footdir@5' multiply defined.
+
+
+LaTeX Warning: Label `footdir@7' multiply defined.
+
+
+LaTeX Warning: Label `footdir@4' multiply defined.
+
+
+LaTeX Warning: Label `footdir@6' multiply defined.
+
+
+LaTeX Warning: Label `footdir@8' multiply defined.
+
+
+LaTeX Warning: Label `footdir@9' multiply defined.
+
+
+LaTeX Warning: Label `footdir@10' multiply defined.
+
+
+LaTeX Warning: Label `footdir@11' multiply defined.
+
+
+LaTeX Warning: Label `footdir@12' multiply defined.
+
+
+LaTeX Warning: Label `footdir@13' multiply defined.
+
+
+LaTeX Warning: Label `footdir@15' multiply defined.
+
+
+LaTeX Warning: Label `footdir@14' multiply defined.
+
+
+LaTeX Warning: Label `footdir@16' multiply defined.
+
+
+LaTeX Warning: Label `footdir@17' multiply defined.
+
+
+LaTeX Warning: Label `footdir@21' multiply defined.
+
+
+LaTeX Warning: Label `footdir@19' multiply defined.
+
+
+LaTeX Warning: Label `footdir@18' multiply defined.
+
+
+LaTeX Warning: Label `footdir@20' multiply defined.
+
+
+LaTeX Warning: Label `footdir@22' multiply defined.
+
+
+LaTeX Warning: Label `footdir@25' multiply defined.
+
+
+LaTeX Warning: Label `footdir@23' multiply defined.
+
+
+LaTeX Warning: Label `footdir@27' multiply defined.
+
+
+LaTeX Warning: Label `footdir@29' multiply defined.
+
+
+LaTeX Warning: Label `footdir@24' multiply defined.
+
+
+LaTeX Warning: Label `footdir@26' multiply defined.
+
+
+LaTeX Warning: Label `footdir@28' multiply defined.
+
+
+LaTeX Warning: Label `footdir@30' multiply defined.
+
+
+LaTeX Warning: Label `footdir@33' multiply defined.
+
+
+LaTeX Warning: Label `footdir@31' multiply defined.
+
+
+LaTeX Warning: Label `footdir@35' multiply defined.
+
+
+LaTeX Warning: Label `footdir@32' multiply defined.
+
+
+LaTeX Warning: Label `footdir@34' multiply defined.
+
+
+LaTeX Warning: Label `footdir@36' multiply defined.
+
+
+LaTeX Warning: Label `footdir@37' multiply defined.
+
+
+LaTeX Warning: Label `footdir@39' multiply defined.
+
+
+LaTeX Warning: Label `footdir@38' multiply defined.
+
+
+LaTeX Warning: Label `footdir@40' multiply defined.
+
+
+LaTeX Warning: Label `footdir@41' multiply defined.
+
+
+LaTeX Warning: Label `footdir@43' multiply defined.
+
+
+LaTeX Warning: Label `footdir@45' multiply defined.
+
+
+LaTeX Warning: Label `footdir@42' multiply defined.
+
+
+LaTeX Warning: Label `footdir@44' multiply defined.
+
+
+LaTeX Warning: Label `footdir@46' multiply defined.
+
+
+LaTeX Warning: Label `footdir@47' multiply defined.
+
+
+LaTeX Warning: Label `footdir@48' multiply defined.
+
+
+LaTeX Warning: Label `footdir@49' multiply defined.
+
+
+LaTeX Warning: Label `footdir@50' multiply defined.
+
+
+LaTeX Warning: Label `footdir@51' multiply defined.
+
+
+LaTeX Warning: Label `footdir@53' multiply defined.
+
+
+LaTeX Warning: Label `footdir@52' multiply defined.
+
+
+LaTeX Warning: Label `footdir@54' multiply defined.
+
+
+LaTeX Warning: Label `footdir@55' multiply defined.
+
+
+LaTeX Warning: Label `footdir@59' multiply defined.
+
+
+LaTeX Warning: Label `footdir@57' multiply defined.
+
+
+LaTeX Warning: Label `footdir@56' multiply defined.
+
+
+LaTeX Warning: Label `footdir@58' multiply defined.
+
+
+LaTeX Warning: Label `footdir@60' multiply defined.
+
+
+LaTeX Warning: Label `footdir@61' multiply defined.
+
+
+LaTeX Warning: Label `footdir@63' multiply defined.
+
+
+LaTeX Warning: Label `footdir@62' multiply defined.
+
+
+LaTeX Warning: Label `footdir@64' multiply defined.
+
+
+LaTeX Warning: Label `footdir@65' multiply defined.
+
+
+LaTeX Warning: Label `footdir@69' multiply defined.
+
+
+LaTeX Warning: Label `footdir@67' multiply defined.
+
+
+LaTeX Warning: Label `footdir@66' multiply defined.
+
+
+LaTeX Warning: Label `footdir@68' multiply defined.
+
+
+LaTeX Warning: Label `footdir@70' multiply defined.
+
+
+LaTeX Warning: Label `footdir@71' multiply defined.
+
+
+LaTeX Warning: Label `footdir@73' multiply defined.
+
+
+LaTeX Warning: Label `footdir@72' multiply defined.
+
+
+LaTeX Warning: Label `footdir@74' multiply defined.
+
+
+LaTeX Warning: Label `footdir@77' multiply defined.
+
+
+LaTeX Warning: Label `footdir@75' multiply defined.
+
+
+LaTeX Warning: Label `footdir@81' multiply defined.
+
+
+LaTeX Warning: Label `footdir@79' multiply defined.
+
+
+LaTeX Warning: Label `footdir@83' multiply defined.
+
+
+LaTeX Warning: Label `footdir@85' multiply defined.
+
+
+LaTeX Warning: Label `footdir@87' multiply defined.
+
+
+LaTeX Warning: Label `footdir@91' multiply defined.
+
+
+LaTeX Warning: Label `footdir@89' multiply defined.
+
+
+LaTeX Warning: Label `footdir@76' multiply defined.
+
+
+LaTeX Warning: Label `footdir@78' multiply defined.
+
+
+LaTeX Warning: Label `footdir@80' multiply defined.
+
+
+LaTeX Warning: Label `footdir@82' multiply defined.
+
+
+LaTeX Warning: Label `footdir@84' multiply defined.
+
+
+LaTeX Warning: Label `footdir@86' multiply defined.
+
+
+LaTeX Warning: Label `footdir@88' multiply defined.
+
+
+LaTeX Warning: Label `footdir@90' multiply defined.
+
+
+LaTeX Warning: Label `footdir@92' multiply defined.
+
+
+LaTeX Warning: Label `footdir@95' multiply defined.
+
+
+LaTeX Warning: Label `footdir@93' multiply defined.
+
+
+LaTeX Warning: Label `footdir@97' multiply defined.
+
+
+LaTeX Warning: Label `footdir@99' multiply defined.
+
+
+LaTeX Warning: Label `footdir@101' multiply defined.
+
+
+LaTeX Warning: Label `footdir@94' multiply defined.
+
+
+LaTeX Warning: Label `footdir@96' multiply defined.
+
+
+LaTeX Warning: Label `footdir@98' multiply defined.
+
+
+LaTeX Warning: Label `footdir@100' multiply defined.
+
+
+LaTeX Warning: Label `footdir@102' multiply defined.
+
+
+LaTeX Warning: Label `footdir@103' multiply defined.
+
+
+LaTeX Warning: Label `footdir@105' multiply defined.
+
+
+LaTeX Warning: Label `footdir@104' multiply defined.
+
+
+LaTeX Warning: Label `footdir@106' multiply defined.
+
+) (./tex/quantumIdenticalParticles.aux)
 (./tex/quantumTimeIndependentPertubationTheory.aux)
 (./tex/quantumTheVariationalPrinciple.aux)
 (./tex/quantumTheWKBapproximation.aux)
@@ -2120,6 +2438,14 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 8.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 17.
+
+LaTeX Warning: Reference `footdir@327' on page \arabicdigits{131} undefined on 
+input line 17.
+
+
+LaTeX Warning: Reference `footdir@328' on page \arabicdigits{131} undefined on 
+input line 17.
+
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 17.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -2142,6 +2468,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 [131]
 LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 33.
+
+
+LaTeX Warning: Reference `footdir@329' on page \arabicdigits{132} undefined on 
+input line 33.
+
+
+LaTeX Warning: Reference `footdir@330' on page \arabicdigits{132} undefined on 
+input line 33.
+
 LaTeX Info: Redefining \rmfamily on input line 33.
 LaTeX Info: Redefining \sffamily on input line 33.
 LaTeX Info: Redefining \ttfamily on input line 33.
@@ -2158,6 +2493,14 @@ lm/m/it/10 t$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے تفاعلات ہیں۔ 
 وٹے حجم []
  []
 
+
+LaTeX Warning: Reference `footdir@331' on page \arabicdigits{132} undefined on 
+input line 52.
+
+
+LaTeX Warning: Reference `footdir@332' on page \arabicdigits{132} undefined on 
+input line 52.
+
 LaTeX Info: Redefining \rmfamily on input line 52.
 LaTeX Info: Redefining \sffamily on input line 52.
 LaTeX Info: Redefining \ttfamily on input line 52.
@@ -2168,6 +2511,14 @@ U/JameelNooriNastaleeq(1)/m/sl/10 ہمیشہ کی طرح ابتدائی تفاع
 n/10 ^^I(\OML/cmm/b/it/10 r\OT1/ppl/m/n/10 , 0\OT1/zplm/m/n/10 )$  \TU/JameelNo
 oriNastaleeq(1)/m/sl/10 سے حاصل کیے جائیں گے۔ (اگر مخفیہ[]
  []
+
+
+LaTeX Warning: Reference `footdir@333' on page \arabicdigits{132} undefined on 
+input line 57.
+
+
+LaTeX Warning: Reference `footdir@334' on page \arabicdigits{132} undefined on 
+input line 57.
 
 LaTeX Info: Redefining \rmfamily on input line 57.
 LaTeX Info: Redefining \sffamily on input line 57.
@@ -2186,6 +2537,15 @@ e 73.
 [132]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 84.
+
+
+LaTeX Warning: Reference `footdir@335' on page \arabicdigits{133} undefined on 
+input line 85.
+
+
+LaTeX Warning: Reference `footdir@336' on page \arabicdigits{133} undefined on 
+input line 85.
+
 LaTeX Info: Redefining \rmfamily on input line 85.
 LaTeX Info: Redefining \sffamily on input line 85.
 LaTeX Info: Redefining \ttfamily on input line 85.
@@ -2208,6 +2568,15 @@ Overfull \hbox (2.43707pt too wide) detected at line 102
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
 (Font)              scaled to size 10.0pt on input line 107.
 [133]
+
+LaTeX Warning: Reference `footdir@337' on page \arabicdigits{134} undefined on 
+input line 108.
+
+
+LaTeX Warning: Reference `footdir@338' on page \arabicdigits{134} undefined on 
+input line 108.
+
+
 Underfull \hbox (badness 2384) in paragraph at lines 108--108
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 ایسا کرنے سے ہم عمومیت نہیں کھوتے ہیں، 
 چونکہ یہاں  $\OML/zplm/m/it/8 l$  \TU/JameelNooriNastaleeq(1)/m/n/8 کوئی بھی مخ
@@ -2256,7 +2625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--130
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 135--137
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٤.١٧[] متغیرات  $\OML/zplm/m/it/10
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ١.١٧[] متغیرات  $\OML/zplm/m/it/10
  ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^^$  \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 پر  $\OML/zplm/m/it/10  $  \TU/JameelNooriNastale
 eq(1)/m/sl/10 کی تابعیت تعین کرتی ہے۔ اس کو  $\OML/zplm/m/it/10 Y [][] ^^R$  \T
@@ -2270,6 +2639,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--141
  []
 
 [134]
+
+LaTeX Warning: Reference `footdir@339' on page \arabicdigits{135} undefined on 
+input line 148.
+
+
+LaTeX Warning: Reference `footdir@340' on page \arabicdigits{135} undefined on 
+input line 148.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہاں بھی ہم عمومیت نہیں کھوتے ہیں، چونک
 ہ  $\OML/zplm/m/it/8 m$  \TU/JameelNooriNastaleeq(1)/m/n/8 کوئی بھی مخلوط عدد ہ
@@ -2292,6 +2670,14 @@ U/JameelNooriNastaleeq(1)/m/sl/10 کا تفاعل ہے، جبکہ دوسرا ص�
 10 ^^^$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا تفاعل ہے، لہٰذا ہر ایک جزو ایک 
 مستقل[]
  []
+
+
+LaTeX Warning: Reference `footdir@341' on page \arabicdigits{135} undefined on 
+input line 157.
+
+
+LaTeX Warning: Reference `footdir@342' on page \arabicdigits{135} undefined on 
+input line 157.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 157--157
@@ -2338,15 +2724,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--158
  []
 
 [135]
+
+LaTeX Warning: Reference `footdir@343' on page \arabicdigits{136} undefined on 
+input line 173.
+
+
+LaTeX Warning: Reference `footdir@344' on page \arabicdigits{136} undefined on 
+input line 173.
+
 LaTeX Info: Redefining \rmfamily on input line 173.
 LaTeX Info: Redefining \sffamily on input line 173.
 LaTeX Info: Redefining \ttfamily on input line 173.
+
+LaTeX Warning: Reference `footdir@345' on page \arabicdigits{136} undefined on 
+input line 177.
+
+
+LaTeX Warning: Reference `footdir@346' on page \arabicdigits{136} undefined on 
+input line 177.
+
+
+LaTeX Warning: Reference `footdir@347' on page \arabicdigits{136} undefined on 
+input line 177.
+
+
+LaTeX Warning: Reference `footdir@348' on page \arabicdigits{136} undefined on 
+input line 177.
+
 LaTeX Info: Redefining \rmfamily on input line 177.
 LaTeX Info: Redefining \sffamily on input line 177.
 LaTeX Info: Redefining \ttfamily on input line 177.
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--201
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 جدول ٤.١[] میں ابتدائی چند لیژانڈر کثیر 
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 جدول ١.١[] میں ابتدائی چند لیژانڈر کثیر 
 رکنیاں پیش کی گئی ہیں۔ جیسا کہ نام سی ظاہر ہے،  $\OML/zplm/m/it/10 P[]\OT1/zplm
 /m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/
 sl/10 متغیر  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
@@ -2370,12 +2780,12 @@ it/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوتا ہے لہٰذا []
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 204--219
+Underfull \hbox (badness 10000) in paragraph at lines 204--219
 []$\OML/zplm/m/it/10 P[]\OT1/zplm/m/n/10 ([] \OML/zplm/m/it/10 ^^R\OT1/zplm/m/n
 /10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہر صورت  $[] \OML/zplm/m/it/10 ^^R$
   \TU/JameelNooriNastaleeq(1)/m/sl/10 کا کثیر رکنی ہو گا جسے طاق  $\OML/zplm/m/
 it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں  $[] \OML/zplm/m/it/1
-0 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ضرب کرے گا۔ جدول ٤.٢[][]
+0 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ضرب کرے گا۔ جدول ١.٢[][]
  []
 
 
@@ -2383,7 +2793,7 @@ LaTeX Warning: Command \textgreater invalid in math mode on input line 220.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 223--225
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذرا رکیے! مساوات ٤.٢٥[] دو رتبی تفرقی مسا
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذرا رکیے! مساوات ١.٢٥[] دو رتبی تفرقی مسا
 وات ہے:  $\OML/zplm/m/it/10 l$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/
 zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی کسی بھی قیمتوں کے لئے ا
 س کے دو خطی غیر تابع[]
@@ -2397,48 +2807,73 @@ riNastaleeq(1)/m/n/9 جواب: \TU/JameelNooriNastaleeq(1)/m/sl/10 یقیناً 
  []
 
 [137]
+
+LaTeX Warning: Reference `footdir@349' on page \arabicdigits{138} undefined on 
+input line 238.
+
+
+LaTeX Warning: Reference `footdir@350' on page \arabicdigits{138} undefined on 
+input line 238.
+
+
+LaTeX Warning: Reference `footdir@351' on page \arabicdigits{138} undefined on 
+input line 238.
+
+
+LaTeX Warning: Reference `footdir@352' on page \arabicdigits{138} undefined on 
+input line 238.
+
 LaTeX Info: Redefining \rmfamily on input line 238.
 LaTeX Info: Redefining \sffamily on input line 238.
 LaTeX Info: Redefining \ttfamily on input line 238.
+
+LaTeX Warning: Reference `footdir@353' on page \arabicdigits{138} undefined on 
+input line 246.
+
+
+LaTeX Warning: Reference `footdir@354' on page \arabicdigits{138} undefined on 
+input line 246.
+
 LaTeX Info: Redefining \rmfamily on input line 246.
 LaTeX Info: Redefining \sffamily on input line 246.
 LaTeX Info: Redefining \ttfamily on input line 246.
+
+LaTeX Warning: Reference `footdir@355' on page \arabicdigits{138} undefined on 
+input line 246.
+
+
+LaTeX Warning: Reference `footdir@356' on page \arabicdigits{138} undefined on 
+input line 246.
+
 LaTeX Info: Redefining \rmfamily on input line 246.
 LaTeX Info: Redefining \sffamily on input line 246.
 LaTeX Info: Redefining \ttfamily on input line 246.
 
 Underfull \hbox (badness 10000) in paragraph at lines 245--262
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جدول ٤.٣[] میں چند ابتدائی کروی ہارمونیات
- پیش کیے گئے ہیں۔ تاریخی وجوہات کی بنا  $\OML/zplm/m/it/10 l$  \TU/JameelNooriN
-astaleeq(1)/m/sl/10 کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 اسّمتی کوانٹائی
- عدد[][][]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ  $\OML/zplm/m/it/10 m$  \TU/JameelNoor
+iNastaleeq(1)/m/sl/10 کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مقناطیسی کوان
+ٹائی عدد[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں۔ سوال  ٤.٣:  مساوات ١
+.٢٧[]، ١.٢٨[] اور ١.٣٢[] استعمال کر کے  $\OML/zplm/m/it/10 Y[]$  \TU/JameelNoor
+iNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 Y[]$  \TU/JameelNooriNastaleeq(1)
+/m/sl/10 تیار[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 268--270
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات  $\OML/zplm/m/it/10 ^^R$  \TU/Jame
-elNooriNastaleeq(1)/m/sl/10 (مساوات ٤.٢٥[]) کو مطمئن کرتی ہے۔یہ (وہ) ناقابل قبو
+elNooriNastaleeq(1)/m/sl/10 (مساوات ١.٢٥[]) کو مطمئن کرتی ہے۔یہ (وہ) ناقابل قبو
 ل دوسرا حل ہے؛ اس میں کیا[]
  []
 
 [138]
-Underfull \hbox (badness 10000) in paragraph at lines 270--275
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥:  مساوات ٤.٣٢[] استعمال کر کے 
+Underfull \hbox (badness 2689) in paragraph at lines 270--275
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥:  مساوات ١.٣٢[] استعمال کر کے 
  $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 ,
  \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
 اور  $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/
 10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl
 /10 تشکیل دیں۔(آپ  $\OML/zplm/m/it/10 P[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
- کو جو جدول ٤.٢[][]
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 270--275
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے دیکھ سکتے ہیں، جبکہ  $\OML/zplm/m/it/1
-0 P[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 آپ کو مساوات ٤.٢٧[] اور ٤.٢٨[] کی م
-دد سے تشکیل دینا ہو گا۔) تصدیق کیجیے کہ  $\OML/zplm/m/it/10 l$  \TU/JameelNoori
-Nastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/
-sl/10 کی[]
+ کو جو جدول ١.٢[] سے[]
  []
 
 
@@ -2449,9 +2884,42 @@ it/10 ^^R\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$ \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 ، ایک دوسرے جیسا ہو گا؛ مخفیے []
  []
 
+
+Underfull \hbox (badness 1371) in paragraph at lines 286--288
+[]$\OML/zplm/m/it/10 V\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 r\OT1/zplm/m/n/10 )$ 
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی شکل و صورت تفاعل موج کے صرف رداسی حصہ، 
+ $\OML/zplm/m/it/10 R\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 r\OT1/zplm/m/n/10 )$ \
+TU/JameelNooriNastaleeq(1)/m/sl/10 ، پر اثر انداز ہو گی جسے مساوات ١.١٦[] تعین 
+کرتی[]
+ []
+
+
+LaTeX Warning: Reference `footdir@357' on page \arabicdigits{139} undefined on 
+input line 299.
+
+
+LaTeX Warning: Reference `footdir@358' on page \arabicdigits{139} undefined on 
+input line 299.
+
 LaTeX Info: Redefining \rmfamily on input line 299.
 LaTeX Info: Redefining \sffamily on input line 299.
 LaTeX Info: Redefining \ttfamily on input line 299.
+
+LaTeX Warning: Reference `footdir@359' on page \arabicdigits{139} undefined on 
+input line 299.
+
+
+LaTeX Warning: Reference `footdir@360' on page \arabicdigits{139} undefined on 
+input line 299.
+
+
+LaTeX Warning: Reference `footdir@361' on page \arabicdigits{139} undefined on 
+input line 299.
+
+
+LaTeX Warning: Reference `footdir@362' on page \arabicdigits{139} undefined on 
+input line 299.
+
 LaTeX Info: Redefining \rmfamily on input line 299.
 LaTeX Info: Redefining \sffamily on input line 299.
 LaTeX Info: Redefining \ttfamily on input line 299.
@@ -2461,6 +2929,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--300
 /n/10 رداسی مساوات[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں[][] جو شکل 
 و صورت کے لحاظ سے یک بعدی شروڈنگر مساوات (مساوات[]
  []
+
+
+LaTeX Warning: Reference `footdir@363' on page \arabicdigits{139} undefined on 
+input line 303.
+
+
+LaTeX Warning: Reference `footdir@364' on page \arabicdigits{139} undefined on 
+input line 303.
 
 LaTeX Info: Redefining \rmfamily on input line 303.
 LaTeX Info: Redefining \sffamily on input line 303.
@@ -2483,9 +2959,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
  []
 
 [139]
-Underfull \hbox (badness 1389) in paragraph at lines 333--333
+
+LaTeX Warning: Reference `footdir@365' on page \arabicdigits{140} undefined on 
+input line 333.
+
+
+LaTeX Warning: Reference `footdir@366' on page \arabicdigits{140} undefined on 
+input line 333.
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 333--333
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 درحقیقت ہم صرف اتنا چاہتے ہیں کہ تفاعل 
-موج معمول پر لانے کے قابل ہو؛ یہ ضروری نہیں کہ یہ متناہی ہو: مساوات ٤.٣١[] میں 
+موج معمول پر لانے کے قابل ہو؛ یہ ضروری نہیں کہ یہ متناہی ہو: مساوات ١.٣١[] میں 
 []
  []
 
@@ -2507,6 +2992,14 @@ plm/m/it/10 ^^R\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 ) = \OT1
  []
 
 [140]
+
+LaTeX Warning: Reference `footdir@367' on page \arabicdigits{141} undefined on 
+input line 344.
+
+
+LaTeX Warning: Reference `footdir@368' on page \arabicdigits{141} undefined on 
+input line 344.
+
 LaTeX Info: Redefining \rmfamily on input line 344.
 LaTeX Info: Redefining \sffamily on input line 344.
 LaTeX Info: Redefining \ttfamily on input line 344.
@@ -2519,9 +3012,25 @@ astaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m
 l/10 استعمال کر کے رکھے جاتے ہیں: []
  []
 
+
+LaTeX Warning: Reference `footdir@369' on page \arabicdigits{141} undefined on 
+input line 350.
+
+
+LaTeX Warning: Reference `footdir@370' on page \arabicdigits{141} undefined on 
+input line 350.
+
 LaTeX Info: Redefining \rmfamily on input line 350.
 LaTeX Info: Redefining \sffamily on input line 350.
 LaTeX Info: Redefining \ttfamily on input line 350.
+
+LaTeX Warning: Reference `footdir@371' on page \arabicdigits{141} undefined on 
+input line 350.
+
+
+LaTeX Warning: Reference `footdir@372' on page \arabicdigits{141} undefined on 
+input line 350.
+
 LaTeX Info: Redefining \rmfamily on input line 350.
 LaTeX Info: Redefining \sffamily on input line 350.
 LaTeX Info: Redefining \ttfamily on input line 350.
@@ -2539,7 +3048,7 @@ SagarNastaleeqBold(0)/m/n/10 کروی نیومن[]
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 361--380
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 جدول ٤.٤[] میں ابتدائی چند کروی بیسل اور
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 جدول ١.٤[] میں ابتدائی چند کروی بیسل اور
  نیومن تفاعلات پیش کیے گئے ہیں۔ متغیر  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNa
 staleeq(1)/m/sl/10 کی چھوٹی قیمت کے لئے[]
  []
@@ -2561,7 +3070,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--417
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کروی نیومن تفاعلات  $\OML/zplm/m/it/10 
 n[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNas
 taleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 n[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/1
-0 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو (مساوات ٤.٤٦[]) 
+0 x\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو (مساوات ١.٤٦[]) 
 میں پیش کی گئی تعریفات سے تیار[]
  []
 
@@ -2620,6 +3129,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 453--454
 ساوات کی بہتر (صاف) صورت حاصل کرتے ہیں۔[]
  []
 
+
+LaTeX Warning: Reference `footdir@373' on page \arabicdigits{144} undefined on 
+input line 483.
+
+
+LaTeX Warning: Reference `footdir@374' on page \arabicdigits{144} undefined on 
+input line 483.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 483--483
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہ دلیل  $\OML/zplm/m/it/8 l \OT1/zplm/
+m/n/8 = \OT1/ppl/m/n/8 0$  \TU/JameelNooriNastaleeq(1)/m/n/8 کی صورت میں کارآمد
+ نہیں ہو گی (اگرچہ مساوات ١.٥٩[] میں پیش نتیجہ اس صورت کے لئے بھی درست[]
+ []
+
 [144]
 Underfull \hbox (badness 10000) in paragraph at lines 520--522
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 [میں نے دوسرے مجموعہ میں ”فرضی اشاریہ”  $
@@ -2637,6 +3161,15 @@ JameelNooriNastaleeq(1)/m/sl/10 اس جزو کو ختم کرتا ہے لہٰذا
  []
 
 [145]
+
+LaTeX Warning: Reference `footdir@375' on page \arabicdigits{146} undefined on 
+input line 538.
+
+
+LaTeX Warning: Reference `footdir@376' on page \arabicdigits{146} undefined on 
+input line 538.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 538--538
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 آپ پوچھ سکتے ہیں: طاقتی تسلسل کی ترکیب 
  $\OML/zplm/m/it/8 u\OT1/zplm/m/n/8 (\OML/zplm/m/it/8 ^^Z\OT1/zplm/m/n/8 )$  \T
@@ -2678,6 +3211,21 @@ t/10 c[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے شروع کر کے (جو[]
  []
 
 
+Underfull \hbox (badness 1019) in paragraph at lines 537--539
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مجموعی مستقل کا روپ اختیار کرتا ہے جسے آخ
+ر میں معمول زنی سے حاصل کیا جائے گا)، مساوات ١.٦٣[] سے  $\OML/zplm/m/it/10 c[]$
+ []
+ []
+
+
+LaTeX Warning: Reference `footdir@377' on page \arabicdigits{146} undefined on 
+input line 540.
+
+
+LaTeX Warning: Reference `footdir@378' on page \arabicdigits{146} undefined on 
+input line 540.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 540--541
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 آئے  $\OML/zplm/m/it/10 j$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 کی بڑی قیمت (جو  $\OML/zplm/m/it/10 ^^Z$  \TU/JameelNo
@@ -2693,15 +3241,43 @@ oriNastaleeq(1)/m/sl/10 کی بڑی قیمتوں کے لیے بے قابو بڑ�
  []
 
 
+Underfull \hbox (badness 1292) in paragraph at lines 555--557
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ١.٥٧[] میں پایا گیا۔ (در حقیقت متق
+اربی حل بھی رداسی مساوات کے جائز حل ہیں البتہ ہم ان میں[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 555--557
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دلچسپی نہیں رکھتے ہیں کیونکہ یہ معمول پر 
 لانے کے قابل نہیں ہیں۔) اس المیہ سے نجات کا صرف ایک ہی راستہ[]
  []
 
+
+Underfull \hbox (badness 1596) in paragraph at lines 559--561
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (یوں کلیہ توالی کے تحت باقی تمام (زیادہ ب
+لند) عددی سر صفر ہوں گے۔) مساوات ١.٦٣[] سے ظاہر ہے کہ درج ذیل[]
+ []
+
+
+LaTeX Warning: Reference `footdir@379' on page \arabicdigits{147} undefined on 
+input line 564.
+
+
+LaTeX Warning: Reference `footdir@380' on page \arabicdigits{147} undefined on 
+input line 564.
+
 LaTeX Info: Redefining \rmfamily on input line 564.
 LaTeX Info: Redefining \sffamily on input line 564.
 LaTeX Info: Redefining \ttfamily on input line 564.
 [147]
+
+LaTeX Warning: Reference `footdir@381' on page \arabicdigits{148} undefined on 
+input line 580.
+
+
+LaTeX Warning: Reference `footdir@382' on page \arabicdigits{148} undefined on 
+input line 580.
+
 LaTeX Info: Redefining \rmfamily on input line 580.
 LaTeX Info: Redefining \sffamily on input line 580.
 LaTeX Info: Redefining \ttfamily on input line 580.
@@ -2720,9 +3296,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 579--581
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 (Font)              scaled to size 4.56004pt on input line 589.
+
+LaTeX Warning: Reference `footdir@383' on page \arabicdigits{148} undefined on 
+input line 590.
+
+
+LaTeX Warning: Reference `footdir@384' on page \arabicdigits{148} undefined on 
+input line 590.
+
 LaTeX Info: Redefining \rmfamily on input line 590.
 LaTeX Info: Redefining \sffamily on input line 590.
 LaTeX Info: Redefining \ttfamily on input line 590.
+
+LaTeX Warning: Reference `footdir@385' on page \arabicdigits{148} undefined on 
+input line 590.
+
+
+LaTeX Warning: Reference `footdir@386' on page \arabicdigits{148} undefined on 
+input line 590.
+
+
+LaTeX Warning: Reference `footdir@387' on page \arabicdigits{148} undefined on 
+input line 606.
+
+
+LaTeX Warning: Reference `footdir@388' on page \arabicdigits{148} undefined on 
+input line 606.
+
 LaTeX Info: Redefining \rmfamily on input line 606.
 LaTeX Info: Redefining \sffamily on input line 606.
 LaTeX Info: Redefining \ttfamily on input line 606.
@@ -2735,6 +3335,14 @@ zplm/m/n/10 = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا�
  []
 
 [148]
+
+LaTeX Warning: Reference `footdir@389' on page \arabicdigits{149} undefined on 
+input line 611.
+
+
+LaTeX Warning: Reference `footdir@390' on page \arabicdigits{149} undefined on 
+input line 611.
+
 LaTeX Info: Redefining \rmfamily on input line 611.
 LaTeX Info: Redefining \sffamily on input line 611.
 LaTeX Info: Redefining \ttfamily on input line 611.
@@ -2765,41 +3373,47 @@ L/zplm/m/it/10 ^^Z\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ای�
  []
 
 [149]
-Underfull \hbox (badness 10000) in paragraph at lines 648--650
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جبکہ ہر  $\OML/zplm/m/it/10 l$  \TU/Jamee
-lNooriNastaleeq(1)/m/sl/10 کے لئے  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastal
-eeq(1)/m/sl/10 کی ممکنہ قیمتوں کی تعداد  $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 2\O
-ML/zplm/m/it/10 l \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )$  \TU/
-JameelNooriNastaleeq(1)/m/sl/10 ہو گی (مساوات ٤.٢٩[])، لہٰذا  $\OML/zplm/m/it/1
-0 E[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سطح توانائی کی کل[]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 652--654
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کثیر رکنی  $\OML/zplm/m/it/10 v\OT1/zplm/
 m/n/10 (\OML/zplm/m/it/10 ^^Z\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m
-/sl/10 (جو مساوات ٤.٧٦[] کے کلیہ توالی سے حاصل ہو گی) ایک ایسا تفاعل ہے جس سے ع
+/sl/10 (جو مساوات ١.٧٦[] کے کلیہ توالی سے حاصل ہو گی) ایک ایسا تفاعل ہے جس سے ع
 ملی[]
  []
+
+
+LaTeX Warning: Reference `footdir@391' on page \arabicdigits{150} undefined on 
+input line 661.
+
+
+LaTeX Warning: Reference `footdir@392' on page \arabicdigits{150} undefined on 
+input line 661.
 
 LaTeX Info: Redefining \rmfamily on input line 661.
 LaTeX Info: Redefining \sffamily on input line 661.
 LaTeX Info: Redefining \ttfamily on input line 661.
+
+LaTeX Warning: Reference `footdir@393' on page \arabicdigits{150} undefined on 
+input line 721.
+
+
+LaTeX Warning: Reference `footdir@394' on page \arabicdigits{150} undefined on 
+input line 721.
+
 LaTeX Info: Redefining \rmfamily on input line 721.
 LaTeX Info: Redefining \sffamily on input line 721.
 LaTeX Info: Redefining \ttfamily on input line 721.
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--722
-[]   $\OML/zplm/m/it/10 q$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ویں \TU/AASamee
-rSagarNastaleeqBold(0)/m/n/10 لاگیغ کثیر رکنی[][] \TU/JameelNooriNastaleeq(1)/m
-/sl/10 ہے۔[][] (جدول ٤.٥[] میں چند ابتدائی لاگیغ کثیر رکنیاں پیش کی گئی ہیں؛ جد
-ول ٤.٦[] میں[]
- []
+LaTeX Warning: Reference `footdir@395' on page \arabicdigits{150} undefined on 
+input line 721.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--722
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چند ابتدائی شریک لاگیغ کثیر رکنیاں پیش کئ
-ے گئی ہیں؛ جدول ٤.٧[] میں چند ابتدائی رداسی تفاعل امواج[]
+LaTeX Warning: Reference `footdir@396' on page \arabicdigits{150} undefined on 
+input line 721.
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 664--722
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ابتدائی شریک لاگیغ کثیر رکنیاں پیش کئے گئ
+ی ہیں؛ جدول ١.٧[] میں چند ابتدائی رداسی تفاعل امواج پیش کئے[]
  []
 
 [150] [151] [152]
@@ -2817,7 +3431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 724--726
 
 Underfull \hbox (badness 10000) in paragraph at lines 724--726
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 موج تینوں کوانٹائی اعداد کے تابع ہیں، توا
-نائیوں (مساوات ٤.٧٠[]) کو صرف  $\OML/zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(
+نائیوں (مساوات ١.٧٠[]) کو صرف  $\OML/zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(
 1)/m/sl/10 تعین کرتا ہے۔ یہ کولمب توانائی کی[]
  []
 
@@ -2825,13 +3439,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 724--726
 Underfull \hbox (badness 10000) in paragraph at lines 724--726
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک مخصوص خاصیت ہے؛ آپ کو یاد ہو گا کہ کر
 وی کنواں میں توانائیاں  $\OML/zplm/m/it/10 l$  \TU/JameelNooriNastaleeq(1)/m/sl
-/10 پر منحصر تھیں (مساوات ٤.٥٠[])۔[]
+/10 پر منحصر تھیں (مساوات ١.٥٠[])۔[]
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 728--730
+Underfull \hbox (badness 2418) in paragraph at lines 728--730
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں۔ یہ کروی ہارمونیات کی عمودیت (مساوات 
-٤.٣٣[]) اور  $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 n \OMS/zplm/m/n/10 6\OT1/zplm
+١.٣٣[]) اور  $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 n \OMS/zplm/m/n/10 6\OT1/zplm
 /m/n/10 = \OML/zplm/m/it/10 n[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)
 /m/sl/10 کی صورت میں  $\OML/zplm/m/it/10 H$  \TU/JameelNooriNastaleeq(1)/m/sl/1
 0 کی منفرد[]
@@ -2851,7 +3465,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 731--733
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 735--737
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.١٠:  کلیه توالی( مساوات ٤.٧٦[]) ا
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.١٠:  کلیه توالی( مساوات ١.٧٦[]) ا
 ستعمال کرتے ہو ئے تفاعل موج  $\OML/zplm/m/it/10 R[]$ \TU/JameelNooriNastaleeq(1
 )/m/sl/10 ،  $\OML/zplm/m/it/10 R[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  
 $\OML/zplm/m/it/10 R[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل کریں ۔[]
@@ -2884,9 +3498,25 @@ plm/m/n/10 h\OML/zplm/m/it/10 V\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)
 )/m/sl/10 کی تابع ہو گی؟) اصل کلیہ اور عدد دی جواب کو[]
  []
 
+
+LaTeX Warning: Reference `footdir@397' on page \arabicdigits{154} undefined on 
+input line 785.
+
+
+LaTeX Warning: Reference `footdir@398' on page \arabicdigits{154} undefined on 
+input line 785.
+
 LaTeX Info: Redefining \rmfamily on input line 785.
 LaTeX Info: Redefining \sffamily on input line 785.
 LaTeX Info: Redefining \ttfamily on input line 785.
+
+LaTeX Warning: Reference `footdir@399' on page \arabicdigits{154} undefined on 
+input line 785.
+
+
+LaTeX Warning: Reference `footdir@400' on page \arabicdigits{154} undefined on 
+input line 785.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 785--785
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 فطراً، اس میں تابع وقت باہم عمل پایا جا
@@ -2925,9 +3555,25 @@ Underfull \hbox (badness 1077) in paragraph at lines 785--786
 ر پر ہوتے رہیں گے، جن کی بنا ہائیڈروجن سے ہر وقت روشنی (فوٹان) خارج[]
  []
 
+
+LaTeX Warning: Reference `footdir@401' on page \arabicdigits{154} undefined on 
+input line 791.
+
+
+LaTeX Warning: Reference `footdir@402' on page \arabicdigits{154} undefined on 
+input line 791.
+
 LaTeX Info: Redefining \rmfamily on input line 791.
 LaTeX Info: Redefining \sffamily on input line 791.
 LaTeX Info: Redefining \ttfamily on input line 791.
+
+LaTeX Warning: Reference `footdir@403' on page \arabicdigits{154} undefined on 
+input line 791.
+
+
+LaTeX Warning: Reference `footdir@404' on page \arabicdigits{154} undefined on 
+input line 791.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 791--791
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 فوٹان درحقیقت برقناطیسی اخراج کا ایک کو
@@ -2942,31 +3588,87 @@ Underfull \hbox (badness 1221) in paragraph at lines 791--791
  []
 
 [154]
+
+LaTeX Warning: Reference `footdir@405' on page \arabicdigits{155} undefined on 
+input line 803.
+
+
+LaTeX Warning: Reference `footdir@406' on page \arabicdigits{155} undefined on 
+input line 803.
+
 LaTeX Info: Redefining \rmfamily on input line 803.
 LaTeX Info: Redefining \sffamily on input line 803.
 LaTeX Info: Redefining \ttfamily on input line 803.
+
+LaTeX Warning: Reference `footdir@407' on page \arabicdigits{155} undefined on 
+input line 803.
+
+
+LaTeX Warning: Reference `footdir@408' on page \arabicdigits{155} undefined on 
+input line 803.
+
 LaTeX Info: Redefining \rmfamily on input line 803.
 LaTeX Info: Redefining \sffamily on input line 803.
 LaTeX Info: Redefining \ttfamily on input line 803.
+
+LaTeX Warning: Reference `footdir@409' on page \arabicdigits{155} undefined on 
+input line 803.
+
+
+LaTeX Warning: Reference `footdir@410' on page \arabicdigits{155} undefined on 
+input line 803.
+
 LaTeX Info: Redefining \rmfamily on input line 803.
 LaTeX Info: Redefining \sffamily on input line 803.
 LaTeX Info: Redefining \ttfamily on input line 803.
+
+LaTeX Warning: Reference `footdir@411' on page \arabicdigits{155} undefined on 
+input line 804.
+
+
+LaTeX Warning: Reference `footdir@412' on page \arabicdigits{155} undefined on 
+input line 804.
+
 LaTeX Info: Redefining \rmfamily on input line 804.
 LaTeX Info: Redefining \sffamily on input line 804.
 LaTeX Info: Redefining \ttfamily on input line 804.
+
+LaTeX Warning: Reference `footdir@413' on page \arabicdigits{155} undefined on 
+input line 805.
+
+
+LaTeX Warning: Reference `footdir@414' on page \arabicdigits{155} undefined on 
+input line 805.
+
 LaTeX Info: Redefining \rmfamily on input line 805.
 LaTeX Info: Redefining \sffamily on input line 805.
 LaTeX Info: Redefining \ttfamily on input line 805.
+
+LaTeX Warning: Reference `footdir@415' on page \arabicdigits{155} undefined on 
+input line 808.
+
+
+LaTeX Warning: Reference `footdir@416' on page \arabicdigits{155} undefined on 
+input line 808.
+
 LaTeX Info: Redefining \rmfamily on input line 808.
 LaTeX Info: Redefining \sffamily on input line 808.
 LaTeX Info: Redefining \ttfamily on input line 808.
+
+LaTeX Warning: Reference `footdir@417' on page \arabicdigits{155} undefined on 
+input line 808.
+
+
+LaTeX Warning: Reference `footdir@418' on page \arabicdigits{155} undefined on 
+input line 808.
+
 LaTeX Info: Redefining \rmfamily on input line 808.
 LaTeX Info: Redefining \sffamily on input line 808.
 LaTeX Info: Redefining \ttfamily on input line 808.
 
 Underfull \hbox (badness 10000) in paragraph at lines 802--810
 []\TU/AASameerSagarNastaleeqBold(0)/m/n/10 رڈبرگ مستقل[][] \TU/JameelNooriNasta
-leeq(1)/m/sl/10 کہلاتا ہے ۔ مساوات ٤.٩٣[] ہائیڈروجن کے طیف کا \TU/AASameerSagar
+leeq(1)/m/sl/10 کہلاتا ہے ۔ مساوات ١.٩٣[] ہائیڈروجن کے طیف کا \TU/AASameerSagar
 NastaleeqBold(0)/m/n/10 کلیہ رڈبرگ[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے ۔
  یہ کلیہ انیسویں صدی[]
  []
@@ -3048,10 +3750,10 @@ OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ سے نا
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 827--828
+Underfull \hbox (badness 5954) in paragraph at lines 827--828
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صدر کوانٹم عدد  $\OT1/zplm/m/n/10 (\OML/z
 plm/m/it/10 n\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حال کی تو
-انائی تعین کرتا ہے (مساوات ٤.٧٠[])؛ ہم دیکھیں گے کہ  $\OML/zplm/m/it/10 l$  \TU
+انائی تعین کرتا ہے (مساوات ١.٧٠[])؛ ہم دیکھیں گے کہ  $\OML/zplm/m/it/10 l$  \TU
 /JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNas
 taleeq(1)/m/sl/10 مداری زاویائی معیار[]
  []
@@ -3469,18 +4171,58 @@ Underfull \hbox (badness 7685) in paragraph at lines 1237--1247
 ش کریں کیا حاصل جواب معنی خیز ہے در حقیقت تجربات سے[]
  []
 
+
+LaTeX Warning: Reference `footdir@419' on page \arabicdigits{166} undefined on 
+input line 1253.
+
+
+LaTeX Warning: Reference `footdir@420' on page \arabicdigits{166} undefined on 
+input line 1253.
+
 LaTeX Info: Redefining \rmfamily on input line 1253.
 LaTeX Info: Redefining \sffamily on input line 1253.
 LaTeX Info: Redefining \ttfamily on input line 1253.
+
+LaTeX Warning: Reference `footdir@421' on page \arabicdigits{166} undefined on 
+input line 1253.
+
+
+LaTeX Warning: Reference `footdir@422' on page \arabicdigits{166} undefined on 
+input line 1253.
+
 LaTeX Info: Redefining \rmfamily on input line 1253.
 LaTeX Info: Redefining \sffamily on input line 1253.
 LaTeX Info: Redefining \ttfamily on input line 1253.
+
+LaTeX Warning: Reference `footdir@423' on page \arabicdigits{166} undefined on 
+input line 1253.
+
+
+LaTeX Warning: Reference `footdir@424' on page \arabicdigits{166} undefined on 
+input line 1253.
+
 LaTeX Info: Redefining \rmfamily on input line 1253.
 LaTeX Info: Redefining \sffamily on input line 1253.
 LaTeX Info: Redefining \ttfamily on input line 1253.
+
+LaTeX Warning: Reference `footdir@425' on page \arabicdigits{166} undefined on 
+input line 1253.
+
+
+LaTeX Warning: Reference `footdir@426' on page \arabicdigits{166} undefined on 
+input line 1253.
+
 LaTeX Info: Redefining \rmfamily on input line 1253.
 LaTeX Info: Redefining \sffamily on input line 1253.
 LaTeX Info: Redefining \ttfamily on input line 1253.
+
+LaTeX Warning: Reference `footdir@427' on page \arabicdigits{166} undefined on 
+input line 1253.
+
+
+LaTeX Warning: Reference `footdir@428' on page \arabicdigits{166} undefined on 
+input line 1253.
+
 LaTeX Info: Redefining \rmfamily on input line 1253.
 LaTeX Info: Redefining \sffamily on input line 1253.
 LaTeX Info: Redefining \ttfamily on input line 1253.
@@ -3523,6 +4265,14 @@ leeq(1)/m/sl/10 کا جزو ضربی پایا جاتا ہے لہٰذا انہی�
 b/n/10 S \OT1/zplm/m/n/10 = []\OML/zplm/m/it/10 ^^[$ []
  []
 
+
+LaTeX Warning: Reference `footdir@429' on page \arabicdigits{168} undefined on 
+input line 1315.
+
+
+LaTeX Warning: Reference `footdir@430' on page \arabicdigits{168} undefined on 
+input line 1315.
+
 LaTeX Info: Redefining \rmfamily on input line 1315.
 LaTeX Info: Redefining \sffamily on input line 1315.
 LaTeX Info: Redefining \ttfamily on input line 1315.
@@ -3535,6 +4285,23 @@ S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ,  $\OT1/zplm/b/n/10 S[]$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 اور  $\OT1/zplm/b/n/10 S[]$  \TU/JameelNooriNastaleeq
 (1)/m/sl/10 تمام ہرمشی ہیں (جیسا کہ انہیں ہونا بھی چاہیے کیونکہ[]
  []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 1320--1323
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عمومی حال  $\OML/zplm/m/it/10 ^^_$  \TU/J
+ameelNooriNastaleeq(1)/m/sl/10 ( مساوات ١.١٣٩[])میں ایک ذرہ کی  $\OML/zplm/m/it
+/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش،  $[][]$  احتمال کے سات
+ھ  $\OT1/zplm/m/n/10 +\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/
+JameelNooriNastaleeq(1)/m/sl/10 یا  $[][]$ []
+ []
+
+
+LaTeX Warning: Reference `footdir@431' on page \arabicdigits{168} undefined on 
+input line 1326.
+
+
+LaTeX Warning: Reference `footdir@432' on page \arabicdigits{168} undefined on 
+input line 1326.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1326--1326
@@ -3566,6 +4333,13 @@ OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ہیں۔ امت�
  []
 
 [168]
+Underfull \hbox (badness 1189) in paragraph at lines 1341--1343
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بطور ہرمشی قالب کے امتیازی سمتیات یہ فضا 
+کا احاطہ کرتے ہیں؛ عمومی چکرکار  $\OML/zplm/m/it/10 ^^_$  \TU/JameelNooriNastal
+eeq(1)/m/sl/10 (مساوات ١.١٣٩[] ) کو ان[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1345--1347
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ  $\OML/zplm/m/it/10 S[]$  \TU/Jam
 eelNooriNastaleeq(1)/m/sl/10 کی پیمائش کریں تب  $\OT1/zplm/m/n/10 +\U/msb/m/n/1
@@ -4289,18 +5063,123 @@ leeq(1)/m/sl/10 کے ساتھ مجموعہ []
  []
 
 
-LaTeX Warning: Reference ` 4.178 ' on page \arabicdigits{180} undefined on inpu
-t line 1978.
+Underfull \hbox (badness 10000) in paragraph at lines 1981--1982
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کارتیسی محدد میں علیحدگی متغیرات استعما
+ل کرتے ہوئے اس کو تیں یک بودی مرتعش میں تبدیل کریں[]
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1977--1979
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٢:  فرض کریں کہ ہم جانتے ہیں کہ 
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1991
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٣:  چونکہ مساوات 4.‏188 میں دیا
+ گیا تین آبادی ہارمونی مرتعش مخفی قوہ کروی تشاکلی ہے لہذا اس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1991
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات شروڈنگر کو کارتیسی معدد کے ساتھ سا
+تھ کروی محدد میں بھی علیحدگی متغیرات سے حل کیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1991
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جا سکتا ہے طاقتی تسلسل کی ترکیب استعمال ک
+رتے ہوئے رداسی مساوات حل کریں عددی سروں کا کلیہ توالی[]
+ []
+
+[180]
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2014
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٥:  اس سوال کو صرف اس صورت میں 
+حل کرنے کی کوشش کریں اگر آپ سمتی علم الاحصاء سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2042--2045
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٦:  غیر تابع وقت معیار حرکت و ف
+ضا تفاعل موج کو تین آباد میں مساوات 3.‏54 کی قدرتی[]
+ []
+
+[181]
+Underfull \hbox (badness 10000) in paragraph at lines 2050--2051
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 زمینی حال میں ہائیڈروجن مساوات 4.‏80 کے
+ لیے معیار حرکت و فضا تفاعل موج تلاش کریں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2065--2066
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس حال میں حرکی توانائی کی توقعاتی قیمت
+ کیا ہوگی اپنی جواب کو  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/
+sl/10 کی مضرب کی صورت میں لکھ کر[]
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2139
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دکھائیں کے ان حالات کی  $\OML/zplm/m/it
+/10 r\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^[[]\OT1/zplm/m/n/10 )$  \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 میں عدم یقینیت  $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 r\
+OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگ
+ی دھیان رہے کہ  $\OML/zplm/m/it/10 r$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2139
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نسبتی پهيلاو  $\OML/zplm/m/it/10 n$  \TU/
+JameelNooriNastaleeq(1)/m/sl/10 بڑھانے سے گھٹتا ہے یوں  $\OML/zplm/m/it/10 n$  
+\TU/JameelNooriNastaleeq(1)/m/sl/10 کی بڑی قیمت کے لیے نظام کلاسیکی نظر آنے شرو
+ع ہوتا ہے جس[]
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 2134--2139
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں دائری مدار پہچانے جا سکتے ہیں  $\OML/
+zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی کئی قیمتوں کے لیے رداسی
+ تفاعل امواج کا خاکہ بناتے ہوئے اس نقطے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2140--2149
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤١:  ہم مکان طیفی خطوط کلیہ رڈبر
+گ مساوات 4.‏93 کے تحت ابتدائی اور اختتامی حالات کے صدر کوانٹم[]
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 2140--2149
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اعداد ہائیڈروجن طيف کے لکیر کا طول موج تع
+ین کرتے ہیں ایسی دو منفرد جوڑیاں  $\OMS/zplm/m/n/10 f\OML/zplm/m/it/10 n[]\OT1/
+ppl/m/n/10 , \OML/zplm/m/it/10 n[]\OMS/zplm/m/n/10 g$  \TU/JameelNooriNastaleeq
+(1)/m/sl/10 تلاش کریں جو  $\OML/zplm/m/it/10 ^^U$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 کی ایک[]
+ []
+
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 2180--2182
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس الیکٹران کی  $\OML/zplm/m/it/10 S[]$
+  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش سے کیا قیمتیں متوقع ہیں اور ہر 
+قیمت کا انفرادی احتمال کیا ہوگا  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastal
+eeq(1)/m/sl/10 کی توقعاتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2182--2184
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر اس الیکٹران کی  $\OML/zplm/m/it/10 
+S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش کی جائے تو کیا قیمتے متوقع 
+ہونگی اور ہر قیمت کا انفرادی احتمال کیا ہوگا  $\OML/zplm/m/it/10 S[]$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 کی[]
+ []
+
+
+LaTeX Warning: Reference ` 4.178 ' on page \arabicdigits{184} undefined on inpu
+t line 2191.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2190--2192
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٤:  فرض کریں کہ ہم جانتے ہیں کہ 
 دو عدد $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNa
 staleeq(1)/m/sl/10 چکر ذرات یکتا تنظیم [] میں پائے جاتے ہیں ۔مان لیں کہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1977--1979
+Underfull \hbox (badness 10000) in paragraph at lines 2190--2192
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اکائی سمتیا  $\OML/zplm/m/it/10 S[]$  \TU
 /JameelNooriNastaleeq(1)/m/sl/10 کے رخ ذرہ 1 کے چکری زاویائی معیار حرکت کا جز  
 $[]$  ہے اسی طرح مان لیں کہ اکائی سمتیا  $\OML/zplm/m/it/10 S[] $  \TU/JameelNo
@@ -4308,53 +5187,53 @@ oriNastaleeq(1)/m/sl/10 کے رخ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1988--1990
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2203
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏179 تا مساوات 4.‏182 کی ترکیب ا
 ستعمال کریں ۔ اگر آپ یہ جاننے سے قاصر ہوں کہ  $\OML/zplm/m/it/10 S[]$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1988--1990
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2203
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مثلاً ویکٹر  $\OMS/zplm/m/n/10 j\OML/zplm
 /m/it/10 s[]m[]\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر کیا 
 کرتا ہے تو مساوات 4.‏136 سے رجوع کریں اور مساوات 4.‏147 سے قبل جملہ[]
  []
 
-[180]
-Underfull \hbox (badness 7777) in paragraph at lines 1997--2000
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٤:  ہمیشہ کی طرح  $\OML/zplm/m/
+
+Underfull \hbox (badness 10000) in paragraph at lines 2210--2213
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٦:  ہمیشہ کی طرح  $\OML/zplm/m/
 it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی امتیازی حالات کو اساس لیتے ہ
 وئے 3/2چکر کے ذرے کے لیے قالب []
  []
 
-
-Underfull \hbox (badness 2435) in paragraph at lines 2000--2004
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٥:  مساوات 4.‏145 اور 4.‏147 می
+[184]
+Underfull \hbox (badness 1400) in paragraph at lines 2213--2217
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٧:  مساوات 4.‏145 اور 4.‏147 می
 ں 1/2 چکر سوال 4.‏31 میں ایک چکر اور سوال 4.‏52 میں 3/2 چکر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2000--2004
+Underfull \hbox (badness 10000) in paragraph at lines 2213--2217
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کے قالبوں کی بات کی گئی۔ ان نتائج کو عموم
 یت دیتے ہوئے اختیاری  $\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/1
 0 چکر کے لیے چکری قالب تلاش کریں۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2013--2016
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٦:  کروی ہارمونیات کے لیے،؟؟؟؟ 
+Underfull \hbox (badness 10000) in paragraph at lines 2226--2229
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٨:  کروی ہارمونیات کے لیے،؟؟؟؟ 
 ضربی جز درج ذیل طریقے سے حاصل کریں۔ ہم حصہ 4.‏1.‏2 سے درج[]
  []
 
-[181]
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
+
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ کو جز  $\OML/zplm/m/it/10 B[]$  \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 تعین کرنا ہو گا (جس کی قیمت تلاش کیے بغیر میں نے 
 ذکر مساوات 4.‏32 میں کیا)۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏120 ، 4.‏121 اور 4.‏130 استعمال
  کرتے ہوئے  $\OML/zplm/m/it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صور
 ت میں  $\OML/zplm/m/it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا کلیہ توا
@@ -4362,7 +5241,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کو  $\OML/zplm/m/it/10 m$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 کے ریاضی ماخول کی ترکیب سے حل کرتے ہوئے  $\OML/zplm/m/
 it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو مجموعی مستقل  $\OML/zplm/m/i
@@ -4371,27 +5250,27 @@ Nastaleeq(1)/m/sl/10 تک حل کریں۔آخر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں سوال 4.‏22 کا نتیجہ استعمال کرتے ہوئے
  اس مستقل کا بھی کچھ کریں۔ شریک لیجانڈر تفاعل کے تفرک کا[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2030--2031
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 2243--2244
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مداری زاویائی معیار حرکت کے مربع  $\OT1
 /zplm/m/n/10 (\OML/zplm/m/it/10 L[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastalee
 q(1)/m/sl/10 کی پیمائش سے کیا قیمتیں حاصل ہو سکتی ہیں؟ ہر قیمت کا[]
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 2037--2038
+Underfull \hbox (badness 1735) in paragraph at lines 2250--2251
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ چکر کے  $\OML/zplm/m/it/10 z$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 جز اور منبع سے فاصلہ کی پیمائش کرتے ہیں (یاد رہے
  کہ یہ ہم آہنگ مشہودات ہیں) ایک[]
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 2045--2047
+Underfull \hbox (badness 5091) in paragraph at lines 2258--2260
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (جہاں  $\OML/zplm/m/it/10 '$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 اختیاری زاویہ ہے) ۔اسی کی بنا  $\OML/zplm/m/it/10 L[]\
 OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو  $\OML/zplm/m/it/1
@@ -4400,60 +5279,52 @@ OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو  $\OML/zplm/m/it/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2045--2047
+Underfull \hbox (badness 10000) in paragraph at lines 2258--2260
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 استعمال کریں اور سوال 3.‏39 سے مدد لیں۔ ز
 یادہ عمومی  $\OML/cmm/b/it/10 L\OT1/ppl/m/n/10 .[]\OT1/zplm/m/n/10 /\U/msb/m/n/
 10 }$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا جو  $[]$  کے رخ گھومنے کا پیدا
 کار ہے یعنی  $\OML/zplm/m/it/10 e[]$ []
  []
 
-[182]
-Underfull \hbox (badness 10000) in paragraph at lines 2052--2053
+
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 محور  $\OML/zplm/m/it/10 z \OMS/zplm/m/
 n/10 ^^@ \OML/zplm/m/it/10 axis$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ س
 ے 360 زاویہ گھومنے کو ظاہر کرنے والا قالب تیار کریں۔ کیا جواب آپ کی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2057--2060
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٩:  زاویائی معیار حرکت کے بنیاد
-ی تبادلی رشتے (مساوات 4.‏99) امتیازی اقدار کے عدد صحیح[]
+[186]
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2273
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥١:  زاویائی معیار حرکت کے بنیاد
+ی مقلبیت رشتے (مساوات 4.‏99) امتیازی اقدار کے عدد صحیح[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2057--2060
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2273
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 قیمتوں کے ساتھ ساتھ نصف عدد صحیح قیمتوں ک
 ی بھی اجازت دیتے ہیں۔ جبکہ مداری زاویائی معیار حرکت کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2057--2060
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2273
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نصف عددی قیمتوں کو خارج کرتا ہو گا۔ ہم  $
 \OML/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو کوئی ایسا مستقل لی
 تے ہیں جسکا بود لمبائی ہو مثلاً ہائیڈروجن پر بات کرتے[]
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 2067--2068
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت کی باضابطہ تبادلی رشتوں کو  $\OML/zp
-lm/m/it/10 q[]s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 p
-[]s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مطمئین کرتے ہیں اور اشاریہ  $\OT1/ppl
-/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے حاملین اشاریہ []
- []
+LaTeX Warning: Reference ` ' on page \arabicdigits{187} undefined on input line
+ 2288.
 
 
-LaTeX Warning: Reference ` ' on page \arabicdigits{183} undefined on input line
- 2075.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2075--2076
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2289
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا (حصہ [] کے الجبرائی نظریہ میں ہیملٹ
-نی کی روپ اور باضابطہ تبادلی رشتوں سے یہ اخذ کیا گیا)[]
+نی کی روپ اور باضابطہ مقلبیت رشتوں سے یہ اخذ کیا گیا)[]
  []
 
-[183]
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2080
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٠:  عمومی حال مساوات 4.‏139 می$
+
+Underfull \hbox (badness 10000) in paragraph at lines 2290--2293
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٢:  عمومی حال مساوات 4.‏139 می$
 \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(
 1)/m/sl/10 چکر کے  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
  اور  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی کم سے کم 
@@ -4461,7 +5332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2077--2080
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 2077--2080
+Underfull \hbox (badness 3635) in paragraph at lines 2290--2293
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کریں یعنی $\OML/zplm/m/it/10 ^^[[]^^[[] \
 OMS/zplm/m/n/10 ^^U \OT1/zplm/m/n/10 (\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl
 /m/n/10 2\OT1/zplm/m/n/10 )\OMS/zplm/m/n/10 jh\OML/zplm/m/it/10 S[]\OMS/zplm/m/
@@ -4470,43 +5341,43 @@ n/10 ij$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں مساوات کی صورت �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2080
+Underfull \hbox (badness 10000) in paragraph at lines 2290--2293
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کھوئے بغیر  $\OML/zplm/m/it/10 a$  \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 کو حقیقی منتخب کر سکتے ہیں تب عدم یقینیت کی کم سے
  کم قیمت اس صورت میں حاصل ہو گی  $\OML/zplm/m/it/10 b$ []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2080--2082
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤١:  کلاسیکی برقی حرکیات میں ایک
+[187]
+Underfull \hbox (badness 10000) in paragraph at lines 2293--2295
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٣:  کلاسیکی برقی حرکیات میں ایک
  ذرہ جس کا؟؟؟؟  $\OML/zplm/m/it/10 q$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو ا
 ور جو مقناطیسی میدان  $\OML/cmm/b/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/sl/10
  اور  $\OML/cmm/b/it/10 B$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2084--2086
+Underfull \hbox (badness 10000) in paragraph at lines 2297--2299
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس قوت کو کسی بھی غیر سمتی مخفی توانائی ت
 فاعل کی ڈھلوان کی صورت میں لکھا جا سکتا ہے لہذا مساوات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2109--2111
+Underfull \hbox (badness 10000) in paragraph at lines 2322--2324
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس طرح  $\OMS/zplm/m/n/10 h[]$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 کی توقعاتی قیمت عین لورینز قوت کی مساوات کے تحت حرکت
  کرے گی جیسا ہم[]
  []
 
-[184]
-Underfull \hbox (badness 10000) in paragraph at lines 2112--2115
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٢:  ( پس منظر جاننے کے لیے سوال
+
+Underfull \hbox (badness 10000) in paragraph at lines 2325--2328
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٤:  ( پس منظر جاننے کے لیے سوال
  4.‏59 پر نظر ڈالیں) درج ذیل فرض کریں جہاں  $\OML/zplm/m/it/10 B[]$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 K$  \TU/JameelNooriNastaleeq(
 1)/m/sl/10 مستقلات[]
  []
 
-
-Underfull \hbox (badness 6141) in paragraph at lines 2127--2129
+[188]
+Underfull \hbox (badness 6141) in paragraph at lines 2340--2342
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 ![] \OT1/zplm/m/n
 /10 = \OML/zplm/m/it/10 q[]\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 m$ \TU/JameelNoo
 riNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 ![] \OMS/zplm/m/n/10 ^^Q []$ \TU/
@@ -4515,14 +5386,14 @@ JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ تبصرہ: $\OML/cmm/b/it/10 K \OT1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2130--2133
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٣:  ( پس منظر جاننے کی خاطر سوا
+Underfull \hbox (badness 10000) in paragraph at lines 2343--2346
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٥:  ( پس منظر جاننے کی خاطر سوا
 ل 4.‏59 پر نظر ڈالیں) کلاسیکی برقی حرکیات میں مخفی قوہ  $\OML/cmm/b/it/10 A$ []
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2137--2139
+Underfull \hbox (badness 10000) in paragraph at lines 2350--2352
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (جہاں مقام اور وقت کا  $\OT1/zplm/m/n/10 
 ^^C$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ایک اختیاری حقیقی تفاعل ہے) بھی وہی م
 یدان  $\OML/zplm/m/it/10 '$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/cmm
@@ -4530,13 +5401,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2137--2139
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2139--2140
+Underfull \hbox (badness 10000) in paragraph at lines 2352--2353
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹم میکانیات میں مخفی قوہ کا کردار ز
 یادہ براہ راست پایا جاتا ہے اور ہم جاننا چاہیں گے کہ ایا یہ نظریہ گیج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2142--2144
+Underfull \hbox (badness 10000) in paragraph at lines 2355--2357
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر مساوات ( مساوات 4.‏20) کو گیج تبا
 دلہ مخفی قوہ  $\OML/zplm/m/it/10 '[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور 
  $\OML/cmm/b/it/10 A$  \TU/JameelNooriNastaleeq(1)/m/sl/10 لیتے ہوئے مطمئن کرتا
@@ -4544,12 +5415,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2142--2144
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2142--2144
+Underfull \hbox (badness 10000) in paragraph at lines 2355--2357
 []$\OT1/zplm/m/n/10 ^^I[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں صرف زاویائی
  جز کا فرق پایا جاتا ہے لہٰذا یہ ایک ہی طبی حال کو ظاہر کرتے ہیں اور یوں یہ[]
  []
 
-) [185] [186] [304
+) [189] [354
 
 
 
@@ -4562,18 +5433,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2142--2144
 
 
 
-] (./answer.tex) [305] [308
+] (./answer.tex) [355] [358
 
 
 
-] (./quantumMechanics.ind [309
+] (./quantumMechanics.ind [359
 
 
 
 
 
-]
-[310] [311] [312] [313])
+] [360]
+[361] [362] [363])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -4652,15 +5523,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 55305 strings out of 479819
- 1453094 string characters out of 11645846
- 14063084 words of memory out of 24000000
- 71292 multiletter control sequences out of 15000+600000
+ 55284 strings out of 479819
+ 1452884 string characters out of 11645846
+ 14062300 words of memory out of 24000000
+ 71271 multiletter control sequences out of 15000+600000
  586325 words of font info for 263 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2641b,1140s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (73 pages).
+Output written on quantumMechanics.pdf (76 pages).

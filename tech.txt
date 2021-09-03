@@ -405,7 +405,7 @@ class interval	جماعتی وقفہ
 class room	تدریسی کمرہ
 clear, preset	زبردستی بلند، زبردستی پست
 clearly	صراحت، صریحاً
-Clebsch-Gordan coefficients	کلیبش گورڈن عددی سر
+Clebsch-Gordan coefficients	کلیبش و گورڈن عددی سر
 cliff	چٹان، کھڑا چٹان
 clockwise, anti clock wise	گھڑی کی سوئی کے رخ، گھڑی کی سمت
 clock signal	ساعتی اشارہ
@@ -2677,7 +2677,7 @@ steps: take steps	اقدام اٹھانا
 step; (h in euler iteration method)	قدم
 step function (oliver heaviside)	 سیڑھی تفاعل: اکائی سیڑھی تفاعل، الیور ہیوی سائیڈ
 stereographic projection	مجسم نگارانہ تظلیل
-Stern-Gerlach	شٹرن گرلاخ
+Stern-Gerlach	شٹرن و گرلاخ
 stiff, stiffness	سخت، سختی، (اکڑ، اکڑا، اکڑا پن،  کڑا پن)
 stimulated, stimulate	تحرک زدہ یا تحرک شدہ،  تحرک زنی یا تحرک دینا
 Stirling formula: James Stirling	کلیہ سٹرلنگ: جیمس سٹرلنگ
@@ -3128,6 +3128,7 @@ quanta	کوانٹا
 quantized	کوانٹاشدہ
 quantization, quantization condition	کوانٹازنی، کوانٹازنی شرط
 electronic configuration (in an atom)	برقیائی تقسیم، برقیائی تنظیم
+pion, kaon	پایون، کایون
 microprocessor	
 microcontroller	
 computer	حاسب
