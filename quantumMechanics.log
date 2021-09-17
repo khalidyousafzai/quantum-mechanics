@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  16 SEP 2021 13:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  17 SEP 2021 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021916835.tex)...disabled (restricted).
+runsystem(touch w18-test-2021917567.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021916835.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021917567.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1986,26 +1986,37 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
  [3]
 
-LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
-(Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 64.
-
-
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 64.
+e 65.
 
 [4]
+
+LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/b/n' undefined
+(Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
+e 100.
+
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 101.
- [5])
+(Font)              scaled to size 10.0pt on input line 100.
+[5]
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 134.
+ [6])
 \tf@toc=\write6
 \openout6 = `quantumMechanics.toc'.
 
- [6]
+
+[7]
 \openout2 = `./tex/prefaceFirstBook.aux'.
 
- (./tex/prefaceFirstBook.tex
+ (./tex/prefaceFirstBook.tex [8
+
+
+
+
+]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 
@@ -2080,12 +2091,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 ظر آئے وہ اس کی نشاندہی میری ای-میل پر کریں۔میں ان کا[]
  []
 
-[7
-
-
-
-
-]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کتاب میں تمام غلطیاں مجھ سے ہی سر زد
  ہوئی ہیں البتہ انہیں درست کرنے میں بہت لوگوں کا ہاتھ[]
@@ -2103,7 +2109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 کیشن کمیشن کا شکریہ ادا کرنا چاہتا ہوں جن کی وجہ سے ایسی سرگرمیاں[]
  []
 
-) [8]
+) [10]
 \openout2 = `./tex/quantumIdenticalParticles.aux'.
 
  (./tex/quantumIdenticalParticles.tex [190
@@ -4401,7 +4407,190 @@ Underfull \hbox (badness 10000) in paragraph at lines 1170--1173
 ج حرارت پر اس کی کثافت  $[] []$  ہوگی[]
  []
 
-) [225] [372
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فوٹان برقناطیسی میدان کے کوانٹا ایک چکر ک
+ے یکساں بوزان ہوتے ہیں تاہم ان کی خاصیت یہ ہے کہ یہ بے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قمیت زرات ہیں جس کی بنا یہ قدرتی طور پر ا
+ضافیتی ہیں ہم درج ذیل چار دعوے جو غیر اضافی کوانٹم میکانیات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کا حصہ نہیں ہے کو قبول کرکے انہیں یہاں شا
+مل کر سکتے ہیں (1) فوٹان کی تعدد اور توانائی کا تعلق کلیہ پلانک []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی رفتار ہے (3) چکر کے صرف دو حالات ہو سک
+تے ہیں کوانٹم عدد  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
+ی قیمت  $\OT1/zplm/m/n/10 +\OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl
+/10 یا منفی  $\OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو سکتی ہ
+ے تاہم یہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صفر نہیں ہو سکتی ہے (4) فوٹانوں کی تعداد 
+بکائی مقدار نہیں ہے درجہ حرارت بڑھانے سے فی حجم فوٹانوں کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1189
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تعداد بڑھتی ہے جزو 4 کی موجودگی میں پہلی 
+مسلط پابندی مساوات 5.‏78 کا اطلاق یہاں نہیں ہوگا ہم مساوات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1193
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک ڈبہ جس کا حجم  $\OML/zplm/m/it/10 V$ 
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو میں آزاد فوٹانوں کے لیے  $\OML/zplm/m/i
+t/10 d[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت مساوات 5.‏97 کو چکر جزو 
+3 کی بنا دو سے[]
+ []
+
+[225]
+Underfull \hbox (badness 10000) in paragraph at lines 1208--1214
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 5.‏113 استعمال کرتے ہوئے طول موج
+ ساتھ  $\OML/zplm/m/it/10 d^^U$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں قصافت 
+توانائی تعین کریں اشارہ: []
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 1217--1221
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اشارہ: آپ کو کیلکولیٹر یا کمپیوٹر استعمال
+ کرتے ہوئے ماورائے مساوات  $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 5 \OMS/zplm/m/n/1
+0 ^^@ \OML/zplm/m/it/10 x\OT1/zplm/m/n/10 ) = \OT1/ppl/m/n/10 5\OML/zplm/m/it/1
+0 e[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حل کرکے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1236
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٥.٣٢:  فرض کریں یک بودی ہارمونی ار
+تعاشی مخفیہ مساوات 2.‏43 میں دو غیر متعمل زرات پائے جاتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1236
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں جن میں سے ہر ایک کی کمیت  $\OML/zplm/
+m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے فرض کریں ان میں سے ایک زمینی
+ حال اور دوسرا پہلی حجان[]
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 1231--1236
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ب) یہ یکساں بوزان ہے ( ج) یہ یکساں فرمایا
+ن ہے چکر کو نظر انداز کریں اگر آپ ایسا نہیں کرنا چاہتے تو دونوں[]
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 1236--1247
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٥.٣٣:  فرض کریں آپ کے پاس تیں ذرات
+ ہوں اور تین منفرد یک زرہ حالات  $\OML/zplm/m/it/10  []\OT1/zplm/m/n/10 (\OML/z
+plm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ،  $\OML/z
+plm/m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 ، اور []
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 1236--1247
+[]$\OML/zplm/m/it/10  []\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 دستیاب ہوں ایک دونوں سے مختلف کتنے تین ذ
+رہ حالات درج ذیل صورت میں تیار کیے جا سکتے ہیں ([]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1250--1253
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٥.٣٥:  ایک مخصوص قسم کے سرد ستارے 
+جنہیں صفوۃ بونا کہتے ہیں کو تجاذبی انہدام سے الیکٹرانوں کی انحطاطی دباؤ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1257
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کل الیکٹران توانائی مساوات 5.‏45 کو ردا
+س مرکزہ پروٹان جمع نیوٹران  $\OML/zplm/m/it/10 N$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 فی مرکزہ الیکٹران کی تعداد  $\OML/zplm/m/it/10 q$  \TU/JameelNooriNasta
+leeq(1)/m/sl/10 اور[]
+ []
+
+[226]
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1259
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک یکساں کسیس کرا کی تجاذبی توانائی تل
+اش کریں اپنے جواب کو علمگیر تجاذبی مستقل  $\OML/zplm/m/it/10 G$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 ،  $\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(1)/m/sl/
+10 ،  $\OML/zplm/m/it/10 N$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ، اور مرکزہ کی[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 الیکٹران کی ساکن توانائی کے ساتھ جزو ( 
+د) میں سفید بونا کی فرمی توانائی کو الیکٹران وولٹ میں تعین کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1284
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پر کرتے ہوئے حصہ 5.‏3.‏1 کی آزاد الیکٹران
+ گیس نظریہ کو اضافیتی دائرہ کار تک وسعت دے سکتے ہیں معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1298
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بالائے اضافیتی الیکٹران گیس کے لئے سوال
+ 5.‏35 کے جزو ( الف) اور (ب) کو دوبارہ حل کریں آپ دیکھیں گے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1298
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے  $\OML/zplm/m/it/10 R$  \TU/JameelNoor
+iNastaleeq(1)/m/sl/10 کی قیمت سے قطع نظر کوئی مستحکم کم سے كم قیمت نہیں پائے جا
+ئے گی اگر کل توانائی مثبت ہو تب انحطاطی قوتیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1298
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تجاذبی قوتو سے تجاوز کرے گی جس کی بنا ستا
+رہ پھولے گا اس کے برعکس اگر کل منفی ہو تب تجاوزی قوتيں جیتی ہیں[]
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 1292--1298
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اپنے جواب کو سورج کی کمیت کے مظرب کے صورت
+ میں لکھیں اس سے بھاری ستاریں سفید بونا نہیں بناتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1301
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں بدلتا ہے جس کی بنا نیوٹرینو خارج ہوتے
+ ہیں جو ساتھ توانائی لے کر جاتے ہیں آخر کار نیوٹران انحطاطی دباؤ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1301
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انہدام کو روکتا ہے جیسا کہ سفید بونا میں 
+الیکٹران انحطاطی قوتوں نے کیا سوال 5.‏35 دیکھیں ہماری سورج کے برابر کمیت[]
+ []
+
+[227]
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1308
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 5.‏78 اور 5.‏79 میں دیے گئے مجموعوں کی قی
+متیں ٹھیک ٹھیک حاصل کی جا سکتی ہیں یاد رہے کہ لامتناہی چکور[]
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 1324--1327
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مسئلہ مساوی خانہ بندی کی روشنی میں کلاس
+یکی حد  $\OML/zplm/m/it/10 k[]T \OMS/zplm/m/n/10 ^^] \U/msb/m/n/10 }\OML/zplm/m
+/it/10 !$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر تبصرہ کریں تین آبادی ہارمونی[
+]
+ []
+
+) [228] [372
 
 
 
@@ -4514,4 +4703,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  78i,18n,136p,2641b,1125s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (52 pages).
+Output written on quantumMechanics.pdf (57 pages).
