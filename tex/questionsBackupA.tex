@@ -995,3 +995,393 @@ Z & عنصر &\multicolumn{2}{l}{
 شکل_تغیریت_صلیبی_خطہ
 }
 \end{figure}
+
+
+
+%===================================
+
+%fig 8.1 pg 329
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\draw[-stealth] (-0.25,0) -- (5.25,0) node[below]{$x$};
+\draw[-stealth] (0,-0.15) -- (0,2.5) node[left]{$V(x)$};
+\draw[thick,name path=a](0.25,2.25) to [out=-5,in=180] (2.5,0.5) to [out=0,in=-150] (5,2);
+\draw[dashed,name path=b] (0,1.75) node[left]{$E$} -- (5,1.75);
+\draw[dashed,name intersections={of=a and b}] (intersection-1) node[pin={[pin edge={-,solid},pin distance=1cm]45:{\RL{نقاط واپسیں}}}]{} -- ($(0,0)!(intersection-1)!(5,0)$)coordinate(c);
+\draw[dashed,name intersections={of=a and b}] (intersection-2)node[pin={[pin edge={-,solid},pin distance=1cm]135:{}}]{} -- ($(0,0)!(intersection-2)!(5,0)$)coordinate(d);
+\draw[decorate,decoration={brace,amplitude=10pt, mirror},yshift=-10pt] ($(c)+(0,-0.1)$) -- ($(d)+(0,-0.1)$) node[midway,below,yshift=-7pt]{\RL{کلاسیکی خطہ}};
+\end{tikzpicture}
+\caption{
+کلاسیکی طور پر یہ ذرہ اس خطہ میں مقید ہو گا جہاں \عددی{E\ge V(x)} ہو ۔
+}
+\label{
+شکل_وکب_کلاسیکی_مقید_خطہ
+}
+\end{figure}
+
+
+%===================================
+
+%fig 8.2 pg 330
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\fill[path fading=west,color=lgray] (-0.25,0) rectangle (0,3.75);
+\fill[path fading=east,color=lgray] (5,0) rectangle (5.25,3.75);
+\draw[-stealth] (-0.5,0) -- (5.75,0)node[below]{$x$};
+\draw[-stealth] (0,-0.25) -- (0,4)node[left]{$V(x)$};
+\draw[very thick](0,3.75) -- (0,1) to [out=30,in=180] (2,0.5) to [out=0,in=180] (3,0.75) to [out=0,in=180] (5,0.25) -- (5,3.75); \draw (5,0) node[below]{$a$};
+\draw[](5,0) -- (5,3.75);
+\end{tikzpicture}
+\caption{
+ایسا لامتناہی چکورکنواں جس کی تہہ موڑےدار ہو۔
+}
+\label{
+شکل_وکب_لامتناہی_موڑا
+}
+\end{figure}
+
+
+
+%===================================
+
+%fig 8.3 pg 333
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\draw[-stealth] (-0.5,0) -- (6.5,0)node[below]{$x$};
+\draw[-stealth] (0,-0.25) -- (0,4)node[left]{$V(x)$};
+%\draw[very thick](-2,0) -- (0,0) -- (0,3) to [out=30,in=180] ++(0.5,0) to [out=0,in=180] ++(0.75,-0.25) to [out=0,in=180] +%+(1,0.5) to [out=0,in=180] (5,3.5) -- (5,0)node[below]{$a$}-- (6,0);
+\draw[very thick](-2,0) -- (0,0) node[below left]{$0$}-- (0,3.5) (5,3)--(5,0)node[below]{$a$}--(6.25,0);
+\draw[very thick] plot [smooth] coordinates {(0,3.5)(0.5,3.75)(1.25,3)(1.75,3.5)(2.25,3)(3,3.8)(3.6,3)(4.1,3.2)(5,3)};
+\draw[dashed](-1,2.25)--(6.25,2.25);
+\draw[-latex](-2,1.5)--++(1,0)node[right]{$A$};
+\draw[latex-](-2,0.75)--++(1,0)node[right]{$B$};
+\draw[-latex](5.5,0.75)--++(1,0)node[right]{$F$};
+\draw(0,2.25)node[above left]{$E$};
+\end{tikzpicture}
+\caption{
+موڑے دار بالائی سطح کے   مستطیلی رکاوٹ سے بکھراو۔
+}
+\label{
+شکل_وکب_مستطیلی_رکاوٹ
+}
+\end{figure}
+
+
+
+
+%===================================
+
+%fig 8.4 pg 334
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\draw[-stealth] (-2.75,0) -- (6,0)node[below]{$x$};
+%\draw[-stealth] (0,-0.25) -- (0,4)node[left]{$V(x)$};
+\draw[-stealth](-360/200,0) -- (-360/200,1) node[pos=0.5, fill=white]{$A$};
+\draw[thick,domain=-560:0] plot ({\x/200},{cos(\x)});
+\draw[thick,smooth](0,1) to [out = 0,in=160] ++ (1,-0.25) to [out=-20,in=170] ++ (2,-0.55);
+\draw[thick,domain=0:900] plot ({3+\x/400},{-0.1+0.3*cos(\x)});
+\draw[dashed](0,0) -- (0,1.25) (1,1) -- (-2.25,1); 
+\draw[](0,0.1)--++(0,-0.2) node[below]{$0$};
+\draw[dashed](2.9,0) -- (2.9,0.5) (2.9,0.2) -- (5.25,0.2); 
+\draw[](2.9,0.1)--++(0,-0.2) node[below]{$a$};
+\draw[-stealth] (3.925,-0.5) -- (3.925,0);
+\draw[stealth-] (3.925,0.2) -- (3.925,0.75) node[right]{$F$};
+\end{tikzpicture}
+\caption{
+اونچی اور چوڑی رکاوٹ سے بکھراو کے تفاعل  موج کی کیفی ساخت۔
+}
+\label{
+شکل_وکب_اونچی_چوڑی
+}
+\end{figure}
+
+
+%==================================
+
+
+%fig 8.5 pg 335
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[declare function={f(\x)= 1/(\x);}]
+\pgfmathsetmacro{\E}{f(4)}
+\begin{axis}[axis lines=middle,xlabel={$r$},ylabel={$V(r)$}, xtick={1,4},
+ xticklabels={\rlap{$r_1$} ,$r_2$, $0$}, ytick={-0.5,\E}, yticklabels={$-V_0$,$E$}, ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot [thick,domain=1:5]{f(x)}node[pos=0.5,pin={45:{\RL{کولمب دفع}}}]{};
+\addplot[thick,]coordinates{({1},{f(1)})(1,-0.5)(0,-0.5)};
+\addplot[thick,]coordinates{(0,\E)(5,\E)};
+\addplot[]coordinates{(0.75,-0.5)}node[pin={45:{\RL{مرکزوی بندش}}}]{};
+\end{axis}
+\end{tikzpicture}
+\caption{
+تابکار مرکزی میں الفا ذرہ کی مخفی توانائی کا گامو نمونہ۔
+}
+\label{
+شکل_وکب_گامو_نمونہ
+}
+\end{figure}
+
+
+
+%==================================
+
+
+%fig 8.7 pg 338
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\fill[lgray] (-1,0.5) rectangle (1,3.75);
+\draw[-stealth](-3,-0.5) -- (3.5,-0.5) node[below]{$x$};
+\draw[-stealth](0,-0.75) -- (0,4) node[left]{$V(x)$};
+\draw[] (-2.75,2.125) -- (2.75,2.125) node[right]{$E$};
+\draw[name path=a,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](-1,0.5) -- (-1,3.75);
+\draw[name path=b,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](1,0.5) -- (1,3.75);
+\draw[decoration={brace,amplitude=5pt,raise=4pt, mirror},decorate] (-1,0.5) -- (1,0.5) node[midway,below left,yshift=-12pt]{\RL{پیوندکار خطہ}};
+\draw[](0,2.125) node[pin={[pin distance=1.25cm]135:{\RL{نقطہ واپسیں}}}]{} --++ (45:2) node[pos=1,pin={10:{\RL{خط بند مخفیہ}}}]{};
+\draw[](0,2.125) --++ (-135:2);
+\draw[thick] (0,2.125) to [out=45,in=180] (2,3);
+\draw[thick] (0,2.125) to [out=-135,in=0] (-2,1.25);
+\draw[] (-2,-0.75) -- (-0.25,-0.75) node[pos=0.5,below]{\RL{کلاسیکی خطہ}}; 
+\draw[] (+2,-0.75) -- (+0.25,-0.75) node[pos=0.5,below]{\RL{غیر کلاسیکی خطہ}}; 
+\end{tikzpicture}
+\caption{
+دائیں ہاتھ نقطہ واپسیں کو  وضاحت سے دکھایا گیا ہے۔
+}
+\label{
+شکل_وکب_نقطہ_واپسیں_وضاحت
+}
+\end{figure}
+
+
+%==================================
+
+
+%fig 8.9 pg 341
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\fill[lgray] (-2.5,0.5) rectangle (-1.5,3.75);
+\fill[lgray] (1.5,0.5) rectangle (2.5,3.75);
+\draw[-stealth](-3,0.5) -- (3.5,0.5) node[below]{$x$};
+\draw[](0,-0.65) -- (0,4);
+\draw[name path=a,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](-2.5,0.5) -- (-2.5,3.75);
+\draw[name path=b,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](-1.5,0.5) -- (-1.5,3.75);
+\draw[name path=a,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](2.5,0.5) -- (2.5,3.75);
+\draw[name path=b,decoration={random steps,segment length=0.5mm,amplitude=0.5pt},decorate](1.5,0.5) -- (1.5,3.75);
+\draw[decoration={brace,amplitude=5pt,raise=4pt, mirror},decorate] (-2.5,0.5) -- (-1.5,0.5) node[midway,below,yshift=-12pt]{\RL{جزوی منطبق خطہ}};
+\draw[decoration={brace,amplitude=5pt,raise=4pt, mirror},decorate] (1.5,0.5) -- (2.5,0.5) node[midway,below,yshift=-12pt]{\RL{جزوی منطبق خطہ}};
+\draw[] (-2.5,-0.75) -- (2.5,-0.75) node[pos=0.5,below]{\RL{پیوندکار خطہ}};
+\draw[](0,0.5) node[fill=black,circle,inner sep=1.5pt]{} node[pin={[text centered, text width=1cm]45:{\RL{نقطہ واپسیں}}}]{};
+\draw[stealth-stealth] (-2.5,2.5) -- (2.5,2.5) node[pos=0.6,fill=white]{$\psi_p$};
+\draw[stealth-] (-1.5,3) -- (-3.75,3) node[above right]{$\psi_{WKB}$};
+\draw[stealth-] (1.5,3) -- (3.75,3) node[above left]{$\psi_{WKB}$};
+\end{tikzpicture}
+\caption{
+پیوندکار خطہ اور دو  منطبق  خطے۔
+}
+\label{
+شکل_وکب_پیوندکار_منطبق
+}
+\end{figure}
+
+
+%===================================
+
+%fig 8.10 pg 343
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\fill[path fading=west,color=lgray] (-0.25,0) rectangle (0,3.75);
+\draw[-stealth] (-0.5,0) -- (5.75,0)node[below]{$x$};
+\draw[-stealth] (0,-0.25) -- (0,4)node[left]{$V(x)$};
+\draw[very thick, name path=a] (0,3.5) -- (0,0.25) to [out=0,in=180] ++ (2,1) to [out=0,in=-120] ++ (2,1) to [out=60,in=-160] ++ (1,1); 
+\draw[name path=b](0,2) node[left,xshift={-0.5em}]{$E$} -- (5,2);
+\draw[dashed,name intersections={of={a and b}}] (intersection-2) -- ($(0,0)!(intersection-2)!(5,0)$) node[below]{$x_2$};
+\end{tikzpicture}
+\caption{
+ایک  ایتصابی  دیوار والا مخفیہ کنواں۔
+}
+\label{
+شکل_وکب_ایک_دیوار_کنواں
+}
+\end{figure}
+
+
+
+
+%===================================
+
+%fig 8.11 pg 344
+
+\begin{figure}
+\centering
+\begin{subfigure}{0.22\textwidth}
+\centering 
+\pgfmathsetmacro{\a}{70}
+\pgfmathsetmacro{\b}{180-\a}
+\begin{tikzpicture}
+%\draw[-stealth] (0,0) -- (0.5,0)node[below]{$x$};
+%\draw[-stealth] (0,0) -- (0,3)node[left]{$V(x)$};
+\draw[] (-1,0) node[left]{$E$} -- (1,0);
+\draw[dashed] (0,-1) node[below]{$x_2$} -- (0,1);
+\draw[very thick, name path=a] (0,0) to [out=\a,in=-170] ++ (1,1); 
+\draw[very thick, name path=a] (0,0) to [out=-\b,in=10] ++ (-1,-1); 
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.22\textwidth}
+\centering 
+\pgfmathsetmacro{\a}{70}
+\pgfmathsetmacro{\b}{180-\a}
+\begin{tikzpicture}
+%\draw[-stealth] (0,0) -- (0.5,0)node[below]{$x$};
+%\draw[-stealth] (0,0) -- (0,3)node[left]{$V(x)$};
+\draw[] (-1,0) node[left]{$E$} -- (1,0);
+\draw[dashed] (0,-1) node[below]{$x_1$} -- (0,1);
+\draw[very thick, name path=a] (0,0) to [out=-\a,in=170] ++ (1,-1); 
+\draw[very thick, name path=a] (0,0) to [out=\b,in=-10] ++ (-1,1); 
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.45\textwidth}
+\centering 
+\pgfmathsetmacro{\a}{70}
+\pgfmathsetmacro{\b}{180-\a}
+\begin{tikzpicture}
+\draw[-stealth] (-1.5,-1.5) -- ++(0.5,0)node[below]{$x$};
+\draw[-stealth] (-1.5,-1.5) -- ++(0,3)node[below left]{$V(x)$};
+\draw[] (-1,0) node[left]{$E$} -- (3,0);
+\draw[dashed] (0,-1) node[below]{$x_1$} -- (0,1);
+\draw[dashed] (2,-1) node[below]{$x_2$} -- (2,1);
+\draw[very thick, name path=a] (0,0) to [out=-\a,in=180] ++ (1,-1); 
+\draw[very thick, name path=a] (0,0) to [out=\b,in=-10] ++ (-1,1); 
+\draw[very thick, name path=a] (2,0) to [out=-\b,in=0] ++ (-1,-1); 
+\draw[very thick, name path=a] (2,0) to [out=\a,in=-170] ++ (1,1); 
+\end{tikzpicture}
+\caption{}
+\end{subfigure}
+\caption{
+بالائی جانب ڈھلوان اور نیچے جانب ڈھلون نقطہ وپسیں۔
+}
+\label{
+شکل_وکب_بالائی_جانب_نقطہ_واپسیں
+}
+\end{figure}
+
+
+
+
+%==============================
+
+
+%fig 8.12 pg 347
+
+\begin{figure}
+\centering 
+\begin{tikzpicture}
+\pgfmathsetmacro{\a}{135}
+\pgfmathsetmacro{\b}{180 - \a}
+\draw[-stealth] (-3,0) -- (3,0)node[below]{$x$};
+\draw[-stealth] (0,-0.25) -- (0,3)node[left]{$V(x)$};
+\draw[name path=a] (-3,1.5) node[left]{$E$} -- (3,1.5);
+\draw[very thick, name path=b] (-3,0.2) to [out=10,in=-\a] ++ (2,2) to [out=\b, in=0] (0,2.5) to [out=0,in=-180] ++ (0.5,0.25) to [out=0,in=170] (3,0.2);
+\draw[dashed,name intersections={of={a and b}}] (intersection-1) -- ($(-3,0)!(intersection-1)!(3,0)$) node[below]{$x_1$}  (intersection-1) --++ (0,0.25);
+\draw[dashed,name intersections={of={a and b}}] (intersection-2) -- ($(-3,0)!(intersection-2)!(3,0)$) node[below]{$x_2$}  (intersection-2) --++ (0,0.25);
+\end{tikzpicture}
+\caption{
+ڈھلوانی دیواروں والا رکاوٹ۔
+}
+\label{
+شکل_وکب_ڈھلوانی_دیواروں_رکاوٹ
+}
+\end{figure}
+
+
+%==============================
+
+
+%fig 8.13 pg 349
+
+\begin{figure}
+\centering 
+\begin{tikzpicture}
+\pgfmathsetmacro{\a}{135}
+\pgfmathsetmacro{\b}{180 - \a}
+\draw[-stealth] (-3,0) -- (3.5,0)node[below]{$x$};
+\draw[-stealth] (0,-0.25) -- (0,3)node[left]{$V(x)$};
+\draw[name path=a] (-3,1) node[left]{$E$} -- (3,1);
+\draw[very thick, name path=b] (0,1.5) to [out=0,in=180] (1,0) to [out=0, in=-100] (3,2.5)  (0,1.5) to [out=180,in=0] (-1,0) to [out=180, in=-90] (-3,2.5);
+\draw[dashed,name intersections={of={a and b}}] (intersection-1) -- ($(-3,0)!(intersection-1)!(3,0)$) node[below]{$x_1$}  (intersection-1) --++ (0,0.25);
+\draw[dashed,name intersections={of={a and b}}] (intersection-2) -- ($(-3,0)!(intersection-2)!(3,0)$) node[below]{$x_2$}  (intersection-2) --++ (0,0.25);
+\end{tikzpicture}
+\caption{
+تشاکلی دہرا کنواں؛ سوال \حوالہء{8.15}۔
+}
+\label{
+شکل_وکب_تشاکلی_دہرا_کنواں
+}
+\end{figure}
+
+
+%==============================
+
+
+%fig 9.1 pg 359
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[declare function={f(\x)= 1-cos(\x);}]
+\begin{axis}[axis lines=middle,xlabel={$t$},ylabel={$P(t)$}, xtick={360,720,1080},
+ xticklabels={$\tfrac{2\pi}{\abs{\omega_0-\omega}}$ ,$\tfrac{4\pi}{\abs{\omega_0-\omega}}$, $\tfrac{6\pi}{\abs{\omega_0-\omega}}$}, ytick={2}, yticklabels={$\abs{\tfrac{\abs{V_{ab}}}{\hslash(\omega_0-\omega)}}^2$}, ylabel style={at={(current axis.above origin)},anchor=west},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot [thick,smooth,domain=0:1260]{f(x)};
+\addplot [dashed] coordinates{(0,2)(1260,2)};
+\end{axis}
+\end{tikzpicture}
+\caption{
+سائن نما اضطراب کے لئے وقت کے لحاظ سے تحویلی احتمال (مساوات \حوالہء{9.28})۔
+}
+\label{
+شکل_تابع_وقت_احتمال_سائن_نما_احتمال
+}
+\end{figure}
+
+
+%==============================
+
+
+%fig 9.2 pg 359
+
+\begin{figure}
+\centering
+\pgfmathsetmacro{\k}{15}
+\pgfmathsetmacro{\ka}{\k-2*pi}
+\pgfmathsetmacro{\kb}{\k+2*pi}
+\begin{tikzpicture}[declare function={f(\x)= (sin(deg(\k-\x)/2)^2)/pow(\k-\x,2);}]
+\begin{axis}[clip=false,axis lines=middle,xlabel={$\omega$},ylabel={$P(\omega)$}, xtick={\k,\ka,\kb},
+ xticklabels={$\omega_0$,,}, ytick={0.25}, yticklabels={}, ylabel style={at={(current axis.above origin)},anchor= east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
+\addplot [thick,smooth,domain=0:30,samples=50]{f(x)};
+\addplot[] coordinates {(\ka,0)}node[pin=-120:{$(\omega_0-2\pi/t)$}]{};
+\addplot[] coordinates {(\kb,0)}node[pin=-60:{$(\omega_0+2\pi/t)$}]{};
+\end{axis}
+\end{tikzpicture}
+\caption{
+تحویلی احتمال بالمقابل   متحرک  تعدد  (مساوات \حوالہء{9.28})۔
+}
+\label{
+شکل_تابع_وقت_احتمال_جبری_تعدد
+}
+\end{figure}
+
+
+
