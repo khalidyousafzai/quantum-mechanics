@@ -9,17 +9,6 @@
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {4}}معمول زنی}{\arabicdigits {12}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {5}}معیار حرکت}{\arabicdigits {15}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {6}}اصول عدم یقینیت}{\arabicdigits {18}}%
-\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت شروڈنگر مساوات}{\arabicdigits {25}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {25}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چکور کنواں}{\arabicdigits {31}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {40}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {42}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {51}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {59}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {68}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {68}}%
-\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {70}}%
-\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {79}}%
 \contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {93}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {93}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}قابلِ معلوم حالات}{\arabicdigits {97}}%
