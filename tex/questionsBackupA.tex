@@ -1,134 +1,26 @@
 %=======================================================================
 
-%fig 2.17 pg 90
-\begin{figure}
-\centering
-\begin{tikzpicture}
-%\draw[help lines, thick,gray,step=1] (0,0) grid (12,12);
-\draw[-stealth] (-2,0) -- (2,0) node[below]{$x$};
-\draw[-stealth] (0,-1.25) -- (0,1) node[left]{$V(x)$};
-\draw[thick] (-1.75,0) -- (-1,0) node[above]{$a$} --++ (0,-1) --++ (2,0) node[pos=0.5, above right]{$-V_{0}$} --++ (0,1) node[above]{$a$} --++ (0.75,0);
-\end{tikzpicture}
-\caption{متناہی چکور کنواں (مساوات \حوالہء{2.145})۔}
-\label{شکل_غیر-تابع_شروڈنگر_متناہی_کنواں}
-\end{figure}
+
 
 %=======================================================================
 
-%fig 2.18 pg 92
-\begin{figure}
-\centering
-\pgfmathsetmacro{\za}{8}
-\begin{tikzpicture}[declare function = {fa(\x)=sqrt((\za/\x)^2-1); fb(\x)=tan(deg(\x));}]
-\begin{axis}[clip=false,axis lines=middle,xlabel={$z$},ylabel={}, xtick={pi/2,pi,3/2*pi,2*pi,2.5*pi},
- xticklabels={$\pi/2$,$\pi$,$3\pi/2$,$2\pi$,$5\pi/2$}, ytick={\empty}, ylabel style={at={(current axis.above origin)},anchor=north},xlabel style={at={(current axis.right of origin)},anchor=north},xmax=3*pi]
-\addplot [name path global=aa,thick,smooth,domain=1:8]{fa(x)}node[pos=0.8,pin={[pin distance=1.5cm]30:{$\sqrt{(z_0/z)^2-1}$}}]{}node[pos=1,above]{$z_0$};
-\addplot [name path global=b,thick,smooth,domain=0:0.92*pi/2]{fb(x)}node[pos=0.9,pin={30:{$\tan z$}}]{};
-\addplot [name path global=c,thick,smooth,domain=pi:pi+0.92*pi/2]{fb(x)}node[pos=0.9,pin={30:{$\tan z$}}]{};
-\addplot [name path global=d,thick,smooth,domain=2*pi:2*pi+0.92*pi/2]{fb(x)}node[pos=0.9,pin={30:{$\tan z$}}]{};
-\draw[name intersections={of={aa and b}, by ={k1}}] (k1)node[circle,inner sep=1.5pt,fill=black]{};
-\draw[name intersections={of={aa and c}, by ={k1}}] (k1)node[circle,inner sep=1.5pt,fill=black]{};
-\draw[name intersections={of={aa and d}, by ={k1}}] (k1)node[circle,inner sep=1.5pt,fill=black]{};
-\end{axis}
-\end{tikzpicture}
-\caption{ترسیمی حل برائے مساوات \حوالہء{2.156} جہاں \عددی{z_0=8} لیا گیا ہے (جفت حالات)۔}
-\label{شکل_غیر_تابع_شروڈنگر_جفت_حالات_ترسیمی}
-\end{figure}
+
 %====================================
 
-%fig 2.19 pg 94
-\begin{figure}
-\centering
-\pgfmathsetmacro{\v}{2}
-\begin{tikzpicture}[declare function = {ga(\x)=(sqrt(\x+\v));gb(\x)=\v^2/(4*\x*(\x+\v));gc(\x)=(sin(deg(10*ga(\x))))^2;fb(\x)=1+gb(\x)*gc(\x);fa(\x)=1/(fb(\x));}]
-\begin{axis}[clip=false,axis lines=middle,xlabel={$E$},ylabel={$T$}, xtick={\empty},
- xticklabels={}, ytick={1}, ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north},ymax=1.2]
-\addplot [thick,domain=0:6,samples=100]{fa(x)};
-\addplot[dashed]plot coordinates {(0,1)(6,1)};
-\end{axis}
-\end{tikzpicture}
-\caption{
-ترسیلی مستقل بطور توانائی کا تفاعل (مساوات \حوالہء{2.169})۔
-}
-\label{شکل_غیر_تابع_شروڈنگر_ترسیلی_مستقل_بطور_تفاعل}
-\end{figure}
+
 
 
 %=======================================================================
 
-%fig 2.20 pg 96
-\begin{figure}
-\centering
-\begin{tikzpicture}
-\pgfmathsetmacro{\ka}{0.75}
-\pgfmathsetmacro{\kb}{0.5}
-\pgfmathsetmacro{\r}{0.1}
-%\draw[help lines, thick,gray,step=1] (0,0) grid (12,12);
-\draw[-stealth] (-3,0) -- (4,0) node[below]{$x$};
-\draw[-stealth] (0,-1.25) -- (0,1) node[right]{$V(x)$};
-\draw[thick] (-2.75,0)--(0,0)--(0,-1)node[left]{$-V_0$}--(4,-1);
-\draw[](-2.5,2*\r)--++(\ka,0)coordinate[pos=0.25](wa)coordinate[pos=0.75](wb)--++(0,\kb)coordinate[pos=0.5](pa)--++(-\ka,0)--++(0,-\kb) ;
-\draw(wa)++(0,-\r) circle (\r);
-\draw(wb)++(0,-\r) circle (\r);
-\draw[-stealth] (pa)++(0.25,0)--++(1,0);
-\end{tikzpicture}
-\caption{
-عمودی چٹان سے بکھراو (سوال \حوالہء{2.35})۔
-}
-\label{شکل_غیر-تابع_شروڈنگر_عمودی_چٹان_بکھراو}
-\end{figure}
+
 
 
 %=======================================================================
-
-%fig 2.21 pg 100
-\begin{figure}
-\centering
-\begin{tikzpicture}
-\pgfmathsetmacro{\ka}{0.75}
-\pgfmathsetmacro{\kb}{0.5}
-%\draw[help lines, thick,gray,step=1] (0,0) grid (12,12);
-\draw[-stealth] (-3,0) -- (4,0) node[below]{$x$};
-\draw[-stealth] (0,-1.25) -- (0,1.25) node[right]{$V(x)$};
-\draw[thick](-2.75,0)--(-2.5,0)--(-2.5,-1)--(-0.5,-1)--(-0.5,0)--(0.5,0)--(0.5,-1)--(2.5,-1)--(2.5,0)--(3,0);
-\draw(-0.1,-1)--(0.1,-1)node[below right]{$-V_0$};
-\draw[decorate,decoration={brace,amplitude=10pt,raise=5pt}](-2.5,0)--(-0.5,0)node[pos=0.5,above,yshift=1.5em]{$a$};
-\draw[decorate,decoration={brace,amplitude=10pt,raise=5pt}](0.5,0)--(2.5,0)node[pos=0.5,above,yshift=1.5em]{$a$};
-\draw[decorate,decoration={brace,amplitude=10pt,raise=5pt,aspect=0.7}](-0.5,0)--(0.5,0)node[pos=0.7,above,yshift=1.5em]{$b$};
-\end{tikzpicture}
-\caption{
-دوہرا چکور کنواں (سوال \حوالہء{2.47})۔
-}
-\label{شکل_غیر-تابع_شروڈنگر_دوہرا_چکور_کنواں}
-\end{figure}
 
 %====================================
 
 %=======================================================================
 
-%fig 2.22 pg 102
-\begin{figure}
-\centering
-\begin{tikzpicture}
-\pgfmathsetmacro{\ka}{0.75}
-\pgfmathsetmacro{\kb}{0.5}
-%\draw[help lines, thick,gray,step=1] (0,0) grid (12,12);
-\draw[-stealth] (-3,0) -- (4,0) node[below]{$x$};
-\draw[-stealth] (0,-0.5) -- (0,1.5) node[left]{$V(x)$};
-\draw[thick](-3,0)--(-1.25,0) to [out=0,in=180](-0.75,0.5) to [out=0,in=180](-0.25,0.25) to [out=0,in=180](0.5,1) to [out=0,in=180](1.25,-0.5) to [out=0,in=180](1.75,0.25) to [out=0,in=180](2.5,0)--(3.75,0);
-\draw[-stealth](-3,1.5)--++(1,0)node[pos=0.5,above]{$Ae^{ikx}$};
-\draw[stealth-](-3,1)--++(1,0)node[pos=0.5,below]{$Be^{-ikx}$};
-\draw[stealth-](4,1.5)--++(-1,0)node[pos=0.5,above]{$Fe^{ikx}$};
-\draw[-stealth](4,1)--++(-1,0)node[pos=0.5,below]{$Ge^{-ikx}$};
-\draw[decorate,decoration={brace,amplitude=10pt,mirror}](-3,-0.5)--(-1.3,-0.5)node[pos=0.5,below,yshift=-1em]{\RL{خطہ-1}};
-\draw[decorate,decoration={brace,amplitude=10pt,mirror}](-1.25,-0.5)--(2.5,-0.5)node[pos=0.5,below,yshift=-1em]{\RL{خطہ-2}};
-\draw[decorate,decoration={brace,amplitude=10pt,mirror}](2.6,-0.5)--(3.75,-0.5)node[pos=0.5,below,yshift=-1em]{\RL{خطہ-3}};
-\end{tikzpicture}
-\caption{
-مقامی اختیاری مخفیہ  (جو  خطہ-2  کے علاوہ  \عددی{V(x)=0} ہے)  سے بکھراو (سوال \حوالہء{2.52})۔
-}
-\label{شکل_غیر-تابع_شروڈنگر_اختیاری_مقامی-مخفیہ}
-\end{figure}
 
 %=====================
 
@@ -180,7 +72,8 @@
 %=======================================================================
 
 %fig 4.1
-
+\begin{figure}
+\centering
 \begin{tikzpicture}
 %\draw[help lines, thick,gray,step=1] (0,0) grid (12,12);
 \draw[very thick, -latex] (6,6) -- (12,6);
@@ -190,6 +83,9 @@
 \draw[very thick] (6,6) -- (9,7.5) node[above]{$P$};
 %\draw[-latex] (6,6) -- (135:6);
 \end{tikzpicture}
+\caption{}
+\label{}
+\end{figure}
 
 
 %=============================================================

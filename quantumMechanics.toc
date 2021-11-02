@@ -9,18 +9,31 @@
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {4}}معمول زنی}{\arabicdigits {12}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {5}}معیار حرکت}{\arabicdigits {15}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {6}}اصول عدم یقینیت}{\arabicdigits {18}}%
-\contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {93}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {93}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {1}.\arabicdigits {1}}قابلِ معلوم حالات}{\arabicdigits {97}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {99}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {99}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {101}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}متعمم شماریاتی مفہوم}{\arabicdigits {104}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}اصول عدم یقینیت }{\arabicdigits {108}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {108}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {112}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {4}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {112}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}ڈیراک علامتیت}{\arabicdigits {117}}%
+\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت شروڈنگر مساوات}{\arabicdigits {25}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {25}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چکور کنواں}{\arabicdigits {31}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {40}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {1}}الجبرائی ترکیب}{\arabicdigits {42}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {3}.\arabicdigits {2}}تحلیلی ترکیب}{\arabicdigits {51}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {4}}آزاد ذرہ}{\arabicdigits {59}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {5}}ڈیلٹا تفاعل مخفیہ}{\arabicdigits {68}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {1}}مقید حالات اور بکھراو حالات}{\arabicdigits {68}}%
+\contentsline {subsection}{\numberline {\arabicdigits {2}.\arabicdigits {5}.\arabicdigits {2}}ڈیلٹا تفاعل کنواں}{\arabicdigits {70}}%
+\contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {79}}%
+\contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {95}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {95}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}قابل مشاہدہ}{\arabicdigits {98}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}ہرمشی عاملین}{\arabicdigits {98}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}قابلِ معلوم حالات}{\arabicdigits {100}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {102}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {102}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {104}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}متعمم شماریاتی مفہوم}{\arabicdigits {107}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}اصول عدم یقینیت }{\arabicdigits {111}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {111}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {115}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {115}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {6}}ڈیراک علامتیت}{\arabicdigits {120}}%
 \contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {131}}%
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {131}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {133}}%
@@ -112,12 +125,12 @@
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {375}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}شروڈنگر کی بلّی}{\arabicdigits {376}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹم زینو تضاد}{\arabicdigits {377}}%
-\contentsline {chapter}{جوابات}{\arabicdigits {397}}%
-\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {399}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {399}}%
-\contentsline {chapter}{فرہنگ}{\arabicdigits {401}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {381}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {383}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {383}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {385}}%
