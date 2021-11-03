@@ -34,20 +34,20 @@
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {115}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {115}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {6}}ڈیراک علامتیت}{\arabicdigits {120}}%
-\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {131}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {131}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {133}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {134}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {139}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {143}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {144}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {154}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {156}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {157}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {2}}امتیازی تفاعلات}{\arabicdigits {162}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {4}}چکر}{\arabicdigits {165}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {1}}مقناطیسی میداں میں ایک الیکٹران }{\arabicdigits {172}}%
-\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {2}}زاویائی معیار حرکت کا مجموعہ}{\arabicdigits {176}}%
+\contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {135}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {135}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {137}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {2}}زاویائی مساوات}{\arabicdigits {139}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {3}}رداسی مساوات}{\arabicdigits {144}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {148}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {148}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {159}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {161}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {161}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {2}}امتیازی تفاعلات}{\arabicdigits {166}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {4}}چکر}{\arabicdigits {169}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {1}}مقناطیسی میداں میں ایک الیکٹران }{\arabicdigits {176}}%
+\contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {4}.\arabicdigits {2}}زاویائی معیار حرکت کا مجموعہ}{\arabicdigits {181}}%
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {191}}%
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}} دو زراتی نظام}{\arabicdigits {191}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوزان اور فرمیون}{\arabicdigits {193}}%

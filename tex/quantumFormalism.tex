@@ -790,7 +790,49 @@ i \hslash \frac{\partial \Psi}{\partial t} = \hat{H} \Psi
 
 
 \حصہ{ڈیراک علامتیت}
-دو ابعاد میں ایک سادہ سمتیہ \عددی{\kvec{A}}پر غور کریں (شکل \حوالہء{3.3} الف) ۔ آپ اس سمتیہ کو کس طرح بیان کریں گے؟  سب سے آسان طریقہ یہ ہو گا کہ آپ \عددی{x } اور \عددی{y} محدد کا ایک کارتیسی نظام قائم کر کے  اس پر سمتیہ \عددی{\kvec{A}} کے اجزاء : \عددی{ A_{x} = \hat{i}\cdot \kvec{A} }  اور  \عددی{    A_{y} = \hat{j}\cdot \kvec{A} }وضع  کریں (شکل \حوالہء{3.3} ب) ۔اب عین ممکن ہے کہ آپ کی  بہن  ایک مختلف کارتیسی نظام قائم کرے  جس کے محدد \عددی{x^{'}} اور \عددی{y^{'}} ہوں ؛  وہ سمتیہ \عددی{\kvec{A}} کے اجزاء \عددی{A_{x}^{'} = \hat{i}^{\,'} \cdot \kvec{A}}  اور  \عددی{A_{y}^{'} = \hat{j}^{\,'} \cdot \kvec{A}} پیش کرے گی  ( شکل\حوالہء{3.3} ج)۔ حقیقت میں آپ دونوں ایک ہی سمتیہ کو دو مختلف اساس \عددی{( \{ \hat{i} , \hat{j} \} ) } اور \عددی{(\hat{i}^{\,'},\hat{j}^{\,'} ) } کی صورت میں بیان کر رہے ہیں۔ سمتیہ ازخود"باہر    فضا"  میں رہتا   ہے اور کسی کے بھی قائم کردہ (اختیاری)  محددی نظام کا تابع نہیں ہے۔
+دو ابعاد میں ایک سادہ سمتیہ \عددی{\kvec{A}}پر غور کریں (شکل\حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ا) ۔ آپ اس سمتیہ کو کس طرح بیان کریں گے؟  سب سے آسان طریقہ یہ ہو گا کہ آپ \عددی{x } اور \عددی{y} محدد کا ایک کارتیسی نظام قائم کر کے  اس پر سمتیہ \عددی{\kvec{A}} کے اجزاء : \عددی{ A_{x} = \hat{i}\cdot \kvec{A} }  اور  \عددی{    A_{y} = \hat{j}\cdot \kvec{A} }وضع  کریں (شکل  \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ب) ۔اب عین ممکن ہے کہ آپ کی  بہن  ایک مختلف کارتیسی نظام قائم کرے  جس کے محدد \عددی{x^{'}} اور \عددی{y^{'}} ہوں ؛  وہ سمتیہ \عددی{\kvec{A}} کے اجزاء \عددی{A_{x}^{'} = \hat{i}^{\,'} \cdot \kvec{A}}  اور  \عددی{A_{y}^{'} = \hat{j}^{\,'} \cdot \kvec{A}} پیش کرے گی  ( شکل \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ج)۔ حقیقت میں آپ دونوں ایک ہی سمتیہ کو دو مختلف اساس \عددی{( \{ \hat{i} , \hat{j} \} ) } اور \عددی{(\hat{i}^{\,'},\hat{j}^{\,'} ) } کی صورت میں بیان کر رہے ہیں۔ سمتیہ ازخود"باہر    فضا"  میں رہتا   ہے اور کسی کے بھی قائم کردہ (اختیاری)  محددی نظام کا تابع نہیں ہے۔
+
+%fig 3.3 
+\begin{figure}
+\centering
+\begin{subfigure}{0.3\textwidth}
+\centering
+\begin{tikzpicture}
+\draw[very thick, -latex] (0,0) -- (63:2) node[pos=0.5, left]{$\kvec{A}$};
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.3\textwidth}
+\centering
+\begin{tikzpicture}
+\draw[-latex] (0,0) -- (0,2.25)coordinate(ytip) node[left]{$y$};
+\draw[-latex] (0,0) -- (2,0)coordinate(xtip) node[below]{$x$};
+\draw[-latex, very thick] (0,0) -- (1,2)coordinate(atip) node[pos=0.4,right]{$\kvec{A}$};
+\draw[dashed](atip)--($(0,0)!(atip)!(xtip)$)coordinate(xi);
+\draw[dashed](atip)--($(0,0)!(atip)!(ytip)$)coordinate(yi);
+\draw (0.5,0) node[below]{$A_x$};
+\draw (0,1.3) node[left]{$A_y$};
+\draw (0.5,0) node[below]{$A_x$};
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.3\textwidth}
+\centering
+\begin{tikzpicture}
+\draw [-latex] (0,0) -- (20:3)coordinate(xtip) node[below right]{$x'$};
+\draw [-latex] (0,0) -- (110:3)coordinate(ytip) node[above right]{$y'$};
+\draw[very thick, -latex] (0,0) -- (65:2.6)coordinate(a) node[pos=0.5, above left]{$\kvec{A}$};
+\draw[dashed] (a) --  ($(0,0)!(a)!(xtip)$)coordinate(xi);
+\draw[dashed] (a) --  ($(0,0)!(a)!(ytip)$)coordinate(yi);
+\draw($(0,0)!0.5!(xi)$)node[below right]{$\kvec{A}_x'$};
+\draw($(0,0)!0.5!(yi)$)node[left]{$\kvec{A}_y'$};
+\end{tikzpicture}
+\caption{}
+\end{subfigure}
+\caption{(ا) سمتیہ \عددی{\kvec{A}}، (ب)  \عددی{xy} محدد سے لحاظ سے \عددی{\kvec{A}} کے اجزاء، (ج) \عددی{x'y'} محدد کے لحاظ سے \عددی{\kvec{A}} کے اجزاء}
+\label{شکل_قواعد_سمتیہ_کے_اجزاء}
+\end{figure}
+
 
  یہی کچھ کوانٹم میکانیات میں  ایک نظام کے حال کے لیے  درست ہو گا۔ اس کو سمتیہ \عددی{| \s(t) \rangle } سے ظاہر کیا جا سکتا ہے جو "باہر ہلبرٹ فضا"  میں رہتا ہے اور  جسے  ہم     مختلف اساس کے لحاظ سے   بیان کر سکتے ہیں۔ درحقیقت امتیازی تفاعل مقام کی اساس میں \عددی{| \s \rangle} کی پھیلاو کا عددی سر موجی تفاعل \عددی{\Psi(x,t)} ہو گا:
 \begin{align}

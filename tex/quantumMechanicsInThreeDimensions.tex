@@ -83,11 +83,42 @@ i\hslash\frac{\partial{\Psi}}{\partial{t}}=-\frac{\hslash^{2}}{2m}\nabla^{2}\Psi
 
 
 \جزوحصہ{علیحدگی متغیرات} 
-  عموماً مخفیہ صرف مبدا سے فاصلہ کا تفاعل ہو گا۔ ایسی صورت میں \اصطلاح{کروی محدد}\فرہنگ{محدد!کروی}\حاشیہب{spherical coordinates}\فرہنگ{coordinates!spherical}  \عددی{(r,\theta,\phi)}   کا استعمال بہتر ثابت ہو گا (شکل \حوالہء{4۔1})۔  
+  عموماً مخفیہ صرف مبدا سے فاصلہ کا تفاعل ہو گا۔ ایسی صورت میں \اصطلاح{کروی محدد}\فرہنگ{محدد!کروی}\حاشیہب{spherical coordinates}\فرہنگ{coordinates!spherical}  \عددی{(r,\theta,\phi)}   کا استعمال بہتر ثابت ہو گا (شکل \حوالہ{شکل_تین_ابعادی_کروی_محدد_تعریف})۔  
 کروی محدد میں لاپلاسی درج ذیل روپ اختیار کرتا ہے۔
 \begin{align}
 \nabla^{2}=\frac{1}{r^{2}}\frac{\partial}{\partial{r}}\big (r^{2}\frac{\partial}{\partial{r}}\big )+\frac{1}{r^{2}\sin{\theta}}\frac{\partial}{\partial{\theta}}\big(\sin{\theta}\frac{\partial}{\partial{\theta}}\big )+\frac{1}{r^{2}\sin^{2}{\theta}}\big(\frac{\partial^{\,2}}{\partial{\phi^{2}}}\big ) 
 \end{align}
+
+%fig 4.1
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\pgfmathsetmacro{\ang}{20}
+\pgfmathsetmacro{\r}{2.5}
+\pgfmathsetmacro{\dy}{\r*cos(\ang)}
+\draw[name path=ka,thick, -latex] (0,0) -- (5,0)node[below]{$y$};
+\draw[-latex] (0,0) -- (0,2) node[left]{$z$};
+\draw[name path=kb,-latex](0,0)--(-1.75,-1.75)node[left]{$x$};
+\draw[thick,] (0,0) -- ++(\ang:\r)node[circle,inner sep=1.5pt,fill=black]{} node[above]{$P$}node[pos=0.5,above left]{$r$};
+\draw[-stealth]([shift={(90:0.5)}]0,0) arc (90:\ang:0.5)node[pos=0.5,shift={(90-\ang/2:0.75em)}]{$\theta$};
+\draw[dashed](\ang:2.5)--++(0,-\dy)coordinate(bot);
+\draw[dashed](0,0)--(bot);
+\path[name path=ix](bot)--++(-4,0);
+\path[name path=iy](bot)--++(1.5,1.5);
+\draw[dashed,name intersections={of={kb and ix}}] (intersection-1)--(bot);
+\draw[dashed,name intersections={of={ka and iy}}] (intersection-1)--(bot);
+\draw[-stealth]([shift={(-135:0.4)}]0,0) arc (-135:-30:0.4)node[pos=0.5,below]{$\phi$};
+\draw[dashed](\ang:\r)--++(\ang:1)coordinate(st);
+\draw[-stealth] (st)--++(\ang:0.5)node[right]{$\ar$};
+\draw[-stealth] (st)--++(\ang-90:0.5)node[below]{$\atheta$};
+\draw[-stealth] (st)--++(45:0.5)node[above]{$\aphi$};
+\end{tikzpicture}
+\caption{کروی محدد: رداس \عددی{r}، قطبی زاویہ \عددی{\theta}، اور اسّمتی زاویہ \عددی{\phi} ہیں۔}
+\label{شکل_تین_ابعادی_کروی_محدد_تعریف}
+\end{figure}
+
+
+
 یوں کروی محدد میں تابع وقت شروڈنگر مساوات درج ذیل ہو گی۔ 
 \begin{multline}\label{مساوات_ابعادی_لاپلاسی_ب}
 -\frac{\hslash^{2}}{2m}\big [\frac{1}{r^{2}}\frac{\partial}{\partial{r}}\big (r^{2}\frac{\partial\psi}{\partial{r}}\big )+\frac{1}{r^{2}\sin{\theta}}\frac{\partial}{\partial{\theta}}\big(\sin{\theta}\frac{\partial\psi}{\partial{\theta}}\big )+\frac{1}{r^{2}\sin^{2}{\theta}}\big(\frac{\partial^{2}\psi}{\partial{\phi^{2}}}\big )\big ]\\
@@ -185,9 +216,13 @@ P_{0}(x)&=1,\quad P_{1}(x)=\frac{1}{2}\frac{\dif}{\dif{x}}(x^{2}-1)=x ,\\
 P_{2}(x)&=\frac{1}{4\cdot 2}\big(\frac{\dif}{\dif{x}}\big)^{2}(x^{2}-1)^{2}=\frac{1}{2}(3x^{2}-1) 
 \end{align*}
 %
+%\begin{minipage}{0.45\textwidth}
+%\centering
 \begin{table}
-\caption{ابتدائی چند لیژانڈر کثیر رکنیاں۔}
+\caption{چند ابتدائی لیژانڈر کثیر رکنیاں \عددی{P_l(x)}۔ (ا) تفاعلی روپ، (ب) ترسیمات۔}
 \label{جدول_ابعاد_لیژانڈر_چند_ابتدائی}
+\centering
+\begin{subtable}{0.45\textwidth}
 \centering
 \begin{tabular}{l}
 $P_0=1$\\[0.25em]
@@ -197,6 +232,21 @@ $P_3=\frac{1}{2}(5x^3-3x)$\\[0.25em]
 $P_4=\frac{1}{8}(35x^4-30x^2+3)$\\[0.25em]
 $P_5=\frac{1}{8}(63x^5-70x^3+15x)$
 \end{tabular}
+\caption{}
+\end{subtable}\hfill
+\begin{subtable}{0.45\textwidth}
+\centering
+\begin{tikzpicture}[declare function={p0(\x)=1;p1(\x)=\x;p2(\x)=1/2*(3*\x^2-1);p3(\x)=1/2*(5*\x^3-3*\x);}]
+\begin{axis}[small,axis lines=middle,xlabel={$x$},ylabel={}, xtick={-1,1},
+ xticklabels={$-1$,$1$}, ytick={-1,0.5,1},yticklabels={$-1$,$0.5$,\raisebox{1.25em}{$1$}}, ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north},enlargelimits]
+ \addplot[thick,domain=-1:1]{p0(x)}node[pos=0.25,below]{$P_0$};
+  \addplot[thick,domain=-1:1]{p1(x)}node[pos=0.25,below]{$P_1$};
+   \addplot[thick,domain=-1:1,smooth]{p2(x)}node[pos=0.1,below left]{$P_2$};
+    \addplot[thick,domain=-1:1,smooth]{p3(x)}node[pos=0.65,below right]{$P_3$};
+ \end{axis}
+\end{tikzpicture}
+\caption{}
+\end{subtable}
 \end{table}
 جدول \حوالہ{جدول_ابعاد_لیژانڈر_چند_ابتدائی} میں ابتدائی چند لیژانڈر کثیر رکنیاں پیش کی گئی ہیں۔ جیسا کہ نام سی ظاہر ہے، \عددی{P_{l}(x)} متغیر \عددی{x} کی درجہ \عددی{l} کثیر رکنی ہے، اور \عددی{l} کی قیمت طے  کرتی ہے کہ آیا یہ جفت کا طاق ہو گی۔ تاہم  \عددی{P_{l}^{m}(x)}  عموماً کثیر رکنی نہیں ہو گا؛ اور طاق \عددی{m} کی صورت میں اس میں \عددی{\sqrt{1-x^2}} کا جزو ضربی پایا جائے گا:
 \begin{align*}
@@ -206,8 +256,11 @@ P_{2}^{2}(x)&=(1-x^{2})\big(\frac{\dif}{\dif{x}}\big)^{2}\big[\frac{1}{2}(3x^{2}
 وغیرہ وغیرہ۔  (اب ہمیں \عددی{P_{l}^{m}(\cos\theta)} چاہیے اور چونکہ \عددی{\sqrt{1-\cos^{2}\theta}=\sin\theta} ہوتا ہے لہٰذا \عددی{P_{l}^{m}(\cos\theta)} ہر صورت \عددی{\cos\theta} کا کثیر رکنی ہو گا جسے طاق \عددی{m} کی صورت میں
  \عددی{\sin\theta} ضرب کرے گا۔ جدول \حوالہ{جدول_ابعادی_شریک_لیژانڈر_تفاعلات} میں \عددی{\cos\theta} کے چند شریک لیژانڈر تفاعلات پیش کیے گئے ہیں۔)
 \begin{table}
-\caption{چند شریک لیژانڈر تفاعلات \عددی{{P_l^m(\cos\theta)}}}
+\caption{
+چند شریک لیژانڈر تفاعلات \عددی{P_l^m(\cos\theta)}: (ا) تفاعلی روپ، (ب) ترسیمات برائے \عددی{r=P_l^m(\cos\theta)} (ان ترسیمات میں \عددی{r} آپ کو \عددی{\theta} رخ تفاعل کی  کل مقدار دیتا ہے؛  ان اشکال کو \عددی{z} محور کے گرد گھمائیں۔)
+}
 \label{جدول_ابعادی_شریک_لیژانڈر_تفاعلات}
+\begin{subtable}{0.60\textwidth}
 \centering
 \begin{tabular}{ll}
 $P_0^0=1$ & $P_2^0=\frac{1}{2}(3\cos^2\theta-1)$\\[0.25em]
@@ -216,6 +269,56 @@ $P_1^0=\cos\theta$ & $P_3^2=15\sin^2\theta\cos\theta$\\[0.25em]
 $P_2^2=3\sin^2\theta$ & $P_3^1=\frac{3}{2}\sin\theta(5\cos^2\theta-1)$\\[0.25em]
 $P_2^1=3\sin\theta\cos\theta$ & $P_3^0=\frac{1}{2}(5\cos^3\theta-3\cos\theta)$
 \end{tabular}
+\caption{}
+\end{subtable}\hfill
+\begin{subtable}{0.35\textwidth}
+\centering
+\begin{minipage}{0.45\textwidth}
+\centering
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits,ymax=1.25]
+ \addplot[thick,domain=0:360]{p00(x)};
+ \node[] at (rel axis cs:1,1) {\small{$P_0^0(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits,ymax=1.25]
+   \addplot[thick,domain=0:180,smooth]{p10(x)};
+      \addplot[thick,domain=0:180,smooth]{-p10(x)};
+       \node[] at (rel axis cs:1,1) {\small{$P_1^0(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits,ymax=1.25]
+    \addplot[thick,domain=0:360,smooth]{p20(x)};
+     \node[] at (rel axis cs:1,1) {\small{$P_2^0(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits,xmax=1.25]
+  \addplot[thick,domain=0:180,samples=100]{p11(x)};
+    \addplot[thick,domain=0:180,samples=100]{-p11(x)};
+     \node[] at (rel axis cs:1,1) {\small{$P_1^1(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits]
+  \addplot[thick,domain=0:360,samples=100]{p21(x)};
+   \node[yshift=0.25em] at (rel axis cs:1,1) {\small{$P_2^1(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\begin{tikzpicture}[declare function={p00(\x)=1;p11(\x)=sin(90-\x); p10(\x)=cos(90-\x); p21(\x)=3*sin(90-\x)*cos(90-\x); p20(\x)=1/2*(3*cos(90-\x)^2-1); p22(\x)=3*sin(90-\x)^2;}]
+\begin{axis}[clip=false,data cs=polar,axis equal,width=3cm,axis lines=middle,xlabel={},ylabel={$z$}, xtick={\empty},  xticklabels={}, ytick={\empty},yticklabels={}, ylabel style={at={(current axis.above origin)},anchor=south},xlabel style={at={(current axis.right of origin)},anchor=west},enlargelimits,xmax=3.5]
+  \addplot[thick,domain=0:360,samples=100]{p22(x)};
+   \node[] at (rel axis cs:1,1) {\small{$P_2^2(\theta)$}};
+ \end{axis}
+\end{tikzpicture}
+\end{minipage}
+\caption{}
+\end{subtable}
 \end{table}
 
 دھیان رہے کہ صرف غیر منفی عدد صحیح \عددی{l} کی صورت میں کلیہ روڈریگیس معنی خیز ہو گا؛ مزید \عددی{|m|\textgreater{l}} کی صورت میں مساوات \حوالہ{مساوات_ابعادی_شریک_لیژانڈر_تفاعلات_تعریف} کے تحت \عددی{P_{l}^{m}=0} ہو گا۔ یوں \عددی{l} کی کسی بھی مخصوص قیمت کے لئے \عددی{m} کی \عددی{(2l+1)} ممکنہ قیمتیں ہوں گی:
