@@ -1,61 +1,8 @@
 
 
-
-%=======================================================================
-
-%=============================================================
-
-%fig 4.3
-
-\begin{figure}
-\centering
-\begin{tikzpicture}
-\pgfmathsetmacro{\r}{1.5}
-\pgfmathsetmacro{\ra}{1.5-3/72}
-\pgfmathsetmacro{\ang}{30}
-\draw (0,0) circle (\r);
-\draw[-latex] (0,0) node[circle,fill,inner sep=1.5pt]{} node[left]{$+e$} node[below left]{\RL{(پروٹان)}} -- (\ang:\ra) node[right]{$-e$} node[below right,xshift=0.4em]{\RL{(الیکٹران)}} node[pos=0.5, above]{$r$}node[circle,fill,inner sep=1.5pt]{};
-\end{tikzpicture}
-\caption{
-ہائیڈروجن  جوہر
-}
-\label{
-شکل_تین_ابعادی_ہائیڈروجن_جوہر
-}
-\end{figure}
-
-
-
 %===================================================
 
-%fig 4.11
 
-\begin{figure}
-\centering
-\begin{tikzpicture}
-\pgfmathsetmacro{\ang}{30}
-\pgfmathsetmacro{\angA}{180-\ang}
-\draw[-latex] (0,0) -- (1,0) node[below]{$y$};
-\draw[-latex] (0,0) -- (0,1) node[left]{$z$};
-\draw[-latex] (0,0) -- (-0.5,-0.5) node[below]{$x$};
-\draw (1.5,0) -- (4,0) to [out=0,in=-\angA] ++ (1,0.3) --++ (\ang:2) node[right]{\RL{ہم میدان چکر}};
-\draw (4,0) to [out=0,in=\angA] ++ (1,-0.3) --++ (-\ang:2)  node[right]{\RL{مخالف میدان چکر}};
-\draw[fill=gray] (3.5,0.25) rectangle ++ (1,0.5);
-\draw[fill=gray] (3.5,-0.25) rectangle ++ (1,-0.5);
-\draw (4,-0.75) node[below]{\RL{مقناطیس}};
-\draw[-latex] (1.5,0.25) --++ (1,0);
-\draw[-latex] (5.5,0.85) --++ (\ang:1);
-\draw[-latex] (5.5,-0.85) --++ (-\ang:1);
-\end{tikzpicture}
-\caption{
-شٹرن و گرلاخ آلہ
-}
-\label{
-شکل_تین_ابعادی_شٹرن_گرلاخ_آلہ
-}
-\end{figure}
-
-%================================================
 
 %fig 5.1 (p221)
 \begin{figure}
