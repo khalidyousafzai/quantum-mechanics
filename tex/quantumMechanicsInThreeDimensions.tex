@@ -867,7 +867,7 @@ $R_{43}=\frac{1}{768\sqrt{35}}a^{-3/2}\big(\frac{r}{a}\big)^3e^{-r/4a}$\\
 \begin{figure}
 \centering
 \begin{tikzpicture}[declare function={R10(\x)=2*(e^(-\x));R20(\x)=1/(sqrt(2))*(1-1/2*\x)*e^(-\x/2);R30(\x)=2/sqrt(27)*(1-2/3*\x+2/27*\x^2)*e^(-\x/3);R31(\x)=8/(27*sqrt(6))*(1-\x/6)*\x*e^(-\x/3);}]
-\begin{axis}[axis lines=middle,xlabel={$x$},ylabel={$R_{nl}(r)$}, xtick={2,4,6,8,10,12,14},ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north},enlargelimits,ymax=0.9]
+\begin{axis}[axis lines=middle,xlabel={$r/a$},ylabel={$a^{3/2}R_{nl}(r)$}, xtick={2,4,6,8,10,12,14},ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north},enlargelimits,ymax=0.9]
 \addplot[domain=0.8:6,smooth]{R10(x)}node[pos=0,right]{$10$};
 \addplot[domain=0:10,smooth]{R20(x)}node[pos=0,right]{$20$};
 \addplot[domain=0:16,smooth]{R30(x)}node[pos=0,right]{$30$};
