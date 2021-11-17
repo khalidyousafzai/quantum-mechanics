@@ -2,13 +2,51 @@
 %typing complete
 \حصہ{تعارف}
 \جزوحصہ{کلاسیکی نظریہ بکھراو}
-فرض کریں کسی مرکز بکھراو پر ایک ذرہ کا آمد ہوتا ہے مثلاً ایک پروٹان کو ایک بھاری مرکزہ پر داغا جاتا ہے یہ توانائی \عددی{E}  اور ٹکراو مقدار معلوم \عددی{b} کے ساتھ آکر کسی زاویائے بکھراو \عددی{\theta} پر اُبھرتا ہے \حوالہء{شکل \num{11.1}} دیکھیں۔ میں اپنی آسانی کے لیئے فرض کرتا ہوں کہ ہدف اسمتی تشاکلی ہے یوں خطِ حرکت ایک مستوی میں پایا جائے گا اور کہ نشانہ بھاری ہے لحاظہ تصداً کی بنا اس کی حرکت اُچھلنے کو نظرانداز کیا جاسکتا ہے۔ کلاسیکی نظریہ بکھراو کا بنیادی مسئلہ یہ ہوگا: ٹکراو مقدار معلوم کو جانتے ہوئے زاویائے بکھراو کا حساب کریں۔ یقیناً عام طور پر ٹکراو مقدار معلوم جتنا چھوٹا ہو زاویہ بکھراو اتنا بڑا ہوگا۔
+فرض کریں کسی مرکز بکھراو پر ایک ذرہ کا آمد ہوتا ہے مثلاً ایک پروٹان کو ایک بھاری مرکزہ پر داغا جاتا ہے یہ توانائی \عددی{E}  اور ٹکراو مقدار معلوم \عددی{b} کے ساتھ آکر کسی زاویائے بکھراو \عددی{\theta} پر اُبھرتا ہے  ؛ شکل \حوالہ{شکل_بکھراو_کلاسیکی_ٹکراو_اور_زاویہ}  دیکھیں۔ میں اپنی آسانی کے لیئے فرض کرتا ہوں کہ ہدف اسمتی تشاکلی ہے یوں خطِ حرکت ایک مستوی میں پایا جائے گا اور کہ نشانہ بھاری ہے لحاظہ تصداً کی بنا اس کی حرکت اُچھلنے کو نظرانداز کیا جاسکتا ہے۔ کلاسیکی نظریہ بکھراو کا بنیادی مسئلہ یہ ہوگا: ٹکراو مقدار معلوم کو جانتے ہوئے زاویائے بکھراو کا حساب کریں۔ یقیناً عام طور پر ٹکراو مقدار معلوم جتنا چھوٹا ہو زاویہ بکھراو اتنا بڑا ہوگا۔
+\begin{figure}
+\centering
+\begin{tikzpicture}[]
+\draw[-stealth] (0,0) -- (5,0) node[below]{$z$};
+\draw[dashed] (0,0.5) -- (5,0.5);
+\draw[thick,->-=0.5] (0,0.5) to [out=0,in=-120] (5,4);
+\draw[dashed] (3.25,0.5) -- (5,4);
+\draw[]([shift={(0:0.5)}]3.25,0.5) arc (0:60:0.5) node[pos=0.5,right]{$\theta$};
+\draw[stealth-stealth] (0.4,0) -- (0.4,0.5) node[pos=0.5,left]{$b$};
+\draw[] (3.5,0) node[circle,inner sep= 1.5pt,fill=black]{} node[below]{\RL{نقطہ بکھراو}};
+\end{tikzpicture}
+\caption{کلاسیکی مسئلہ بکھراو، جس میں ٹکراو مقدار معلوم \عددی{b} اور زاویہ بکھراو \عددی{\theta} کی وضاحت کی گئی ہے۔}
+\label{شکل_بکھراو_کلاسیکی_ٹکراو_اور_زاویہ}
+\end{figure}
+
 
 \ابتدا{مثال}
-\موٹا{سخت کرہ کا بکھراو}۔ فرض کریں ہدف رداس \عددی{R} کا ایک ٹھوس بھاری گیند ہے جبکہ آمدی ذرہ ہوائی بندوق کا ایک چھرہ ہے جو لچھکیلی ٹپکی کھا کر مڑتا ہے \حوالہء{شکل \num{11.2}}۔ زاویہ \عددی{\ایلفا} کی صورت میں ٹکراو مقدار معلوم \عددی{b=R\sin\ایلفا} اور زاویہ بکھراو \عددی{\تھیٹا=\پاے-2\ایلفا} ہوں گے۔ یوں درج ذیل ہوگا
+\موٹا{سخت کرہ کا بکھراو}۔ فرض کریں ہدف رداس \عددی{R} کا ایک ٹھوس بھاری گیند ہے جبکہ آمدی ذرہ ہوائی بندوق کا ایک چھرہ ہے جو لچھکیلی ٹپکی کھا کر مڑتا ہے  (شکل \حوالہ{شکل_بکھراو_سخت_کرہ_لچکدار})۔ زاویہ \عددی{\ایلفا} کی صورت میں ٹکراو مقدار معلوم \عددی{b=R\sin\ایلفا} اور زاویہ بکھراو \عددی{\تھیٹا=\پاے-2\ایلفا} ہوں گے۔ یوں درج ذیل ہوگا۔
 \begin{align}
 	b = R\sin\left(\frac{\pi}{2}-\frac{\theta}{2}\right) = R\cos\left(\frac{\theta}{2}\right)
 \end{align}
+
+\begin{figure}
+\centering
+\pgfmathsetmacro{\r}{1.5}
+\pgfmathsetmacro{\ang}{35}
+\pgfmathsetmacro{\b}{\r*sin(\ang)}
+\pgfmathsetmacro{\c}{\r*cos(\ang)}
+\begin{tikzpicture}[]
+\draw[] (0,0) node[circle, inner sep=1.5pt, fill=black]{} circle (\r);
+\draw[-stealth] (-5,0) -- (2,0) node[below]{$z$};
+\draw[stealth-stealth] (-4.4,0) --++ (0,\b) node[pos=0.5,left]{$b$};
+\draw[thick,-stealth] (-5,\b) -- (-\c,\b) --++ (180-2*\ang:2);
+\draw[dashed] (-\c, \b) --++ (1.25,0);
+\draw[dashed] (0,0) --++ (180-\ang:3) node[pos=0.25,shift={(90-\ang:0.75em)}]{$R$};
+\draw[] ([shift={(180-\ang:0.5)}]0,0) arc (180-\ang:180:0.5) node[pos=0.4,left]{$\alpha$};
+\draw[] ([shift={(180-\ang:0.5)}]-\c,\b) arc (180-\ang:180:0.5) node[pos=0.4,left]{$\alpha$};
+\draw[] ([shift={(180-2*\ang:0.4)}]-\c,\b) arc (180-2*\ang:180-\ang:0.4) node[pos=0.5,shift={(180-1.5*\ang:0.75em)}]{$\alpha$};
+\draw[] ([shift={(0:0.75)}]-\c,\b) arc (0:180-2*\ang:0.75) node[pos=0.5,above]{$\theta$};
+\end{tikzpicture}
+\caption{سخت کرہ سے لچکدار بکھراو۔}
+\label{شکل_بکھراو_سخت_کرہ_لچکدار}
+\end{figure}
+
 ظاہری طور پر درج ذیل ہوگا
 \begin{align}
 	\theta =
@@ -18,7 +56,81 @@
 	\end{cases}
 \end{align}
 \انتہا{مثال}
-عمومی طور پر لامتناہی چھوٹے رقبہ عمودی تراش \عددی{\dif\سگما} میں آمدی ذرات مطابقتی لامتناہی چھوٹے ٹھوس زاویہ \عددی{\dif\بڑااومیگا} میں بکھریں گے \حوالہء{شکل \num{11.3}}۔ بڑی \عددی{\dif\سگما} کی صورت میں \عددی{\dif\بڑااومیگا} بھی بڑا ہوگا تناسبی جز ضربی \عددی{D(\تھیٹا)\equiv\dif\سگما/\dif\بڑااومیگا} کو تفریقی بکھراو عمودی تراش کہتے ہیں 
+%=================================
+\begin{figure}
+\centering
+\pgfmathsetmacro{\r}{2}
+\pgfmathsetmacro{\ta}{30}
+\pgfmathsetmacro{\tb}{40}
+\pgfmathsetmacro{\pa}{40}
+\pgfmathsetmacro{\pb}{80}
+\pgfmathsetmacro{\ia}{0.5}
+\pgfmathsetmacro{\ib}{0.3}
+\pgfmathsetmacro{\tcc}{\ta+(\tb-\ta)/2}
+\pgfmathsetmacro{\tdd}{\pa+(\pb-\pa)/2}
+\begin{tikzpicture}[declare function={fa(\t,\p)=\r*sin(\t)*cos(\p);fb(\t,\p)=\r*sin(\t)*sin(\p);fc(\t,\p)=\r*cos(\t);}, 
+x={(0cm,-0.25cm)}, y={(1cm,0cm)}, z={(0cm,1cm)}]
+\begin{scope}[rotate=-90]
+\draw[] plot [domain=0:360,smooth]({fa(\x,90)},{fb(\x,90)},{fc(\x,90)});
+\draw[] plot [domain=-90:90,smooth]({fa(\ta,\x)},{fb(\ta,\x)},{fc(\ta,\x)});
+\draw[] plot [domain=-90:90,smooth]({fa(\tb,\x)},{fb(\tb,\x)},{fc(\tb,\x)});
+%\draw[dashed] plot [domain=90:270]({fa(\ta,\x)},{fb(\ta,\x)},{fc(\ta,\x)});
+%\draw[dashed] plot [domain=90:270]({fa(\tb,\x)},{fb(\tb,\x)},{fc(\tb,\x)});
+\draw[] plot [domain=\ta:\tb]({fa(\x,\pa)},{fb(\x,\pa)},{fc(\x,\pa)});
+\draw[] plot [domain=\ta:\tb]({fa(\x,\pb)},{fb(\x,\pb)},{fc(\x,\pb)});
+\coordinate (tta) at ({fa(\ta,\pa)},{fb(\ta,\pa)},{fc(\ta,\pa)});
+\coordinate (ttb) at ({fa(\ta,\pb)},{fb(\ta,\pb)},{fc(\ta,\pb)});
+\coordinate (ppa) at ({fa(\tb,\pa)},{fb(\tb,\pa)},{fc(\tb,\pa)});
+\coordinate (ppb) at ({fa(\tb,\pb)},{fb(\tb,\pb)},{fc(\tb,\pb)});
+\draw[] (tta) -- (0,0,0);
+\draw[] (ttb) -- (0,0,0);
+\draw[] (ppa) -- (0,0,0);
+\draw[] (ppb) -- (0,0,0);
+\draw[] (0,0,0) node[circle,inner sep=1.5pt,fill=black]{} -- ({fa(\ta,-90)},{fb(\ta,-90)},{fc(\ta,-90)});
+\draw[] (0,0,0) -- ({fa(\tb,-90)},{fb(\tb,-90)},{fc(\tb,-90)});
+\draw[] (0,0,-6) -- (0,0,2.5);
+\draw[] plot [domain=0:\ta] ({0.4*fa(\x,-90)},{0.4*fb(\x,-90)},{0.4*fc(\x,-90)});
+\draw[] ({0.4*fa(\ta/2,-90)},{0.4*fb(\ta/2,-90)},{0.4*fc(\ta/2,-90)}) node[right,yshift=0.25em]{$\theta$};
+\draw[] plot [domain=\ta:\tb]({0.5*fa(\x,-90)},{0.5*fb(\x,-90)},{0.5*fc(\x,-90)});
+\draw[] ({0.5*fa(\ta,-90)},{0.5*fb(\ta,-90)},{0.5*fc(\ta,-90)}) node[pin={[]160:{$\dif\theta$}}]{};
+\draw[] plot [domain=0:360] ({\ia*fa(90,\x)},{\ia*fb(90,\x)},{-5+\ia*fc(90,\x)});
+\draw[] plot [domain=0:360] ({\ib*fa(90,\x)},{\ib*fb(90,\x)},{-5+\ib*fc(90,\x)});
+\coordinate (iia) at ({\ia*fa(90,\pa)},{\ia*fb(90,\pa)},{-5+\ia*fc(90,\pa)});
+\coordinate (iib) at ({\ib*fa(90,\pa)},{\ib*fb(90,\pa)},{-5+\ib*fc(90,\pa)});
+\coordinate (iic) at ({\ia*fa(90,\pb)},{\ia*fb(90,\pb)},{-5+\ia*fc(90,\pb)});
+\coordinate (iid) at ({\ib*fa(90,\pb)},{\ib*fb(90,\pb)},{-5+\ib*fc(90,\pb)});
+\draw[] (iia) -- (iib);
+\draw[] (iic) -- (iid);
+\path[name path=za] plot [domain=\pa:\pb] ({\ia*fa(90,\x)},{\ia*fb(90,\x)},{-5+\ia*fc(90,\x)});
+\path[name path=zb] plot [domain=\pa:\pb] ({\ib*fa(90,\x)},{\ib*fb(90,\x)},{-5+\ib*fc(90,\x)});
+\tikzfillbetween[of=za and zb]{gray,opacity=0.5};
+\path[name path=zc] plot [domain=\pa:\pb,smooth]({fa(\ta,\x)},{fb(\ta,\x)},{fc(\ta,\x)});
+\path[name path=zd] plot [domain=\pa:\pb,smooth]({fa(\tb,\x)},{fb(\tb,\x)},{fc(\tb,\x)});
+\tikzfillbetween[of=zc and zd]{gray,opacity=0.5};
+\draw[thick] ($(iia)!0.5!(iid)$) coordinate(bba) --++ (0,0,-1) coordinate(bbb);
+\draw[thick] ($(iia)!0.5!(iid)$) --++ (0,0,4.5) coordinate(kleft);
+\draw[line width=2pt,-stealth,white] ($(tta)!0.5!(ppb)$) coordinate(kright) --({1.75*fa(\tcc,\tdd)},{1.75*fb(\tcc,\tdd)},{1.75*fc(\tcc,\tdd)});
+\draw[thick,-stealth] ($(tta)!0.5!(ppb)$) coordinate(kright) --({1.75*fa(\tcc,\tdd)},{1.75*fb(\tcc,\tdd)},{1.75*fc(\tcc,\tdd)});
+\draw[thick] (kleft) to [out=90,in=245] (kright);
+\draw[stealth-,shorten <=1.5pt] ($(iia)!0.5!(iic)$) --++ (0.5,0.5) node[below]{$\dif\sigma$};
+\draw[stealth-stealth] (0,0,-5.75) -- ($(bba)!(0,0,-5.75)!(bbb)$) node[pos=0.5,left]{$b$};
+\draw[] (iib) -- (0,0,-5);
+\draw[] (iid) -- (0,0,-5);
+\path[]($(iia)!0.5!(iid)$)--(0,0,-5)coordinate[pos=0.5](kkphi);
+\draw[] (kkphi) to [out=90,in=-90] ++ (0,-1,1)node[right]{$\dif \phi$};
+\draw[] plot [domain=\ta-15:\tb+7] ({0.3*fa(\x,90)},{0.3*fb(\x,90)},{0.3*fc(\x,90)});
+\draw[] plot [domain=\ta-15:\tb+7] ({0.35*fa(\x,90)},{0.35*fb(\x,90)},{0.35*fc(\x,90)});
+\draw[]({0.35*fa(\tcc,90)},{0.35*fb(\tcc,90)},{0.35*fc(\tcc,90)})--++(0,0.75,0.3)node[below]{$\dif\Omega$};
+\end{scope}
+\end{tikzpicture}
+\caption{رقبہ \عددی{\dif \sigma} میں آمدی ذرات ٹھوس زاویہ \عددی{\dif\Omega} میں بکھرتے ہیں۔}
+\label{شکل_بکھراو_آمدی_اور_ٹھوس_زاویہ}
+\end{figure}
+
+
+
+عمومی طور پر لامتناہی چھوٹے رقبہ عمودی تراش \عددی{\dif\سگما} میں آمدی ذرات مطابقتی لامتناہی چھوٹے
+ ٹھوس زاویہ \عددی{\dif\بڑااومیگا} میں بکھریں گے (شکل \حوالہ{شکل_بکھراو_آمدی_اور_ٹھوس_زاویہ})۔ بڑی \عددی{\dif\سگما} کی صورت میں \عددی{\dif\بڑااومیگا} بھی بڑا ہوگا تناسبی جز ضربی \عددی{D(\تھیٹا)\equiv\dif\سگما/\dif\بڑااومیگا} کو تفریقی بکھراو عمودی تراش کہتے ہیں 
 \begin{align}
 	\dif\sigma = D(\theta)\dif\Omega
 \end{align}
@@ -51,7 +163,7 @@
 
 آخر میں فرض کریں ہمارے پاس آمدی ذرات کی یکساں شدت تابندگی کی ایک شعاع ہو 
 \begin{align}
-	\mathcal{L}\equiv\text{number of incident particles per unit area per unit time}
+	\mathcal{L}\equiv\text{\RL{اکائی رقبہ پر فی اکائی وقت آمدی ذرات کی تعداد}}
 \end{align}
 فی اکائی وقت رقبہ \عددی{\dif\سگما} میں داخل ہونے والے ذرات اور یوں ٹھوس زاویہ \عددی{\dif\بڑااومیگا} میں بکھراو والے ذرات کی تعداد \عددی{\dif N = \mathcal{L}\dif\سگما=\mathcal{L}D(\تھیٹا)\dif\بڑااومیگا}  ہوگی لحاظہ درج ذیل ہوگا 
 
@@ -78,17 +190,78 @@
 %==========================
 
 \جزوحصہ{کوانٹم نظریہ بکھراو}
-بکھراو کے کوانٹم نظریہ میں فرض کرتے ہیں کہ ایک آمدی مستوی موج \عددی{\psi(z) = Ae^{ikz}} جو محور \عددی{z} رخ حرکت کرتی ہو کا سامنا ایک بکھراو مخفیہ سے ہوتا ہے جس کے نتیجہ میں ایک کروی رخصتی موج پیدا ہوتی ہے \حوالہء{شکل \num{11.4}} یعنی ہم مساوات شروڈنگر کے وہ حل تلاش کرنا چاہتے ہیں جن کی عمومی روپ درج ذیل ہو
+بکھراو کے کوانٹم نظریہ میں فرض کرتے ہیں کہ ایک آمدی مستوی موج \عددی{\psi(z) = Ae^{ikz}} جو محور \عددی{z} رخ حرکت کرتی ہو کا سامنا ایک بکھراو مخفیہ سے ہوتا ہے جس کے نتیجہ میں ایک کروی رخصتی موج پیدا ہوتی ہے  (شکل \حوالہ{شکل_بکھراو_مستوی_آمدی_کروی_رخصتی})۔   یعنی ہم مساوات شروڈنگر کے وہ حل تلاش کرنا چاہتے ہیں جن کی عمومی روپ درج ذیل ہو
 \begin{align}
 	\psi(r, \theta)\approx A\left\{e^{ikz}+f(\theta)\frac{e^{ikr}}{r}\right\}, && \text{\RL{کے لیئے}} r \text{\RL{بڑے}}
 \end{align}
+%
+\begin{figure}
+\centering
+\pgfmathsetmacro{\r}{0.5}
+\pgfmathsetmacro{\anga}{35}
+\pgfmathsetmacro{\angb}{110}
+\pgfmathsetmacro{\angc}{10}
+\pgfmathsetmacro{\a}{\r/3}
+\begin{tikzpicture}
+\draw[-stealth] (-6,0) -- (2.75,0) node[below]{$z$};
+\foreach \n in {1,2,3,4}{\draw (0,0) circle (\n*\r);}
+\draw[fill=black] (0,0) circle (1.5pt);
+\draw[] (0,0) circle (3.5pt);
+\draw[] (0,0) --++ (\anga:2.5);
+\draw[] (0,0) ++ (\angb:1.5*\r) ++ (\angb-90:\a) --++ (\angb-\angc:3*\r) --++ (\angb-90:\r/2) coordinate(za);
+\draw[] (0,0) ++ (\angb:1.5*\r) ++ (\angb+90:\a) --++ (\angb+\angc:3*\r) --++ (\angb+90:\r/2) coordinate(zb);
+\draw[] (\angb:5.5*\r) -- (za) node[right]{$e^{ikr}$};
+\draw[] (\angb:5.5*\r) -- (zb);
+\draw[] (\anga/2:1.5*\r) node[]{$\theta$};
+\foreach \n in {1,2,3,4,5} {\draw[] (-3-\n*\r,1.5) --++ (0,-3);}
+\draw[] (-3-2.5*\r,-\r) --++ (2.5*\r,0) --++ (0,0.25*\r) coordinate(zc);
+\draw[] (-3-2.5*\r,-1.5*\r) --++ (2.5*\r,0) --++ (0,-0.25*\r) coordinate(zd);
+\draw[] (-3-2.5*\r,-1.25*\r) ++ (3*\r,0) coordinate(ze);
+\draw[] (zc) -- (ze);
+\draw[] (zd) -- (ze); 
+\draw[] (-3-3*\r,-1.5) node[below]{$e^{ikz}$};
+\end{tikzpicture}
+\caption{	امواج کا بکھراو؛ آمدی مستوی موج    رخصتی کروی موج پیدا کرتی ہے۔}
+\label{شکل_بکھراو_مستوی_آمدی_کروی_رخصتی}
+\end{figure}
+
 کروی موج میں جز ضربی \عددی{1/r} پایا جاتا ہے چونکہ احتمال کی بقا کے خاطر \عددی{\abs{\psi}^2} کا یہ حصہ \عددی{1/r^2} کے لحاظ سے تبدیل ہوگا۔ عدد موج \عددی{k} کا آمدی ذرات کی توانائی کے ساتھ ہمیشہ کی طرح درج ذیل رشتہ ہوگا 
 \begin{align}
 	k\equiv\frac{\sqrt{2mE}}{\hslash}
 \end{align}
 یہاں بھی میں فرض کرتا ہوں کہ ہدف اسمتی تشاکلی ہے زیادہ عمومی صورت میں رخصتی کروی موج کا حیطہ \عددی{f} متغیرات \عددی{\فاے} اور \عددی{\تھیٹا} کا تابع ہوگا۔
+\begin{figure}
+\centering
+\pgfmathsetmacro{\ra}{1.5}
+\pgfmathsetmacro{\rb}{1}
+\pgfmathsetmacro{\anga}{70}
+\pgfmathsetmacro{\angb}{-30}
+\pgfmathsetmacro{\d}{3}
+\pgfmathsetmacro{\angc}{(\anga+\angb)/2}
+\pgfmathsetmacro{\rc}{(\ra+\rb)/2}
+\begin{tikzpicture}
+\draw[fill=lgray,opacity=0.5] ([shift={(\angb:\ra)}]0,0) arc (\angb:\anga:\ra) coordinate(za)coordinate[pos=0](zaa)--(\anga:\rb) 
+([shift={(\anga:\rb)}]0,0) arc (\anga:\angb:\rb) coordinate(zbb)coordinate[pos=0](zb)--(\angb:\ra);
 
-ہمیں حیطہ بکھراو \عددی{f(\تھیٹا)} تعین کران ہوگا۔ یہ ہمیں کسی مخصوص رخ \عددی{\تھیٹا} میں بکھراو کا احتمال دیتا ہے اور یوں اس کا تعلق تفریقی عمودی تراش سے ہوگا۔ یقیناً سمتی رفتار \عددی{v} پر چلتے ہوئے ایک آمدی ذرہ کا وقت \عددی{\dif t} میں لامتناہی چھوٹی رقبہ \عددی{\dif\سگما} میں سے گزرنے کا احتمال \حوالہء{شکل \num{11.5}} دیکھیں درج ذیل ہوگا
+\draw[] ([shift={(\angb:\ra)}]\d,0) arc (\angb:\anga:\ra) coordinate(zc)coordinate[pos=0](zcc);
+\draw[dashed] ([shift={(\angb:\rb)}]\d,0) arc (\angb:\anga:\rb) coordinate(zd)coordinate[pos=0](zdd);
+\draw[dashed] (zc) -- (zd);
+\draw[dashed] (zcc) -- (zdd);
+\draw(za)--(zc);
+\draw(zaa)--(zcc);
+\draw[dashed](zb)--(zd);
+\draw[dashed](zbb)--(zdd);
+\draw[decorate,decoration={brace,amplitude=5pt,raise=4pt,mirror}] (zaa)--(zcc) node[pos=0.5,yshift=-1.5em]{$v\dif t$};
+\draw[] (\angc:\rc) node[pin={-135:{$\dif \sigma$}}]{};
+\draw[-stealth] (\angc:\rc) ++ (\d+0.5,0) --++ (1.5,0) node[pos=0.5,above]{$v$};
+\end{tikzpicture}
+\caption{وقت \عددی{\dif t} کے دوران رقبہ \عددی{\dif\sigma} سے گزرتی  ہوئی آمدی  شعاع کا حجم \عددی{\dif V} ہے۔}
+\label{شکل_بکھراو_رقبہ_حجم_شعاع}
+\end{figure}
+
+
+
+ہمیں حیطہ بکھراو \عددی{f(\تھیٹا)} تعین کران ہوگا۔ یہ ہمیں کسی مخصوص رخ \عددی{\تھیٹا} میں بکھراو کا احتمال دیتا ہے اور یوں اس کا تعلق تفریقی عمودی تراش سے ہوگا۔ یقیناً سمتی رفتار \عددی{v} پر چلتے ہوئے ایک آمدی ذرہ کا وقت \عددی{\dif t} میں لامتناہی چھوٹی رقبہ \عددی{\dif\سگما} میں سے گزرنے کا احتمال   (شکل \حوالہ{شکل_بکھراو_رقبہ_حجم_شعاع}  دیکھیں)  درج ذیل ہوگا
 \begin{align*}
 	\dif P = \abs{\psi_{\text{\RL{آمدی}}}}^2\dif V = \abs{A}^2(v\dif t)\dif\sigma
 \end{align*}
@@ -135,7 +308,21 @@
 \end{align*}
 جہ ہم گزشتہ حصہ میں طبعی وجوہات سے اغز کر چکے ہیں مساوات  \num{11.12}۔
 
-یہ بہت بڑی \عددی{r} کے لیئے تھا یا یہ کہنا زیادہ درست ہوگا کہ \(kr>>1\) کے لیئے تھا جسی بصریات میں خطہ اشاعی کہیں گے۔ یک بُعدی نظریہ بکھرائو کی طرح ہم یہاں فرض کرتے ہیں کہ مخفیہ مکامی ہے جس سے  ہمارا مراد یہ ہوگا کہ کسی متناہی بکھرائو خطہ کے باہر یہ تقریباً صفر ہوگا شکل \num{11.6}۔ درمیانی خطہ میں جہاں \عددی{V} کو رد کیا جا سکتا ہے لیکن مرکز گریز جز کو نظرانداز نہیں کیا جا سکتا رداسی مساوات درج ذیل روپ اختیار کرتی ہے۔  
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\draw[] (0,0) node[]{$V=0$} circle (0.6);
+\draw[] (0,0) node[]{$V=0$} circle (2);
+\draw[stealth-] (-160:0.6) to [out=-160,in=0] ++ (-1.5,-0.75) node[left]{\RL{خطہ بکھراو}};
+\draw[] (0,1) node[yshift=-0.25em]{$V\equiv 0$} node[above]{\RL{درمیانہ خطہ}};
+\draw[] (3,0.5) node[]{\RL{اشعاعی خطہ}} node[below,yshift=-0.25em]{$(kr\gg 1)$};
+\end{tikzpicture}
+\caption{مقمای مخفیہ سے بکھراو؛ خطہ بکھراو، درمیانہ خطہ، اور اشعاعی خطہ۔}
+\label{شکل_بکھراو_تین_خطے}
+\end{figure}
+
+
+یہ بہت بڑی \عددی{r} کے لیئے تھا یا یہ کہنا زیادہ درست ہوگا کہ \(kr>>1\) کے لیئے تھا جسی بصریات میں خطہ اشاعی کہیں گے۔ یک بُعدی نظریہ بکھرائو کی طرح ہم یہاں فرض کرتے ہیں کہ مخفیہ مکامی ہے جس سے  ہمارا مراد یہ ہوگا کہ کسی متناہی بکھرائو خطہ کے باہر یہ تقریباً صفر ہوگا  (شکل \حوالہ{شکل_بکھراو_تین_خطے})۔ درمیانی خطہ میں جہاں \عددی{V} کو رد کیا جا سکتا ہے لیکن مرکز گریز جز کو نظرانداز نہیں کیا جا سکتا رداسی مساوات درج ذیل روپ اختیار کرتی ہے۔  
 \begin{align}
 	\frac{d^2u}{dr^2}-\frac{l(l+1)}{r^2}u = -k^2u
 \end{align}
@@ -271,7 +458,7 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 جواب: \عددی{\sigma=4\pi a^2\beta^2/(1+\beta)^2}	
 \انتہا{سوال}
 \حصہ{ینتقلات حیط}
-پہلے نصف لکیر \عددی{x<0} پر مکامی مخفیہ \عددی{V(x)} سے یک بُعدی بکھراؤ کے مسئلے پر غور کرتے ہیں \حوالہء{شکل \num{11.7}} میں \عددی{x=0} پر اینٹون کی ایک دیوار کھڑی کرتا ہوں تاکہ بائیں سے آمدی موج 
+پہلے نصف لکیر \عددی{x<0} پر مکامی مخفیہ \عددی{V(x)} سے یک بُعدی بکھراؤ کے مسئلے پر غور کرتے ہیں۔ شکل \حوالہ{شکل_بکھراو_یک_بعدی_مقامی_مخفیہ}  میں \عددی{x=0} پر اینٹون کی ایک دیوار کھڑی کرتا ہوں تاکہ بائیں سے آمدی موج 
 \begin{align}
 	\psi_i(x) = Ae^{ikx}&&(x<-a)
 \end{align}
@@ -279,6 +466,24 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 \begin{align}
 	\psi_r(x) = Be^{-ikx}&&(x<-a)
 \end{align}
+%
+\begin{figure}
+\centering
+\pgfmathsetmacro{\a}{0.8}
+\pgfmathsetmacro{\b}{100}
+\begin{tikzpicture}[declare function={f(\x)=1.5*e^(\a*\x)*cos(\b*\x);}]
+\fill[lgray] (0,0) rectangle (0.25,2.75);
+\draw[-stealth] (-4.5,0) -- (1,0) node[below]{$x$};
+\draw[] (0,-0.75) -- (0,3);
+\draw[very thick,stealth-stealth] plot [domain=-6:0]({\x},{f(\x)})-- (0,3) node[left]{$V$};
+\draw(-3.75,0)--++(0,-0.1)node[below]{$a$};
+\draw[stealth-](-3.5,2.5)--++(1,0)node[right]{$Be^{-ikx}$};
+\draw[-stealth](-3.5,1.5)--++(1,0)node[right]{$Ae^{ikx}$};
+\end{tikzpicture}
+\caption{مقامی مخفیہ، جس کے  دائیں جانب ایک   لامتناہی دیوار  پائی جاتی ہے، سے یک بعدی بکھراو۔}
+\label{شکل_بکھراو_یک_بعدی_مقامی_مخفیہ}
+\end{figure}
+
 باہم عمل خطہ \عددی{(-a<x<0)} میں جو کچھ بھی ہو احتمال کی بقا کی بنا منعکد موج کا حیطہ لاظماً آمدی موج کے حیطہ کے برابر ہوگا۔ تاہم ضروری نہیں کہ اس کا حیط وہی ہو اگر ماسوائے \عددی{x=0} پر دیوار کے کوئی مخفیہ نہیں پایا جاتا ہو تب چونکہ مبدہ پر آمدی جمع منعکس کل تفاعل موج صفر ہوگا 
 \begin{align}
 	\psi_0(x) = A\left(e^{ikx}-e^{-ikx}\right)&&(V(x)=0)
@@ -415,10 +620,32 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 	g(s) = \frac{1}{(2\pi)^{3/2}(k^2-s^2)}
 \end{align}
 اس کو واپس \حوالہء{مساوات \num{11.54}} میںپُر کع کے درج ذیل ملتا ہے
-\begin{align}
+\begin{align}\label{مساوات_بکھراو_گرین_کا_تکمل}
 	G(r) = \frac{1}{(2\pi)^3}\int e^{is\cdot r}\frac{1}{(k^2-s^2)}\dif^3s
 \end{align}
-اب \عددی{s} تکمل کے نقطع نظر سے \عددی{r} غیر متغیر ہے ہم کروی محدد \عددی{(s, \theta, \phi)} کو یوں چنتے ہیں کہ \عددی{r} کتبی محور پر پایا جاتا ہو \حوالہء{شکل \num{11.8}}۔ یوں \عددی{s\cdot r = sr\cos\theta} ہوگا متغیر \عددی{\phi} کا تکمل \عددی{2\pi} ہوگا جبکہ \عددی{\theta} تکمل درج ذیل ہوگا
+%
+\begin{figure}
+\centering
+\pgfmathsetmacro{\r}{0.6}
+\pgfmathsetmacro{\ra}{0.85}
+\pgfmathsetmacro{\anga}{-117}
+\pgfmathsetmacro{\angb}{-57}
+\begin{tikzpicture}
+\draw[-stealth] (0,0) -- (-1.5,-1);
+\draw[-stealth] (0,0) -- (3,0);
+\draw[-stealth] (0,0) -- (0,3);
+\draw[thick,-stealth] (0,0) -- (0,2.5) node[pos=0.5,left]{$\kvec{r}$};
+\draw[thick,-stealth] (0,0) -- (2,2) node[above]{$\kvec{s}$};
+\draw[dashed] (2,2) -- (2,-1) -- (0,0);
+\RightAngle {(2,2)}{ (2,-1)}{ (0,0)}
+\draw[] ([shift={(48:\r)}]0,0) arc (48:90:\r) node[pos=0.5,shift={(70:0.75em)}]{$\theta$};
+\draw[] ([shift={(\anga:\ra)}]0,0.5) arc (\anga:\angb:\ra) node[pos=0.5,shift={(-90:0.75em)}]{$\phi$};
+\end{tikzpicture}
+\caption{موزوں محدد برائے مساوات \حوالہ{مساوات_بکھراو_گرین_کا_تکمل}  کا تکمل۔}
+\label{شکل_بکھراو_موزوں_محدد}
+\end{figure}
+
+اب \عددی{s} تکمل کے نقطع نظر سے \عددی{r} غیر متغیر ہے ہم کروی محدد \عددی{(s, \theta, \phi)} کو یوں چنتے ہیں کہ \عددی{r} کتبی محور پر پایا جاتا ہو  (شکل \حوالہ{شکل_بکھراو_موزوں_محدد})۔ یوں \عددی{s\cdot r = sr\cos\theta} ہوگا متغیر \عددی{\phi} کا تکمل \عددی{2\pi} ہوگا جبکہ \عددی{\theta} تکمل درج ذیل ہوگا
  
 \begin{align}
 	\int_{0}^{\pi}e^{isr\cos\theta}\sin\theta\dif\theta = -\frac{e^{isr\cos\theta}}{isr}\bigg|^\pi_{0} = \frac{2\sin(sr)}{sr}
@@ -428,7 +655,7 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 	G(r) = \frac{1}{(2\pi^2)}\frac{2}{r}\int_{0}^{\infty}\frac{s \sin(sr)}{k^2-s^2}\dif s = \frac{1}{4\pi^2r}\int_{-\infty}^{\infty}\frac{s \sin(sr)}{k^2-s^2}\dif s
 \end{align}
 باقی تکمل اتنا آسان نہیں ہے۔ قوت نمائی علامتیت استعمال کرکے نصب نما کو اجزائے ضربی کی روپ میں لکھنا مددگا ثابت ہوتا ہے
-\begin{align}
+\begin{align}\label{مساوات_بکھراو_گرین_دوبارہ}
 	G(r) &= \frac{i}{8\pi^2r}\left\{\int_{-\infty}^{\infty}\frac{se^{isr}}{(s-k)(s+k)}\dif s-\int_{-\infty}^{\infty}\frac{se^{-isr}}{(s-k)(s+k)}\dif s\right\}\nonumber \\
 	&= \frac{i}{8\pi^2r}(I_1-I_2)
 \end{align}
@@ -436,14 +663,61 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 \begin{align}
 	\oint\frac{f(z)}{(z-z_0)}\dif z = 2\pi if(z_0)
 \end{align}
-استعملا کرتے ہوئے ان تکملات کی قیمت تلاش کی جا سکتی ہے دیگر صورت تکمل صفر ہوگا۔ یہاں حقیقی محور جو \عددی{\pm k} پر قطبی نادر نکات کے بلکل اوپر سے گزرتا ہے کے کے ساتھ ساتھ تکمل لیا جا رہا ہے۔ ہمیں قطبین کے اطراف سے گزرنا ہوگا میں \عددی{-k} پر بلائی جانب سے \عددی{+k} پر زیریں جانب سے گزروں گا \حوالہء{شکل \num{11.9}}۔ آپ کوئی نیا راستہ منتخب کر سکتے ہیں مثلاً آپ ہر قطب کے گرد سات مرتبہ چکر کاٹ کر راہ منتخب کر سکتے ہیں جس سے آپ کو ایک مختلف تفاعل گرین حاصل ہوگا لیکن میں کچھ ہی دیر میں دیکھاؤں گا کہ یہ تمام قابلِ قبول ہوں گے۔
+استعملا کرتے ہوئے ان تکملات کی قیمت تلاش کی جا سکتی ہے دیگر صورت تکمل صفر ہوگا۔ یہاں حقیقی محور جو \عددی{\pm k} پر قطبی نادر نکات کے بلکل اوپر سے گزرتا ہے کے کے ساتھ ساتھ تکمل لیا جا رہا ہے۔ ہمیں قطبین کے اطراف سے گزرنا ہوگا میں \عددی{-k} پر بلائی جانب سے \عددی{+k} پر زیریں جانب سے گزروں گا (شکل \حوالہ{شکل_بکھراو_قطبین_اطراف_گزرنا})۔ آپ کوئی نیا راستہ منتخب کر سکتے ہیں مثلاً آپ ہر قطب کے گرد سات مرتبہ چکر کاٹ کر راہ منتخب کر سکتے ہیں جس سے آپ کو ایک مختلف تفاعل گرین حاصل ہوگا لیکن میں کچھ ہی دیر میں دیکھاؤں گا کہ یہ تمام قابلِ قبول ہوں گے۔
+\begin{figure}
+\centering
+\pgfmathsetmacro{\r}{0.2}
+\begin{tikzpicture}
+\draw[-stealth] (-3,0) -- (3.5,0) node[below]{\RL{حقیقی \عددی{(s)}}};
+\draw[-stealth] (0,-0.25) -- (0,1.5) node[left]{\RL{خیالی \عددی{(s)}}};
+\draw[](-2,0)node[circle,fill=black,inner sep=1.5pt]{}node[below,yshift=-0.5em]{$s=-k$};
+\draw[](2,0)node[circle,fill=black,inner sep=1.5pt]{}node[below,yshift=-0.5em]{$s=+k$};
+\draw[very thick,-stealth] (-2.75,0) -- (-2-\r,0) ([shift={(180:\r)}]-2,0) arc (180:0:\r) -- (2-\r,0)  ([shift={(180:\r)}]2,0) arc (180:360:\r) -- (3,0);
+\end{tikzpicture}
+\caption{ارتفاعی تکمل (مساوات \حوالہ{مساوات_بکھراو_گرین_دوبارہ}) میں ہمیں  قطبین کے  اطراف سے گزرنا ہو گا ۔}
+\label{شکل_بکھراو_قطبین_اطراف_گزرنا}
+\end{figure}
+%
+\begin{figure}
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\pgfmathsetmacro{\r}{0.2}
+\pgfmathsetmacro{\p}{0.75}
+\begin{tikzpicture}
+\draw[] (-1.5,0) -- (1.5,0);
+\draw[](-\p,0)node[circle,fill=black,inner sep=1.5pt]{};
+\draw[](\p,0)node[circle,fill=black,inner sep=1.5pt]{};
+\draw[very thick,->-=0.55] (-1.25,0) -- (-\p-\r,0) ([shift={(180:\r)}]-\p,0) arc (180:0:\r) -- (\p-\r,0)  ([shift={(180:\r)}]\p,0) arc (180:360:\r) -- (1.25,0);
+\draw[very thick,->-=0.5] ([shift={(0:1.25)}]0,0) arc (0:180:1.25); 
+\end{tikzpicture}
+\caption{}
+\end{subfigure}\hfill
+\begin{subfigure}{0.45\textwidth}
+\centering
+\pgfmathsetmacro{\r}{0.2}
+\pgfmathsetmacro{\p}{0.75}
+\begin{tikzpicture}
+\draw[] (-1.5,0) -- (1.5,0);
+\draw[](-\p,0)node[circle,fill=black,inner sep=1.5pt]{};
+\draw[](\p,0)node[circle,fill=black,inner sep=1.5pt]{};
+\draw[very thick,->-=0.55] (-1.25,0) -- (-\p-\r,0) ([shift={(180:\r)}]-\p,0) arc (180:0:\r) -- (\p-\r,0)  ([shift={(180:\r)}]\p,0) arc (180:360:\r) -- (1.25,0);
+\draw[very thick,-<-=0.5] ([shift={(180:1.25)}]0,0) arc (180:360:1.25); 
+\end{tikzpicture}
+\caption{}
+\end{subfigure}
+\caption{مساوات \حوالہ{مساوات_بکھراو_آئی_الف}  اور مساوات \حوالہ{مساوات_بکھراو_آئی_ب} کے   خط  ارتفاع  کو بند کرنا دکھایا گیا ہے۔}
+\label{شکل_بکھراو_ارتفاعی_تکملات_بند}
+\end{figure}
 
-\حوالہء{مساوات \num{11.61}} میں ہر ایک تکمل کے لیئے ہمیں خط استوا کو اس طرح بند کرنا ہوگا  کہ لامتناہی پر نصف دائرہ تکمل کی قیمت میں کوئی حصہ نہ ڈالے۔ تکمل \عددی{I_1} کی صورت میں اگر \عددی{s} کا خیالی جز بہت بڑا اور مثبت ہو تب جز ضربی \عددی{e^{isr}} صفر کو پہنچے گا اس تکمل کے لیئے ہم بالا نصف دائرہ لیتے ہیں \حوالہء{شکل \num{11.10} (الف)}۔ اب خط ارتفا صرف \عددی{s=+k} پر پائے جانے والا نادر نقطع کو گھیرتا ہے لحاظہ درج ذیل ہوگا
-\begin{align}
+
+\حوالہء{مساوات \num{11.61}} میں ہر ایک تکمل کے لیئے ہمیں خط استوا کو اس طرح بند کرنا ہوگا  کہ لامتناہی پر نصف دائرہ تکمل کی قیمت میں کوئی حصہ نہ ڈالے۔ تکمل \عددی{I_1} کی صورت میں اگر \عددی{s} کا خیالی جز بہت بڑا اور مثبت ہو تب جز ضربی \عددی{e^{isr}} صفر کو پہنچے گا اس تکمل کے لیئے ہم بالا نصف دائرہ لیتے ہیں (شکل \حوالہ{شکل_بکھراو_ارتفاعی_تکملات_بند}-ا)۔ اب خط ارتفا صرف \عددی{s=+k} پر پائے جانے والا نادر نقطع کو گھیرتا ہے لحاظہ درج ذیل ہوگا
+\begin{align}\label{مساوات_بکھراو_آئی_الف}
 	I_1 = \oint\left[\frac{se^{isr}}{s+k}\right]\frac{1}{s-k}\dif s = 2\pi i\left[\frac{se^{isr}}{s+k}\right]\bigg|_{s=k} = i\pi e^{ikr}
 \end{align}
-تکمل \عددی{I_2} کی صورت میں جب \عددی{s} کا خیالی جز بہت بڑی منفی مقدار ہو تب جز ضربی \عددی{e^{-isr}} صفر کو پہنچتا ہے لحاظہ ہم زیریں نصف دائراہ لیتے ہیں \حوالہء{شکل \num{11.10} (ب)}۔ اس مرتبہ خطِ ارتفا \عددی{s=-k} پر پائے جانے والے نادر نقطہ جو کو گھیرتا ہے اور یہ گھڑی وار ہے لحاظہ اس کے ساتھ اضافی منفی علامت ہوگا
-\begin{align}
+تکمل \عددی{I_2} کی صورت میں جب \عددی{s} کا خیالی جز بہت بڑی منفی مقدار ہو تب جز ضربی \عددی{e^{-isr}} صفر کو پہنچتا ہے لحاظہ ہم زیریں نصف
+ دائراہ لیتے ہی (شکل \حوالہ{شکل_بکھراو_ارتفاعی_تکملات_بند}-ب)۔ اس مرتبہ خطِ ارتفا \عددی{s=-k} پر پائے جانے والے نادر نقطہ جو کو گھیرتا ہے اور یہ گھڑی وار ہے لحاظہ اس کے ساتھ اضافی منفی علامت ہوگا
+\begin{align}\label{مساوات_بکھراو_آئی_ب}
 	I_2 = -\oint\left[\frac{se^{-isr}}{s-k}\right]\frac{1}{s+k}\dif s = -2\pi i\left[\frac{se^{-isr}}{s-k}\right]\bigg|_{s=-k} = -i\pi e^{ikr}
 \end{align}
 ماخوذ:
@@ -522,12 +796,27 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 \begin{align}
 	f(\theta, \phi)\cong-\frac{m}{2\pi\hslash^2}\int e^{i(k'-k)\cdot r_0}V(r_0)\dif^3r_0
 \end{align}
-ہوسکتا ہے کہ آپ \عددی{k'} اور \عددی{k} کی تعریفات بھول چکے ہوں دونوں کی مقدار \عددی{k} ہے تاہم اوّل الذکر کا رخ آمدی شعاع کے رخ ہے جبکہ معاخرالذکر کا رخ کاشف کے رخ ہے \حوالہء{شکل \num{11.11}} دیکھیں۔ اس عمل میں \عددی{\hslash(k-k')} منتقلی معیارِ حرکت کو ظاہر کرے گا بلخصوص خطہ بکھراؤ پر کم توانائی لمبی طولِ موج بکھراؤ کے لیئے قوتِ نمائی جز ضربی بنیادی طر پر مستقل ہوگا اور یوں تخمین بارن درج ذیل سادہ روپ اختیار کرے گا   
+ہوسکتا ہے کہ آپ \عددی{k'} اور \عددی{k} کی تعریفات بھول چکے ہوں دونوں کی مقدار \عددی{k} ہے تاہم اوّل الذکر کا رخ آمدی شعاع کے رخ ہے جبکہ معاخرالذکر کا 
+رخ کاشف کے رخ ہے (شکل \حوالہ{شکل_بکھراو_آمدی_بکھراو_رخ}  دیکھیں)۔ اس عمل میں \عددی{\hslash(k-k')} منتقلی معیارِ حرکت کو ظاہر کرے گا بلخصوص خطہ بکھراؤ پر کم توانائی لمبی طولِ موج بکھراؤ کے لیئے قوتِ نمائی جز ضربی بنیادی طر پر مستقل ہوگا اور یوں تخمین بارن درج ذیل سادہ روپ اختیار کرے گا   
 \begin{align}
 	f(\theta, \phi)\cong-\frac{m}{2\pi\hslash}\int V(r)\dif^3r, && \text{\RL{کم توانائی}}
 \end{align}
 میں نے یہاں \عددی{r} کے زیرِ نوشت میں کچھ نہیں لکھا اُید کی جاتی اس سے کوئی پریشانی پیدا نہیں ہوگی۔
 
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\draw[-latex] (0,0) -- (3,0) node[pos=0.5,below]{$\kvec{k}'=k\az$}coordinate(aa);
+\draw[-latex] (0,0) --++ (30:3) node[pos=0.65,above left]{$\kvec{k}=k\kvec{a}_r$}coordinate(bb);
+\draw[-latex,dashed] (bb)--(aa)node[pos=0.5,right]{$\kvec{\kappa}=\kvec{k}'-\kvec{k}$};
+\draw([shift={(0:1)}]0,0) arc (0:30:1)node[pos=0.6,right]{$\theta$};
+\end{tikzpicture}
+\caption{بارن تخمین میں دو تفاعل موج: \عددی{k'} آمدی رخ جبکہ \عددی{k} بکھراو رخ ہے۔}
+\label{شکل_بکھراو_آمدی_بکھراو_رخ}
+\end{figure}
+
+
+%=========
 \ابتدا{مثال}
 کم توانائی نرم کرہ بکھراؤ درج ذیل مخفیہ لیں 
 \begin{align}
@@ -566,7 +855,7 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 \begin{align}
 	f(\theta)\cong-\frac{2m}{\hslash^2\kappa}\int_{0}^{\infty}rV(r)\sin(\kappa r)\dif r، && \text{\RL{کروی تشاکل}}
 \end{align}
-\عددی{f} کی زیویائی تابیعت \عددی{\kappa} میں سموئی گئی ہے \حوالہء{شکل \num{11.11}} کو دیکھ کر درج ذیل لکھا جا سکتا ہے
+\عددی{f} کی زیویائی تابیعت \عددی{\kappa} میں سموئی گئی ہے \حوالہء{شکل  \حوالہ{شکل_بکھراو_آمدی_بکھراو_رخ}} کو دیکھ کر درج ذیل لکھا جا سکتا ہے
 \begin{align}
 	\kappa = 2k\sin(\theta/2)
 \end{align}
@@ -618,10 +907,28 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 %=================================
 
 \جزوحصہ{تسلسل بارن}
-تخمین بارن روح کے لحاظ سے کلاسیکی نظریہ بکھراؤ میں تخمین ضرب کی طرح ہے۔ ایک ذرہ کو منتقل عرضی ضرب کا حساب کرنے کے لیئے ہم تخمین ضرب میں فرض کرتے ہیں کہ ذرہ ایک سیدھی لیکر پر ہی چلے جاتا ہے \حوالہء{شکل \num{11.12}} ایسی صورت میں درج ذیل ہوگا
+تخمین بارن روح کے لحاظ سے کلاسیکی نظریہ بکھراؤ میں تخمین ضرب کی طرح ہے۔ ایک ذرہ کو منتقل عرضی ضرب کا حساب کرنے کے لیئے ہم تخمین ضرب میں فرض کرتے ہیں
+ کہ ذرہ ایک سیدھی لیکر پر ہی چلے جاتا ہے  (شکل \حوالہ{شکل_بکھراو_تخمین_ضرب})۔  ایسی صورت میں درج ذیل ہوگا
 \begin{align}
 	I=\int F_\perp\dif t
 \end{align}
+%
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\pgfmathsetmacro{\ang}{atan(1/2.5)}
+\draw[] (0,0) -- (6,0) node[pos=0.55, circle, inner sep=1.5pt,fill=black]{} node[pos=0.55, below]{\RL{نقطہ بکھراو}} ;
+\draw[dashed] (0,1) -- (6,1) node[pos=0.5, circle, inner sep=1.5pt,fill=black]{};
+\draw[thick,-stealth] (0,1) to [out=0,in=-160] (6,2) node[above]{\RL{اصل خط حرکت}};
+\draw[-stealth] (3,1) -- (3,2) node[above]{$F_{\perp}$}; 
+\draw[dashed] (3.5,1) -- (6,2);
+\draw[] ([shift={(0:1)}]3.5,1) arc (0:\ang:1) node[pos=0.6,right]{$\theta$};
+\draw[stealth-stealth] (0.25,0) --++ (0,1) node[pos=0.5,left]{$b$};
+\end{tikzpicture}
+\caption{ ذرہ  کو منتقل معیار حرکت کا حساب کرتے ہوئے،تخمین ضرب کی ترکیب  میں فرض کیا  جاتا ہے کہ ذرہ بغیر  مڑے سیدھی لکیر پر حرکت کیے جاتا ہے۔}
+\label{شکل_بکھراو_تخمین_ضرب}
+\end{figure}
+
 اگر ذرہ زیادہ نہیں مڑے تب یہ ذرہ کو منتقل معیارِ حرکت کی ایک اچھی تخمین ہوگی اور یوں زاویہ بکھراؤ درج ذیل ہوگا جہاں \عددی{p} آمدی معیارِ حرکت ہے 
 \begin{align}
 	\theta\cong\tan^{-1}(I/p)
@@ -645,12 +952,36 @@ $h_2^{(1)} = \left(-\frac{3i}{x^3}-\frac{3}{x^2}+\frac{i}{x}\right)e^{ix}$ & & $
 	\psi=\psi_0+\int gV\psi_0+\iint gVgV\psi
 \end{align}
 اس عمل کہ بار بار دوہرانے سے ہمیں \عددی{\psi} کا ایک تسلسل حاصل ہوگا
-\begin{align}
+\begin{align}\label{مساوات_بکھراو_بارن_تخمین_تسلسل}
 	\psi=\psi_0+\int gV\psi_0+\iint gVgV\psi_0+\iiint gVgVgV\psi_0+\dots
 \end{align}
 ہر متکمل میں آمدی تفاعل موج \عددی{\psi_0} کے علاوہ \عددی{gV} کے مزید زیادہ طاقتیں پائی جاتی ہیں۔ بارن کی تخمین اوّل اس تسلسل کو دوسرے جز کے بعد ختم کرتا ہے تاہم آپ دیکھ سکتے ہیں کہ بلند رتبی تصحیح کس طرح پیدا کی جائیں گی۔
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\pgfmathsetmacro{\a}{1.25}
+\pgfmathsetmacro{\r}{0.75}
+\pgfmathsetmacro{\d}{0.25}
+\draw[->-=0.6] (0,0) node[left]{$\psi=$} --++ (\a,0) node[pos=0.5,below]{$\psi_0$};
+\draw[] (\a +\d,0) node[]{$+$};
+\draw[->-=0.25] (\a+2*\d,0) --++ (\a,0) node[pos=0.25,below]{$\psi_0$} coordinate(aa);
+\draw[] (aa) node[circle, inner sep= 1.5pt, fill=black]{} node[below]{$V$} circle (\r);
+\draw[] (aa) --++ (30:1.25) node[pos=0.25,shift={(-60:0.5em)}]{$g$};
+\draw[] (2*\a +4*\d+\r,0) node[]{$+$};
+\draw[->-=0.3] (2*\a +5*\d+\r,0) --++ (\a,0) node[pos=0.3,below,xshift=-0.1em]{$\psi_0$} coordinate(aa);
+\draw[] (aa) node[circle, inner sep= 1.5pt, fill=black]{} node[below]{$V$} circle (\r);
+\draw[] (aa) --++ (20:0.5) node[pos=0.5,shift={(110:0.5em)}]{$g$} node[circle, inner sep=1.5pt,fill=black]{} node[below]{$V$} --++ (80:1) node[pos=0.5,right]{$g$};
+\draw[] (3*\a +6*\d+2*\r,0) node[]{$+$};
+\draw[->-=0.3] (3*\a +7*\d+2*\r,0) --++ (0.75*\a,0) node[pos=0.3,below,xshift=-0.1em]{$\psi_0$} node[circle, inner sep= 1.5pt, fill=black]{} node[above]{$V$}coordinate(bb); 
+\draw[] (4*\a +7*\d+2*\r,0) coordinate(aa) circle (\r);
+\draw[] (bb) --++ (-40:0.5) node[pos=0.5,shift={(-130:0.5em)}]{$g$} node[circle, inner sep=1.5pt,fill=black]{} node[below]{$V$} --++ (45:0.75) node[pos=0.5,shift={(-45:0.5em)}]{$g$}node[circle, inner sep=1.5pt,fill=black]{}node[above left]{$V$}--++(-10:1)node[pos=0.75,above]{$g$};
+\draw[] (5*\a +7*\d+3*\r,0) node[]{$+\cdots$};
+\end{tikzpicture}
+\caption{بارن تسلسل (مساوات \حوالہ{مساوات_بکھراو_بارن_تخمین_تسلسل}) کا  نظیری مفہوم۔}
+\label{شکل_بکھراو_نظیری_مفہوم}
+\end{figure}
 
-بارن تسلسل کا خاکہ \حوالہء{شکل \num{11.13}} میں پیش کیا گیا ہے۔ صفر رتبی \عددی{\psi} پر مخفیہ کا کوئی اثر نہیں ہوگا رتبی اوّل میں اسے ایک چوٹ پڑتی ہے جس کے بعد یہ کسی نئے رخ چلے جائے گا۔ دوم رتبی میں اسے ایک چوٹ پڑتی ہے جس کے بعد یہ ایک نئے مقام پر پہنچتا ہے جہاں اسے دوبارہ ایک چوٹ پڑتی ہے جس کے بعد یہ ایک نئے راہ پر چل نکلتا ہے وغیرہ وغیرہ۔ اسی کے بنا بعض اوقات تفاعل گرین کو اشاعت کار کہا جاتا ہے جو ایک باہم عمل اور سورے کے بیچ خلل کی اشاعت کس طرح ہوتی ہے۔ تسلسل بارن اضافیتی کوانٹم میکانیات کی فینمن تشریح کا سبب بنا جس میں اشکال فینمن میں جز ضربی راس \عددی{V} اور اشاعت کار \عددی{g} کو ایک دوسرے کے ساتھ جوڑ کر سب کچھ بیان کیا جاتا ہے۔
+بارن تسلسل کا خاکہ شکل \حوالہ{شکل_بکھراو_نظیری_مفہوم}  میں پیش کیا گیا ہے۔ صفر رتبی \عددی{\psi} پر مخفیہ کا کوئی اثر نہیں ہوگا رتبی اوّل میں اسے ایک چوٹ پڑتی ہے جس کے بعد یہ کسی نئے رخ چلے جائے گا۔ دوم رتبی میں اسے ایک چوٹ پڑتی ہے جس کے بعد یہ ایک نئے مقام پر پہنچتا ہے جہاں اسے دوبارہ ایک چوٹ پڑتی ہے جس کے بعد یہ ایک نئے راہ پر چل نکلتا ہے وغیرہ وغیرہ۔ اسی کے بنا بعض اوقات تفاعل گرین کو اشاعت کار کہا جاتا ہے جو ایک باہم عمل اور سورے کے بیچ خلل کی اشاعت کس طرح ہوتی ہے۔ تسلسل بارن اضافیتی کوانٹم میکانیات کی فینمن تشریح کا سبب بنا جس میں اشکال فینمن میں جز ضربی راس \عددی{V} اور اشاعت کار \عددی{g} کو ایک دوسرے کے ساتھ جوڑ کر سب کچھ بیان کیا جاتا ہے۔
 
 \ابتدا{سوال}
 تخمین ضرب میں ردرفورڈ بکھراؤ کے لیئے \عددی{\theta} کو ٹکراؤ مقدار معلوم کا تفاعل تلاش کریں۔ دیکھائیں کہ مناسب حدوں کے اندر آپ کا نتیجہ بلکل ٹھیک ریاضی فکرہ \حوالہء{سوال \num{11.1} (الف)} کے مطابق ہے۔
