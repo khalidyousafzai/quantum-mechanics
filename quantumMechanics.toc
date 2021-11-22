@@ -22,18 +22,18 @@
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {6}}متناہی چکور کنواں}{\arabicdigits {79}}%
 \contentsline {chapter}{\numberline {\arabicdigits {3}}قواعد و ضوابط}{\arabicdigits {95}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {1}}ہلبرٹ فضا}{\arabicdigits {95}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}قابل مشاہدہ}{\arabicdigits {98}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}ہرمشی عاملین}{\arabicdigits {98}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {2}}قابل مشاہدہ}{\arabicdigits {99}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}ہرمشی عاملین}{\arabicdigits {99}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}قابلِ معلوم حالات}{\arabicdigits {100}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {102}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {102}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {104}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}متعمم شماریاتی مفہوم}{\arabicdigits {107}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}اصول عدم یقینیت }{\arabicdigits {111}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {111}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {115}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {115}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {6}}ڈیراک علامتیت}{\arabicdigits {120}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {103}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {105}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}متعمم شماریاتی مفہوم}{\arabicdigits {108}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}اصول عدم یقینیت }{\arabicdigits {112}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {112}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {116}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {116}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {6}}ڈیراک علامتیت}{\arabicdigits {121}}%
 \contentsline {chapter}{\numberline {\arabicdigits {4}}تین ابعادی کوانٹم میکانیات}{\arabicdigits {135}}%
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {1}}کروی محدد میں مساوات شروڈنگر}{\arabicdigits {135}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {1}.\arabicdigits {1}}علیحدگی متغیرات}{\arabicdigits {137}}%
