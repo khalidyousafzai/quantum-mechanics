@@ -464,6 +464,7 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>تصحیح</keyword>
 <keyword>اصلاح</keyword>
 <keyword>تخفیف</keyword>
+<keyword>گاڑی</keyword>
         </context>
 
     <context id="kTechMasculine" style-ref="kTechnicalMasculine">
@@ -476,6 +477,7 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 	<keyword>دوروں</keyword>
 	<keyword>سرکاو</keyword>
 	<keyword>احتمال</keyword>
+	<keyword>ارتعاش</keyword>
         </context>
 
     <context id="kTechFeminine" style-ref="kTechnicalFeminine">
@@ -486,6 +488,8 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 	<keyword>رکاوٹ</keyword>
 	<keyword>رکاوٹیں</keyword>
 	<keyword>رکاوٹوں</keyword>
+	<keyword>ہیملٹنی</keyword>
+	<keyword>فضا</keyword>
         </context>
 
 
