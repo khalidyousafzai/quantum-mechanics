@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  28 NOV 2021 16:16
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  30 NOV 2021 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20211128976.tex)...disabled (restricted).
+runsystem(touch w18-test-20211130911.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20211128976.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20211130911.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1768,14 +1768,8 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
 (./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux)
 (./tex/quantumIdenticalParticles.aux)
-(./tex/quantumTimeIndependentPertubationTheory.aux
-
-LaTeX Warning: Label `footdir@565' multiply defined.
-
-
-LaTeX Warning: Label `footdir@566' multiply defined.
-
-) (./tex/quantumTheVariationalPrinciple.aux)
+(./tex/quantumTimeIndependentPertubationTheory.aux)
+(./tex/quantumTheVariationalPrinciple.aux)
 (./tex/quantumTheWKBapproximation.aux)
 (./tex/quantumTimeDependentPertubationTheory.aux)
 (./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
@@ -2445,13 +2439,13 @@ elNooriNastaleeq(1)/m/sl/10 (مساوات ٤.٢٥[]) کو مطمئن کرتی ہ
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 375--380
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥:  مساوات ٤.٣٢[] استعمال کر کے 
- $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 ,
- \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
-اور  $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/
-10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl
-/10 تشکیل دیں۔(آپ  $\OML/zplm/m/it/10 P[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
- کو جو جدول ٤.٢[][]
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥: []مساوات ٤.٣٢[] استعمال کر کے
+  $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 
+, \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10
+ اور  $\OML/zplm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n
+/10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/s
+l/10 تشکیل دیں۔(آپ  $\OML/zplm/m/it/10 P[]$  \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 کو جو جدول ٤.٢[][]
  []
 
 
@@ -3135,6 +3129,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1041--1043
  []
 
 
+Underfull \hbox (badness 1701) in paragraph at lines 1045--1045
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 کوانٹم میکانیات میں تمام عاملین قانون ج
+زئیتی تقسیم: $\OT1/zplm/m/n/8 (\OML/zplm/m/it/8 B \OT1/zplm/m/n/8 + \OML/zplm/m
+/it/8 C\OT1/zplm/m/n/8 ) = \OML/zplm/m/it/8 AB \OT1/zplm/m/n/8 + \OML/zplm/m/it
+/8 AC$  \TU/JameelNooriNastaleeq(1)/m/n/8 پر پورا اترتے ہیں (صفحہ ١٧[] پر حاشیہ
+ ٣٤[][]
+ []
+
+
 Underfull \hbox (badness 1867) in paragraph at lines 1051--1054
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 باضابطہ مقلبیت رشتوں (مساوات ٤.١٠[]) سے ہ
 م جانتے ہیں کہ صرف  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
@@ -3431,7 +3434,7 @@ LaTeX Info: Redefining \rmfamily on input line 1315.
 LaTeX Info: Redefining \sffamily on input line 1315.
 LaTeX Info: Redefining \ttfamily on input line 1315.
 [170]
-Underfull \hbox (badness 10000) in paragraph at lines 1386--1387
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم اب  $\OML/zplm/m/it/10 f[]\OT1/zplm/
 m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^^^\OT1/zplm/m
 /n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تعین کر سکتے ہیں۔ یہ  $\OML/zplm/
@@ -3441,13 +3444,13 @@ t/10 l \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )$ []
  []
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1395
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1391
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جو اثّمتی مساوات (مساوات ٤.٢١[]) کا معادل
  ہے۔ ہم ان مساوات کا نظام حل کر چکے ہیں۔ ان کا معمول شدہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1395
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1391
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نتیجہ کروی ہارمونیات  $\OML/zplm/m/it/10 
 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^
 ^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ اس سے ہم یہ نتیج
@@ -3457,201 +3460,336 @@ Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1395
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1391
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعلات کروی ہارمونیات ہونگے. حصہ ٤.١[] م
 یں علیحدگی متغیرات کی ترکیب سے مساوات شروڈنگر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1403
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں ایک دلچسپ صورتحال پیدا ہوتی ہے علحدگ
-ی متغیرات کی ترکیب سے امتیازی تفاعلات کی صرف[]
+Underfull \hbox (badness 6252) in paragraph at lines 1397--1399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں ایک دلچسپ صورتحال پیدا ہوتا ہے۔ علیح
+دگی متغیرات کی ترکیب سے امتیازی تفاعلات کی صرف[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1403
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بھی کی نصف عدد صحیح قیمتیں مساوات 4.‏119 
-بھی دیتی ہے آپ کا خیال ہوگا کہ نصف عدد صحیح نتائج غیر[]
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عدد صحیح  $\OML/zplm/m/it/10 l$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 قیمتیں (مساوات ٤.٢٩[]) حاصل ہوئیں جبکہ زاویائی معیا
+ر حرکت کا الجبرائی نظریہ،  $\OML/zplm/m/it/10 l$  \TU/JameelNooriNastaleeq(1)/m
+/sl/10 کی (اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1399
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لہٰذا  $\OML/zplm/m/it/10 m$  \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 کی ) نصف عدد صحیح قیمتیں (مساوات ٤.١١٩[]) دیتی ہے۔ آپ 
+کا خیال ہوگا کہ نصف عدد صحیح نتائج[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1405
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٤.١٣٠[] سے مساوات ٤.١٣١[] اخذ کر
+یں۔ \TU/JameelNooriNastaleeq(1)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 پرکھی تفاعل استعمال نہ کرنے سے غلط نتائج[]
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 1413--1415
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٤.١٣٠[] کے ساتھ جزو -ا کا نتیجہ 
+اور یہ جانتے ہوئے کہ  $\OML/zplm/m/it/10 L[]Y[] \OT1/zplm/m/n/10 = \U/msb/m/n/1
+0 }\OML/zplm/m/it/10 lY[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا،  $\OML/zp
+lm/m/it/10 Y[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/ppl/m/n/10 , \OML/zpl
+m/m/it/10 ^^^\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1427
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٢٤:  بغیر کمیت کا ایک ڈنڈا جس کی
+ لمبائی  $\OML/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے ،کے دونو
+ں سروں پر کمیت  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ذ
+رات باندھے ہوئے[]
  []
 
 [172]
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
+LaTeX Info: Redefining \rmfamily on input line 1429.
+LaTeX Info: Redefining \sffamily on input line 1429.
+LaTeX Info: Redefining \ttfamily on input line 1429.
+LaTeX Info: Redefining \rmfamily on input line 1442.
+LaTeX Info: Redefining \sffamily on input line 1442.
+LaTeX Info: Redefining \ttfamily on input line 1442.
+LaTeX Info: Redefining \rmfamily on input line 1444.
+LaTeX Info: Redefining \sffamily on input line 1444.
+LaTeX Info: Redefining \ttfamily on input line 1444.
+LaTeX Info: Redefining \rmfamily on input line 1446.
+LaTeX Info: Redefining \sffamily on input line 1446.
+LaTeX Info: Redefining \ttfamily on input line 1446.
+LaTeX Info: Redefining \rmfamily on input line 1446.
+LaTeX Info: Redefining \sffamily on input line 1446.
+LaTeX Info: Redefining \ttfamily on input line 1446.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کلاسیکی میکانیات میں بے لچک جسم کے زاویائ
-ی معیار حرکت کے دو اقسام پائے جاتے ہیں پہلی قسم مرکز[]
+ی معیار حرکت کے دو اقسام پائے جاتے ہیں: پہلی قسم، کمیت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو مرکز کمیت کے گرد حرکت سے وابستہ ہے مثا
-ل کے طور پر سورج کے گرد سالانہ مدار کی بنا زمین کا مداری[]
+Underfull \hbox (badness 2617) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے مرکز کی حرکت کے ساتھ وابستہ ہے جسے \TU
+/AASameerSagarNastaleeqBold(0)/m/n/10 مداری[][]  $\OT1/zplm/m/n/10 (\OML/cmm/b/
+it/10 L \OT1/zplm/m/n/10 = \OML/cmm/b/it/10 r \OMS/zplm/m/n/10 ^^B \OML/cmm/b/i
+t/10 p\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں جبکہ دو
+سری قسم \TU/AASameerSagarNastaleeqBold(0)/m/n/10 چکر[][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زاویائی معیار حرکت ہوگا جبکہ روزانہ کی بن
-یاد پر شمال جنوبی محور کے گرد چکر کی بنا اس کا چکری زاویائی معیار[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مدار کی بنا زمین کا مداری زاویائی معیار ح
+رکت ہوگا، جبکہ شمال و جنوب محور کے گرد، روزانہ چکر کی بنا اس کا[]
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت ہوگا کلاسیکی طور پر یہ فرق ہماری آسا
-نی کے لئے ہے چونکہ حقیقتا ہر پتھر ہر پہاڑ وغیرہ جن پر زمین مشتمل[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چکری زاویائی معیار حرکت ہوگا۔ کلاسیکی نقط
+ہ نظر کے لحاظ سے یہ فرق محض ہماری آسانی کے لئے ہے، چونکہ[]
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے کا زمین کے محور کے گرد انفرادی مداری ز
-اویائی معیارحرکت کا مجموعہ  $\OML/cmm/b/it/10 S$  \TU/JameelNooriNastaleeq(1)/m
-/sl/10 کے برابر ہوگا کوانٹم میکانیات میں[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حقیقتاً ، ہر پتھر ہر پہاڑ، ہر سمندر، وغیر
+ہ، جن پر زمین مشتمل ہے، کا زمین کے محور کے گرد انفرادی ”مداری” زاویائی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کا معادل پایا جاتا ہے لیکن یہاں ایک بن
-یادی فرق پایا جاتا ہے ہائیڈروجن کی صورت میں مرکزہ کے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 معیار حرکت کا مجموعہ  $\OML/cmm/b/it/10 S
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے برابر ہوگا۔ کوانٹم میکانیات میں اس کا
+ معادل پایا جاتا ہے، تاہم یہاں ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گرد الیکٹران کی طواف کی بنا مداری زاویائی
- معیار حرکت کے ساتھ ساتھ الیکٹران زاویائی معیار حرکت کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حتمی طور پر بنیادی فرق پایا جاتا ہے۔ مرکز
+ہ کے گرد (ہائیڈروجن کی صورت میں ) الیکٹران کے طواف کی بنا مداری[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک دوسری روپ بھی رکھتا ہے جس کا فضا میں 
-حرکت کے ساتھ کوئی تعلق نہیں پایا جاتا ہے لہٰذا[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زاویائی معیار حرکت (جسے کروی ہارمونیات بی
+ان کرتے ہیں) کے ساتھ ساتھ، الیکٹران زاویائی معیار حرکت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کو مقام کے متغیرات  $\OML/zplm/m/it/10
- r$   $^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^^$  
-\TU/JameelNooriNastaleeq(1)/m/sl/10 سے بیان نہیں کیا جا سکتا ہے چونکہ یہ کلاسیک
-ی چکر کی طرح ہے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی ایک دوسری روپ بھی رکھتا ہے، جس کا فضا 
+میں حرکت کے ساتھ کوئی تعلق نہیں پایا جاتا ہے (اور[]
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لہٰذا اسے ہم اسی لفظ سے پکارتے ہیں یہ مما
-ثلت یہی پر ختم ہوجاتی ہے ایک ایکٹران جہاں تک ہم جانتے ہیں کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں اس کو مقام کے متغیرات  $\OML/zplm/m/i
+t/10 r$   $^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^
+^$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے بیان نہیں کیا جا سکتا ہے) تاہم یہ کل
+اسیکی چکر کی مانند ہے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوئی جسامت نہیں پائی جاتی ہے اور یہ نقطی 
-ذرا ہے لہٰذا اس کی چکری زاویائی معیار حرکت کو مداری زاویائی معیار[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (لہٰذا اسے ہم اسی لفظ سے پکارتے ہیں)۔ یہ 
+مماثلت یہی پر ختم ہو جاتی ہے: الیکٹران (جہاں تک ہم جانتے ہیں)[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت پر مشتمل حصوں میں تقسیم نہیں کیا جاس
-کتا ہے سوال 4.‏25 یہاں اتنا کہنا کافی ہوگا کہ بنیادی ذرات[]
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1447
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے مداری زاویائی معیار حرکت میں تقسیم نہی
+ں کیا جا سکتا ہے ( سوال ٤.٢٥[] دیکھیں)۔ یہاں اتنا کہنا کافی ہوگا کہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بیرونی زاویائی معیارحرکت  $\OML/cmm/b/it/
-10 L$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ ساتھ اندرونی زاویائی معیار ح
-رکت  $\OML/cmm/b/it/10 S$  \TU/JameelNooriNastaleeq(1)/m/sl/10 بھی رکھتے ہیں چک
-ر کا الجبرائی[]
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 ہم انہیں نظریہ چکر کے \TU/JameelNooriNa
+staleeq(1)/m/n/9 اصول موضوعہ \TU/JameelNooriNastaleeq(1)/m/n/8 لیتے ہیں؛ مداری 
+زاویائی معیار حرکت کے مماثل کلیات (مساوات ٤.٩٩[]) کو عاملین[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1459
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نظریہ ہو بہو مداری زاویائی معیار حرکت کی 
-نظریہ کی طرح ہے ہم باضابطہ مقلبیت رشتہ سے شروع کرتے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 کے معلوم روپ (مساوات ٤.٩٦[]) سے اخذ کیا گیا
+ تھا۔ زیادہ نفیس انداز میں ان دونوں کو تین ابعاد میں گھماو کے عدم تغیریت سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 حاصل کیا جا سکتا ہے۔ یقیناً، یہ تین بنیادی 
+مقلوبی رشتے ہر قسم کے زاویائی معیار حرکت کے لئے درست ہوں گے، چاہے وہ چکری، مدار
+ی، یا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 چکر کا \TU/JameelNooriNastaleeq(1)/m/n/
+9 الجبرائی \TU/JameelNooriNastaleeq(1)/m/sl/10 نظریہ ہو بہو مداری زاویائی معیار
+ حرکت کے نظریہ کی مانند ہے۔ ہم باضابطہ مقلبیت رشتوں[][][]
  []
 
 [173]
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1473
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تاہم یہاں امتیازی تفاعلات  $\OML/zplm/m/i
-t/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^^$  \T
-U/JameelNooriNastaleeq(1)/m/sl/10 کے تفاعل نہیں ہیں لہٰذا یہ کروی ہارمونیات نہی
-ں ہونگے اور کوئی[]
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1452
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 چونکہ چکر کے امتیازی حالات، تفاعلات نہی
+ں ہیں؛ میں ان کے لئے ”دایاں گوشہ”  $\OT1/zplm/m/n/8 (])$  \TU/JameelNooriNastal
+eeq(1)/m/n/8 استعمال کروں گا۔ (میں حصہ ٤.٣[] میں بھی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1479
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم دیکھتے ہیں کہ ہر بنیادی ذرے کے  $\OML/
-zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ایک مخصوص ناقابل تبدیل 
-قیمت ہوتی ہے جسے اس مخصوص نسل کا چکر کہتے ہیں []
+Underfull \hbox (badness 3930) in paragraph at lines 1452--1452
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 ہے لہٰذا میں  $\OML/zplm/m/it/8 S[]$  \TU/J
+ameelNooriNastaleeq(1)/m/n/8 کے امتیازی قدر کے لئے  $\OML/zplm/m/it/8 m$  \TU/J
+ameelNooriNastaleeq(1)/m/n/8 استعمال کروں گا، جیسا میں نے  $\OML/zplm/m/it/8 L[
+]$  \TU/JameelNooriNastaleeq(1)/m/n/8 کے لئے بھی کیا (بعض مصنفین، مکمل وضاحت کی
+ خاطر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1465.
+LaTeX Info: Redefining \sffamily on input line 1465.
+LaTeX Info: Redefining \ttfamily on input line 1465.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1465
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یقیناً، ریاضیات کے نقطہ نظر سے  $\OT1/p
+pl/m/n/8 1\OT1/zplm/m/n/8 /\OT1/ppl/m/n/8 2$  \TU/JameelNooriNastaleeq(1)/m/n/8
+ چکر، غیر حقیر سادہ ترین ممکنہ کوانٹائی نظام ہو سکتا ہے، چونکہ یہ صرف دو اساس[]
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1479
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کے برعکس ہائیڈروجن جوہر میں ایک الیکٹر
-ون کا مداری زاویائی معیارحرکت کوانٹم عدد  $\OML/zplm/m/it/10 l$  \TU/JameelNoor
-iNastaleeq(1)/m/sl/10 کوئی بھی عدد[]
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1465
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 حالات دیتا ہے۔پیچیدگیوں اور باریکیوں سے لیس
+ لامتناہی ابعادی ہلبرٹ فضا کی بجائے، ہم سادہ دو بُعدی سمتی فضا میں کام کرتے ہیں
+؛ غیر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1479
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صحیح قیمت رکھ سکتا ہے جو نظام چھیڑنے سے ت
-بدیل ہوگا تاہم کسی بھی ذرے کا  $\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(
-1)/m/sl/10 اٹل ہو گا جس کی بنا نظریہ چکر نسبتا[]
+Underfull \hbox (badness 6268) in paragraph at lines 1465--1465
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 مانوس تفرقی مساوات اور ترنگ تفاعلات کی بجائ
+ے، ہمارا واسطہ  $\OT1/ppl/m/n/8 2 \OMS/zplm/m/n/8 ^^B \OT1/ppl/m/n/8 2$  \TU/Ja
+meelNooriNastaleeq(1)/m/n/8 قالب اور  $\OT1/ppl/m/n/8 2$  \TU/JameelNooriNastal
+eeq(1)/m/n/8 رکنی سمتیات سے ہوتا ہے۔ اسی لئے بعض مصنفین[]
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 1481--1491
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بنا ہے الیکٹران کا کلاسیکی رداس حاصل کرتے
- ہیں الیکٹران کا زاویائی معیار حرکت  $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1\OT1/z
-plm/m/n/10 /\OT1/ppl/m/n/10 2\OT1/zplm/m/n/10 )\U/msb/m/n/10 }$  \TU/JameelNoor
-iNastaleeq(1)/m/sl/10 لیتے ہوئے خطہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1465
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 کوانٹم میکانیات کا آغاز چکر کے مطالعہ سے کر
+تے ہیں۔ہاں، ریاضیاتی سادگی سے تصوراتی غور و فکر میں مداخلت پیدا ہوتی ہے جس کو م
+یں[]
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 1481--1491
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 استوا پر کسی نقطے کی رفتار  $[]$  میں تلا
-ش کریں کیا حاصل جواب معنی خیز ہے در حقیقت تجربات سے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم دیکھتے ہیں کہ ہر بنیادی ذرے کے  $\OM
+L/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ایک \TU/JameelNooriNa
+staleeq(1)/m/n/9 مخصوص \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  \TU/JameelNoori
+Nastaleeq(1)/m/n/9 ناقابل تبدیل \TU/JameelNooriNastaleeq(1)/m/sl/10 قیمت ہوتی ہ
+ے جسے اس (مخصوص نسل کا) \TU/AASameerSagarNastaleeqBold(0)/m/n/10 چکر[][] \TU/Ja
+meelNooriNastaleeq(1)/m/sl/10 کہتے[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1497.
-LaTeX Info: Redefining \sffamily on input line 1497.
-LaTeX Info: Redefining \ttfamily on input line 1497.
-LaTeX Info: Redefining \rmfamily on input line 1497.
-LaTeX Info: Redefining \sffamily on input line 1497.
-LaTeX Info: Redefining \ttfamily on input line 1497.
-LaTeX Info: Redefining \rmfamily on input line 1497.
-LaTeX Info: Redefining \sffamily on input line 1497.
-LaTeX Info: Redefining \ttfamily on input line 1497.
-LaTeX Info: Redefining \rmfamily on input line 1497.
-LaTeX Info: Redefining \sffamily on input line 1497.
-LaTeX Info: Redefining \ttfamily on input line 1497.
-LaTeX Info: Redefining \rmfamily on input line 1497.
-LaTeX Info: Redefining \sffamily on input line 1497.
-LaTeX Info: Redefining \ttfamily on input line 1497.
 
-Underfull \hbox (badness 7168) in paragraph at lines 1497--1498
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں:  $\OML/zplm/m/it/10 ^^Y$  \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 میزون کا چکر  $\OT1/ppl/m/n/10 0$  \TU/JameelNooriNas
+taleeq(1)/m/sl/10 ہے؛ الیکٹران کا چکر  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1
+/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ؛ پروٹان کا چکر  $\OT1/ppl/m
+/n/10 1$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ؛ ڈیلٹا کا چکر  $\OT1/ppl/m/n/10 3
+\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ؛ گریو
+یٹان کا چکر  $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ؛[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وغیرہ وغیرہ۔ اس کے برعکس، (مثلاً ہائیڈروج
+ن جوہر میں ایک الیکٹران کا) مداری زاویائی معیار حرکت کوانٹم[]
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 1465--1466
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عدد  $\OML/zplm/m/it/10 l$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 کوئی بھی عدد صحیح قیمت کا حامل ہو سکتا ہے، جو نظام چھیڑن
+ے سے تبدیل ہو کر کسی ایک عدد صحیح سے[]
+ []
+
+[174]
+LaTeX Info: Redefining \rmfamily on input line 1472.
+LaTeX Info: Redefining \sffamily on input line 1472.
+LaTeX Info: Redefining \ttfamily on input line 1472.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1474
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 رداس[][] \TU/JameelNooriNastaleeq(1)
+/m/sl/10 ،  $\OML/zplm/m/it/10 r[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ، حاصل 
+کیا جاتا ہے۔) اور زاویائی معیار حرکت  $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1\OT1/
+zplm/m/n/10 /\OT1/ppl/m/n/10 2\OT1/zplm/m/n/10 )\U/msb/m/n/10 }$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ہوتا، تب ”خط استوا” پر کسی نقطے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1474
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 رفتار (  $[]$  میں) تلاش کریں۔ کیا حاصل ج
+واب معنی خیز ہے؟ ( در حقیقت، تجربات سے ثابت ہے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1479.
+LaTeX Info: Redefining \sffamily on input line 1479.
+LaTeX Info: Redefining \ttfamily on input line 1479.
+LaTeX Info: Redefining \rmfamily on input line 1479.
+LaTeX Info: Redefining \sffamily on input line 1479.
+LaTeX Info: Redefining \ttfamily on input line 1479.
+LaTeX Info: Redefining \rmfamily on input line 1479.
+LaTeX Info: Redefining \sffamily on input line 1479.
+LaTeX Info: Redefining \ttfamily on input line 1479.
+LaTeX Info: Redefining \rmfamily on input line 1479.
+LaTeX Info: Redefining \sffamily on input line 1479.
+LaTeX Info: Redefining \ttfamily on input line 1479.
+LaTeX Info: Redefining \rmfamily on input line 1479.
+LaTeX Info: Redefining \sffamily on input line 1479.
+LaTeX Info: Redefining \ttfamily on input line 1479.
+
+Underfull \hbox (badness 2521) in paragraph at lines 1479--1480
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سادہ مادہ ( پروٹان، نیوٹران، الیکٹران) کے
  ساتھ ساتھ \TU/AASameerSagarNastaleeqBold(0)/m/n/10 کوارک[][]  \TU/JameelNooriN
 astaleeq(1)/m/sl/10 اور تمام  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 لپٹان[][
 ] \TU/JameelNooriNastaleeq(1)/m/sl/10 کیلۓ  $\OML/zplm/m/it/10 s \OT1/zplm/m/n
-/10 = []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا جو سب سے[]
+/10 = []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا لہٰذا یہی اہم ترین[]
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 1497--1498
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اہم ترین صورت ہے۔ مزید $\OT1/ppl/m/n/10 1
-\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر س
-مجھنے کے بعد زیادہ چکر کے ضوابط دریافت کرنا نسبتاً آسان ہے۔ صرف ”دو”[]
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت ہے۔ مزید $\OT1/ppl/m/n/10 1\OT1/zplm
+/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر سمجھنے کے 
+بعد، زیادہ چکر کے ضوابط دریافت کرنا نسبتاً آسان کام ہے۔ صرف ”دو”[]
  []
 
-[174]
-Underfull \hbox (badness 1762) in paragraph at lines 1511--1512
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ ہی عاملین چکر  $\OT1/ppl/m/n/10 2 
-\OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 قا
-لب ہوں گے جنہیں حاصل کرنے کی خاطر ہم ان کا اثر  $\OML/zplm/m/it/10 ^^_[]$  \TU/
-JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^_[]$  \TU/JameelNoori
-Nastaleeq(1)/m/sl/10 پر دیکھتے[]
+
+Underfull \hbox (badness 7326) in paragraph at lines 1479--1480
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 امتیازی تفاعلات پائے جاتے ہیں: پہلا  $\OM
+S/zplm/m/n/10 j[][]i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ( یا غیر رسمی طور پر
+  $\OMS/zplm/m/n/10 "$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ) ہے جو \TU/AASameer
+SagarNastaleeqBold(0)/m/n/10 ہم میدان چکر[][] \TU/JameelNooriNastaleeq(1)/m/sl/
+10 پکارا جاتا ہے اور[]
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 1479--1480
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرا  $\OMS/zplm/m/n/10 j[]\OT1/zplm/m/n
+/10 (\OMS/zplm/m/n/10 ^^@[]\OT1/zplm/m/n/10 )\OMS/zplm/m/n/10 i$  \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ہے جو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مخالف مید
+ان چکر[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ( $\OMS/zplm/m/n/10 #$ \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 ) کہلاتا ہے۔ انہیں کو اساس سمتیات لیتے ہوئے  $\OT1/p
+pl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/
+sl/10 چکر[]
  []
 
 
 Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
-d on input line 1514.
+d on input line 1496.
 
-[175]
-Underfull \hbox (badness 1122) in paragraph at lines 1554--1556
+[175] [176]
+Underfull \hbox (badness 1122) in paragraph at lines 1536--1538
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ  $\OT1/zplm/b/n/10 S[]$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 ,  $\OT1/zplm/b/n/10 S[]$  \TU/JameelNooriNastaleeq(1
 )/m/sl/10 ,  $\OT1/zplm/b/n/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تینوں 
@@ -3660,11 +3798,11 @@ leeq(1)/m/sl/10 کا جزو ضربی پایا جاتا ہے لہٰذا انہی�
 b/n/10 S \OT1/zplm/m/n/10 = []\OML/zplm/m/it/10 ^^[$ []
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1559.
-LaTeX Info: Redefining \sffamily on input line 1559.
-LaTeX Info: Redefining \ttfamily on input line 1559.
+LaTeX Info: Redefining \rmfamily on input line 1541.
+LaTeX Info: Redefining \sffamily on input line 1541.
+LaTeX Info: Redefining \ttfamily on input line 1541.
 
-Underfull \hbox (badness 1609) in paragraph at lines 1558--1560
+Underfull \hbox (badness 1072) in paragraph at lines 1540--1542
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ \TU/AASameerSagarNastaleeqBold(0)/m/n/
 10 پالی قالب چکر[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں۔ دھیان رکھیں کہ  $
 \OT1/zplm/b/n/10 S[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ,  $\OT1/zplm/b/n/10 
@@ -3673,37 +3811,37 @@ NooriNastaleeq(1)/m/sl/10 اور  $\OT1/zplm/b/n/10 S[]$  \TU/JameelNooriNastale
 (1)/m/sl/10 تمام ہرمشی ہیں (جیسا کہ انہیں ہونا بھی چاہیے کیونکہ[]
  []
 
-[176]
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+
+Underfull \hbox (badness 10000) in paragraph at lines 1548--1548
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 لوگ عموماً کہتے ہیں کہ ہم میدان ذرہ ہون
-ے کا احتمال  $[][]$  ہے۔ایسا کہنا درست نہیں۔ درحقیقت وہ کہنا چاہتے ہیں کہ اگر  
-$\OML/zplm/m/it/8 S[]$  \TU/JameelNooriNastaleeq(1)/m/n/8 کی[]
+ے کا احتمال  $[][]$  ہے۔ایسا کہنا درست نہیں۔ درحقیقت انہیں کہنا چاہتے ہیں کہ اگ
+ر  $\OML/zplm/m/it/8 S[]$  \TU/JameelNooriNastaleeq(1)/m/n/8 کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1574
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 تاہم اس کی بجائے آپ  $\OML/zplm/m/it/1
 0 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش کر سکتے ہیں۔ اس کے کیا نت
 ائج اور ان کے انفرادی احتمالات کیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1574
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہونگے؟ عمومی شماریاتی مفہوم کے تحت ہمیں  
 $\OT1/zplm/b/n/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے امتیازی اقدار او
 ر امتیازی چکرکار جاننے ہوں گے۔ امتیازی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1576--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1560
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ ہرگز حیرت کی بات نہیں کہ  $\OML/zplm/m
 /it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ممکنہ قیمتیں وہی ہیں جو  $\
 OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی ہیں۔ امتیازی چکرک
 ار کو ہمیشہ کی طرز پر[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1573
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ  $\OML/zplm/m/it/10 S[]$  \TU/Jam
 eelNooriNastaleeq(1)/m/sl/10 کی پیمائش کریں تب  $\OT1/zplm/m/n/10 +\U/msb/m/n/1
 0 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے 
@@ -3713,143 +3851,163 @@ L/zplm/m/it/10 b\OMS/zplm/m/n/10 j[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 او�
 JameelNooriNastaleeq(1)/m/sl/10 کے حصول کا احتمال []
  []
 
-[177]
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں آپ کو $\OT1/ppl/m/n/10 1\OT1/zplm/
-m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر سے متلقہ ایک
- فرضی پیمائسی تجربا سے گزرتا ہوں۔ چونکہ یہ ان تصوراتی خیالات کی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوئی سوال پوچھے کہ اس زرے کی زاویائی چکری
- میارِ حرکت کا z جز کیا ہے۔ تب ہم پورے یقین کے ساتھ جواب[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دے سکتے ہیں کہ اس کا جواب $\OT1/zplm/m/n/
-10 +\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastalee
-q(1)/m/sl/10 یوگا۔ چونکہ z کی پیمائس لازمن یہی قیمت دے گی۔ اس کے بجائے اگر پوچھ
-نے والا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال کرے کہ اس زرے کی چکریا زاویائی میارِ
- حرکت کا x جز کیا ہوگا۔ تب ہم یہ کہنے پر مجبور یونگے کہ $\OML/zplm/m/it/10 S[]$
- \TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
- []
-
-
-Underfull \hbox (badness 6944) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زرے کا حقیقی حال معلوم نہیں ہے۔ نہیں میں 
-نے یہ تو نہیں کہا!۔ مجھے زرے کا حال تھیک تھیک معلوم ہے اور یہ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]$\OML/zplm/m/it/10  []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 یے۔ یب ایسا کیوں 
-ہے کہ آپ مجھے اس کے چکر کا x جز نہیں بتا سکتے اس لیئے کہ اس کے چکر کا کوئی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مخصوس x جز نہیں پایا جاتا ہے۔ یقینن ایسا 
-ہی ہوگا۔ اگر $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\
-OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمتیں تائین ہوں ت
-ب اصولِ ادم یقینیت متمئن نہیں[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ یہ سنتے ہی سوال کرنے والا زرے کی چک
-ر کا x جز از خود پیمائس کرتا ہے۔ اب فرض کریں کہ وہ $\OT1/zplm/m/n/10 +\U/msb/m/
-n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 
-قیمت[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں اب اس کی یہی قیمت ہے۔ جس سے یہ بلکل س
-ابت نہیں ہوتا کہ تجربہ سے پہلے بھی اس کی یہی قیمت[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تھی۔ اب ظاہر ہے آپ بال کی کھال اتار رہے 
-ہو اور آپ کی ادم یقینیت اصول کا کیا بنا۔ میں اب $\OML/zplm/m/it/10 S[]$ \TU/Ja
-meelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastal
-eeq(1)/m/sl/10 دونوں کو[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جانتا ہوں۔ جی نہیں آپ نہیں جانتے ہیں۔ آ
-پ نے پیمائس کے دوران زرے کا حال تبدیل کر دیا ہے۔ اب وہ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں کرتے تو خود تصدیق کریں۔ آپ $\OML/zp
-lm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائس کریں اور دیکھیں ک
-ہ کیا نتیجہ حاصل ہوتا ہے۔ عین ممکن[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1684
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے کہ وہ $\U/msb/m/n/10 }\OT1/zplm/m/n/10
- /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل کرے جو میرے لیئے 
-سرمندگی کا عصر ہوگا۔ اگر ہم اس پورے عمل کو بار بار دورائیں تو یہ[]
- []
-
 [178]
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک عام آدمی، ایک فلسفی یا ایک کلاسیکی
- مایرِ تبیات کا یہ کینا کہ کس زرے کا ٹھیک ٹھیک مکام یا میعارِ[]
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے جن پر باب ١[] میں تبصرہ کیا گیا۔ فرض ک
+ریں ہم ایک ذرہ سے آغاز کرتے ہیں جو حال  $\OML/zplm/m/it/10  []$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 میں پایا جاتا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت یا چکری زاویائی میارِ حرکت کا x جز ی
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ اب اگر کوئی سوال پوچھے، ” اس ذرے کے ز
+اویائی چکری معیار حرکت کا  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m
+/sl/10 جزو کیا ہے؟”، ہم پورے یقین کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ جواب دے سکتے ہیں کہ اس کا جواب  $\OT
+1/zplm/m/n/10 +\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 ہے؛ چونکہ  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNas
+taleeq(1)/m/sl/10 کی پیمائش لازماً یہی قیمت دے گی۔اب اگر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کے بجائے، پوچھنے والا سوال کرے، ” اس ذ
+رے کے چکر زاویائی معیار حرکت کا  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastalee
+q(1)/m/sl/10 جزو کیا ہوگا؟”، تب ہم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کہنے پر مجبور ہونگے کہ  $\OML/zplm/m/it/1
+0 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش سے  $\OT1/zplm/m/n/10 +\U
+/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 یا  $\OMS/zplm/m/n/10 ^^@\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/
+10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے حصول کا احتمال آدھا آدھا ہے۔ گر
+ سوال پوچھنے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 والا کلاسیکی ماہر طبیعیات یا( حصہ ١.٢[] ک
+ے نقطہ نظر سے) ”حقیقت پسند” ہو تب وہ اس جواب کو نا کافی بلکہ غیر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 متعلقہ سمجھے گا: ”کیا آپ کہنا چاہتے ہیں 
+کہ آپ کو اس ذرے کا حقیقی حال معلوم نہیں ہے؟” نہیں میں نے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایسا نہیں کہا! مجھے ذرے کا حال \TU/Jameel
+NooriNastaleeq(1)/m/n/9 ٹھیک ٹھیک \TU/JameelNooriNastaleeq(1)/m/sl/10 معلوم ہے 
+جو  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ ”تب ایسا ک
+یوں ہے کہ آپ مجھے اس کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ سنتے ہی سوال کرنے والا ذرے کے چکر کا
+  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جزو خود پیمائش کرت
+ا ہے؛ فرض کریں وہ  $\OT1/zplm/m/n/10 +\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl
+/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 قیمت حاصل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتا ہے۔ (وہ خوشی سے چلا اٹھا ہے) ” اس ذر
+ے کی  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 قیمت ٹھیک  $
+\OT1/zplm/m/n/10 +\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 ہے۔” جی آپ درست فرما رہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو جانتا ہوں۔” جی نہیں آپ انہیں نہیں جان
+تے ہیں: آپ نے پیمائش کے دوران ذرے کا حال تبدیل کر دیا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 1613--1616
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اب وہ  $\OML/zplm/m/it/10 ^^_[]$  \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 میں ہے اور آپ اس کے  $\OML/zplm/m/it/10 S[]$  \TU
+/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت جانتے ہیں جبکہ  $\OML/zplm/m/it/10 S[]
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت نہیں جانتے ہیں۔” لیکن []
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 1613--1616
+[]$\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش کے دور
+ان میں نے پوری کوشش کی کہ ذرے کا سکون خراب نہ ہو۔” اچھا اگر آپ میری بات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پر یقین نہیں کرتے ہیں تو خود \TU/JameelNo
+oriNastaleeq(1)/m/n/9 تصدیق کیجیے\TU/JameelNooriNastaleeq(1)/m/sl/10 ۔ آپ  $\O
+ML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش کریں اور دی
+کھیں نتیجہ کیا حاصل ہوتا ہے۔ ( عین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ممکن ہے کہ  $\U/msb/m/n/10 }\OT1/zplm/m/n
+/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل ہو؛ جو میرے ل
+یے شرمندگی کا باعث ہوگا؛ تاہم اس پورے عمل کو بار بار سرانجام[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1623
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک عام آدمی، ایک فلسفی یا ایک کلاسیکی
+ مایرِ تبیات کا یہ کینا کہ کس ذرے کا ٹھیک ٹھیک مکام یا میعارِ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1623
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حرکت یا چکری زاویائی معیار حرکت کا x جز ی
 ا وغیرہ نہیں پایا جاتا، ایک گول مول جواب ہے۔ جو آپ کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1623
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نااہلی کے سوا کچھ نزر نہیں آتا۔ حقیقت می
 ں ایسا کچھ بھی نہیں ہے لیکن اس کے اصل معنی کسی ایسے شخص کو سمجھانا جس[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1623
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نے کونٹم مکینیانیات کا گہرا مطلع نہ کیا ہ
 و تقریبن ناممکن ہے۔ اگر آپ کی عقل دنگ رہ گئی ہے اور اگر آپ کی[]
  []
 
 
-Underfull \hbox (badness 6741) in paragraph at lines 1685--1689
+Underfull \hbox (badness 6741) in paragraph at lines 1619--1623
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 عقل دنگ نہیں دہی تو اس کا مطلب ہوگا کہ آ
 پ کو کوئی بات سمجھ ہی نہیں آئی یو  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/pp
 l/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر نظام پر دوبارا غور کی جئے[
 ]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1691--1693
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 1625--1627
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 4.‏26 (الف) تصدیق کی جئے گا کہ چکر
-ی کا لپ مساوات 4.‏145 اور 4.‏147 زاویائی میارِ حرکت کے بنیادی[]
+ی کا لپ مساوات 4.‏145 اور 4.‏147 زاویائی معیار حرکت کے بنیادی[]
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 1719--1734
+Underfull \hbox (badness 2961) in paragraph at lines 1653--1670
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 4.‏27 ایک الیکٹروں درج ذیل جکری حا
 ل میں ہے۔ $\OML/zplm/m/it/10   \OT1/zplm/m/n/10 = \OML/zplm/m/it/10 A []$ \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 (الف)مامولزنی مستقل A تاین کریں۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1734
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1670
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (ب)  $\OML/zplm/m/it/10 S[]\OT1/ppl/m/n/1
 0 , \OML/zplm/m/it/10 S[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 S[]$  \TU/JameelNo
 oriNastaleeq(1)/m/sl/10 کی تقواتی قیمتیں تلاش کریں۔ (ج) عدم یقینیت  $\OML/zplm/
@@ -3859,14 +4017,14 @@ eq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 ^^[[]$  \TU/JameelNooriNastaleeq(1)/m/s
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1734
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1670
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں  $\OML/zplm/m/it/10 ^^[$  \TU/Jameel
-NooriNastaleeq(1)/m/sl/10 سے مراد میارِ انہراف ہے۔ پولی کالپ (د)تصدیق کی جیئے گ
+NooriNastaleeq(1)/m/sl/10 سے مراد معیار انہراف ہے۔ پولی کالپ (د)تصدیق کی جیئے گ
 ا کہ آپ کے نتائج تینوں اصول عدمی کی[]
  []
 
-[179]
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1742
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1678
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 4.‏28 سب سے زیادہ عمومی معمول سدا 
 spinor  $\OML/zplm/m/it/10 ^^_$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏
 139 کے لیے  $\OML/zplm/m/it/10 S[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 S[]\OT1/p
@@ -3876,7 +4034,7 @@ OML/zplm/m/it/10 S[]$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1743--1754
+Underfull \hbox (badness 10000) in paragraph at lines 1679--1690
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 4.‏29 (الف) امتیازی spinor  $\OML/
 zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے امتیازی عدداد تلاش لر
 یں۔ (ب) عمومی حال  $\OML/zplm/m/it/10 ^^_$  \TU/JameelNooriNastaleeq(1)/m/sl/10
@@ -3884,21 +4042,28 @@ zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے امتیازی عد�
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 1743--1754
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 4.‏139 میں پائے جانے والا ایک زرے کے  $\O
-ML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائس سے کیا قیمت
+Underfull \hbox (badness 2150) in paragraph at lines 1679--1690
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 4.‏139 میں پائے جانے والا ایک ذرے کے  $\O
+ML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش سے کیا قیمت
 یں متوقے ہیں اور ہر قیمت کا احتمال کیا ہوگا۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1774
+Underfull \hbox (badness 10000) in paragraph at lines 1679--1690
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تصدیق کی جئے گا کہ تمام احتمال کا مجموعہ 
+1 ہوگا۔ دیہان رہے کہ a اور b غیر حقیقی بھی ہو سکیے ہیں۔ (ج)  $\OML/zplm/m/it/10
+ S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1710
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ آپ اپنی مرضی کے دوہری جزضرب  $\OML
 /zplm/m/it/10 e[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دے سکتے ہو۔ لہاز
 ا آپ کا جواب کچھ مختلف ہو سکتا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1775--1791
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1727
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال 4.‏31 ایک زرا جس کا چکر ایک ہے کے 
 لیے چکری کالپ  $\OML/zplm/m/it/10 S[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 S[]$  
 \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 S[]$  \TU/JameelNoo
@@ -3907,7 +4072,7 @@ oriNastaleeq(1)/m/sl/10 کے کتنے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1775--1791
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1727
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 امتیازی حالات ہونگے ہر ایسے حال پر  $\OML
 /zplm/m/it/10 S[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 S[]$  \TU/JameelNooriNasta
 leeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/
@@ -3915,29 +4080,36 @@ leeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/s
 /10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر کے لیے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1794--1795
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک چکر کاٹتے ہوئے باربار زرا پر مقناطیسی
- جفد کتب مشتمل ہوگا۔ اس کا مقناطیسی جفد کتبی معیارِ اثر $\OML/zplm/m/it/10 ^^V$
- \TU/JameelNooriNastaleeq(1)/m/sl/10 ، زرے کی چکری زاویائی[]
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 1797--1801
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں تناسبی مستقل $\OML/zplm/m/it/10 ^^M$
- \TU/JameelNooriNastaleeq(1)/m/sl/10 مسقن مقناطیسی نسبت کہلاتا ہے۔ مقناطیسی مید
-ان $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں رکھے گئے مقناط
-یسی جفد کتب پر[]
- []
-
 [180]
-Underfull \hbox (badness 3965) in paragraph at lines 1836--1838
+Underfull \hbox (badness 1210) in paragraph at lines 1730--1731
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک چکر کاٹتے ہوئے باربار زرا پر مقناطیسی
+ جفد کتب مشتمل ہوگا۔ اس کا مقناطیسی جفد کتبی معیارِ اثر  $\OML/zplm/m/it/10 ^^V
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ، ذرے کی چکری زاویائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1737
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں تناسبی مستقل  $\OML/zplm/m/it/10 ^^M
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مسقن مقناطیسی نسبت کہلاتا ہے۔ مقناطیسی م
+یدان  $\OML/zplm/m/it/10 B$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں رکھے گئے م
+قناطیسی جفد[]
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 1733--1737
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کتب پر قوتِ مروڑ  $\OML/zplm/m/it/10 ^^V 
+\OMS/zplm/m/n/10 ^^B \OML/zplm/m/it/10 B$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
+عمل کرتا ہے۔ جو کمپس کی سوئے کی طرح اس کو میدان کے متوازج لانے کی کوسس کرتا[]
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 1772--1774
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کلاسیکی صورت کی طرح یہاں بھی کم سے کم توا
 نائی اس صورت ہوگی جب جفت کتب کا معیار اثر مقناطیسی میدان کا[]
  []
 
-
-Underfull \hbox (badness 1231) in paragraph at lines 1856--1864
+[181]
+Underfull \hbox (badness 1231) in paragraph at lines 1792--1800
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سے حاصل کیا جاتا ہے یقینا  $[][] \OT1/zpl
 m/m/n/10 + [][] = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا 
 ہم ان مستقلات کو  $\OML/zplm/m/it/10 a \OT1/zplm/m/n/10 = [](\OML/zplm/m/it/10 
@@ -3945,36 +4117,35 @@ m/m/n/10 + [][] = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگ
 leeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 b \OT1/zplm/m/n/10 =$[]
  []
 
-[181]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 1908.
+(Font)              scaled to size 7.0pt on input line 1844.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1922--1926
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1862
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سے تقدیم کرتا ہے یہ حیرت کی بات نہیں ہے م
 سئلہ اہرنفسٹ کی وہ صورت جس سے سوال 4.‏20 میں اخذ کیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1922--1926
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1862
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 گیا اس کی ضمانت دیتا ہے کہ کلاسیکی قوانین
  کے تحت  $\OMS/zplm/m/n/10 h\OML/cmm/b/it/10 S\OMS/zplm/m/n/10 i$  \TU/JameelNo
 oriNastaleeq(1)/m/sl/10 ارتقاء پائے گا بہرحال اس عمل کو ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1927--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ٤.٤:  تجربہ سٹرن و گرلاخ ایک غیر یک
 ساں مقناطیسی میدان میں ایک مقناطیسی جفت کتب پر[]
  []
 
 [182]
-Underfull \hbox (badness 10000) in paragraph at lines 1955--1956
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1892
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس قوت کو استعمال کرتے ہوئے ایک مخصوص س
 مت بند چکر کے ذرہ کو درج ذیل طریقہ سے علیحدہ کیا جاسکتا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1958--1964
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1900
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں  $\OML/zplm/m/it/10 B[]$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 ایک طاقتور یکساں میدان ہے جبکہ مستقل  $\OML/zplm/m/it
 /10 ^^K$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میدان کی یکسانیت سے معمولی انحراف
@@ -3982,29 +4153,29 @@ NooriNastaleeq(1)/m/sl/10 ایک طاقتور یکساں میدان ہے جبک�
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1958--1964
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1900
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتا ہے حقیقت میں ہمیں صرف  $\OML/zplm/m/
 it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جزو سے غرض ہے لیکن بدقسمتی سے ایس
 ا ممکن نہیں ہے چونکہ برقناطیسی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1966--1968
+Underfull \hbox (badness 10000) in paragraph at lines 1902--1904
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ تاہم  $\OML/zplm/m/it/10 B[]$  \TU/Jam
 eelNooriNastaleeq(1)/m/sl/10 کے گرد تقدیم لارمر کی بنا  $\OML/zplm/m/it/10 S[]$
   \TU/JameelNooriNastaleeq(1)/m/sl/10 تیزی سے ارتعاش کرتا ہے جس کے بنا اس کی او
 سط قیمت صفر[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1976
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اور شعاع کے چکری زاویائی معیار حرکت کے  $
 \OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جزو کی تناسب سے شعاع 
 اوپر یا نیچے کی طرف جھکے گی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کلاسیکی طور پر چونکہ  $\OML/zplm/m/it/10 
 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹا شدہ نہیں ہوگا ہم توقع کرتے کہ 
  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 محور پر شعاع کی لپا
@@ -4012,26 +4183,26 @@ S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹا شدہ نہیں ہوگا 
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 1970--1976
+Underfull \hbox (badness 6157) in paragraph at lines 1906--1912
 []$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 s \OT1/zplm/m/n/10 + \OT1/ppl/m/n/10 1$  
 \TU/JameelNooriNastaleeq(1)/m/sl/10 علیحدہ علیحدہ شعاعوں میں تقسیم ہو کر زاویائ
 ی معیارحرکت کے کوانٹازنی کا خوبصورت مظاہرہ کرتی ہے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال کے طور پر چاندی کہ جوہر استعمال کرتے
  ہوئے چونکہ اس کے اندر جانب تمام الیکٹران چوڑیوں کی صورت میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یو پائے جاتے ہیں کہ ان کے چکر اور مداری ز
 اویائی معیار حرکت منسوخ ہو جاتے ہیں یوں صرف بیرونی اکیلے الیکٹران[]
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 1970--1976
+Underfull \hbox (badness 4595) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کا چکر  $\OML/zplm/m/it/10 s \OT1/zplm/m/
 n/10 = \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNa
 staleeq(1)/m/sl/10 ہی جوہر کا چکر ہوگا لہٰذا شعاع دو ٹکڑوں میں تقسیم ہوگی اب با
@@ -4039,89 +4210,89 @@ staleeq(1)/m/sl/10 ہی جوہر کا چکر ہوگا لہٰذا شعاع دو �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ذیل نقطہ نظر سے دیکھنا زیادہ بہتر ہوگا ہم
  اس عمل کو اس حوالہ چوکھٹ کے حوالہ سے دیکھتے ہیں جو شعاع کے ساتھ[]
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 1970--1976
+Underfull \hbox (badness 1997) in paragraph at lines 1906--1912
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ چلتا ہوں اس چوکھٹ میں ہیملٹنی صفر سے
  ابتدا کرتے ہوئے وقت  $\OML/zplm/m/it/10 T$  \TU/JameelNooriNastaleeq(1)/m/sl/1
 0 جس دوران ذرا مقناطیسی میدان سے[]
  []
 
-[183]
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اور یہ مثبت  $\OML/zplm/m/it/10 z$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 رخ جانب حرکت کرے گا مخالف میدان جزو کا معیار حرک
 ت غلط ہے اور یہ منفی []
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 2006--2012
+Underfull \hbox (badness 1365) in paragraph at lines 1942--1948
 []$\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 رخ کی جانب حرکت کر
 ے گا یوں پہلے کی طرح شعاع دو حصوں میں تقسیم ہوگی چونکہ یہاں  $\OML/zplm/m/it/10
  S[] \OT1/zplm/m/n/10 = \U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ []
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 2006--2012
+Underfull \hbox (badness 1655) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 p[] \OT1/zplm/m/n
 /10 = \OML/zplm/m/it/10 F[]T$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے لہٰذا مسا
 وات 4.‏174 پہلی حاصل کرتا نتیجہ مساوات 4.‏170 کے مطابق ہے کوانٹم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میکانیات کی فلاسفی میں شٹرن و گرلاخ تجربہ
  میں کلیدی کردار ادا کیا ہے اس کے ذریعے کوانٹم حالات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کیے جاتے ہیں اور یہ ایک مخصوص قسم کی
  کوانٹم پیمائشوں پر روشنی ڈالنے کا ایک بہترین نمونہ ہے ہم بیٹھے بیٹھے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ فرض کر لیتے ہیں کہ نظام کا ابتدائی حال
  ہم جانتے ہیں جس سے مساوات شروڈنگر کے ذریعے مستقبل کا[]
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 2006--2012
+Underfull \hbox (badness 7151) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 حال جانا جا سکتا ہے یہاں یہ سوال پیدا ہوت
 ا ہے کہ ہم کس طرح ایک نظام کو کسی مخصوص حال میں ابتدائی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 طور پر لاتے ہیں آپ کسی مخصوص چکر کے جوہرو
 ں کی شعاع تیار کرنے کی خاطر غیر ترتیب شدا شعاع کو شٹرن و[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 گرلاخ مقناطیس سے گزار کر اخراجی شعاعوں می
 ں سے وہ شعاع منتخب کرتے ہیں جو آپ کے مطلب کی ہو اسی طرح[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہمہ میدان یا مخالف میدان شعاع خارج ہوتے ہ
 یں میں یہ دعویٰ نہیں کرتا کہ اس مقصد کے حصول کا یہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1948
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 عمل سب سے بہتر طریقہ ہے لیکن اتنا ضرور کہ
 نا چاہوں گا کہ حالات کی تیاری اور پیمائش کے بارے[]
  []
 
 [184]
-Underfull \hbox (badness 5345) in paragraph at lines 2017--2021
+Underfull \hbox (badness 5345) in paragraph at lines 1953--1957
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت  $\OML/zplm/m/it/10 t$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 پر چکری زاویائی معیار حرکت کے  $\OML/zplm/m/it/10 x$  
 \TU/JameelNooriNastaleeq(1)/m/sl/10 رخ جزو کی پیمائشی نتیجہ  $\U/msb/m/n/10 }\O
@@ -4130,7 +4301,7 @@ T1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2036--2040
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1976
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ابتدا کرتا ہے مستقبل کی وقتوں کے لیے  $\O
 ML/zplm/m/it/10 ^^_\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \T
 U/JameelNooriNastaleeq(1)/m/sl/10 تعین کریں دیہان رہے کہ یہ ہيملٹنی تابع وقت ہے
@@ -4138,20 +4309,20 @@ U/JameelNooriNastaleeq(1)/m/sl/10 تعین کریں دیہان رہے کہ یہ 
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 2036--2040
+Underfull \hbox (badness 7468) in paragraph at lines 1972--1976
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ساکن حالات سے  $\OML/zplm/m/it/10 ^^_\OT1
 /zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(
 1)/m/sl/10 حاصل نہیں کر سکتے ہیں خوش قسمتی سے آپ تابع وقت شروڈنگر مساوات[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2056--2058
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1994
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں پہلے تیر کا نشان یعنی بایاں تیر الیک
 ٹران کو جبکہ دوسرا یعنی دایاں تیر کا نشان پروٹان کو ظاہر کرتا ہے سوال: اس[]
  []
 
-[185]
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2074
+
+Underfull \hbox (badness 10000) in paragraph at lines 2001--2010
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یاد رہے کہ  $\OML/cmm/b/it/10 S[]$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 صرف  $\OML/zplm/m/it/10 ^^_\OT1/ppl/m/n/10 1$  \
 TU/JameelNooriNastaleeq(1)/m/sl/10 پر عمل کرتا ہے اور  $\OML/cmm/b/it/10 S[]$  
@@ -4161,7 +4332,7 @@ TU/JameelNooriNastaleeq(1)/m/sl/10 پر عمل کرتا ہے اور  $\OML/cmm/b
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2085
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2021
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 پہلی نظر میں یہ ٹھیک معلوم نہیں ہوتا ہے  
 $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو چاہیے کہ  $\OMS/z
 plm/m/n/10 ^^@\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے  $\O
@@ -4170,29 +4341,29 @@ T1/zplm/m/n/10 +\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تک �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2085
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2021
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جاتا ہے اس الجھن سے نکلنے کی خاطر ہم مساو
 ات 4.‏146 استعمال کرتے ہوئے  $\OMS/zplm/m/n/10 ""$  \TU/JameelNooriNastaleeq(1)
 /m/sl/10 حال پر عامل تقلیل []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2100--2104
+[186]
+Underfull \hbox (badness 10000) in paragraph at lines 2036--2040
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تصدیق کی خاطر  $\OMS/zplm/m/n/10 j\OT1/pp
 l/m/n/10 10\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر عامل تقل
 یل کا اطلاق کر کے دیکھیں آپ کو کیا حاصل ہوتا ہے سوال 4.‏34([]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2106--2108
+Underfull \hbox (badness 10000) in paragraph at lines 2042--2044
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہونگے جن کے امتیازی اقدار  $\OT1/ppl/m/n/
 10 2\U/msb/m/n/10 }[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا جبکہ وحدانی  $
 \OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا وہ امتیازی سمتیہ
  ہوگا جس کا امتیازی قدر صفر ہو درج ذیل[]
  []
 
-[186]
-Underfull \hbox (badness 10000) in paragraph at lines 2138--2154
+[187]
+Underfull \hbox (badness 10000) in paragraph at lines 2074--2090
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لہٰذا  $\OMS/zplm/m/n/10 j\OT1/ppl/m/n/10
  00\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 یقیناً  $\OML/zplm/
 m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا امتیازی حال ہوگا جس کا امت
@@ -4201,7 +4372,7 @@ m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا امتیازی حال ہ�
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 2138--2154
+Underfull \hbox (badness 1442) in paragraph at lines 2074--2090
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں آپ نے تصدیق کرنا ہوگا کہ  $\OMS/zplm
 /m/n/10 j\OT1/ppl/m/n/10 11\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/s
 l/10 اور  $\OMS/zplm/m/n/10 j\OT1/ppl/m/n/10 1 \OMS/zplm/m/n/10 ^^@ \OT1/ppl/m/
@@ -4211,7 +4382,7 @@ n/10 1\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مختص امتی
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2138--2154
+Underfull \hbox (badness 10000) in paragraph at lines 2074--2090
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نے  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\
 OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر اور  $\OT1/ppl/m/n/1
 0 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چک
@@ -4219,27 +4390,27 @@ OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر اور  $\OT1/ppl/
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 2138--2154
+Underfull \hbox (badness 2293) in paragraph at lines 2074--2090
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے اگر آپ  $\OML/zplm/m/it/10 s[]$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 چکر اور  $\OML/zplm/m/it/10 s[]$  \TU/JameelNoor
 iNastaleeq(1)/m/sl/10 چکر کو ملائیں تب کل چکر  $\OML/zplm/m/it/10 s$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 کتنا حاصل ہوگا اس کا جواب یہ ہے کہ عدد صحیح[]
  []
 
-[187]
-Underfull \hbox (badness 10000) in paragraph at lines 2156--2170
+
+Underfull \hbox (badness 10000) in paragraph at lines 2092--2106
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل ہو گا۔ اندازاً بات کرتے ہوئے سب سے ز
 یادہ کل چکر اس صورت حاصل ہوگا جب انفرادی چکر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2156--2170
+Underfull \hbox (badness 10000) in paragraph at lines 2092--2106
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک دوسرے کے متوازی ایک رخ صف بند ہوں اور
  کم سے کم اس صورت ہوگا جب یہ ایک دوسرے کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2156--2170
+Underfull \hbox (badness 10000) in paragraph at lines 2092--2106
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تب آپ کو  $\OT1/ppl/m/n/10 7\OT1/zplm/m/n
 /10 /\OT1/ppl/m/n/10 2$   $5\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$   $3\OT1/zplm/
 m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OT1/ppl/
@@ -4248,7 +4419,7 @@ m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2156--2170
+Underfull \hbox (badness 10000) in paragraph at lines 2092--2106
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتے ہیں حال  $\OML/zplm/m/it/10  []$  \T
 U/JameelNooriNastaleeq(1)/m/sl/10 کے ایک ہائیڈروجن جوہر کے الیکٹران کا کل زاویا
 ئی معیار حرکت چکر جمع دائری  $\OML/zplm/m/it/10 l \OT1/zplm/m/n/10 + \OT1/ppl/m
@@ -4256,7 +4427,7 @@ U/JameelNooriNastaleeq(1)/m/sl/10 کے ایک ہائیڈروجن جوہر کے �
  []
 
 
-Underfull \hbox (badness 8094) in paragraph at lines 2156--2170
+Underfull \hbox (badness 8094) in paragraph at lines 2092--2106
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یا  $\OML/zplm/m/it/10 l \OMS/zplm/m/n/10
  ^^@ \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNast
 aleeq(1)/m/sl/10 ہوگا اب اگر آپ پروٹان کے چکر کو بھی شامل کریں تب جوہر کا کل زا
@@ -4264,7 +4435,7 @@ aleeq(1)/m/sl/10 ہوگا اب اگر آپ پروٹان کے چکر کو بھی 
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 2171--2180
+Underfull \hbox (badness 2189) in paragraph at lines 2107--2116
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سکتے ہیں لہٰذا ملاپی حال  $\OMS/zplm/m/n/
 10 j\OML/zplm/m/it/10 sm\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/1
 0 جس کا کل چکر  $\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور 
@@ -4275,13 +4446,13 @@ m/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا خطی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2182--2192
+Underfull \hbox (badness 10000) in paragraph at lines 2118--2128
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 كليبش و گوردن عددی سر کہتے ہیں جدول 4.‏8 
 میں چند سادہ صورتیں پیش کی گئی ہے مثال کے طور پر دو زربے ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2200
+Underfull \hbox (badness 10000) in paragraph at lines 2130--2136
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 بالخصوص اگر ایک ڈبہ میں دو چکر اور ایک چک
 ر کے ساکن ذرات بائیں جاتے ہوں جن کا کل چکر  $\OT1/ppl/m/n/10 3$  \TU/JameelNoor
 iNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m
@@ -4289,7 +4460,7 @@ iNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2200
+Underfull \hbox (badness 10000) in paragraph at lines 2130--2136
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صفر ہو تب  $\OML/zplm/m/it/10 S[]$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 کی پیمائش  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\
 OT1/ppl/m/n/10 5$  \TU/JameelNooriNastaleeq(1)/m/sl/10 احتمال کے ساتھ  $\U/msb/
@@ -4300,21 +4471,21 @@ Nastaleeq(1)/m/sl/10 احتمال کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2200
+Underfull \hbox (badness 10000) in paragraph at lines 2130--2136
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ  $\OMS/zplm/m/n/10 ^^@\U/msb/m/n/10 
 }$  \TU/JameelNooriNastaleeq(1)/m/sl/10 قیمت دے سکتی ہے اب دیکھ سکتے ہیں کہ احت
 مالات کا مجموعہ ایک ہوگا كليبش و گوردن جدول کہ کسی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2208--2215
+[188]
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2151
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ ایک ڈبے میں  $\OT1/ppl/m/n/10 3\OT
 1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 چکر اور 
 ایک چکر کے دو ذرات رکھے اور آپ جانتے ہو کہ پہلے کے لیے []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2208--2215
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2151
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تب آپ  $\OT1/ppl/m/n/10 3\OT1/zplm/m/n/10
  /\OT1/ppl/m/n/10 5$  \TU/JameelNooriNastaleeq(1)/m/sl/10 احتمال کے ساتھ  $\OT1
 /ppl/m/n/10 5\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/
@@ -4326,19 +4497,19 @@ T1/zplm/m/n/10 /\OT1/ppl/m/n/10 3$  \TU/JameelNooriNastaleeq(1)/m/sl/10 احتم
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2208--2215
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2151
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل کر سکتے ہیں اب بھی احتمالات کا مجموع
 ہ ایک ہوگا كليبش و گوردن جدول میں ہر صف کے مربع کا[]
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 2208--2215
+Underfull \hbox (badness 3482) in paragraph at lines 2144--2151
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوں ہم اس کتاب میں كليبش و گوردن عددی سر 
 کو زیادہ استعمال نہیں کریں گے میں صرف چاہتا تھا کہ آپ[]
  []
 
-[188]
-Underfull \hbox (badness 10000) in paragraph at lines 2217--2223
+
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2159
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏177 میں دیے گئے  $\OMS/zplm/m
 /n/10 j\OT1/ppl/m/n/10 10\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/
 10 پر  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا اطلاق کر
@@ -4347,7 +4518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2217--2223
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2227--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2163--2168
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دکھائی کہ مساوات 4.‏177 میں دیے گئے  $\
 OMS/zplm/m/n/10 j\OT1/ppl/m/n/10 11\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastalee
 q(1)/m/sl/10 اور  $\OMS/zplm/m/n/10 j\OT1/ppl/m/n/10 1 \OMS/zplm/m/n/10 ^^@ \OT
@@ -4356,34 +4527,21 @@ taleeq(1)/m/sl/10 کہ موضوع امتیازی اقدار والے امتیا�
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2233--2236
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٢٩:  کوارک کا چکر  $\OT1/ppl/m/n
-/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelNooriNastaleeq(1)/m/sl/10 
-ہے تین کوارکے ایک دونوں کے ساتھ مل کر ایک بیریون پیدا کرتے ہیں[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2233--2236
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثلا پروٹان یا نیوٹران دو کوارکے بلکہ یہ 
-کہنا زیادہ درست ہوگا کہ ایک کوارک اور ایک ضد کوارک آپس میں جوڑ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2233--2236
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کر ایک میانیہ پیدا کرتے ہیں مثلا پایان یا
- کایون فرض کریں کہ یہ کوارکے زمینی حال میں ہیں لہٰذا ان کا مداری[]
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2172
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پروٹان یا نیوٹران دو کوارکے بلکہ یہ کہنا 
+زیادہ درست ہوگا کہ ایک کوارک اور ایک ضد کوارک آپس میں جوڑ کر[]
  []
 
 Missing character: There is no ۓ in font Jameel Noori Nastaleeq Italic/OT:scrip
 t=arab;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2246--2248
+Underfull \hbox (badness 10000) in paragraph at lines 2182--2184
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک زرا جس کا چکر ایک اور دوسرا ذرا جس 
 کا چکر دو ہیں ساکن حال میں اس تقسیم سے پاۓ جاتے ہیں[]
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 2246--2248
+Underfull \hbox (badness 1033) in paragraph at lines 2182--2184
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ ان کا کل چکر  $\OT1/ppl/m/n/10 3$  \TU
 /JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNas
 taleeq(1)/m/sl/10 جزو  $\U/msb/m/n/10 }$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہ
@@ -4392,20 +4550,20 @@ iNastaleeq(1)/m/sl/10 جزو کی پیمائش سے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2248--2249
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2185
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہائیڈروجن جوہر کے  $\OML/zplm/m/it/10  
 []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں ایک الیکٹران مخالف میدان پایا جاتا
  ہے اگر آپ پروٹان کے چکر کو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2248--2249
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2185
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 شامل کئے بغیر صرف الیکٹران کے کل زاویائی 
 معیار حرکت کی مربع کی پیمائش کر سکیں تب کیا[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2261
+[189]
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں یہاں بتانا چاہوں گا کہ چونکہ  $\OML/z
 plm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 S
 []$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ایک دوسرے غیر مقلوبی ہیں لہٰذا ہم ایسے
@@ -4413,84 +4571,84 @@ plm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2261
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرنے سے قاصر ہونگے جو دونوں کے بیک وقت ام
 تیازی سمتيات ہو ہمیں  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl
 /10 کے امتیازی حالات تیار کرنے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2261
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کی خاطر  $\OML/zplm/m/it/10 S[]$  \TU/Jam
 eelNooriNastaleeq(1)/m/sl/10 امتیازی حالات کے خطی مجموعے درکار ہونگے مساوات 4.‏
 185 ميں كليبش و گورڈن عددی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2261
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سر ہمارے لیے یہی کچھ کرتے ہیں ساتھ ہی مسا
 وات 4.‏187 سے ہم کہہ سکتے ہیں کہ  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNasta
 leeq(1)/m/sl/10 کے ساتھ مجموعہ []
  []
 
-[189]
-Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
+
+Underfull \hbox (badness 10000) in paragraph at lines 2207--2208
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کارتیسی محدد میں علیحدگی متغیرات استعما
 ل کرتے ہوئے اس کو تیں یک بودی مرتعش میں تبدیل کریں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2281
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2217
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٣:  چونکہ مساوات 4.‏188 میں دیا
  گیا تین آبادی ہارمونی مرتعش مخفی قوہ کروی تشاکلی ہے لہٰذا اس کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2281
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2217
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات شروڈنگر کو کارتیسی معدد کے ساتھ سا
 تھ کروی محدد میں بھی علیحدگی متغیرات سے حل کیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2281
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2217
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جا سکتا ہے طاقتی تسلسل کی ترکیب استعمال ک
 رتے ہوئے رداسی مساوات حل کریں عددی سروں کا کلیہ توالی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2301--2304
+[190]
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2240
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٥:  اس سوال کو صرف اس صورت میں 
 حل کرنے کی کوشش کریں اگر آپ سمتی علم الاحصاء سے[]
  []
 
-[190]
-Underfull \hbox (badness 10000) in paragraph at lines 2332--2335
+
+Underfull \hbox (badness 10000) in paragraph at lines 2268--2271
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٣٦:  غیر تابع وقت معیار حرکت و ف
 ضا تفاعل موج کو تین آباد میں مساوات 3.‏54 کی قدرتی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2340--2341
+Underfull \hbox (badness 10000) in paragraph at lines 2276--2277
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 زمینی حال میں ہائیڈروجن مساوات 4.‏80 کے
  لیے معیار حرکت و فضا تفاعل موج تلاش کریں[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2355--2356
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2292
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس حال میں حرکی توانائی کی توقعاتی قیمت
  کیا ہوگی اپنی جواب کو  $\OML/zplm/m/it/10 E[]$  \TU/JameelNooriNastaleeq(1)/m/
 sl/10 کی مضرب کی صورت میں لکھ کر[]
  []
 
-[191]
-Underfull \hbox (badness 5726) in paragraph at lines 2375--2378
+
+Underfull \hbox (badness 5726) in paragraph at lines 2311--2314
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس حال میں ایک جوہر کے قابل مشاہدہ  $\O
 ML/zplm/m/it/10 L[] \OT1/zplm/m/n/10 + \OML/zplm/m/it/10 L[]$  \TU/JameelNooriN
 astaleeq(1)/m/sl/10 کی پیمائش سے کیا قیمت یا قیمتیں متوقع ہے اور ان[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2394--2398
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2334
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کے برعکس ہم فرض کر سکتے ہیں کہ مرکزہ
  کہ بہت چھوٹی حجم میں  $\OML/zplm/m/it/10  \OT1/zplm/m/n/10 (\OML/zplm/m/it/10 
 r\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تقریبا مستقل ہوگا لہٰ
@@ -4498,7 +4656,7 @@ r\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 تقریبا مستق�
  []
 
 [192]
-Underfull \hbox (badness 10000) in paragraph at lines 2424--2429
+Underfull \hbox (badness 10000) in paragraph at lines 2360--2365
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دکھائیں کے ان حالات کی  $\OML/zplm/m/it
 /10 r\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^[[]\OT1/zplm/m/n/10 )$  \TU/JameelNo
 oriNastaleeq(1)/m/sl/10 میں عدم یقینیت  $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 r\
@@ -4508,7 +4666,7 @@ OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2424--2429
+Underfull \hbox (badness 10000) in paragraph at lines 2360--2365
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نسبتی پهيلاو  $\OML/zplm/m/it/10 n$  \TU/
 JameelNooriNastaleeq(1)/m/sl/10 بڑھانے سے گھٹتا ہے یوں  $\OML/zplm/m/it/10 n$  
 \TU/JameelNooriNastaleeq(1)/m/sl/10 کی بڑی قیمت کے لیے نظام کلاسیکی نظر آنے شرو
@@ -4516,20 +4674,20 @@ JameelNooriNastaleeq(1)/m/sl/10 بڑھانے سے گھٹتا ہے یوں  $\OML/
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 2424--2429
+Underfull \hbox (badness 5548) in paragraph at lines 2360--2365
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں دائری مدار پہچانے جا سکتے ہیں  $\OML/
 zplm/m/it/10 n$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی کئی قیمتوں کے لیے رداسی
  تفاعل امواج کا خاکہ بناتے ہوئے اس نقطے کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2430--2439
+Underfull \hbox (badness 10000) in paragraph at lines 2366--2375
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤١:  ہم مکان طیفی خطوط کلیہ رڈبر
 گ مساوات 4.‏93 کے تحت ابتدائی اور اختتامی حالات کے صدر کوانٹم[]
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 2430--2439
+Underfull \hbox (badness 4967) in paragraph at lines 2366--2375
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اعداد ہائیڈروجن طيف کے لکیر کا طول موج تع
 ین کرتے ہیں ایسی دو منفرد جوڑیاں  $\OMS/zplm/m/n/10 f\OML/zplm/m/it/10 n[]\OT1/
 ppl/m/n/10 , \OML/zplm/m/it/10 n[]\OMS/zplm/m/n/10 g$  \TU/JameelNooriNastaleeq
@@ -4538,7 +4696,7 @@ m/sl/10 کی ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2470--2472
+Underfull \hbox (badness 10000) in paragraph at lines 2406--2408
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس الیکٹران کی  $\OML/zplm/m/it/10 S[]$
   \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش سے کیا قیمتیں متوقع ہیں اور ہر 
 قیمت کا انفرادی احتمال کیا ہوگا  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastal
@@ -4546,7 +4704,7 @@ eeq(1)/m/sl/10 کی توقعاتی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2472--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2410
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر اس الیکٹران کی  $\OML/zplm/m/it/10 
 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش کی جائے تو کیا قیمتے متوقع 
 ہونگی اور ہر قیمت کا انفرادی احتمال کیا ہوگا  $\OML/zplm/m/it/10 S[]$  \TU/Jame
@@ -4554,56 +4712,56 @@ elNooriNastaleeq(1)/m/sl/10 کی[]
  []
 
 [193]
-Underfull \hbox (badness 10000) in paragraph at lines 2491--2493
+Underfull \hbox (badness 10000) in paragraph at lines 2427--2429
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏179 تا مساوات 4.‏182 کی ترکیب ا
 ستعمال کریں ۔ اگر آپ یہ جاننے سے قاصر ہوں کہ  $\OML/zplm/m/it/10 S[]$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2491--2493
+Underfull \hbox (badness 10000) in paragraph at lines 2427--2429
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مثلاً ویکٹر  $\OMS/zplm/m/n/10 j\OML/zplm
 /m/it/10 s[]m[]\OMS/zplm/m/n/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر کیا 
 کرتا ہے تو مساوات 4.‏136 سے رجوع کریں اور مساوات 4.‏147 سے قبل جملہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2503
+Underfull \hbox (badness 10000) in paragraph at lines 2436--2439
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٦:  ہمیشہ کی طرح  $\OML/zplm/m/
 it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی امتیازی حالات کو اساس لیتے ہ
 وئے 3/2چکر کے ذرے کے لیے قالب []
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 2503--2507
+Underfull \hbox (badness 1400) in paragraph at lines 2439--2443
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٧:  مساوات 4.‏145 اور 4.‏147 می
 ں 1/2 چکر سوال 4.‏31 میں ایک چکر اور سوال 4.‏52 میں 3/2 چکر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2503--2507
+Underfull \hbox (badness 10000) in paragraph at lines 2439--2443
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کے قالبوں کی بات کی گئی۔ ان نتائج کو عموم
 یت دیتے ہوئے اختیاری  $\OML/zplm/m/it/10 s$  \TU/JameelNooriNastaleeq(1)/m/sl/1
 0 چکر کے لیے چکری قالب تلاش کریں۔[]
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [194]
-Underfull \hbox (badness 10000) in paragraph at lines 2516--2519
+Underfull \hbox (badness 10000) in paragraph at lines 2452--2455
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٤٨:  کروی ہارمونیات کے لیے،؟؟؟؟ 
 ضربی جز درج ذیل طریقے سے حاصل کریں۔ ہم حصہ 4.‏1.‏2 سے درج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ کو جز  $\OML/zplm/m/it/10 B[]$  \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 تعین کرنا ہو گا (جس کی قیمت تلاش کیے بغیر میں نے 
 ذکر مساوات 4.‏32 میں کیا)۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات 4.‏120 ، 4.‏121 اور 4.‏130 استعمال
  کرتے ہوئے  $\OML/zplm/m/it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صور
 ت میں  $\OML/zplm/m/it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا کلیہ توا
@@ -4611,7 +4769,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کو  $\OML/zplm/m/it/10 m$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 کے ریاضی ماخول کی ترکیب سے حل کرتے ہوئے  $\OML/zplm/m/
 it/10 B[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو مجموعی مستقل  $\OML/zplm/m/i
@@ -4620,27 +4778,27 @@ Nastaleeq(1)/m/sl/10 تک حل کریں۔آخر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں سوال 4.‏22 کا نتیجہ استعمال کرتے ہوئے
  اس مستقل کا بھی کچھ کریں۔ شریک لیجانڈر تفاعل کے تفرک کا[]
  []
 
 [195]
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2469--2470
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مداری زاویائی معیار حرکت کے مربع  $\OT1
 /zplm/m/n/10 (\OML/zplm/m/it/10 L[]\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastalee
 q(1)/m/sl/10 کی پیمائش سے کیا قیمتیں حاصل ہو سکتی ہیں؟ ہر قیمت کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2540--2541
+Underfull \hbox (badness 10000) in paragraph at lines 2476--2477
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ چکر کے  $\OML/zplm/m/it/10 z$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 جز اور منبع سے فاصلہ کی پیمائش کرتے ہیں (یاد رہے
  کہ یہ ہم آہنگ قابل مشاہدہ ہیں)[]
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 2548--2550
+Underfull \hbox (badness 5091) in paragraph at lines 2484--2486
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (جہاں  $\OML/zplm/m/it/10 '$  \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 اختیاری زاویہ ہے) ۔اسی کی بنا  $\OML/zplm/m/it/10 L[]\
 OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو  $\OML/zplm/m/it/1
@@ -4649,7 +4807,7 @@ OT1/zplm/m/n/10 /[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو  $\OML/zplm/m/it/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2548--2550
+Underfull \hbox (badness 10000) in paragraph at lines 2484--2486
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 استعمال کریں اور سوال 3.‏39 سے مدد لیں۔ ز
 یادہ عمومی  $\OML/cmm/b/it/10 L\OT1/ppl/m/n/10 .[]\OT1/zplm/m/n/10 /\U/msb/m/n/
 10 }$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا جو  $[]$  کے رخ گھومنے کا پیدا
@@ -4657,39 +4815,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 2548--2550
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2555--2556
+Underfull \hbox (badness 10000) in paragraph at lines 2491--2492
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 محور  $\OML/zplm/m/it/10 z \OMS/zplm/m/
 n/10 ^^@ \OML/zplm/m/it/10 axis$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ س
 ے 360 زاویہ گھومنے کو ظاہر کرنے والا قالب تیار کریں۔ کیا جواب آپ کی[]
  []
 
 [196]
-Underfull \hbox (badness 10000) in paragraph at lines 2560--2563
+Underfull \hbox (badness 10000) in paragraph at lines 2496--2499
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥١:  زاویائی معیار حرکت کے بنیاد
 ی مقلبیت رشتے (مساوات 4.‏99) امتیازی اقدار کے عدد صحیح[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2560--2563
+Underfull \hbox (badness 10000) in paragraph at lines 2496--2499
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 قیمتوں کے ساتھ ساتھ نصف عدد صحیح قیمتوں ک
 ی بھی اجازت دیتے ہیں۔ جبکہ مداری زاویائی معیار حرکت کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2560--2563
+Underfull \hbox (badness 10000) in paragraph at lines 2496--2499
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نصف عددی قیمتوں کو خارج کرتا ہو گا۔ ہم  $
 \OML/zplm/m/it/10 a$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کو کوئی ایسا مستقل لی
 تے ہیں جسکا بود لمبائی ہو مثلاً ہائیڈروجن پر بات کرتے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2582--2585
+Underfull \hbox (badness 10000) in paragraph at lines 2518--2521
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا (حصہ ٢.٣.١[] کے الجبرائی نظریہ میں 
 ہیملٹنی کی روپ اور باضابطہ مقلبیت رشتوں سے یہ اخذ کیا گیا)[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2586--2589
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2525
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٢:  عمومی حال مساوات 4.‏139 می$
 \OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(
 1)/m/sl/10 چکر کے  $\OML/zplm/m/it/10 S[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10
@@ -4698,7 +4856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2586--2589
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 2586--2589
+Underfull \hbox (badness 3635) in paragraph at lines 2522--2525
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کریں یعنی $\OML/zplm/m/it/10 ^^[[]^^[[] \
 OMS/zplm/m/n/10 ^^U \OT1/zplm/m/n/10 (\U/msb/m/n/10 }\OT1/zplm/m/n/10 /\OT1/ppl
 /m/n/10 2\OT1/zplm/m/n/10 )\OMS/zplm/m/n/10 jh\OML/zplm/m/it/10 S[]\OMS/zplm/m/
@@ -4707,14 +4865,14 @@ n/10 ij$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں مساوات کی صورت �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2586--2589
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2525
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کھوئے بغیر  $\OML/zplm/m/it/10 a$  \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 کو حقیقی منتخب کر سکتے ہیں تب عدم یقینیت کی کم سے
  کم قیمت اس صورت میں حاصل ہو گی  $\OML/zplm/m/it/10 b$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2589--2591
+Underfull \hbox (badness 10000) in paragraph at lines 2525--2527
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٣:  کلاسیکی برقی حرکیات میں ایک
  ذرہ جس کا بار  $\OML/zplm/m/it/10 q$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو ا
 ور جو مقناطیسی میدان  $\OML/cmm/b/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/sl/10
@@ -4722,20 +4880,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 2589--2591
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 2593--2595
+Underfull \hbox (badness 8113) in paragraph at lines 2529--2531
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس قوت کو کسی بھی غیر سمتی مخفی توانائی ت
 فاعل کی ڈھلوان کی صورت میں لکھا جا سکتا ہے لہٰذا مساوات[]
  []
 
 [197]
-Underfull \hbox (badness 10000) in paragraph at lines 2618--2620
+Underfull \hbox (badness 10000) in paragraph at lines 2554--2556
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس طرح  $\OMS/zplm/m/n/10 h[]$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 کی توقعاتی قیمت عین لورینز قوت کی مساوات کے تحت حرکت
  کرے گی جیسا ہم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2621--2624
+Underfull \hbox (badness 10000) in paragraph at lines 2557--2560
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٤:  ( پس منظر جاننے کے لیے سوال
  4.‏59 پر نظر ڈالیں) درج ذیل فرض کریں جہاں  $\OML/zplm/m/it/10 B[]$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 K$  \TU/JameelNooriNastaleeq(
@@ -4743,7 +4901,7 @@ NooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10 K$  \TU/JameelNooriNastalee
  []
 
 [198]
-Underfull \hbox (badness 6141) in paragraph at lines 2636--2638
+Underfull \hbox (badness 6141) in paragraph at lines 2572--2574
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 ![] \OT1/zplm/m/n
 /10 = \OML/zplm/m/it/10 q[]\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 m$ \TU/JameelNoo
 riNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 ![] \OMS/zplm/m/n/10 ^^Q []$ \TU/
@@ -4752,14 +4910,14 @@ JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ تبصرہ: $\OML/cmm/b/it/10 K \OT1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2639--2642
+Underfull \hbox (badness 10000) in paragraph at lines 2575--2578
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٤.٥٥:  ( پس منظر جاننے کی خاطر سوا
 ل 4.‏59 پر نظر ڈالیں) کلاسیکی برقی حرکیات میں مخفی قوہ  $\OML/cmm/b/it/10 A$ []
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2646--2648
+Underfull \hbox (badness 10000) in paragraph at lines 2582--2584
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (جہاں مقام اور وقت کا  $\OT1/zplm/m/n/10 
 ^^C$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ایک اختیاری حقیقی تفاعل ہے) بھی وہی م
 یدان  $\OML/zplm/m/it/10 '$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/cmm
@@ -4767,13 +4925,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2646--2648
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2648--2649
+Underfull \hbox (badness 10000) in paragraph at lines 2584--2585
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹم میکانیات میں مخفی قوہ کا کردار ز
 یادہ براہ راست پایا جاتا ہے اور ہم جاننا چاہیں گے کہ ایا یہ نظریہ گیج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2651--2653
+Underfull \hbox (badness 10000) in paragraph at lines 2587--2589
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر مساوات ( مساوات 4.‏20) کو گیج تبا
 دلہ مخفی قوہ  $\OML/zplm/m/it/10 '[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور 
  $\OML/cmm/b/it/10 A$  \TU/JameelNooriNastaleeq(1)/m/sl/10 لیتے ہوئے مطمئن کرتا
@@ -4781,7 +4939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2651--2653
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2651--2653
+Underfull \hbox (badness 10000) in paragraph at lines 2587--2589
 []$\OT1/zplm/m/n/10 ^^I[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں صرف زاویائی
  جز کا فرق پایا جاتا ہے لہٰذا یہ ایک ہی طبی حال کو ظاہر کرتے ہیں اور یوں یہ[]
  []
@@ -4895,16 +5053,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
  ) 
 Here is how much of TeX's memory you used:
- 56727 strings out of 479819
- 1487348 string characters out of 11645846
- 14124449 words of memory out of 24000000
- 72717 multiletter control sequences out of 15000+600000
+ 56761 strings out of 479819
+ 1488059 string characters out of 11645846
+ 14124825 words of memory out of 24000000
+ 72751 multiletter control sequences out of 15000+600000
  586719 words of font info for 265 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,19n,136p,2641b,2586s stack positions out of 5000i,500n,10000p,12000000b,80000s
