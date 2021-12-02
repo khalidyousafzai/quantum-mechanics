@@ -11,7 +11,7 @@
  مجھے خدشہ ہے کہ یہاں مستعمل خطی الجبرا سے آپ واقف نہیں ہوں گے۔ سمتیہ\عددی{|\alpha\rangle} کو \عددی{N} بُعدی فضا میں کسی مخصوص معیاری عمودی اساس کے لحاظ سے \عددی{N} عدد اجزاء 
 \عددی{\{a_n\}} سے ظاہر کرنا سادہ ترین ثابت ہوتا ہے:
 	\begin{align}
-		|\alpha \rangle \rightarrow \kvec{a} = \begin{pmatrix} 
+		|\alpha \rangle \rightarrow \mat{a} = \begin{pmatrix} 
 			a_{1}\\
 			a_{2}\\
 			\vdots\\
@@ -25,7 +25,7 @@
 \end{align}
 خطی تبادلہ، \عددی{ T}، کو (کسی مخصوص اساس کے لحاظ سے ) \اصطلاح{قوالب}\فرہنگ{قوالب}\حاشیہب{matrices}\فرہنگ{matrices} سے ظاہر کیا جاتا ہے، جو قالبی ضرب کے سادہ قواعد کے تحت سمتیات پر عمل کرتے ( ہوئے نئے سمتیات پیدا کرتے) ہیں:
 \begin{align}
-	|\beta\rangle = T|\alpha \rangle \rightarrow \kvec{b} = \kvec{T}\kvec{a} = \begin{pmatrix}
+	|\beta\rangle = T|\alpha \rangle \rightarrow \mat{b} = \mat{T}\mat{a} = \begin{pmatrix}
 		t_{11} & t_{12} & \hdots & t_{1N} \\ 
 		t_{21} & t_{22} & \hdots & t_{2N} \\
 		\vdots & \vdots & & \vdots \\
@@ -802,7 +802,7 @@ i \hslash \frac{\partial \Psi}{\partial t} = \hat{H} \Psi
 
 
 \حصہ{ڈیراک علامتیت}
-دو ابعاد میں ایک سادہ سمتیہ \عددی{\kvec{A}}پر غور کریں (شکل\حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ا) ۔ آپ اس سمتیہ کو کس طرح بیان کریں گے؟ سب سے آسان طریقہ یہ ہو گا کہ آپ \عددی{x } اور \عددی{y} محدد کا ایک کارتیسی نظام قائم کر کے اس پر سمتیہ \عددی{\kvec{A}} کے اجزاء : \عددی{ A_{x} = \hat{i}\cdot \kvec{A} } اور \عددی{ A_{y} = \hat{j}\cdot \kvec{A} }وضع کریں (شکل \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ب) ۔اب عین ممکن ہے کہ آپ کی بہن ایک مختلف کارتیسی نظام قائم کرے جس کے محدد \عددی{x^{'}} اور \عددی{y^{'}} ہوں ؛ وہ سمتیہ \عددی{\kvec{A}} کے اجزاء \عددی{A_{x}^{'} = \hat{i}^{\,'} \cdot \kvec{A}} اور \عددی{A_{y}^{'} = \hat{j}^{\,'} \cdot \kvec{A}} پیش کرے گی ( شکل \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ج)۔ حقیقت میں آپ دونوں ایک ہی سمتیہ کو دو مختلف اساس \عددی{( \{ \hat{i} , \hat{j} \} ) } اور \عددی{(\hat{i}^{\,'},\hat{j}^{\,'} ) } کی صورت میں بیان کر رہے ہیں۔ سمتیہ ازخود"باہر فضا" میں رہتا ہے اور کسی کے بھی قائم کردہ (اختیاری) محددی نظام کا تابع نہیں ہے۔
+دو ابعاد میں ایک سادہ سمتیہ \عددی{\mat{A}}پر غور کریں (شکل\حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ا) ۔ آپ اس سمتیہ کو کس طرح بیان کریں گے؟ سب سے آسان طریقہ یہ ہو گا کہ آپ \عددی{x } اور \عددی{y} محدد کا ایک کارتیسی نظام قائم کر کے اس پر سمتیہ \عددی{\mat{A}} کے اجزاء : \عددی{ A_{x} = \hat{i}\cdot \mat{A} } اور \عددی{ A_{y} = \hat{j}\cdot \mat{A} }وضع کریں (شکل \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ب) ۔اب عین ممکن ہے کہ آپ کی بہن ایک مختلف کارتیسی نظام قائم کرے جس کے محدد \عددی{x^{'}} اور \عددی{y^{'}} ہوں ؛ وہ سمتیہ \عددی{\mat{A}} کے اجزاء \عددی{A_{x}^{'} = \hat{i}^{\,'} \cdot \mat{A}} اور \عددی{A_{y}^{'} = \hat{j}^{\,'} \cdot \mat{A}} پیش کرے گی ( شکل \حوالہ{شکل_قواعد_سمتیہ_کے_اجزاء}-ج)۔ حقیقت میں آپ دونوں ایک ہی سمتیہ کو دو مختلف اساس \عددی{( \{ \hat{i} , \hat{j} \} ) } اور \عددی{(\hat{i}^{\,'},\hat{j}^{\,'} ) } کی صورت میں بیان کر رہے ہیں۔ سمتیہ ازخود"باہر فضا" میں رہتا ہے اور کسی کے بھی قائم کردہ (اختیاری) محددی نظام کا تابع نہیں ہے۔
 
 %fig 3.3 
 \begin{figure}
@@ -810,7 +810,7 @@ i \hslash \frac{\partial \Psi}{\partial t} = \hat{H} \Psi
 \begin{subfigure}{0.3\textwidth}
 \centering
 \begin{tikzpicture}
-\draw[very thick, -latex] (0,0) -- (63:2) node[pos=0.5, left]{$\kvec{A}$};
+\draw[very thick, -latex] (0,0) -- (63:2) node[pos=0.5, left]{$\mat{A}$};
 \end{tikzpicture}
 \caption{}
 \end{subfigure}\hfill
@@ -819,7 +819,7 @@ i \hslash \frac{\partial \Psi}{\partial t} = \hat{H} \Psi
 \begin{tikzpicture}
 \draw[-latex] (0,0) -- (0,2.25)coordinate(ytip) node[left]{$y$};
 \draw[-latex] (0,0) -- (2,0)coordinate(xtip) node[below]{$x$};
-\draw[-latex, very thick] (0,0) -- (1,2)coordinate(atip) node[pos=0.4,right]{$\kvec{A}$};
+\draw[-latex, very thick] (0,0) -- (1,2)coordinate(atip) node[pos=0.4,right]{$\mat{A}$};
 \draw[dashed](atip)--($(0,0)!(atip)!(xtip)$)coordinate(xi);
 \draw[dashed](atip)--($(0,0)!(atip)!(ytip)$)coordinate(yi);
 \draw (0.5,0) node[below]{$A_x$};
@@ -833,15 +833,17 @@ i \hslash \frac{\partial \Psi}{\partial t} = \hat{H} \Psi
 \begin{tikzpicture}
 \draw [-latex] (0,0) -- (20:3)coordinate(xtip) node[below right]{$x'$};
 \draw [-latex] (0,0) -- (110:3)coordinate(ytip) node[above right]{$y'$};
-\draw[very thick, -latex] (0,0) -- (65:2.6)coordinate(a) node[pos=0.5, above left]{$\kvec{A}$};
+\draw[very thick, -latex] (0,0) -- (65:2.6)coordinate(a) node[pos=0.5, above left]{$\mat{A}$};
 \draw[dashed] (a) -- ($(0,0)!(a)!(xtip)$)coordinate(xi);
 \draw[dashed] (a) -- ($(0,0)!(a)!(ytip)$)coordinate(yi);
-\draw($(0,0)!0.5!(xi)$)node[below right]{$\kvec{A}_x'$};
-\draw($(0,0)!0.5!(yi)$)node[left]{$\kvec{A}_y'$};
+\draw($(0,0)!0.5!(xi)$)node[below right]{$A_{x'}$};
+\draw($(0,0)!0.5!(yi)$)node[left]{$A_{y'}$};
 \end{tikzpicture}
 \caption{}
 \end{subfigure}
-\caption{(ا) سمتیہ \عددی{\kvec{A}}، (ب) \عددی{xy} محدد سے لحاظ سے \عددی{\kvec{A}} کے اجزاء، (ج) \عددی{x'y'} محدد کے لحاظ سے \عددی{\kvec{A}} کے اجزاء}
+\caption{
+(ا) سمتیہ \عددی{\mat{A}}، (ب) \عددی{xy} محدد سے لحاظ سے \عددی{\mat{A}} کے اجزاء، (ج) \عددی{x'y'} محدد کے لحاظ سے \عددی{\kvec{A}} کے اجزاء
+}
 \label{شکل_قواعد_سمتیہ_کے_اجزاء}
 \end{figure}
 
@@ -906,7 +908,7 @@ b_{m} = \sum_{n} Q_{mn}a_{n}
 \end{align*}
 ہیملٹنی کو ایک (ہرمشی) قالب کے روپ میں لکھا جا سکتا ہے؛ فرض کریں کہ اس کا مخصوص روپ درج ذیل ہے 
 \begin{align*}
-\bold{H} = \begin{pmatrix} h & g \\ g & h \end{pmatrix}
+\mat{H} = \begin{pmatrix} h & g \\ g & h \end{pmatrix}
 \end{align*}
 جہاں\عددی{g} اور \عددی{h} حقیقی مستقل ہیں۔ اگر( \عددی{t=0} پر ) یہ نظام حال \عددی{|1\rangle} سے ابتدا کرے تب وقت \عددی{t} پر اس کا حال کیا ہو گا؟ 
 
@@ -1012,7 +1014,7 @@ a_{1} \\ a_{2} \\ \vdots \\ a_{n}
 \item
  \عددی{ \langle \alpha | \beta \rangle} اور \عددی{ \langle \beta | \alpha \rangle} تلاش کریں اور \عددی{ \langle \beta | \alpha \rangle = \langle \alpha | \beta \rangle^{*}} کی تصدیق کریں۔
 \item
- اس اساس میں عامل \عددی{ \hat{A} \equiv | \alpha \rangle \langle \beta | } کے نو ارکان قالب تلاش کر کے قالب \عددی{ \bold{A}} تیار کریں۔ کیا یہ ہرمشی ہے؟
+ اس اساس میں عامل \عددی{ \hat{A} \equiv | \alpha \rangle \langle \beta | } کے نو ارکان قالب تلاش کر کے قالب \عددی{\mat{A}} تیار کریں۔ کیا یہ ہرمشی ہے؟
 \end{enumerate} 
 \انتہا{سوال}
 % Problem 2.23
@@ -1021,7 +1023,7 @@ a_{1} \\ a_{2} \\ \vdots \\ a_{n}
 \begin{align*}
 \hat{H} = E( | 1 \rangle \langle 1 | - |2\rangle \langle 2 | + | 1 \rangle \langle 2 | + | 2 \rangle \langle 1 | )
 \end{align*}
-جہاں \عددی{ | 1 \rangle , | 2 \rangle } معیاری عمودی اساس اور \عددی{ E} ایسا عدد ہے جس کا بعد توانائی کا ہے۔ اس کے امتیازی اقدار اور ( \عددی{| 1 \rangle } اور \عددی{| 2 \rangle } کے خطی جوڑ کی صورت میں معمول شدہ) امتیازی تفاعل تلاش کریں۔ اس اساس کے لحاظ سے \عددی{\hat{H}} کا قالب \عددی{\bold{H}} کیا ہو گا؟ 
+جہاں \عددی{ | 1 \rangle , | 2 \rangle } معیاری عمودی اساس اور \عددی{ E} ایسا عدد ہے جس کا بعد توانائی کا ہے۔ اس کے امتیازی اقدار اور ( \عددی{| 1 \rangle } اور \عددی{| 2 \rangle } کے خطی جوڑ کی صورت میں معمول شدہ) امتیازی تفاعل تلاش کریں۔ اس اساس کے لحاظ سے \عددی{\hat{H}} کا قالب \عددی{\mat{H}} کیا ہو گا؟ 
 \انتہا{سوال}
 %Problem 2.24
 \ابتدا{سوال}
@@ -1129,8 +1131,8 @@ a_{1} \\ a_{2} \\ \vdots \\ a_{n}
 
 \ابتدا{سوال} 
 %3.33\\
-ہارمونی مرتعش کے ساکن حالات کی (معیاری عمودی) اساس (مساوات \حوالہ{مساوات_شروڈنگر_ہارمونی_ساکن_حالات}) میں قالبی ارکان \عددی{\langle n|x|n'\rangle} اور \عددی{\langle n|p|n'\rangle} تلاش کریں۔ آپ سوال \حوالہ{سوال_شروڈنگر_تصدیق_کریں} میں قالبی وتری رکن \عددی{n=n'} دریافت کر چکے ہیں؛ وہی ترکیب موجودہ عمومی مسئلے میں استعمال کریں۔ متعلقہ( لامتناہی) قالب \عددی{\bold{X}} اور \عددی{\bold{P}} تشکیل دیں۔ دکھائیں کہ اس اساس میں
-\عددی{\tfrac{1}{2m}\bold{P}^2+\tfrac{m\omega^2}{2}\bold{X}^2=\bold{H}}\ترچھا{ وتری} ہو گا۔ کیا اس کے وتر ی ارکان آپ کے توقع کے مطابق ہیں؟
+ہارمونی مرتعش کے ساکن حالات کی (معیاری عمودی) اساس (مساوات \حوالہ{مساوات_شروڈنگر_ہارمونی_ساکن_حالات}) میں قالبی ارکان \عددی{\langle n|x|n'\rangle} اور \عددی{\langle n|p|n'\rangle} تلاش کریں۔ آپ سوال \حوالہ{سوال_شروڈنگر_تصدیق_کریں} میں قالبی وتری رکن \عددی{n=n'} دریافت کر چکے ہیں؛ وہی ترکیب موجودہ عمومی مسئلے میں استعمال کریں۔ متعلقہ( لامتناہی) قالب \عددی{\mat{X}} اور \عددی{\mat{P}} تشکیل دیں۔ دکھائیں کہ اس اساس میں
+\عددی{\tfrac{1}{2m}\mat{P}^2+\tfrac{m\omega^2}{2}\mat{X}^2=\mat{H}}\ترچھا{ وتری} ہو گا۔ کیا اس کے وتر ی ارکان آپ کے توقع کے مطابق ہیں؟
 \ترچھا{جزوی جواب:} 
 \begin{align}
 \langle n|x|n'\rangle=\sqrt{\frac{\hslash}{2m\omega}}(\sqrt{n'}\delta_{n,n'-1}+\sqrt{n}\delta_{n',n-1})
@@ -1203,7 +1205,7 @@ c_{n}=\frac{\alpha^{n}}{\sqrt{n!}}c_{0}
  %3.37: 
 ایک نظام جو تین سطحی ہے کا ہیملٹنی درج ذیل قابل دیتا ہے
  \begin{align*} 
-\bold{H}=\begin{pmatrix}
+\mat{H}=\begin{pmatrix}
 a&0&b\\
 0&c&0\\
 b&0&a
@@ -1236,7 +1238,7 @@ b&0&a
  %3.38:
 ایک تین سطحی نظام کا ہیملٹنی درج ذیل قالب ظاہر کرتا ہے۔ 
  \begin{align*} 
-\bold{H}=\hslash\omega\begin{pmatrix}
+\mat{H}=\hslash\omega\begin{pmatrix}
 1&0&0\\
 0&2&0\\
 0&0&2
@@ -1244,11 +1246,11 @@ b&0&a
  \end{align*} 
 باقی دو قابل مشاہدہ \عددی{A} اور \عددی{B} کو درج ذیل قالب ظاہر کرتے ہیں 
  \begin{align*} 
-\bold{A}=\lambda\begin{pmatrix}
+\mat{A}=\lambda\begin{pmatrix}
 0&1&0\\
 1&0&0\\
 0&0&2
-\end{pmatrix} ,\quad \bold{B}=\mu\begin{pmatrix}
+\end{pmatrix} ,\quad \mat{B}=\mu\begin{pmatrix}
 2&0&0\\
 0&0&1\\
 0&1&0
@@ -1257,7 +1259,7 @@ b&0&a
 جہاں \عددی{\omega}، \عددی{\lambda} اور \عددی{\mu} حقیقی مثبت اعداد ہیں۔
 \begin{enumerate}[a.]
 \item
-\عددی{\bold{H}}، \عددی{\bold{A}} اور \عددی{\bold{B}} کے امتیازی اقدار اور( معمول پر لائے گئے ) امتیازی سمتیات تلاش کریں۔ 
+\عددی{\mat{H}}، \عددی{\mat{A}} اور \عددی{\mat{B}} کے امتیازی اقدار اور( معمول پر لائے گئے ) امتیازی سمتیات تلاش کریں۔ 
  \item
  یہ نظام عمومی حال
  \begin{align*} 

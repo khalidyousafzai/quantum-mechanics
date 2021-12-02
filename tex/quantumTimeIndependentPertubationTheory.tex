@@ -828,7 +828,7 @@ H = - \kvec{\mu} \cdot \kvec{B}
 \pgfmathsetmacro{\rc}{\ra+0.2}
 \pgfmathsetmacro{\rd}{\rb+0.2}
 \draw[thick,domain=0:360]plot[smooth]({\ra*cos(\x)},{\rb*sin(\x)});
-\draw [-latex] (0,0) node[left]{$-e$} node[fill=black, circle, inner sep=1.5pt]{} -- (0,1.5) node[left]{$\kvec{B}, \, \kvec{L}$};
+\draw [-latex] (0,0) node[left]{$-e$} node[fill=black, circle, inner sep=1.5pt]{} -- (0,1.5) node[left]{$\kvec{B}, \, \mat{L}$};
 \draw [latex-,shorten <=1.5pt] (0,0) -- ({\ra*cos(300)},{\rb*sin(300)}) node[pos=0.5,above]{$r$} node[fill=black, circle, inner sep=1.5pt]{} node[below left]{$+e$};
 \draw[-stealth,thick,domain=300:350]plot({\rc*cos(\x)},{\rd*sin(\x)});
 \end{tikzpicture}
@@ -844,9 +844,9 @@ B = \frac{\mu_0 I}{2r}
 \end{align*}
 جس میں موثر رو \عددی{ I = e/T} ہے جہاں \عددی{ e} پروٹان کے بار کو اور \عددی{ T} دائرے پر ایک چکر کے دوری عرصہ کو ظاہر کرتا ہے اس کے برعکس مرکزہ کے ساکن  چھوکٹ میں الیکٹران کا مداری زاویائی معیار حرکت \عددی{
 L = rmv = {2\pi m r ^2} /T
-} ہوگا مزید \عددی{ \kvec{B}} اور \عددی{\kvec{L}} دونوں کا رخ ایک دوسرے جیسا ہوگا شکل \حوالہ{شکل_غیر_تابع_اضطراب_جوہر_الیکٹران_نقطہ_نظر} میں اوپر جانب لہٰذا   درج ذیل لکھا جا سکتا ہے 
+} ہوگا مزید \عددی{ \kvec{B}} اور \عددی{\mat{L}} دونوں کا رخ ایک دوسرے جیسا ہوگا شکل \حوالہ{شکل_غیر_تابع_اضطراب_جوہر_الیکٹران_نقطہ_نظر} میں اوپر جانب لہٰذا   درج ذیل لکھا جا سکتا ہے 
 \begin{align}
-\kvec{B} = \frac{1}{4 \pi \epsilon_0} \frac{e}{mc^2 r^3} \kvec{L}
+\kvec{B} = \frac{1}{4 \pi \epsilon_0} \frac{e}{mc^2 r^3} \mat{L}
 \end{align}
 جہاں میں نے \عددی{
 c = 1/\sqrt{\epsilon_0 \mu_0}
@@ -865,7 +865,7 @@ c = 1/\sqrt{\epsilon_0 \mu_0}
 \pgfmathsetmacro{\rc}{\ra+0.2}
 \pgfmathsetmacro{\rd}{\rb+0.2}
 \draw[thick,domain=0:360]plot[smooth]({\ra*cos(\x)},{\rb*sin(\x)});
-\draw [-latex] (0,-1.5) -- (0,1.5) node[left]{$\kvec{\mu}, \, \kvec{S}$};
+\draw [-latex] (0,-1.5) -- (0,1.5) node[left]{$\kvec{\mu}, \, \mat{S}$};
 \draw [-latex] (0,0)node[circle,inner sep=1.5pt,fill=black]{} -- ({\ra*cos(0)},{\rb*sin(0)}) node[pos=0.5,above]{$r$};
 \draw[-stealth,thick,domain=300:350]plot({\rc*cos(\x)},{\rd*sin(\x)});
 \draw []  ({\ra*cos(230)},{\rb*sin(230)}) node[below]{$q,\, m$};
@@ -880,23 +880,23 @@ S = \frac{2 \pi mr^2}{T}
 \end{align*}
 اس  تنظیم  کے لیے ظاہر ہے کہ مسکن مقناطیسی نسبت \عددی{
 \mu /S = q/2m
-} ہوگا دھیان رہے کہ یہ \عددی{ r} اور \عددی{ T} کا  تابع نہیں  ہے اگر میرے پاس کوئی زیادہ پیچیدہ شکل و صورت کا جسم ہوتا مثلاً  ایک  کرہ  صرف اتنا ضروری ہے کہ اپنے محور کے گرد گھومنے سے اس جسم کی شکل پیدا ہو میں اس کو باریک چھلوں میں ٹکڑے کر کے تمام  سے پیدا حصوں کا مجموعہ لے کر \عددی{\kvec{\mu}} اور \عددی{\kvec{S}} کی قیمت معلوم کر پاتا جب تک کمیت اور بار کی تقسیم ایک جیسی ہو تاکہ بار اور کمیت کا نسبت یکساں ہو ہر  چھلے  کا اور لہٰذا   پوری جسم کا مسکن مقناطیسی نسبت ایک دوسرے جیسا ہوگا مزید \عددی{\kvec{\mu}} اور \عددی{\kvec{S}} کے رخ ایک دوسرے جیسے یا اگر بار منفی ہو تو ایک دونوں کے مخالف ہونگے لہٰذا   درج ذیل ہوگا 
+} ہوگا دھیان رہے کہ یہ \عددی{ r} اور \عددی{ T} کا  تابع نہیں  ہے اگر میرے پاس کوئی زیادہ پیچیدہ شکل و صورت کا جسم ہوتا مثلاً  ایک  کرہ  صرف اتنا ضروری ہے کہ اپنے محور کے گرد گھومنے سے اس جسم کی شکل پیدا ہو میں اس کو باریک چھلوں میں ٹکڑے کر کے تمام  سے پیدا حصوں کا مجموعہ لے کر \عددی{\kvec{\mu}} اور \عددی{\mat{S}} کی قیمت معلوم کر پاتا جب تک کمیت اور بار کی تقسیم ایک جیسی ہو تاکہ بار اور کمیت کا نسبت یکساں ہو ہر  چھلے  کا اور لہٰذا   پوری جسم کا مسکن مقناطیسی نسبت ایک دوسرے جیسا ہوگا مزید \عددی{\kvec{\mu}} اور \عددی{\mat{S}} کے رخ ایک دوسرے جیسے یا اگر بار منفی ہو تو ایک دونوں کے مخالف ہونگے لہٰذا   درج ذیل ہوگا 
 \begin{align*}
-\kvec{\mu} = \big ( \frac{q}{2m} \big ) \kvec{S}
+\kvec{\mu} = \big ( \frac{q}{2m} \big ) \mat{S}
 \end{align*}
 یہ خالصاً  کلاسیکی حساب ہے درحقیقت الیکٹران کا مقناطیسی معیار اثر اس کے کلاسیکی قیمت کا دگنا ہے 
 \begin{align}
-\kvec{\mu}_e = - \frac{e}{m} \kvec{S}
+\kvec{\mu}_e = - \frac{e}{m} \mat{S}
 \end{align}
 ڈیراک   نے الیکٹران کی اضافیتی نظریہ میں اضافی جزو ضربی \عددی{2} کی وجہ پیش کی ہے
 
  ان تمام کو اکٹھے کرتے ہوئے درج ذیل حاصل ہوگا 
 \begin{align*}
-H = \big ( \frac{e^2}{4 \pi \epsilon_0} \big ) \frac{1}{m^2 c^2 r^3} \kvec{S} \cdot \kvec{L}
+H = \big ( \frac{e^2}{4 \pi \epsilon_0} \big ) \frac{1}{m^2 c^2 r^3} \mat{S} \cdot \mat{L}
 \end{align*}
 اس حساب میں ایک  فریب سے کام لیا گیا ہے میں نے الیکٹران کے ساکن  چھوکٹ میں تجزیہ کیا جو ایک غیر جمودی نظام ہے چونکہ الیکٹران مرکزہ کے گرد گھومتا ہے لہٰذا   یہ اسراع  پذیر ہوگا اس حساب میں مجرد حرکیات تصحیح جسے طامس استقبالی حرکت کہتے ہیں شامل کرکے قبول کیا جا سکتا ہے جو حساب میں جزو ضربی \عددی{1/2} شامل کرتا ہے 
 \begin{align}
-H'_{so} = \big ( \frac{e^2}{8 \pi \epsilon_0} \big ) \frac{1}{m^2 c^2 r^3} \kvec{S} \cdot \kvec{L}
+H'_{so} = \big ( \frac{e^2}{8 \pi \epsilon_0} \big ) \frac{1}{m^2 c^2 r^3} \mat{S} \cdot \mat{L}
 \end{align}
 %=====================
 
@@ -905,18 +905,18 @@ H'_{so} = \big ( \frac{e^2}{8 \pi \epsilon_0} \big ) \frac{1}{m^2 c^2 r^3} \kvec
 
  اب کوانٹم میکانیات کی بات کرتے ہیں۔ چکر و دائری ربط کی صورت میں \عددی{ L} اور \عددی{ S} کے ساتھ ہیملٹنی غیر مقلوب ہو گا لہٰذا چکر اور دائری زاویائی معیار اثر علیحدہ علیحدہ   بقائی  نہیں رہتے ہیں سوال 6.16 دیکھیں البتہ \عددی{H'_{so}} مقلوب ہو گا \عددی{L^2}، \عددی{S^2} اور کل زاویائی معیار حرکت کے ساتھ۔
 \begin{align}
-\kvec{J} \equiv \kvec{L} + \kvec{S}
+\mat{J} \equiv \mat{L} + \mat{S}
 \end{align}
  لہٰذا   یہ مقداریں   بقائی ی ہیں مساوات 3.71 دوسرے لفظوں میں \عددی{L_z} اور \عددی{S_z} کے امتیازی حالات نظریہ اضطراب میں استعمال کے لئے موزوں حالات نہیں ہیں جبکہ \عددی{L^2}، \عددی{S^2}، \عددی{J^2}، اور \عددی{J_z} کے امتیازی حالات موزوں حالات ہیں اب 
 \begin{align*}
-J^2 = (\kvec{L} + \kvec{S}) \cdot (\kvec{L} + \kvec{S}) = L^2 + S^2 + 2 \kvec{L} \cdot \kvec{S}
+J^2 = (\mat{L} + \mat{S}) \cdot (\mat{L} + \mat{S}) = L^2 + S^2 + 2 \mat{L} \cdot \mat{S}
 \end{align*}
 کی بنا 
 \begin{align}
-\kvec{L} \cdot \kvec{S} = \frac{1}{2} (J^2 - L^2 - S^2)
+\mat{L} \cdot \mat{S} = \frac{1}{2} (J^2 - L^2 - S^2)
 \end{align}
 ہوگا  لہٰذا   \عددی{
-\kvec{L} \cdot \kvec{S}
+\mat{L} \cdot \mat{S}
 } کے امتیازی اقدار درج ذیل ہونگے 
 \begin{align*}
 \frac{\hslash^2}{2} [j (j + 1) - l(l + 1) - s(s + 1)]
@@ -945,18 +945,18 @@ E_{nj} = - \frac{\SI{13.6}{\electronvolt}}{n^2} \big [ 1 + \frac{\alpha^2}{n^2} 
 \ابتدا{سوال}
 درج ذیل مقلب کی قیمتیں تلاش کریں
  ( الف) \عددی{
-[\kvec{L} \cdot \kvec{S}, \kvec{L}]
+[\mat{L} \cdot \mat{S}, \mat{L}]
 }، ( ب) \عددی{
-[\kvec{L} \cdot \kvec{S}, \kvec{S}]
+[\mat{L} \cdot \mat{S}, \mat{S}]
 }، ( ج) \عددی{
-[\kvec{L} \cdot \kvec{S}, \kvec{J}]
+[\mat{L} \cdot \mat{S}, \mat{J}]
 }، ( د) \عددی{
-[\kvec{L} \cdot \kvec{S}, L^2]
+[\mat{L} \cdot \mat{S}, L^2]
 }، ( ه) \عددی{
-[\kvec{L} \cdot \kvec{S}, S^2]
+[\mat{L} \cdot \mat{S}, S^2]
 }، ( و) \عددی{
-[\kvec{L} \cdot \kvec{S}, J^2]
-}؛ اشارہ: \عددی{\kvec{L}} اور \عددی{\kvec{S}} زاویائی معیار حرکت کے بنیادی مقلبیت رشتوں مساوات 4.99 اور 4.134 کو مطمئن کرتے ہیں تاہم یہ ایک دوسرے کے ساتھ غیر مقلوب ہیں۔ 
+[\mat{L} \cdot \mat{S}, J^2]
+}؛ اشارہ: \عددی{\mat{L}} اور \عددی{\mat{S}} زاویائی معیار حرکت کے بنیادی مقلبیت رشتوں مساوات 4.99 اور 4.134 کو مطمئن کرتے ہیں تاہم یہ ایک دوسرے کے ساتھ غیر مقلوب ہیں۔ 
 \انتہا{سوال}
 \ابتدا{سوال}
 اضافیتی تصحیح مساوات 6.57 اور چکر دائری ربط مساوات 6.65 سے مہین ساخت کلیہ مساوات 6.66 اخذ  کریں اشارہ: دھیان رہے کہ \عددی{
@@ -988,15 +988,15 @@ H'_z = - (\mu_1 + \mu_2) \cdot \kvec{B}_{est}
 \end{align}
 جہاں 
 \begin{align}
-\mu_s = - \frac{e}{m} \kvec{S}
+\mu_s = - \frac{e}{m} \mat{S}
 \end{align}
 الیکٹران چکر کے ساتھ وابستہ مقناطیسی جفت کتب معیار اثر اور 
 \begin{align} 
-\mu_1 = - \frac{e}{2m} \kvec{L}
+\mu_1 = - \frac{e}{2m} \mat{L}
 \end{align}
 مداری حرکت کے ساتھ وابستہ جفت کتب معیار اثر ہے یوں  درج ذیل ہوگا 
 \begin{align}
-H'z = \frac{e}{2m} (\kvec{L} + 2 \kvec{S}) \cdot \kvec{B}_{est}
+H'z = \frac{e}{2m} (\mat{L} + 2 \mat{S}) \cdot \kvec{B}_{est}
 \end{align}
 زیمان تقسیم کی فطرت فیصلہ کن حد تک اندرونی میدان مساوات 6.59 جو چکر مدار ربط پیدا کرتا ہے کے لحاظ سے بیرونی میدان کی طاقت پر منحصر ہوگا اگر  \عددی{
 B_{ext} \ll B_{int}
@@ -1009,29 +1009,29 @@ B_{ext} \gg B_{int}
 \جزوحصہ{کمزور میدان زیمان اثر}
 اگر \عددی{
 B_{ext} \ll B_{int}
-} ہو تب مہین ساخت مساوات 6.67 غالب ہوگی اور موزوں کوانٹم اعداد \عددی{n}، \عددی{l}، \عددی{j}، اور \عددی{m_j} ہونگے تاہم چکر و مدار ربط کی موجودگی میں \عددی{\kvec{L}} اور \عددی{\kvec{S}} علیحدہ علیحدہ بقائی نہیں ہونگے لہٰذا \عددی{m_l} اور \عددی{m_s} موزوں کوانٹم اعداد نہیں ہونگے رتبہ اول نظریہ اضطراب میں توانائی میں زیمان تصحیح درج ذیل ہوگی 
+} ہو تب مہین ساخت مساوات 6.67 غالب ہوگی اور موزوں کوانٹم اعداد \عددی{n}، \عددی{l}، \عددی{j}، اور \عددی{m_j} ہونگے تاہم چکر و مدار ربط کی موجودگی میں \عددی{\mat{L}} اور \عددی{\mat{S}} علیحدہ علیحدہ بقائی نہیں ہونگے لہٰذا \عددی{m_l} اور \عددی{m_s} موزوں کوانٹم اعداد نہیں ہونگے رتبہ اول نظریہ اضطراب میں توانائی میں زیمان تصحیح درج ذیل ہوگی 
 \begin{align}
-H_Z^1 = \langle nljm_j | H'_Z | nljm_j \rangle = \frac{e}{2m} \kvec{B}_ext \cdot \langle \kvec{L} + 2 \kvec{S} \rangle 
+H_Z^1 = \langle nljm_j | H'_Z | nljm_j \rangle = \frac{e}{2m} \kvec{B}_ext \cdot \langle \mat{L} + 2 \mat{S} \rangle 
 \end{align} 
 اب \عددی{
-\kvec{L} + 2 \kvec{S} = \kvec{J} + \kvec{S}
-} ہوگا بدقسمتی سے ہمیں \عددی{\kvec{S}} کی توقعاتی قیمت فوری طور پر معلوم نہیں ہے لیکن ہم درج ذیل طریقہ سے اسے جان سکتے ہیں کل زاویائی معیار حرکت \عددی{
-\kvec{J} = \kvec{L} + \kvec{S}
-} ایک مستقل ہے (شکل  \حوالہ{شکل_غیر_تابع_چکرومدار_غیر_بقائی})۔  اس مقررہ سمتیہ کے گرد \عددی{\kvec{L}} اور \عددی{\kvec{S}} تیزی سے استقبالی حرکت کرتے ہیں بالخصوص \عددی{\kvec{J}} پر \عددی{\kvec{S}} کی قائمہ تظلیل \عددی{\kvec{S}} کی وقتی اوسط قیمت ہوگا 
+\mat{L} + 2 \mat{S} = \mat{J} + \mat{S}
+} ہوگا بدقسمتی سے ہمیں \عددی{\mat{S}} کی توقعاتی قیمت فوری طور پر معلوم نہیں ہے لیکن ہم درج ذیل طریقہ سے اسے جان سکتے ہیں کل زاویائی معیار حرکت \عددی{
+\mat{J} = \mat{L} + \mat{S}
+} ایک مستقل ہے (شکل  \حوالہ{شکل_غیر_تابع_چکرومدار_غیر_بقائی})۔  اس مقررہ سمتیہ کے گرد \عددی{\mat{L}} اور \عددی{\mat{S}} تیزی سے استقبالی حرکت کرتے ہیں بالخصوص \عددی{\mat{J}} پر \عددی{\mat{S}} کی قائمہ تظلیل \عددی{\mat{S}} کی وقتی اوسط قیمت ہوگا 
 \begin{align}
-\kvec{S}_{\text{\RL{اوسط}}}= \frac{(\kvec{S} \cdot \kvec{J})}{j^2} \kvec{J} 
+\mat{S}_{\text{\RL{اوسط}}}= \frac{(\mat{S} \cdot \mat{J})}{j^2} \mat{J} 
 \end{align}
 لیکن  \عددی{
-\kvec{L} = \kvec{J} - \kvec{S}
+\mat{L} = \mat{J} - \mat{S}
 } ہے لہٰذا \عددی{
-L^2 = J^2 + S^2 - 2 \kvec{J} \cdot \kvec{S}
+L^2 = J^2 + S^2 - 2 \mat{J} \cdot \mat{S}
 } ہوگا لہٰذا 
 \begin{align}
-\kvec{S} \cdot \kvec{J} = \frac{1}{2} (J^2 + S^2 - L^2) = \frac{\hslash^2}{2} [j(j + 1) + s(s + 1) - l(l + 1)]
+\mat{S} \cdot \mat{J} = \frac{1}{2} (J^2 + S^2 - L^2) = \frac{\hslash^2}{2} [j(j + 1) + s(s + 1) - l(l + 1)]
 \end{align}
 جس سے درج ذیل حاصل ہوتا ہے 
 \begin{align}
-\langle \kvec{L} + 2 \kvec{S} \rangle = \langle \big ( 1 + \frac{\kvec{S} \cdot \kvec{J}}{J^2} \big ) \kvec{J} \rangle = \big [ 1 + \frac{j (j + 1) - l (l + 1) + 3/4}{2 j (j + 1)} \big ] \langle \kvec{J} \rangle
+\langle \mat{L} + 2 \mat{S} \rangle = \langle \big ( 1 + \frac{\mat{S} \cdot \mat{J}}{J^2} \big ) \mat{J} \rangle = \big [ 1 + \frac{j (j + 1) - l (l + 1) + 3/4}{2 j (j + 1)} \big ] \langle \mat{J} \rangle
 \end{align}
 چکور  کوسائن  میں بند رکن کو لنڈے \عددی{ g} جزو ضرب کہتے ہیں جس کو \عددی{g_j} سے ظاہر کیا جاتا ہے ہم محور \عددی{z} کو \عددی{
 \kvec{B}_{ext}
@@ -1054,11 +1054,11 @@ E_Z^1 = \mu_B g_J B_{ext} m_j
 \pgfmathsetmacro{\rb}{0.75}
 \begin{tikzpicture}[declare function={f(\x)=\ra*cos(\x); g(\x)=\rb*sin(\x);}]
 \draw[rotate around={-45:(0,0)}, domain=0:360] plot[smooth] ({f(\x)},{g(\x)});
-\draw[rotate around={-45:(0,0)}, -stealth](0,-3) node[fill=black,circle,inner sep=1.5pt]{} -- (0,0) node[pos=0.5, above left] {$\kvec{J}$} node[fill=black,circle,inner sep=1.5pt]{} -- (0,2);
-\draw[rotate around={-45:(0,0)}, -stealth] (0,-3) -- ({f(330)},{g(330)}) node[pos=0.5, below right]{$\kvec{L}$};
-\draw[rotate around={-45:(0,0)}, -stealth] ({f(330)},{g(330)}) -- (0,2) node[pos=0.75, above right]{$\kvec{S}$};
+\draw[rotate around={-45:(0,0)}, -stealth](0,-3) node[fill=black,circle,inner sep=1.5pt]{} -- (0,0) node[pos=0.5, above left] {$\mat{J}$} node[fill=black,circle,inner sep=1.5pt]{} -- (0,2);
+\draw[rotate around={-45:(0,0)}, -stealth] (0,-3) -- ({f(330)},{g(330)}) node[pos=0.5, below right]{$\mat{L}$};
+\draw[rotate around={-45:(0,0)}, -stealth] ({f(330)},{g(330)}) -- (0,2) node[pos=0.75, above right]{$\mat{S}$};
 \end{tikzpicture}
-\caption{چکر و مدار ارتباط کی عدم موجودگی میں \عددی{\kvec{L}} اور \عددی{\kvec{S}} علیحدہ علیحدہ  بقائی نہیں ہوں گے؛ یہ اٹل  کل  زاویائی معیار  حرکت \عددی{\kvec{J}}  کے گرد استقبالی حرکت کرتے ہیں۔} 
+\caption{چکر و مدار ارتباط کی عدم موجودگی میں \عددی{\mat{L}} اور \عددی{\mat{S}} علیحدہ علیحدہ  بقائی نہیں ہوں گے؛ یہ اٹل  کل  زاویائی معیار  حرکت \عددی{\mat{J}}  کے گرد استقبالی حرکت کرتے ہیں۔} 
 \label{شکل_غیر_تابع_چکرومدار_غیر_بقائی}
 \end{figure}
 
@@ -1101,7 +1101,7 @@ E_{fs}^1 = \langle nlm_l m_s | (H'_r + H'_so) | \rangle nlm_l m_s \rangle
 \end{align}
 اضافیتی قصہ وہی ہوگا جو پہلے تھا مساوات 6.57 چکر و مدار جزو مساوات 6.61 کے لیے ہمیں درج ذیل درکار ہوگا 
 \begin{align}
-\langle \kvec{S} \cdot \kvec{L} \rangle = \langle S_x \rangle \langle L_x \rangle + \langle S_y \rangle \langle L_y \rangle + \langle S_z \rangle \langle L_y \rangle = \hslash^2 m_l m_s
+\langle \mat{S} \cdot \mat{L} \rangle = \langle S_x \rangle \langle L_x \rangle + \langle S_y \rangle \langle L_y \rangle + \langle S_z \rangle \langle L_y \rangle = \hslash^2 m_l m_s
 \end{align}
 دھیان رہے کہ \عددی{S_z} اور \عددی{L_z} کہ امتیازی تفاعلات کے لیے \عددی{
 \langle S_x \rangle = \langle S_y \rangle = \langle L_x \rangle = \langle Ly \rangle=0
@@ -1153,7 +1153,7 @@ l &= 1
 \end{align*}
 
 اس اساس میں \عددی{H'_{fs}} کے تمام غیر صفر  قالبی ارکان جنہیں مساوات 6.66 دیتی ہے وتر پر پائے جاتے ہیں \عددی{H'_Z} کے چار غیر وتری ارکان پائے جاتے ہیں اور \عددی{
-- \kvec{W}
+- \mat{W}
 } کا مکمل قالب سوال 6.25 دیکھیں درج ذیل ہوگا  
 \begin{align*}
 5 \gamma - \beta & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
@@ -1213,7 +1213,7 @@ l &= 1
 \جزوحصہ{نہایت مہین بٹوارہ}
 پروٹان ازخود ایک مقناطیسی جفت کتب  ہے اگرچہ نسب نما میں کمیت کی بنا اس کا جفت کتب معیار اثر الیکٹران کے جفت کتب معیار اثر سے بہت کم ہوگا مساوات 6.60 
 \begin{align}
-\kvec{\mu}_p = \frac{g_p e}{2 m_p} \kvec{S}_p, \quad \kvec{\mu}_e = - \frac{e}{m_e} \kvec{S}_e
+\kvec{\mu}_p = \frac{g_p e}{2 m_p} \mat{S}_p, \quad \kvec{\mu}_e = - \frac{e}{m_e} \mat{S}_e
 \end{align}
 پروٹان ایک مخلوط ساخت کا ذرہ ہے جو تین کوارکوں پر مشتمل ہے لہذا اس کا مسکن مقناطیسی نسبت الیکٹران کی مسکن مقناطیسی نسبت کی طرح سادہ نہیں ہوگا جس کی بنا صريحى \عددی{g} جذب ضربی \عددی{g_p} لکھا گیا ہے جس کی پیمائشی قیمت 5.59 ہے جو الیکٹران کی قیمت دو سے مختلف ہے کلاسیکی برقی حرکیات کے تحت جفت کتب  \عددی{\mu} درج ذیل مقناطیسی میدان پیدا کرتا ہے 
 \begin{align}
@@ -1221,27 +1221,27 @@ l &= 1
 \end{align}
 یو پروٹان کے مقناطیسی جفت کتب معیار اثر سے پیدا مقناطیسی میدان میں الیکٹران کا ہیملٹنی درج ذیل ہوگا مساوات 6.58 
 \begin{align}
-H'_{hf} = \frac{\mu_0 g_p e^2}{8 \pi m_p m_e} \frac{[3(\kvec{S}_p \cdot \hat{r})(\kvec{S}_e \cdot \hat{r}) - \kvec{S}_p \cdot \kvec{S}_e]}{r^3} + \frac{\mu_0 g_p e^2}{3m_p m_e} \kvec{S}_p \cdot \kvec{S}_e \delta^3 ((\kvec{r}))
+H'_{hf} = \frac{\mu_0 g_p e^2}{8 \pi m_p m_e} \frac{[3(\mat{S}_p \cdot \hat{r})(\mat{S}_e \cdot \hat{r}) - \mat{S}_p \cdot \mat{S}_e]}{r^3} + \frac{\mu_0 g_p e^2}{3m_p m_e} \mat{S}_p \cdot \mat{S}_e \delta^3 ((\kvec{r}))
 \end{align}
 نظریہ اضطراب کے تحت توانائی کی اول رتبی تخفیف مساوات 6.9 اس طرح بھی ہيملٹنی کی توقعاتی قیمت ہوگی 
 \begin{align}
-E_{hf}^1 = \frac{\mu_0 g_p e^2}{8 \pi m_p m_e} \langle \frac{3(\kvec{S}_p \cdot \hat{r})(\kvec{S}_e \cdot \hat{r} - \kvec{S}_p \cdot \kvec{S}_e)}{r^3} \rangle + \frac{\mu _0 g_p e^2}{3 m_p m_e} \langle \kvec{S}_p \cdot \kvec{S}_e \rangle |\psi (0)|^2
+E_{hf}^1 = \frac{\mu_0 g_p e^2}{8 \pi m_p m_e} \langle \frac{3(\mat{S}_p \cdot \hat{r})(\mat{S}_e \cdot \hat{r} - \mat{S}_p \cdot \mat{S}_e)}{r^3} \rangle + \frac{\mu _0 g_p e^2}{3 m_p m_e} \langle \mat{S}_p \cdot \mat{S}_e \rangle |\psi (0)|^2
 \end{align}
 زمینی ہال میں یا کسی دوسری ایسے حال میں جس میں \عددی{l = 0} ہو تفاعل موج کروی تشاکلی ہوگا لہذا اول توقعاتی قیمت صفر ہوگی سوال 6.27 دیکھیں ساتھ ہی مساوات 4.80 کے تحت \عددی{
 |\psi_{100} (0)|^2 = 1/(\pi a^3)
 } ہوگا لہذا زمینی ہال میں درج ذیل ہوگا 
 \begin{align}
-E_{hf}^1 = \frac{\mu_0 g_p e^2}{3 \pi m_p m_e a^3} \langle \kvec{S}_p \cdot \kvec{S}_e \rangle
+E_{hf}^1 = \frac{\mu_0 g_p e^2}{3 \pi m_p m_e a^3} \langle \mat{S}_p \cdot \mat{S}_e \rangle
 \end{align}
 چونکہ اس میں دو چکروں کے بیچ ضرب نقطہ پایا جاتا ہے لہذا اس کو چکر چکر ربط کہتے ہیں جیسا چکر مدار ربط میں \عددی{
-\kvec{S} \cdot \kvec{L}
+\mat{S} \cdot \mat{L}
 } پایا جاتا ہے چکر چکر ربط کی موجودگی میں انفرادی چکر زاویائی معیار اثر بقائی نہیں رہتے ہیں موزوں حالات کل چکر کے امتیازی سمتیات ہونگے 
 \begin{align}
-\kvec{S} \equiv \kvec{S}_e + \kvec{S}_p
+\mat{S} \equiv \mat{S}_e + \mat{S}_p
 \end{align}
 پہلے کی طرح ہم اس کا مربع لے کر درج ذیل حاصل کرتے ہیں 
 \begin{align}
-\kvec{S}_p \cdot \kvec{S}_e = \frac{1}{2} (S^2 - S_e^2 - S_p^2)
+\mat{S}_p \cdot \mat{S}_e = \frac{1}{2} (S^2 - S_e^2 - S_p^2)
 \end{align}
 اب الیکٹران اور پروٹون دونوں کا چکر ایک بٹا دو ہے لہذا \عددی{
 S_e^2 = S_p^2 = (3/4) \hslash^2
@@ -1295,7 +1295,7 @@ c/ \nu = \SI{21}{\centi \meter}
 0 < \phi < 2 \phi 
 } کر لیا گیا ہے اس نتیجہ کو استعمال کرتے ہوئے ان حالات کے لئے جن کے لیے \عددی{l = 0} ہو درج ذیل دکھائیں 
 \begin{align*}
-\langle \frac{3 (\kvec{S}_p \cdot \hat{r})(\kvec{S}_e \cdot \hat{r}) - \kvec{S}_p \cdot \kvec{S}_e}{r^3} \rangle = 0
+\langle \frac{3 (\mat{S}_p \cdot \hat{r})(\mat{S}_e \cdot \hat{r}) - \mat{S}_p \cdot \mat{S}_e}{r^3} \rangle = 0
 \end{align*}
 اشارہ: \عددی{
 \hat{r} = \sin\theta \cos \phi \hat{i} + \sin \theta \sin \phi \hat{j} + \cos\theta \hat{k}
