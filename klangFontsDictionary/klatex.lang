@@ -298,7 +298,7 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>رقبہ</keyword>
 <keyword>رنگ</keyword>
 <keyword>روپ</keyword>
-<keyword>زویہ</keyword>
+<keyword>زاویہ</keyword>
 <keyword>سال</keyword>
 <keyword>سال</keyword>
 <keyword>سلسلہ</keyword>
@@ -371,6 +371,13 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>ارکان</keyword>
 <keyword>اصول</keyword>
 <keyword>اصولاً</keyword>
+<keyword>طواف</keyword>
+<keyword>معیار</keyword>
+<keyword>نصاب</keyword>
+<keyword>رشتہ</keyword>
+<keyword>ذرہ</keyword>
+<keyword>ذرے</keyword>
+<keyword>ذرات</keyword>
         </context>
 
     <context id="kFem" style-ref="kFeminine">
@@ -465,6 +472,12 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>اصلاح</keyword>
 <keyword>تخفیف</keyword>
 <keyword>گاڑی</keyword>
+<keyword>کتاب</keyword>
+<keyword>جماعت</keyword>
+<keyword>صف</keyword>
+<keyword>قطار</keyword>
+<keyword>شرط</keyword>
+<keyword>کمیت</keyword>
         </context>
 
     <context id="kTechMasculine" style-ref="kTechnicalMasculine">
@@ -477,7 +490,9 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 	<keyword>دوروں</keyword>
 	<keyword>سرکاو</keyword>
 	<keyword>احتمال</keyword>
-	<keyword>ارتعاش</keyword>
+	<keyword>لاپلاس</keyword>
+	<keyword>لاپلاسی</keyword>
+	<keyword>مخفیہ</keyword>
         </context>
 
     <context id="kTechFeminine" style-ref="kTechnicalFeminine">
