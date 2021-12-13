@@ -378,6 +378,11 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>ذرہ</keyword>
 <keyword>ذرے</keyword>
 <keyword>ذرات</keyword>
+<keyword>نتیجہ</keyword>
+<keyword>نتائج</keyword>
+<keyword>عمل</keyword>
+<keyword>اسراع</keyword>
+<keyword>تسمیہ</keyword>
         </context>
 
     <context id="kFem" style-ref="kFeminine">
@@ -478,6 +483,9 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 <keyword>قطار</keyword>
 <keyword>شرط</keyword>
 <keyword>کمیت</keyword>
+<keyword>پیمائش</keyword>
+<keyword>پیمائشیں</keyword>
+<keyword>معلومات</keyword>
         </context>
 
     <context id="kTechMasculine" style-ref="kTechnicalMasculine">
@@ -505,6 +513,10 @@ This file is placed in    khalid\.local\share\gtksourceview-3.0\language-specs\k
 	<keyword>رکاوٹوں</keyword>
 	<keyword>ہیملٹنی</keyword>
 	<keyword>فضا</keyword>
+	<keyword>شماریات</keyword>
+	<keyword>میکانیات</keyword>
+	<keyword>طبیعیات</keyword>
+	<keyword>تعیّنیت</keyword>
         </context>
 
 
