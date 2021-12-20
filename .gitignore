@@ -9,7 +9,5 @@
 *.out
 *~
 *.pdf
-*.dat
 *.script
-*.table
 *.gnuplot
