@@ -26,10 +26,10 @@
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {1}}ہرمشی عاملین}{\arabicdigits {101}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {2}.\arabicdigits {2}}تعیین حال}{\arabicdigits {103}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {3}}ہرمشی عامل کے امتیازی تفاعل}{\arabicdigits {105}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {105}}%
-\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {107}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {1}}غیر مسلسل طیف}{\arabicdigits {106}}%
+\contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {3}.\arabicdigits {2}}استمراری طیف}{\arabicdigits {108}}%
 \contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {4}}متعمم شماریاتی مفہوم}{\arabicdigits {111}}%
-\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}اصول عدم یقینیت }{\arabicdigits {114}}%
+\contentsline {section}{\numberline {\arabicdigits {3}.\arabicdigits {5}}اصول عدم یقینیت }{\arabicdigits {115}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {1}}اصول عدم یقینیت کا ثبوت}{\arabicdigits {115}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {2}}کم سے کم عدم یقینیت کا موجی اکٹھ}{\arabicdigits {118}}%
 \contentsline {subsection}{\numberline {\arabicdigits {3}.\arabicdigits {5}.\arabicdigits {3}}توانائی و وقت اصول عدم یقینیت}{\arabicdigits {119}}%
