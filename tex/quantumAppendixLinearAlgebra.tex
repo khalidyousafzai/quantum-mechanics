@@ -5,6 +5,40 @@
 \begin{align}\label{ضمیمہ_اندرونی_ضرب_شوارز_عدم_مساوات}
 \abs{\langle\alpha|\beta|\rangle}^2\le \langle \alpha |\alpha \rangle \langle\beta|\beta\rangle
 \end{align}
+(اس  اہم نتیجہ کو \اصطلاح{شوارز عدم مساوات}\فرہنگ{شوارز!عدم مساوات}\حاشیہب{Schwarz inequality}\فرہنگ{Schwarz inequality} کہتے ہیں؛ اس کا ثبوت سوال \حوالہ{ضمیمہ_اندرونی_ضرب_شوارز_عدم_مساوات_ثبوت} میں پیش کیا گیا ہے۔) یوں اگر آپ چاہیں تو \عددی{\alpha} اور \عددی{\beta} کے بیچ زاویہ  کی تعریف درج ذیل کلیہ کے تحت کر سکتے ہیں۔
+\begin{align}
+\cos\theta=\sqrt{\frac{\langle\alpha|\beta\rangle\langle\beta|\alpha\rangle}{\langle\alpha|\alpha\rangle\langle\beta|\beta\rangle}}
+\end{align} 
+%-------------------------------------
+\ابتدا{سوال}\شناخت{سوال_ضمیمہ_گرام_شمد_ترکیب}
+فرض کریں آپ غیر معیاری عمودی اساس  \عددی{(|e_1\rangle,|e_2\rangle,\cdots,|e_n\rangle)} سے آغاز  کرتے  ہیں۔ اس اساس سے معیاری
+ عمودی اساس    \عددی{(|e_1'\rangle,|e_2'\rangle,\cdots,|e_n'\rangle)} کو  \اصطلاح{گرام و شمد حکمت عملی}\فرہنگ{گرام و شمد حکمت عملی}\حاشیہب{Gram-Schmidt procedure}\فرہنگ{Gram-Schmidt procedure} سے حاصل کیا جا سکتا ہے۔ یہ طریقہ کار کچھ یوں ہے:
+ \begin{enumerate}[a.]
+ \item
+ اساس  کے پہلے  سمتیہ کو  معمول پر لائیں (اس کو اپنے معیار سے تقسیم کریں)۔
+ \begin{align*}
+ |e_1'\rangle=\frac{|e_1\rangle}{\norm{e_1}}
+ \end{align*}
+ \item
+ دوسرے سمتیہ کا پہلے    معمول شدہ سمتیہ پر تظلیل  لے کر اس کو دوسرے سمتیہ سے منفی کریں۔
+ \begin{align*}
+ |e_2\rangle-\langle e_1'|e_2\rangle|e_1'\rangle
+ \end{align*}
+ یہ سمتیہ \عددی{|e_1'\rangle} کو  قائمہ  ہو گا؛ اس کو معمول پر لا کر \عددی{|e_2'\rangle} حاصل کریں۔
+ \item
+ سمتیہ \عددی{|e_3\rangle} سے اس کا   \عددی{|e_1'\rangle} اور \عددی{|e_2'\rangle} پر تظلیل منفی کریں۔
+ \begin{align*}
+ |e_3\rangle-\langle e_1'|e_3\rangle|e_1'\rangle-\langle e_2'|e_3\rangle|e_2'\rangle
+ \end{align*}
+ یہ \عددی{|e_1'\rangle} اور \عددی{|e_2'\rangle} کو قائمہ  ہو گا؛ اس کو معمول پر لا کر \عددی{|e_3'\rangle} حاصل کریں۔ اسی طرح باقی بھی حاصل کریں۔
+  \end{enumerate}
+ گرام و  شمد حکمت عملی استعمال کر کے \عددی{3} فضا اساس:
+ \begin{align*}
+ |e_1\rangle=(1+i)\ai+(1)\aj+(i)\ak, \, |e_2\rangle=(i)\ai+(3)\aj+(1)\ak, \, |e_3\rangle=(0)\ai+(28)\aj+(0)\ak
+ \end{align*}
+ کو  معیاری عمودی بنائیں۔
+\انتہا{سوال}
+%============================
 \ابتدا{سوال}\شناخت{ضمیمہ_اندرونی_ضرب_شوارز_عدم_مساوات_ثبوت}
 شوارز عدم مساوات (مساوات \حوالہ{ضمیمہ_اندرونی_ضرب_شوارز_عدم_مساوات}) ثابت کریں۔ \ترچھا{اشارہ:} آپ   \عددی{\langle\gamma|\gamma\rangle\ge 0} استعمال کرتے ہوئے \عددی{|\gamma\rangle=|\beta\rangle-(\langle\alpha|\beta\rangle/\langle\alpha|\alpha\rangle)|\alpha\rangle} سے شروع کریں۔
 \انتہا{سوال}
