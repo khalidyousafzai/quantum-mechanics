@@ -62,7 +62,7 @@
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {3}}ٹھوس اجسام}{\arabicdigits {223}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {1}}آزاد الیکٹران گیس}{\arabicdigits {223}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {3}.\arabicdigits {2}}پٹی دار ساخت}{\arabicdigits {229}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {4}}کوانٹم شماریاتی میکانیات}{\arabicdigits {235}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {4}}کوانٹم شماریاتی میکانیات}{\arabicdigits {236}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {1}}ایک مثال}{\arabicdigits {236}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {2}}عمومی صورت}{\arabicdigits {239}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {3}}زیادہ سے زیادہ محتمل تشکیل}{\arabicdigits {241}}%
