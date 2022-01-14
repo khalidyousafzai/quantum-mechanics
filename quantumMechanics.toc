@@ -42,7 +42,7 @@
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {2}}ہائیڈروجن جوہر}{\arabicdigits {150}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {1}}رداسی تفاعل موج}{\arabicdigits {151}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {2}.\arabicdigits {2}}ہائیڈروجن کا طیف}{\arabicdigits {161}}%
-\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {163}}%
+\contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {3}}زاویائی معیار حرکت}{\arabicdigits {164}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {1}}امتیازی اقدار}{\arabicdigits {164}}%
 \contentsline {subsection}{\numberline {\arabicdigits {4}.\arabicdigits {3}.\arabicdigits {2}}امتیازی تفاعلات}{\arabicdigits {170}}%
 \contentsline {section}{\numberline {\arabicdigits {4}.\arabicdigits {4}}چکر}{\arabicdigits {173}}%
@@ -54,7 +54,7 @@
 \selectlanguage *{urdu}
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {205}}%
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}}دو ذراتی نظام}{\arabicdigits {205}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوزان اور فرمیان}{\arabicdigits {207}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوسن اور فرمیان}{\arabicdigits {207}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {2}}قوت مبادلہ}{\arabicdigits {210}}%
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {2}}جوہر}{\arabicdigits {215}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {2}.\arabicdigits {1}}ہیلیم}{\arabicdigits {216}}%
@@ -65,81 +65,81 @@
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {4}}کوانٹائی شماریاتی میکانیات}{\arabicdigits {236}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {1}}ایک مثال}{\arabicdigits {236}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {2}}عمومی صورت}{\arabicdigits {239}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {3}}زیادہ سے زیادہ محتمل تشکیل}{\arabicdigits {242}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {4}}\tmspace +\medmuskip {.2222em} \ensuremath {\alpha } \tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em} \ensuremath {\beta } \tmspace +\medmuskip {.2222em} کے طبیعی اہمیت}{\arabicdigits {244}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {3}}سب سے زیادہ محتمل تشکیل}{\arabicdigits {242}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {4}}\tmspace +\medmuskip {.2222em} \ensuremath {\alpha } \tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em} \ensuremath {\beta } \tmspace +\medmuskip {.2222em} کے طبیعی اہمیت}{\arabicdigits {245}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {5}}سیاہ جسمی طیف}{\arabicdigits {249}}%
-\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {253}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {253}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {253}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {255}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {259}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {260}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {260}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {264}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {269}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {270}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {273}}%
-\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {278}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {278}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {281}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {3}}درمیانی طاقت میدان زیمان اثر}{\arabicdigits {282}}%
-\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {4}}نہایت مہین بٹوارہ}{\arabicdigits {284}}%
-\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {295}}%
-\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {1}}نظریہ}{\arabicdigits {295}}%
-\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {2}}ہیلیم کا زمینی حال}{\arabicdigits {300}}%
-\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {3}}ہائیڈروجن سالمہ بار داریہ}{\arabicdigits {305}}%
-\contentsline {chapter}{\numberline {\arabicdigits {8}}ونزل و کرامرز و برلوان تخمین}{\arabicdigits {315}}%
-\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {1}}کلاسیکی خطہ}{\arabicdigits {316}}%
-\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {2}}سرنگزنی}{\arabicdigits {321}}%
-\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {3}}کلیات پیوند}{\arabicdigits {324}}%
-\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {337}}%
-\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {1}}دو سطحی نظام}{\arabicdigits {338}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {1}}مضطرب نظام}{\arabicdigits {338}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {2}}تابع وقت نظریہ اضطراب}{\arabicdigits {341}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {3}}سائن نما اضطراب}{\arabicdigits {343}}%
-\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {2}}اشعاعی اخراج اور انجذاب}{\arabicdigits {346}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {1}}برقناطیسی امواج}{\arabicdigits {346}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {2}}انجزاب، تحرق شدہ اخراج اور خود با خود اخراج}{\arabicdigits {347}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {3}}غیر اتساقی اضطراب}{\arabicdigits {348}}%
-\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {3}}خود با خود اخراج}{\arabicdigits {350}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {1}}آئنسٹائن \tmspace +\medmuskip {.2222em} \ensuremath {A} \tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em} \ensuremath {B} \tmspace +\medmuskip {.2222em} عددی سر}{\arabicdigits {350}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {2}}ہیجان حال کا عرصہ حیات}{\arabicdigits {352}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {3}}قواعد انتخاب}{\arabicdigits {355}}%
-\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {365}}%
-\contentsline {section}{\numberline {\arabicdigits {10}.\arabicdigits {1}}مسئلہ حرارت ناگزر}{\arabicdigits {365}}%
-\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {1}.\arabicdigits {1}}حرارت ناگزر عمل}{\arabicdigits {365}}%
-\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {1}.\arabicdigits {2}}مسئلہ حرارت نہ گزر کا ثبوت}{\arabicdigits {368}}%
-\contentsline {section}{\numberline {\arabicdigits {10}.\arabicdigits {2}}ہیّت بيری}{\arabicdigits {373}}%
-\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {1}}گرگٹی عمل}{\arabicdigits {373}}%
-\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {2}}ہندسی ہیّت}{\arabicdigits {375}}%
-\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {3}}اہارونو و بوہم اثر}{\arabicdigits {380}}%
-\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {389}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {1}}تعارف}{\arabicdigits {389}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {1}}کلاسیکی نظریہ بکھراو}{\arabicdigits {389}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {2}}کوانٹم نظریہ بکھراو}{\arabicdigits {393}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {2}}جزوی موج تجزیہ}{\arabicdigits {394}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {2}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {394}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {2}.\arabicdigits {2}}لایاعمل}{\arabicdigits {397}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {3}}ینتقلات حیط}{\arabicdigits {400}}%
-\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {4}}بارن تخمین}{\arabicdigits {403}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {403}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {407}}%
-\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {412}}%
-\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {415}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}آئنسٹائن پوڈلسکیو روزن تضاد}{\arabicdigits {416}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}مسئلہ بل}{\arabicdigits {417}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {422}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}شروڈنگر کی بلی}{\arabicdigits {423}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹم زینو تضاد}{\arabicdigits {424}}%
-\contentsline {chapter}{جوابات}{\arabicdigits {427}}%
-\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {429}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {429}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {429}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {430}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {430}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {430}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {430}}%
-\contentsline {chapter}{فرہنگ}{\arabicdigits {431}}%
+\contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {255}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {255}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {1}} عمومی ضابطہ بندی}{\arabicdigits {255}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {2}}اول رتبی نظریہ}{\arabicdigits {257}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {1}.\arabicdigits {3}}دوم رتبی توانائیاں}{\arabicdigits {261}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {2}}انحطاطی نظریہ اضطراب}{\arabicdigits {262}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {1}}دو پڑتا انحطاط}{\arabicdigits {262}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {2}.\arabicdigits {2}} بلند رتبی انحطاط}{\arabicdigits {266}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {3}}ہائیڈروجن کا مہین ساخت}{\arabicdigits {271}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {1}}اضافیتی تصحیح}{\arabicdigits {272}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {3}.\arabicdigits {2}}چکر و مدار ربط}{\arabicdigits {275}}%
+\contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {4}}زیمان اثر}{\arabicdigits {280}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {1}}کمزور میدان زیمان اثر}{\arabicdigits {280}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {2}}طاقتور میدان زیمان اثر}{\arabicdigits {283}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {3}}درمیانی طاقت میدان زیمان اثر}{\arabicdigits {284}}%
+\contentsline {subsection}{\numberline {\arabicdigits {6}.\arabicdigits {4}.\arabicdigits {4}}نہایت مہین بٹوارہ}{\arabicdigits {286}}%
+\contentsline {chapter}{\numberline {\arabicdigits {7}}تغیری اصول}{\arabicdigits {297}}%
+\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {1}}نظریہ}{\arabicdigits {297}}%
+\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {2}}ہیلیم کا زمینی حال}{\arabicdigits {302}}%
+\contentsline {section}{\numberline {\arabicdigits {7}.\arabicdigits {3}}ہائیڈروجن سالمہ بار داریہ}{\arabicdigits {307}}%
+\contentsline {chapter}{\numberline {\arabicdigits {8}}ونزل و کرامرز و برلوان تخمین}{\arabicdigits {317}}%
+\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {1}}کلاسیکی خطہ}{\arabicdigits {318}}%
+\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {2}}سرنگزنی}{\arabicdigits {323}}%
+\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {3}}کلیات پیوند}{\arabicdigits {326}}%
+\contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {339}}%
+\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {1}}دو سطحی نظام}{\arabicdigits {340}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {1}}مضطرب نظام}{\arabicdigits {340}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {2}}تابع وقت نظریہ اضطراب}{\arabicdigits {343}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {3}}سائن نما اضطراب}{\arabicdigits {345}}%
+\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {2}}اشعاعی اخراج اور انجذاب}{\arabicdigits {348}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {1}}برقناطیسی امواج}{\arabicdigits {348}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {2}}انجزاب، تحرق شدہ اخراج اور خود با خود اخراج}{\arabicdigits {349}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {3}}غیر اتساقی اضطراب}{\arabicdigits {350}}%
+\contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {3}}خود با خود اخراج}{\arabicdigits {352}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {1}}آئنسٹائن \tmspace +\medmuskip {.2222em} \ensuremath {A} \tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em} \ensuremath {B} \tmspace +\medmuskip {.2222em} عددی سر}{\arabicdigits {352}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {2}}ہیجان حال کا عرصہ حیات}{\arabicdigits {354}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {3}}قواعد انتخاب}{\arabicdigits {357}}%
+\contentsline {chapter}{\numberline {\arabicdigits {10}}حرارت نا گزر تخمین}{\arabicdigits {367}}%
+\contentsline {section}{\numberline {\arabicdigits {10}.\arabicdigits {1}}مسئلہ حرارت ناگزر}{\arabicdigits {367}}%
+\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {1}.\arabicdigits {1}}حرارت ناگزر عمل}{\arabicdigits {367}}%
+\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {1}.\arabicdigits {2}}مسئلہ حرارت نہ گزر کا ثبوت}{\arabicdigits {370}}%
+\contentsline {section}{\numberline {\arabicdigits {10}.\arabicdigits {2}}ہیّت بيری}{\arabicdigits {375}}%
+\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {1}}گرگٹی عمل}{\arabicdigits {375}}%
+\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {2}}ہندسی ہیّت}{\arabicdigits {377}}%
+\contentsline {subsection}{\numberline {\arabicdigits {10}.\arabicdigits {2}.\arabicdigits {3}}اہارونو و بوہم اثر}{\arabicdigits {382}}%
+\contentsline {chapter}{\numberline {\arabicdigits {11}}بکھراو}{\arabicdigits {391}}%
+\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {1}}تعارف}{\arabicdigits {391}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {1}}کلاسیکی نظریہ بکھراو}{\arabicdigits {391}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {1}.\arabicdigits {2}}کوانٹم نظریہ بکھراو}{\arabicdigits {395}}%
+\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {2}}جزوی موج تجزیہ}{\arabicdigits {396}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {2}.\arabicdigits {1}}اصول و ضوابط}{\arabicdigits {396}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {2}.\arabicdigits {2}}لایاعمل}{\arabicdigits {399}}%
+\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {3}}ینتقلات حیط}{\arabicdigits {402}}%
+\contentsline {section}{\numberline {\arabicdigits {11}.\arabicdigits {4}}بارن تخمین}{\arabicdigits {405}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {1}}مساوات شروڈنگر کی تکملی روپ}{\arabicdigits {405}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {2}}بارن تخمین اوّل}{\arabicdigits {409}}%
+\contentsline {subsection}{\numberline {\arabicdigits {11}.\arabicdigits {4}.\arabicdigits {3}}تسلسل بارن}{\arabicdigits {414}}%
+\contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {417}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}آئنسٹائن پوڈلسکیو روزن تضاد}{\arabicdigits {418}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}مسئلہ بل}{\arabicdigits {419}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {424}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}شروڈنگر کی بلی}{\arabicdigits {425}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹم زینو تضاد}{\arabicdigits {426}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {429}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {431}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {431}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {431}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {3}}قالب}{\arabicdigits {432}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {432}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی تفاعلات اور امتیازی اقدار}{\arabicdigits {432}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلے}{\arabicdigits {432}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {433}}%
 \bgroup 
 \selectlanguage *{english}
 \egroup 
