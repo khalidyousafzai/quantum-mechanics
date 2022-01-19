@@ -1,7 +1,7 @@
 \selectlanguage *{urdu}
 \contentsline {chapter}{میری پہلی کتاب کا دیباچہ}{ix}%
 \contentsline {chapter}{\numberline {\arabicdigits {1}}تفاعل موج}{\arabicdigits {1}}%
-\contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {1}}شروڈنگر مساوات}{\arabicdigits {1}}%
+\contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {1}}مساوات شروڈنگر}{\arabicdigits {1}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {2}}شماریاتی مفہوم}{\arabicdigits {2}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {3}}احتمال}{\arabicdigits {5}}%
 \contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {3}.\arabicdigits {1}} غیر مسلسل متغیرات}{\arabicdigits {5}}%
@@ -9,7 +9,7 @@
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {4}}معمول زنی}{\arabicdigits {12}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {5}}معیار حرکت}{\arabicdigits {15}}%
 \contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {6}}اصول عدم یقینیت}{\arabicdigits {18}}%
-\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت شروڈنگر مساوات}{\arabicdigits {25}}%
+\contentsline {chapter}{\numberline {\arabicdigits {2}}غیر تابع وقت مساوات شروڈنگر}{\arabicdigits {25}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {1}}ساکن حالات}{\arabicdigits {25}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {2}}لامتناہی چوکور کنواں}{\arabicdigits {31}}%
 \contentsline {section}{\numberline {\arabicdigits {2}.\arabicdigits {3}}ہارمونی مرتعش}{\arabicdigits {42}}%
@@ -53,7 +53,7 @@
 \egroup 
 \selectlanguage *{urdu}
 \contentsline {chapter}{\numberline {\arabicdigits {5}}متماثل ذرات}{\arabicdigits {205}}%
-\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}}دو ذراتی نظام}{\arabicdigits {205}}%
+\contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {1}}دو ذروی نظام}{\arabicdigits {205}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {1}}بوسن اور فرمیان}{\arabicdigits {207}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {1}.\arabicdigits {2}}قوت مبادلہ}{\arabicdigits {210}}%
 \contentsline {section}{\numberline {\arabicdigits {5}.\arabicdigits {2}}جوہر}{\arabicdigits {215}}%
