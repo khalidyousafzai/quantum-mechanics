@@ -91,7 +91,7 @@
 \contentsline {chapter}{\numberline {\arabicdigits {8}} ونٹزل و کرامرس و برلوان تخمین}{\arabicdigits {321}}%
 \contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {1}}کلاسیکی خطہ}{\arabicdigits {322}}%
 \contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {2}}سرنگ زنی}{\arabicdigits {327}}%
-\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {3}}کلیات پیوند}{\arabicdigits {330}}%
+\contentsline {section}{\numberline {\arabicdigits {8}.\arabicdigits {3}}کلیات پیوند}{\arabicdigits {331}}%
 \contentsline {chapter}{\numberline {\arabicdigits {9}}تابع وقت نظریہ اضطراب}{\arabicdigits {345}}%
 \contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {1}}دو سطحی نظام}{\arabicdigits {346}}%
 \contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {1}.\arabicdigits {1}}مضطرب نظام}{\arabicdigits {346}}%
