@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  11 FEB 2022 13:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  13 FEB 2022 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2022211812.tex)...disabled (restricted).
+runsystem(touch w18-test-2022213788.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2022211812.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2022213788.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1767,9 +1767,9 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
 (./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux
-LaTeX Info: Redefining \rmfamily on input line 352.
-LaTeX Info: Redefining \sffamily on input line 352.
-LaTeX Info: Redefining \ttfamily on input line 352.
+LaTeX Info: Redefining \rmfamily on input line 353.
+LaTeX Info: Redefining \sffamily on input line 353.
+LaTeX Info: Redefining \ttfamily on input line 353.
 )
 (./tex/quantumIdenticalParticles.aux)
 (./tex/quantumTimeIndependentPertubationTheory.aux)
@@ -2909,9 +2909,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 414--415
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹائی برقی حرکیات اس کتاب کی دسترس س
-ے باہر ہے، تاہم آئنشٹائن کی ایک خوبصورت دلیل ان تینوں[]
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 آئنشٹائن کا مقالہ مساوات شروڈنگر کی آمد
+ سے قبل  1917 ؁  میں شائع ہوا ۔ اس دلیل میں پلانک سیاہ جسمی کلیہ (مساوات[]
  []
 
 
@@ -3270,7 +3270,7 @@ lNooriNastaleeq(1)/m/sl/10 کا کلاسیکی مرتعش اوسطاً اتنی 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--643
+Underfull \hbox (badness 7722) in paragraph at lines 640--643
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹائی کلیات آپس میں متفق ہیں؛[][] البت
 ہ زمینی حال کو کوانٹائی کلیہ (مساوات٩.٦٥[]) تحفظ دیتا ہے: اگر []
  []
@@ -3295,140 +3295,113 @@ L/zplm/m/it/10 t[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور (حال کے) �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--663
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ نے سوال [] حل کیا ہو اگر نہیں کیا 
-اسی وقت پہلے اس کو حل کریں تو آپ نے دیکھا ہوگا کہ یہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 646--650
+[]\TU/JameelNooriNastaleeq(1)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(1)/m/sl/10 
+آپ کو  $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10  []\OMS/zplm/m/n/10 j\OML/zplm/m/it
+/10 x\OMS/zplm/m/n/10 j\OML/zplm/m/it/10  []\OMS/zplm/m/n/10 i$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 ،  $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10  []\OMS/zplm/m/n/1
+0 j\OML/zplm/m/it/10 y\OMS/zplm/m/n/10 j\OML/zplm/m/it/10  []\OMS/zplm/m/n/10 i
+$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ، وغیرہ طرز کے قالبی ارکان کی قیمتیں تلاش
+ کرنی ہوں گی۔[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 661--663
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مقداریں عموماً صفر ہوتی ہیں۔ کیا بہتر ہوت
-ا اگر ہم پہلے سے جان سکتے کہ کون سے تکملات صفر دیں گے تاکہ ہم اپنا[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ نے سوال ٩.١١[] حل کیا ہو ( اگر حل 
+نہیں کیا، اسی وقت پہلے اس کو حل کریں!) تو آپ نے دیکھا ہوگا کہ[]
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 661--663
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ مقداریں عموماً  \TU/JameelNooriNastale
+eq(1)/m/n/9 صفر \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوتی ہیں، اور کیا بہتر ہوگا
+ اگر ہم پہلے سے جان سکیں کہ کون سے تکملات صفر دیں گے، تاکہ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 661--663
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قیمتی وقت غیر ضروری تکملات حل کرنے میں صر
-ف نہ کرتے۔ فرض کریں ہم ہائیڈروجن کی طرح کے نظام[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم اپنا وقت غیر ضروری تکملات حل کرنے میں 
+ضائع نہ کریں۔ فرض کریں ہم ہائیڈروجن کی طرح کے نظام[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 665--667
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زاویائی معیاری حرکت تبادلی رشتوں اور زاوی
-ائی معیاری حرکت عاملین کی ہرمشی پن مل کر اس مقدار پر[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 668--669
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم پہلے  $\OML/zplm/m/it/10 x\OT1/ppl/m/n
-/10 , \OML/zplm/m/it/10 y$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OML/zplm
-/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ  $\OML/zplm/m/it/10 L[
-]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے مقلب پر غور کرتے ہیں جنہیں باب 4 میں
- حاصل کیا گیا مساوات[]
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم پہلے  $\OML/zplm/m/it/10 x$ \TU/Jameel
+NooriNastaleeq(1)/m/sl/10 ،  $\OML/zplm/m/it/10 y$ \TU/JameelNooriNastaleeq(1)/
+m/sl/10 ، اور  $\OML/zplm/m/it/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے سا
+تھ  $\OML/zplm/m/it/10 L[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے مقالب پر غو
+ر کرتے ہیں جنہیں باب ٤[] میں حاصل کیا گیا[]
  []
 
 [365]
-Underfull \hbox (badness 10000) in paragraph at lines 691--693
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں آپ  $\OML/zplm/m/it/10 y$  \TU/Jameel
-NooriNastaleeq(1)/m/sl/10 کے قالبی ارکان کو مطابقتی  $\OML/zplm/m/it/10 x$  \TU
-/JameelNooriNastaleeq(1)/m/sl/10 کے قالبی ارکان سے حاصل کر سکتے ہیں اور آپ کو ک
-بھی بھی  $\OML/zplm/m/it/10 y$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے قالبی[]
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں، آپ  $\OML/zplm/m/it/10 y$  \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 کے قالبی ارکان کو  $\OML/zplm/m/it/10 x$  \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 کے مطابقتی قالبی ارکان سے حاصل کر سکتے ہیں، اور آپ 
+کو کبھی بھی  $\OML/zplm/m/it/10 y$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کے قالب
+ی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--716
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس نتیجہ (کو اخذ کرنا آسان نہیں تھا، تاہم
- اس) کو سمجھنا آسان ہے آپ کو یاد ہوگا نوریہ چکر ایک کا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--716
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حامل ہے لہٰذا اس کے  $\OML/zplm/m/it/10 m
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت  $\OT1/ppl/m/n/10 1, 0$  \TU/Jam
-eelNooriNastaleeq(1)/m/sl/10 یا  $\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 1$  \TU/J
-ameelNooriNastaleeq(1)/m/sl/10 ہو سکتی ہے زاویائی معیار حرکت کے  $\OML/zplm/m/i
-t/10 z$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جزو کی بقا کے[]
- []
-
+LaTeX Info: Redefining \rmfamily on input line 713.
+LaTeX Info: Redefining \sffamily on input line 713.
+LaTeX Info: Redefining \ttfamily on input line 713.
 [366]
-Overfull \hbox (100.46594pt too wide) detected at line 729
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 جب قطبی محور حرکت کے رخ کے ساتھ ساتھ ہو
+، درمیانی قیمت نہیں پائی جاتی، اور اگر آپ غیر تابع نوری حالات کی تعداد میں[]
  []
 
-
-LaTeX Warning: Command \l invalid in math mode on input line 752.
-
-Missing character: There is no ł in font zplmr7m!
 [367]
-Underfull \hbox (badness 5403) in paragraph at lines 758--804
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن حقیقت میں ایسا نہیں ہوتا ہے۔ یوں خ
-ود با خود اخراج کے ذریعہ تمام زیریں توانائی حالات تک تحویل ممکن[]
+Underfull \hbox (badness 10000) in paragraph at lines 754--757
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل ہوتا ہے۔ اگرچہ اس نتیجہ کو اخذ کرنا 
+آسان کام نہیں ہے، لیکن اس کی تشریح آسان ہے۔ نوریہ[]
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 754--757
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی اجازت دیں گے ( برقی جفت قطبی اشعاع کے 
+لیے درمیانی صورت نہیں پائی جاتی، اگرچہ زاویائی معیار حرکت[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 758.
+LaTeX Info: Redefining \sffamily on input line 758.
+LaTeX Info: Redefining \ttfamily on input line 758.
+LaTeX Info: Redefining \rmfamily on input line 758.
+LaTeX Info: Redefining \sffamily on input line 758.
+LaTeX Info: Redefining \ttfamily on input line 758.
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--804
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں ظاہر ہے کہ خود با خود اخراج کے ذریع
+ہ تمام زیریں توانائی حالات تک تحویل ممکن نہیں ہوگی’ ان میں سے کئی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 758--804
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں ہوگی ان میں سے کئی کو انتخابی قواعد 
-نہ ممکن بناتے ہیں۔ شکل ٩.٦[] میں ہائیڈروجن کے لیے ابتدائی چار[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 758--804
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بوہر سطحوں کے لیے اجازتی تحویلات دکھائے گ
-ئے ہیں۔ دھیان رہے کہ  $\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 S$  \TU/JameelNooriNa
-staleeq(1)/m/sl/10 حال  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)/m/
-sl/10 اسی جگہ پھنسا رہے گا۔ چونکہ []
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 758--804
-[]$\OML/zplm/m/it/10 l \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1$  \TU/JameelNooriNa
-staleeq(1)/m/sl/10 کا کوئی بھی زیریں توانائی حال نہیں پایا جاتا لہٰذا یہ تنزل پ
-ذیر نہیں ہوگا۔ اس کو نازک مستحکم حال کہتے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 758--804
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں اور یقیناً اس کا عرصہ حیات مثلاً  $\O
-T1/ppl/m/n/10 2\OML/zplm/m/it/10 P$  \TU/JameelNooriNastaleeq(1)/m/sl/10 حالات 
- $\OML/zplm/m/it/10  []\OT1/ppl/m/n/10 , \OML/zplm/m/it/10  []$  \TU/JameelNoor
-iNastaleeq(1)/m/sl/10 اور  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastaleeq(1)
-/m/sl/10 سے کافی لمبا ہے۔ نازک[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انتخابی قواعد کے تحت ممنوع ہیں۔ شکل ٩.٦[]
+ میں ہائیڈروجن کے ابتدائی چار بوہر سطحوں کے لیے اجازتی تحویلات[]
  []
 
 [368]
-Underfull \hbox (badness 10000) in paragraph at lines 827--829
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ب) اگر آپ کے پاس ایک بوتل اس حال میں جوہ
-روں سے بھرا ہوا ہے تب ہر راستے سے کتنا حصہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہر تسلسل کا صرف پہلا قدم، عرصہ حیات کے حص
+ول میں کام آئے گا۔ متعدد تحویلی راستوں کی صورت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 830--831
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ج) اس حال کا عرصہ حیات کیا ہوگا؟ اشارہ
-: پہلی تحویل کے بعد یہ حال  $\OMS/zplm/m/n/10 j\OT1/ppl/m/n/10 300\OMS/zplm/m/n
-/10 i$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں نہیں ہوگا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 830--831
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لہٰذا اس ترتیب میں ہر مرتبہ صرف پہلا قدم 
-حل کر کے متعلقہ عرصہ حیات حاصل ہوگا۔[]
+Underfull \hbox (badness 5711) in paragraph at lines 842--844
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو عمومیت دیتے ہوئے تابع وقت نظریہ اضطراب
+ مرتب کریں۔ لمحہ  $\OML/zplm/m/it/10 t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0$  \
+TU/JameelNooriNastaleeq(1)/m/sl/10 پر ہم اضطراب []
  []
 
 [369]
-Underfull \hbox (badness 10000) in paragraph at lines 871--873
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (و) فرض کریں ایک متعدد سطحی نظام پر غیر ا
-تساع کی برقناطیسی روشنی ڈالی جاتی ہے۔ حصہ 9.‏2.‏3 کو دیکھتے ہوئے[]
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں کہ متعدد سطحی نظام پر غیر اتسا
+قی برقناطیسی روشنی ڈالی جاتی ہے۔ حصہ ٩.٢.٣[] کو دیکھتے ہوئے دکھائیں[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 878--880
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی تصدیق کر کے تضاد اگر موجود ہو پر تبصرہ
- کریں۔ فرض کریں آپ ابتدائی حال  $\OML/zplm/m/it/10  []$  \TU/JameelNooriNastale
-eq(1)/m/sl/10 میں رہنے کا احتمال جاننا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--885
+[370]
+Underfull \hbox (badness 10000) in paragraph at lines 895--896
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (الف) مساوات [] استعمال کرتے ہوئے  $\OM
 L/zplm/m/it/10 c[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \TU
 /JameelNooriNastaleeq(1)/m/sl/10 کی ٹھیک ٹھیک قیمت دریافت کریں اور دکھائیں کہ[]
@@ -3436,7 +3409,7 @@ L/zplm/m/it/10 c[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )$  \TU
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 884--885
+Underfull \hbox (badness 2020) in paragraph at lines 895--896
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعل موج کی حیط زاویائی دور تبدیل ہوگا ل
 یکن تحویل نہیں ہوگی۔ تفاعل  $\OML/zplm/m/it/10 V[]\OT1/zplm/m/n/10 (\OML/zplm/m
 /it/10 t\OT1/zplm/m/n/10 )$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں تب
@@ -3444,35 +3417,35 @@ Underfull \hbox (badness 2020) in paragraph at lines 884--885
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 888--889
+Underfull \hbox (badness 10000) in paragraph at lines 899--900
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 تبصرہ: ہر اُس صورت میں جب مخفیہ کے ساتھ
  اضطراب  $\OML/zplm/m/it/10 x$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں مستقل ن
 ہ کے  $\OML/zplm/m/it/10 t$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں جمع کرتا ہ
 و یہی[]
  []
 
-[370]
-Underfull \hbox (badness 10000) in paragraph at lines 893--895
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--906
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٩.١٨:  ایک بُعدی لامتناہی چوکور کنو
 یں کی زمینی حال میں کمیت  $\OML/zplm/m/it/10 m$  \TU/JameelNooriNastaleeq(1)/m/
 sl/10 کا ایک ذرہ ابتدائی طور پر پایا جاتا ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 902--904
+Underfull \hbox (badness 10000) in paragraph at lines 913--915
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کچھ وقت  $\OML/zplm/m/it/10 T$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 کے بعد اینٹ ہٹائی جاتی ہے اور ذرہ کی توانائی ناپی جا
 تی ہے۔ رتبہ اول نظریہ اضطراب میں[]
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 904--907
+Underfull \hbox (badness 2057) in paragraph at lines 915--918
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٩.١٩:  ہم تحرک شدہ اخراج، تحرکی ان
 جذاب اور خود با خود اخراج دیکھ چکے ہیں۔ خود با خود انجذاب کیوں نہیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 907--910
+Underfull \hbox (badness 10000) in paragraph at lines 918--921
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٩.٢٠:  مقناطیسی گمک ساکن مقناطیسی 
 میدان  $\OML/zplm/m/it/10 B[]\OML/cmm/b/it/10 k$  \TU/JameelNooriNastaleeq(1)/m
 /sl/10 میں  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$  \TU/JameelN
@@ -3480,7 +3453,7 @@ ooriNastaleeq(1)/m/sl/10 چکر کا ایک ذرہ جس کی مسکن مقناط
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 907--910
+Underfull \hbox (badness 4467) in paragraph at lines 918--921
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 نسبت  $\OML/zplm/m/it/10 ^^M$  \TU/Jameel
 NooriNastaleeq(1)/m/sl/10 ہو لارمر تعدد  $\OML/zplm/m/it/10 ![] \OT1/zplm/m/n/1
 0 = \OML/zplm/m/it/10 ^^MB[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مثال [] سے ا
@@ -3488,7 +3461,7 @@ NooriNastaleeq(1)/m/sl/10 ہو لارمر تعدد  $\OML/zplm/m/it/10 ![] \OT1/
  []
 
 [371]
-Underfull \hbox (badness 10000) in paragraph at lines 937--939
+Underfull \hbox (badness 10000) in paragraph at lines 948--950
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کو غیر متغیر  $\OML/zplm/m/it/10 ![]$  \T
 U/JameelNooriNastaleeq(1)/m/sl/10 اور  $\OT1/zplm/m/n/10 
 $  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں متحرک تعدد  $\OML/zplm/m/it/
@@ -3496,72 +3469,72 @@ $  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں متحرک تعدد 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 940--941
+Underfull \hbox (badness 10000) in paragraph at lines 951--952
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سکتے ہیں۔ ایک مرکزی مقناطیسی گمک تجربہ می
 ں نوریہ کا  $\OML/zplm/m/it/10 g$  \TU/JameelNooriNastaleeq(1)/m/sl/10 جزو ضربی
  ایک ٹسلا کے ساکن میدان اور[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 940--941
+Underfull \hbox (badness 10000) in paragraph at lines 951--952
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک مائیکرو ٹسلا حیطہ کے ریڈیائی تعدد مید
 ان کی مدد سے ناپا جاتا ہے۔ تعدد گمک کیا ہوگا؟ پروٹان کی مقناطیسی معیار اثر[]
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 941--944
+Underfull \hbox (badness 6927) in paragraph at lines 952--955
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٩.٢١: []میں نے مساوات [] میں فرض ک
 یا تھا کہ جوہر روشنی کی طول موج کے لحاظ سے اتنا چھوٹا ہے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 950--952
+[372]
+Underfull \hbox (badness 10000) in paragraph at lines 961--963
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 استعمال کریں۔ اس کا پہلا جزو وہ اجازتی بر
 قی جفت کتب تحویلات پیدا کرتا ہے جن پر متن میں بات کی چکی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--952
+Underfull \hbox (badness 10000) in paragraph at lines 961--963
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ دوسرا جزو وہ تحویلات پیدا کرتا ہے جنہ
 یں ممنوعہ مقناطیسی جفت کتب اور برقی چو کتب تحویل کہتے ہیں  $\OML/zplm/m/it/10 k
 \OT1/ppl/m/n/10 .\OML/zplm/m/it/10 r$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--952
+Underfull \hbox (badness 10000) in paragraph at lines 961--963
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کی اس سے زیادہ بڑی طاقتیں مزید زیادہ ممنو
 عہ تحویلات پیدا کرتی ہے جو زیادہ بلند متعدد قطبی معیار اثر کے ساتھ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 953--954
+Underfull \hbox (badness 10000) in paragraph at lines 964--965
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (الف) ممنوعہ تحویلات کی خود با خود اخرا
 جی شرح حاصل کریں اس کی تقطیب اور حرکت کے رخ پر اوسط[]
  []
 
-[372]
-Underfull \hbox (badness 10000) in paragraph at lines 960--962
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--973
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تبصرہ: یہاں  $\OML/zplm/m/it/10 !$  \TU/J
 ameelNooriNastaleeq(1)/m/sl/10 سے مراد نوریہ کا تعدد ہے نہ کہ مرتعش کا تعدد۔ اج
 ازتی شرح کے لحاظ سے ممنوعہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 963--964
+Underfull \hbox (badness 10000) in paragraph at lines 974--975
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 متعدد کتب کے لیے بھی درست ہوگا غالب تنزل 
 دو نوریہ اخراج کی بنا پر ہوگا جس کا عرصہ حیات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 964--967
+Underfull \hbox (badness 6741) in paragraph at lines 975--978
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٩.٢٢:  دکھائیں کہ  $\OML/zplm/m/it
-/10 n\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 l$  \TU/JameelNooriNastaleeq(1)/m/sl/1
-0 سے  $\OML/zplm/m/it/10 n[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 l[]$  \TU/Jamee
+/10 n\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 `$  \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 سے  $\OML/zplm/m/it/10 n[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 `[]$  \TU/Jamee
 lNooriNastaleeq(1)/m/sl/10 میں تحویل کے لیے ہائیڈروجن کا خود با خود اخراجی شرح 
 مساوات ٩.٥٦[][]
  []
 
-) [373] (./answer.tex) [437
+[373]) [374] (./answer.tex) [437
 
 
 
@@ -3582,8 +3555,8 @@ LaTeX Info: Redefining \ttfamily on input line 2.
 
 
 
-] [442] [443] [444]
-[445] [446] [447] [448] [449] [450] [451])
+] [442] [443]
+[444] [445] [446] [447] [448] [449] [450] [451])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3641,9 +3614,9 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
 (./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux
-LaTeX Info: Redefining \rmfamily on input line 352.
-LaTeX Info: Redefining \sffamily on input line 352.
-LaTeX Info: Redefining \ttfamily on input line 352.
+LaTeX Info: Redefining \rmfamily on input line 353.
+LaTeX Info: Redefining \sffamily on input line 353.
+LaTeX Info: Redefining \ttfamily on input line 353.
 )
 (./tex/quantumIdenticalParticles.aux)
 (./tex/quantumTimeIndependentPertubationTheory.aux)
@@ -3671,12 +3644,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 57573 strings out of 479819
- 1504762 string characters out of 11645846
- 14100707 words of memory out of 24000000
- 73567 multiletter control sequences out of 15000+600000
+ 57600 strings out of 479819
+ 1505360 string characters out of 11645846
+ 14101112 words of memory out of 24000000
+ 73594 multiletter control sequences out of 15000+600000
  571345 words of font info for 217 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,16n,136p,2641b,2368s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (51 pages).
+Output written on quantumMechanics.pdf (52 pages).
