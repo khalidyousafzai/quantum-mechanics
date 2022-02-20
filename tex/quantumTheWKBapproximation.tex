@@ -271,7 +271,7 @@
 \pgfmathsetmacro{\E}{f(4)}
 \begin{axis}[axis lines=middle,xlabel={$r$},ylabel={$V(r)$}, xtick={1,4},
  xticklabels={\rlap{$\, r_1$} ,$r_2$, $0$}, ytick={-0.5,\E}, yticklabels={$-V_0$,$E$}, ylabel style={at={(current axis.above origin)},anchor=east},xlabel style={at={(current axis.right of origin)},anchor=north east},enlargelimits]
-\addplot [thick,domain=1:5]{f(x)}node[pos=0.5,pin={45:{\RL{کولمب دفع}}}]{};
+\addplot [thick,domain=1:5]{f(x)}node[pos=0.5,pin={45:{\RL{دافع کولمب}}}]{};
 \addplot[thick,]coordinates{({1},{f(1)})(1,-0.5)(0,-0.5)};
 \addplot[thick,]coordinates{(0,\E)(5,\E)};
 \addplot[]coordinates{(0.75,-0.5)}node[pin={45:{\RL{مرکزوی بندش}}}]{};
