@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  24 FEB 2022 14:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  25 FEB 2022 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2022224846.tex)...disabled (restricted).
+runsystem(touch w18-test-2022225990.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2022224846.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2022225990.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2127,74 +2127,84 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 3.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 5.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 5.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 5.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 5.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 5.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 5.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 5.
+LaTeX Info: Redefining \rmfamily on input line 5.
+LaTeX Info: Redefining \sffamily on input line 5.
+LaTeX Info: Redefining \ttfamily on input line 5.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 5.
+LaTeX Info: Redefining \rmfamily on input line 5.
+LaTeX Info: Redefining \sffamily on input line 5.
+LaTeX Info: Redefining \ttfamily on input line 5.
+LaTeX Info: Redefining \rmfamily on input line 5.
+LaTeX Info: Redefining \sffamily on input line 5.
+LaTeX Info: Redefining \ttfamily on input line 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--20
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں کسی مرکز بکھراو پر ایک ذرہ کا آم
-د ہوتا ہے مثلاً ایک پروٹان کو ایک بھاری مرکزہ پر داغا جاتا ہے[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں کسی مرکز بکھراو پر ایک ذرے کی آم
+د ہوتی ہے (مثلاً، پروٹان ایک بھاری مرکزہ پر داغا جاتا ہے)۔[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--20
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ توانائی  $\OML/zplm/m/it/10 E$  \TU/Ja
-meelNooriNastaleeq(1)/m/sl/10 اور ٹکراو مقدار معلوم  $\OML/zplm/m/it/10 b$  \TU
-/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ آ کر کسی زاویہ بکھراو  $\OML/zplm/m/it
-/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر اُبھرتا ہے ؛ شکل ١١.١[] دیکھیں
-۔ میں[]
+meelNooriNastaleeq(1)/m/sl/10 اور \TU/AASameerSagarNastaleeqBold(0)/m/n/10 ٹکرا
+و مقدار معلوم[][]  $\OML/zplm/m/it/10 b$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
+ے ساتھ آ کر،  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 زاویہ بکھراو[][]  $\OML/
+zplm/m/it/10 ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 پر اُبھرتا ہے ؛ شکل ١١.١
+[] دیکھیں۔ (میں اپنی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--20
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اپنی آسانی کے لئے فرض کرتا ہوں کہ ہدف اسم
-تی تشاکلی ہے یوں خط حرکت ایک مستوی میں پایا جائے گا اور کہ[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آسانی کے لئے فرض کرتا ہوں کہ ہدف اسّمتی ت
+شاکلی ہے، یوں \TU/AASameerSagarNastaleeqBold(0)/m/n/10 خط حرکت[][] \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 مستوی میں پایا جائے گا، اور ساتھ ہی فرض[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--20
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نشانہ بھاری ہے لہٰذا تصادم کی بنا پر اس ک
-ی اچھال کو نظرانداز کیا جا سکتا ہے۔ کلاسیکی نظریہ بکھراو کا[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتا ہوں کہ نشانہ بھاری ہے، لہٰذا تصادم ک
+ی بنا پر اس کی اچھال نظرانداز کی جا سکتی ہے۔) کلاسیکی نظریہ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--20
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بنیادی مسئلہ یہ ہوگا: ٹکراو مقدار معلوم ک
-و جانتے ہوئے زاویہ بکھراو کا حساب کریں۔ یقیناً عام طور پر ٹکراو مقدار[]
- []
-
-LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 23.
-
-Underfull \hbox (badness 3568) in paragraph at lines 22--24
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ١١.١:  \TU/AASameerSagarNastaleeqBo
-ld(0)/m/n/10 سخت کرہ کا بکھراو\TU/JameelNooriNastaleeq(1)/m/sl/10 ۔ فرض کریں ہد
-ف رداس  $\OML/zplm/m/it/10 R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک ٹھوس 
-بھاری گیند ہے جبکہ آمدی ذرہ ہوائی[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بکھراو کا بنیادی مسئلہ یہ ہوگا: \TU/Jamee
+lNooriNastaleeq(1)/m/n/9 ٹکراو مقدار معلوم جانتے ہوئے، زاویہ بکھراو کا حساب کری
+ں\TU/JameelNooriNastaleeq(1)/m/sl/10 ۔ یقیناً، عام طور پر، ٹکراو[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--24
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بندوق کا ایک چھرا ہے جو لچھکیلی ٹپکی کھا 
-کر مڑتا ہے (شکل ١١.٢[])۔ زاویہ  $\OML/zplm/m/it/10 ^^K$  \TU/JameelNooriNastale
-eq(1)/m/sl/10 کی صورت میں ٹکراو مقدار[]
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ١١.١: []\TU/AASameerSagarNastaleeqB
+old(0)/m/n/10 سخت کرہ بکھراو\TU/JameelNooriNastaleeq(1)/m/sl/10 ۔ فرض کریں ہدف 
+رداس  $\OML/zplm/m/it/10 R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک سخت بھا
+ری گیند ہے، جبکہ آمدی ذرہ[]
  []
 
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 57.
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 57.
 
-Package pgfplots Warning: 'fill between': Could not activate graphics layer 'pr
-e main'. Filled path will be on top of the other ones. Please ensure that 'pre 
-main' is somewhere in the layer list (or set '/tikz/fill between/on layer='). o
-n input line 106.
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوائی بندوق کا چھرا ہے، جو ٹپا کھا کر مڑت
+ا ہے (شکل ١١.٢[])۔ زاویہ  $\OML/zplm/m/it/10 ^^K$  \TU/JameelNooriNastaleeq(1)/
+m/sl/10 کی صورت میں ٹکراو مقدار معلوم []
+ []
 
-Missing character: There is no ; in font nullfont!
-
-Package pgfplots Warning: 'fill between': Could not activate graphics layer 'pr
-e main'. Filled path will be on top of the other ones. Please ensure that 'pre 
-main' is somewhere in the layer list (or set '/tikz/fill between/on layer='). o
-n input line 109.
-
-Missing character: There is no ; in font nullfont!
 [401
 
 
@@ -2216,97 +2226,89 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 128.
+e 56.
 
 [402]
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 عمومی طور پر لامتناہی چھوٹے رقبہ عمودی 
-تراش  $[] \OML/zplm/m/it/10 ^^[$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں آمدی 
-ذرات مطابقتی لامتناہی چھوٹے ٹھوس[]
+
+Package pgfplots Warning: 'fill between': Could not activate graphics layer 'pr
+e main'. Filled path will be on top of the other ones. Please ensure that 'pre 
+main' is somewhere in the layer list (or set '/tikz/fill between/on layer='). o
+n input line 105.
+
+Missing character: There is no ; in font nullfont!
+
+Package pgfplots Warning: 'fill between': Could not activate graphics layer 'pr
+e main'. Filled path will be on top of the other ones. Please ensure that 'pre 
+main' is somewhere in the layer list (or set '/tikz/fill between/on layer='). o
+n input line 108.
+
+Missing character: There is no ; in font nullfont!
+LaTeX Info: Redefining \rmfamily on input line 132.
+LaTeX Info: Redefining \sffamily on input line 132.
+LaTeX Info: Redefining \ttfamily on input line 132.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 عمومی طور پر، لامتناہی چھوٹے قطعہ، جس ک
+ا رقبہ عمودی تراش  $[] \OML/zplm/m/it/10 ^^[$  \TU/JameelNooriNastaleeq(1)/m/sl
+/10 ہو، میں آمدی ذرات، مطابقتی لامتناہی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زاویہ  $[] \OT1/zplm/m/n/10 
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں بکھریں گے (شکل ١١.٣[])۔ بڑی  $[] \OM
-L/zplm/m/it/10 ^^[$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں  $[] \OT1/
-zplm/m/n/10 
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 بھی بڑا ہوگا تناسبی جزو ضربی []
+Underfull \hbox (badness 3019) in paragraph at lines 131--133
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چھوٹے ٹھوس زاویہ  $[] \OT1/zplm/m/n/10 
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں بکھریں گے (شکل ١١.٣[])۔ جتنا  $[] \O
+ML/zplm/m/it/10 ^^[$  \TU/JameelNooriNastaleeq(1)/m/sl/10 بڑا ہو، اتنا  $[] \OT
+1/zplm/m/n/10 
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 بڑا ہوگا؛ ان کے تناسبی جزو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ عمومی طور پر  $\OML/zplm/m/it/10 ^^
-R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مقدار معلوم  $\OML/zplm/m/it/10 b$  \TU
-/JameelNooriNastaleeq(1)/m/sl/10 کا گھٹتا ہوا تفاعل ہوگا لہٰذا یہ تفرق در حقیقت
- منفی ہوگا اسی لئے مطلق[]
+Underfull \hbox (badness 2726) in paragraph at lines 139--141
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ ( عمومی طور پر  $\OML/zplm/m/it/10
+ ^^R$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مقدار معلوم  $\OML/zplm/m/it/10 b$  
+\TU/JameelNooriNastaleeq(1)/m/sl/10 کا گھٹتا ہوا تفاعل ہوگا، لہٰذا یہ تفرق حقیق
+تاً منفی ہوگا؛ اسی لئے مطلق قیمت[]
  []
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 157.
+(Font)              scaled to size 10.0pt on input line 150.
 [403]
-Underfull \hbox (badness 10000) in paragraph at lines 157--159
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اندازاً بات کرتے ہوئے یہ آمدی شعاع کا وہ 
-رقبہ ہوگا جسے ہدف بکھیرتا ہے۔ مثال کے طور پر سخت کرہ بکھراو کی[]
+LaTeX Info: Redefining \rmfamily on input line 157.
+LaTeX Info: Redefining \sffamily on input line 157.
+LaTeX Info: Redefining \ttfamily on input line 157.
+
+Underfull \hbox (badness 1137) in paragraph at lines 160--162
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا، جو ہمارے توقعات کے عین مطابق ہے: ی
+ہ کرہ کا رقبہ عمودی تراش ہے؛ اس رقبہ کے اندر آمدی چھرے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو ہمارے توقعات کے عین مطابق ہے۔ یہ کرہ ک
-ا رقبہ عمودی تراش ہے۔ اس رقبہ میں آمدی چھرے[]
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہدف کو مار پائیں گے، جبکہ اس سے باہر چھرے
+ ہدف کو خطا کریں گے۔ یہی تصورات ”نرم“ اہداف ( جیسا مرکزہ کا[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 163.
+LaTeX Info: Redefining \sffamily on input line 163.
+LaTeX Info: Redefining \ttfamily on input line 163.
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہدف کو نشانہ بنائیں گے جبکہ اس سے باہر چھ
-رے ہدف کو خطا کریں گے۔ یہی تصورات نرم اہداف مثلاً[]
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تفریقی عمودی تراش کی تعریف لی جاتی ہے۔ اگ
+ر ٹھوس زاویہ  $[] \OT1/zplm/m/n/10 
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں بکھرے ذرات کاشف تک[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 175.
+LaTeX Info: Redefining \sffamily on input line 175.
+LaTeX Info: Redefining \ttfamily on input line 175.
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فی اکائی وقت رقبہ  $[] \OML/zplm/m/it/10 
-^^[$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں داخل ہونے والے ذرات اور یوں ٹھوس 
-زاویہ  $[] \OT1/zplm/m/n/10 
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں بکھراو والے ذرات کی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ یہ صرف ان مقداروں کی بات کرتا ہے جن
-ہیں تجربہ گاہ میں با آسانی ناپا جا سکتا ہو لہٰذا اس کو عموماً[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تفریقی عمودی تراش کی تعریف لیا جاتا ہے۔ ا
-گر ٹھوس زاویہ  $[] \OT1/zplm/m/n/10 
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 میں بکھرے ذرات کو محسوس کار[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دیکھتا ہو تب ہم اکائی وقت میں معلوم شدہ ذ
-رات کی تعداد کو  $[] \OT1/zplm/m/n/10 
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 سے تقسیم کر کے آمدی شعاع کی تابندگی کے[]
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ١١.١:  \TU/AASameerSagarNastaleeqBo
-ld(0)/m/n/10 ردرفورڈ بکھراو\TU/JameelNooriNastaleeq(1)/m/sl/10 ۔ بار  $\OML/zpl
-m/m/it/10 q[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور حرکی توانائی  $\OML/zpl
-m/m/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک آمدی ذرہ ایک بھاری ساک
-ن ذرہ جس کا بار  $\OML/zplm/m/it/10 q[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ہ
-و سے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--189
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ج) دکھائیں کہ ردرفورڈ بکھراو کا کل عمودی
- تراش لامتناہی ہوگا۔ ہم کہتے ہیں  $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OML/zplm
-/m/it/10 r$  \TU/JameelNooriNastaleeq(1)/m/sl/10 مخفیہ لامتناہی ساتھ رکھتا ہے آ
-پ[]
+ld(0)/m/n/10 ردرفورڈ بکھراو۔[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 بار  $\OML
+/zplm/m/it/10 q[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور حرکی توانائی  $\OML
+/zplm/m/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/sl/10 کا ایک آمدی ذرہ بھاری ساک
+ن ذرے سے، جس کا بار  $\OML/zplm/m/it/10 q[]$  \TU/JameelNooriNastaleeq(1)/m/sl/
+10 ہو ،[]
  []
 
 [404]
@@ -2328,11 +2330,11 @@ OT1/zplm/m/n/10 /\OML/zplm/m/it/10 r[]$  \TU/JameelNooriNastaleeq(1)/m/sl/10 ک�
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 231--261
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں بھی میں فرض کرتا ہوں کہ ہدف اسمتی تش
-اکلی ہے زیادہ عمومی صورت میں رخصتی کروی موج کا حیطہ  $\OML/zplm/m/it/10 f$ []
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہاں بھی میں فرض کرتا ہوں کہ ہدف اسّمتی ت
+شاکلی ہے زیادہ عمومی صورت میں رخصتی کروی موج کا حیطہ  $\OML/zplm/m/it/10 f$ []
  []
 
-
+[405]
 Underfull \hbox (badness 10000) in paragraph at lines 264--265
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہمیں حیطہ بکھراو  $\OML/zplm/m/it/10 f\
 OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^R\OT1/zplm/m/n/10 )$  \TU/JameelNooriNasta
@@ -2349,7 +2351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 264--265
 0 میں لامتناہی چھوٹی[]
  []
 
-[405]
+
 Underfull \hbox (badness 10000) in paragraph at lines 275--277
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر ہے کہ تفرقی عمودی تراش جس میں تجربہ 
 کرنے والا دلچسپی رکھتا ہے حیطہ بکھراو جو مساوات[]
@@ -3099,11 +3101,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 57614 strings out of 479819
- 1501142 string characters out of 11645846
- 14098864 words of memory out of 24000000
- 73630 multiletter control sequences out of 15000+600000
- 555857 words of font info for 150 fonts, out of 12000000 for 9000
+ 57661 strings out of 479819
+ 1501942 string characters out of 11645846
+ 14089214 words of memory out of 24000000
+ 73672 multiletter control sequences out of 15000+600000
+ 562017 words of font info for 172 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,18n,136p,2641b,1357s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
