@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  26 FEB 2022 13:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  26 FEB 2022 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2022226795.tex)...disabled (restricted).
+runsystem(touch w18-test-2022226915.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2022226795.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2022226915.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1767,9 +1767,9 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
 (./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux
-LaTeX Info: Redefining \rmfamily on input line 358.
-LaTeX Info: Redefining \sffamily on input line 358.
-LaTeX Info: Redefining \ttfamily on input line 358.
+LaTeX Info: Redefining \rmfamily on input line 359.
+LaTeX Info: Redefining \sffamily on input line 359.
+LaTeX Info: Redefining \ttfamily on input line 359.
 )
 (./tex/quantumIdenticalParticles.aux)
 (./tex/quantumTimeIndependentPertubationTheory.aux)
@@ -3102,9 +3102,9 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
 (./tex/quantumFormalism.aux) (./tex/quantumMechanicsInThreeDimensions.aux
-LaTeX Info: Redefining \rmfamily on input line 358.
-LaTeX Info: Redefining \sffamily on input line 358.
-LaTeX Info: Redefining \ttfamily on input line 358.
+LaTeX Info: Redefining \rmfamily on input line 359.
+LaTeX Info: Redefining \sffamily on input line 359.
+LaTeX Info: Redefining \ttfamily on input line 359.
 )
 (./tex/quantumIdenticalParticles.aux)
 (./tex/quantumTimeIndependentPertubationTheory.aux)
@@ -3130,7 +3130,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
 Here is how much of TeX's memory you used:
  57684 strings out of 479819
  1502338 string characters out of 11645846
- 14089394 words of memory out of 24000000
+ 14089000 words of memory out of 24000000
  73695 multiletter control sequences out of 15000+600000
  562017 words of font info for 172 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
