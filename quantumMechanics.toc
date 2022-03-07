@@ -128,9 +128,9 @@
 \contentsline {chapter}{\numberline {\arabicdigits {12}}پس نوشت}{\arabicdigits {429}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {1}}آئنشٹائن، پوڈلسکی و روزن تضاد}{\arabicdigits {430}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {2}}مسئلہ بل}{\arabicdigits {432}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ کلمیہ}{\arabicdigits {437}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ قلمیہ}{\arabicdigits {437}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}شروڈنگر کی بلی}{\arabicdigits {438}}%
-\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹائی زینو تضاد}{\arabicdigits {439}}%
+\contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹائی زینو تضاد}{\arabicdigits {440}}%
 \contentsline {chapter}{جوابات}{\arabicdigits {443}}%
 \contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {445}}%
 \contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {445}}%
