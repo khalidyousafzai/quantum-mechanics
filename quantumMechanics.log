@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  7 MAR 2022 17:46
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  10 MAR 2022 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2022371066.tex)...disabled (restricted).
+runsystem(touch w18-test-2022310965.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2022371066.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2022310965.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1777,12 +1777,10 @@ LaTeX Info: Redefining \ttfamily on input line 358.
 (./tex/quantumTheWKBapproximation.aux)
 (./tex/quantumTimeDependentPertubationTheory.aux)
 (./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
-(./tex/quantumAfterword.aux)
-No file ./tex/questions.aux.
-(./tex/quantumAppendixLinearAlgebra.aux)
-LaTeX Info: Redefining \rmfamily on input line 31.
-LaTeX Info: Redefining \sffamily on input line 31.
-LaTeX Info: Redefining \ttfamily on input line 31.
+(./tex/quantumAfterword.aux) (./tex/quantumAppendixLinearAlgebra.aux)
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
 )
 \openout1 = `quantumMechanics.aux'.
 
@@ -1910,23 +1908,23 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 165.
+(Font)              scaled to size 17.28pt on input line 168.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 165.
+(Font)              scaled to size 9.0pt on input line 168.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 165.
+(Font)              scaled to size 12.0pt on input line 168.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 165.
+(Font)              scaled to size 12.50409pt on input line 168.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 165.
+(Font)              scaled to size 9.37807pt on input line 168.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 165.
+(Font)              scaled to size 7.29405pt on input line 168.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 165.
+(Font)              scaled to size 12.50409pt on input line 168.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 165.
+(Font)              scaled to size 9.37807pt on input line 168.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 165.
+(Font)              scaled to size 7.29405pt on input line 168.
 
 Package fontspec Info: Font family 'DejaVuSansMono(1)' created for font
 (fontspec)             'DejaVu Sans Mono' with options
@@ -1980,12 +1978,12 @@ Space,Script=Arabic].
 
 ]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 167.
+(Font)              scaled to size 24.88pt on input line 170.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 167.
+e 170.
 
 (./quantumMechanics.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
@@ -2004,9 +2002,9 @@ e 69.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/sl' will be
 (Font)              scaled to size 10.0pt on input line 105.
  [5] [6]
-LaTeX Info: Redefining \rmfamily on input line 144.
-LaTeX Info: Redefining \sffamily on input line 144.
-LaTeX Info: Redefining \ttfamily on input line 144.
+LaTeX Info: Redefining \rmfamily on input line 143.
+LaTeX Info: Redefining \sffamily on input line 143.
+LaTeX Info: Redefining \ttfamily on input line 143.
 )
 \tf@toc=\write6
 \openout6 = `quantumMechanics.toc'.
@@ -2113,109 +2111,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
  []
 
 ) [10]
-\openout2 = `./tex/quantumAfterword.aux'.
+\openout2 = `./tex/quantumTheWKBapproximation.aux'.
 
- (./tex/quantumAfterword.tex
-باب \arabicdigits{12}.
+ (./tex/quantumTheWKBapproximation.tex
+باب \arabicdigits{8}.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
+(Font)              scaled to size 20.74pt on input line 7.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
+(Font)              scaled to size 20.74pt on input line 7.
 LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں توقع کرتا ہوں کہ آپ کوانٹائی میکانیات
- کو اب سمجھتے ہوں گے لہٰذا حصہ ١.٢[] میں کیا گیا سوال دوبارہ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اٹھاتے ہیں: کوانٹائی میکانیات کے نتائج سے
- کیا مطلب اخذ کرنا چاہیے؟ تفاعل موج کے ساتھ وابستہ[]
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 شماریاتی مفہوم کی عدم تعیّنیت، مسئلے کی ج
-ڑ ہے۔ تفاعل $\OT1/zplm/m/n/10 ^^I$\TU/JameelNooriNastaleeq(1)/m/sl/10 ( یا کوان
-ٹائی حال کہنا زیادہ بہتر ہوگا؛ جو مثال کے طور پر،[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چکرکار ہو سکتا ہے) پیمائش کا نتیجہ یکتا ط
-ور پر تعین نہیں کرتا؛ بلکہ ممکنہ نتائج کی شماریاتی تقسیم مہیا کرتا ہے۔ اس[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے ایک اہم سوال کھڑا ہوتا ہے: کیا پیمائش 
-سے قبل نظام یہ مخصوص خاصیت ” حقیقتاً رکھتا تھا“ ( جسے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 حقیقت پسند \TU/JameelNooriNastaleeq(
-1)/m/sl/10 نقطہ نظر کہتے ہیں) یا پیمائش کے عمل نے اس خاصیت کو ” جنم“ دیا، جو تف
-اعل موج کی شماریاتی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 حقیقت پسند کے نقطہ نظر سے کوانٹائی میکا
-نیات  \TU/JameelNooriNastaleeq(1)/m/n/9 نامکمل \TU/JameelNooriNastaleeq(1)/m/sl
-/10 نظریہ ہے، چونکہ کوانٹائی میکانیات کی تمام[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فراہم کردہ معلومات ( یعنی اس کا تفاعل موج
-) جانتے کے باوجود آپ اس کے خواص تعین نہیں کر سکتے ہیں۔[]
- []
-
+(Font)              scaled to size 10.0pt on input line 8.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 7.
+(Font)              scaled to size 7.6pt on input line 8.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
+(Font)              scaled to size 8.0pt on input line 8.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 7.
+(Font)              scaled to size 8.33606pt on input line 8.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 7.
+(Font)              scaled to size 5.21004pt on input line 8.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 7.
+(Font)              scaled to size 8.33606pt on input line 8.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 7.
+(Font)              scaled to size 5.21004pt on input line 8.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 7.
-LaTeX Info: Redefining \rmfamily on input line 7.
-LaTeX Info: Redefining \sffamily on input line 7.
-LaTeX Info: Redefining \ttfamily on input line 7.
+(Font)              scaled to size 6.0pt on input line 8.
+LaTeX Info: Redefining \rmfamily on input line 8.
+LaTeX Info: Redefining \sffamily on input line 8.
+LaTeX Info: Redefining \ttfamily on input line 8.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
+(Font)              scaled to size 8.0pt on input line 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 تقلید پسند نقطہ نظر اس سے بھی زیادہ سنگ
-ین سوالات کھڑے کرتا ہے، چونکہ اگر پیمائشی عمل نظام کو ایک ایسی[]
+Underfull \hbox (badness 2165) in paragraph at lines 8--9
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 ونٹزل و کرامرس و برلوان[][] \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 ترکیب سے غیر تابع وقت مساوات شروڈنگر کی یک بُعدی تخ
+مینی حل حاصل کیے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 خاصیت اختیار کرنے پر مجبور کرتا ہو جو اس 
-میں پہلے نہیں پائی جاتی تھی،[][] تب پیمائش ایک عجیب عمل[]
+Underfull \hbox (badness 5519) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جا سکتے ہیں ( اسی بنیادی تصور کا اطلاق کئ
+ی دیگر تفرقی مساوات پر اور بالخصوص تین ابعاد میں مساوات شروڈنگر کی[]
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 7--8
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ ساتھ ہی یہ جانتے ہوئے کہ ایک پیمائش
- کے فوراً بعد دوسری پیمائش وہی نتیجہ دیتی ہے، ہمیں ماننا ہوگا کہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کا بنیادی تصور درج ذیل ہے: فرض کریں 
+ایک ذرہ جس کی توانائی $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ ہو ایک ایسے خطہ میں حرکت کرتا ہے[]
  []
 
-[429
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دائیں رخ حرکت کرتے ہوئے ذرہ کے لئے مثبت ع
+لامت جبکہ بائیں رخ کے لئے منفی علامت استعمال ہوگا ( یقیناً[]
+ []
 
 
+Underfull \hbox (badness 1701) in paragraph at lines 13--15
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ان دونوں کا خطی جوڑ ہمیں عمومی حل دیگا)۔ 
+یہ تفاعل موج ارتعاشی ہے، جس کا طول موج $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^U
+ \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2\OML/zplm/m/it/10 ^^Y\OT1/zplm/m/n/10 /\OM
+L/zplm/m/it/10 k\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اٹل اور
+[]
+ []
 
 
+Underfull \hbox (badness 2781) in paragraph at lines 13--15
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حیطہ $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10
+ A\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 غیر تغیری ہے۔ اب فرض 
+کریں $\OML/zplm/m/it/10 V\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 
+)$ \TU/JameelNooriNastaleeq(1)/m/sl/10 مستقل نہیں، بلکہ $\OML/zplm/m/it/10 ^^U$
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ سے بہت آہستہ تبدیل ہوتا ہو،[]
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 13--15
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تاہم اس کا طول موج اور حیطہ $\OML/zplm/m/
+it/10 x$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ آہستہ آہستہ تبدیل ہوں گے۔ 
+یہی ونٹزل و کرامرس و برلوان تخمین کے تصور کی بنیاد[]
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 19--21
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور اگر $\OML/zplm/m/it/10 V\OT1/zplm/m/n
+/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ مستقل نہ ہو، بلکہ $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 ^^T$ \
+TU/JameelNooriNastaleeq(1)/m/sl/10 کے لحاظ سے آہستہ آہستہ تبدیل ہوتا ہو، تب حل 
+عملاً قوت نمائی ہو گا، البتہ[]
+ []
+
+[321
 
 
 
@@ -2230,1110 +2215,857 @@ Underfull \hbox (badness 2205) in paragraph at lines 7--8
 
 
 ]
+LaTeX Info: Redefining \rmfamily on input line 22.
+LaTeX Info: Redefining \sffamily on input line 22.
+LaTeX Info: Redefining \ttfamily on input line 22.
+
+Underfull \hbox (badness 2512) in paragraph at lines 22--23
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ پورا قصہ کلاسیکی  \TU/AASameerSagarN
+astaleeqBold(0)/m/n/10 نقطہ واپسیں[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ، جہ
+اں $\OML/zplm/m/it/10 E \OMS/zplm/m/n/10 ^^Y \OML/zplm/m/it/10 V$ \TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ہو، کے قریبی پڑوس میں ناکامی کا شکار ہوگا۔ چونکہ یہاں[]
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 22--23
+[]$\OML/zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 (یا $\OT1/ppl/m/n
+/10 1\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 ^^T$\TU/JameelNooriNastaleeq(1)/m/sl/1
+0 ) لامتناہی تک بڑھتا ہے، اور ہم یہ نہیں کہہ سکتے کہ $\OML/zplm/m/it/10 V\OT1/z
+plm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/
+m/sl/10 مقابلے میں ”آہستہ آہستہ“ تبدیل ہوتا[]
+ []
+
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
+(Font)              scaled to size 14.4pt on input line 24.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
-LaTeX Info: Redefining \rmfamily on input line 12.
-LaTeX Info: Redefining \sffamily on input line 12.
-LaTeX Info: Redefining \ttfamily on input line 12.
-LaTeX Info: Redefining \rmfamily on input line 12.
-LaTeX Info: Redefining \sffamily on input line 12.
-LaTeX Info: Redefining \ttfamily on input line 12.
+(Font)              scaled to size 14.4pt on input line 24.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 1935 ؁ میں آئنشٹائن، پوڈلسکی اور روزن نے 
-مل کر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 آئنشٹائن، پوڈلسکی و روزن تضاد[][
-] \TU/JameelNooriNastaleeq(1)/m/sl/10 پیش کیا، جس کا مقصد (خالصتاً[]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذرے کے معیار حرکت کا کلاسیکی کلیہ ہے، جس 
+کی کل توانائی $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور مخف
+ی توانائی $\OML/zplm/m/it/10 V\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/
+n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ فی الحال میں فرض[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نظریاتی بنیادوں پر) یہ ثابت کرنا تھا کہ ص
-رف حقیقت پسندانہ نقطہ نظر درست ہو سکتا ہے۔ میں آئنشٹائن،[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پوڈلسکی و روزن تضاد کا ایک سادہ روپ، جو د
-اؤد بوہم نے متعارف کیا، پر تبصرہ کرتا ہوں۔ تعدیلی \TU/AASameerSagarNastaleeqBol
-d(0)/m/n/10 پائے میزون[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--29
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پر غور کریں۔ ساکن پایون کی صورت میں الیکٹ
-ران اور پروٹان ایک دوسرے کے مخالف رخ جائیں گے (شکل[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--29
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ١٢.١[])۔ پایون کا چکر صفر ہے، لہٰذا زاویا
-ئی معیار حرکت کے بقا کے تحت یہ الیکٹران اور ضد الیکٹران یک تا[]
- []
-
-LaTeX Info: Redefining \rmfamily on input line 32.
-LaTeX Info: Redefining \sffamily on input line 32.
-LaTeX Info: Redefining \ttfamily on input line 32.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں ہوں گے۔ اگر الیکٹران ہم میدان میں پای
-ا جائے، تو ضد الیکٹران لازماً خلاف میدان ہوگا، اور اسی طرح اگر[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 الیکٹران خلاف میدان پایا جائے تو ضد الیکٹ
-ران ہم میدان ہوگا۔ کوانٹائی میکانیات آپ کو یہ بتانے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے قاصر ہے کہ کسی ایک پایون تحویل میں آپ 
-کو کونسی جوڑی ملے گا، لیکن کوانٹائی میکانیات یہ ضرور بتا سکتی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے کہ ان پیمائش کا ایک دوسرے کے ساتھ \TU/
-AASameerSagarNastaleeqBold(0)/m/n/10 باہمی رشتہ[][] \TU/JameelNooriNastaleeq(1)
-/m/sl/10 ہوگا، اور (اوسطاً) نصف وقت ایک قسم اور نصف[]
- []
-
-
-Underfull \hbox (badness 5578) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت دوسری قسم کی جوڑیاں پیدا ہوں گے۔ اب ف
-رض کریں، ہم ان الیکٹران اور ضد الیکٹران کو دور جانے دیں؛ عملی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تجربے میں دس میٹر دور، یا، اصولی تجربہ می
-ں دس نوری سال دور؛ اور اس کے بعد الیکٹران کے چکر کی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کریں۔ فرض کریں آپ کو ہم میدان ملتا
- ہے۔ آپ فوراً جان پائیں گے کہ بیس میٹر (یا بیس نوری سال)[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ”حقیقت پسند“ نقطہ نظر سے اس میں کوئی حی
-رانی کی بات نہیں؛ پیدائش کے وقت سے ہی الیکٹران حقیقتاً[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم میدان اور ضد الیکٹران خلاف میدان تھے؛ 
-ہاں کوانٹائی میکانیات اس بارے میں جاننے سے قاصر تھی۔[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تاہم ، ”تقلید پسند“ نقطہ نظر کے تحت پیمائ
-ش سے قبل دونوں ذرات نہ ہم میدان اور نہ ہی خلاف[]
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 34--35
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میدان تھے؛ الیکٹران پر پیمائش تفاعل موج ک
-و منہدم کرتی ہے جو بیس میٹر (یا بیس نوری سال) دور ضد الیکٹران[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں رکھتے تھے۔ انہوں نے تقلید پسند نقطہ 
-نظر کو ناقابل قبول قرار دیا ؛ چاہے کوانٹائی میکانیات جانتی ہو یا[]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سعت $\OML/zplm/m/it/10 x$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 پر رہنے کا پابند ہوگا (شکل ٨.١[])۔ عمومی طور پر، $\OML/zpl
+m/m/it/10  $ \TU/JameelNooriNastaleeq(1)/m/sl/10 ایک مخلوط تفاعل ہوگا؛ اس کو  \
+TU/JameelNooriNastaleeq(1)/m/n/9 حیطہ\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OM
+L/zplm/m/it/10 A\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$\TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 ، اور \TU/JameelNooriNastaleeq(1)/m/n/9 ہیّت\TU/Ja
+meelNooriNastaleeq(1)/m/sl/10 ،[]
  []
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 35.
+e 68.
 
-[430]
-LaTeX Info: Redefining \rmfamily on input line 36.
-LaTeX Info: Redefining \sffamily on input line 36.
-LaTeX Info: Redefining \ttfamily on input line 36.
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ان کی دلیل اس بنیادی مفروضہ پر کھڑی ہے 
-کہ کوئی بھی اثر روشنی کی رفتار سے تیز سفر نہیں کر سکتا۔ ہم اسے[]
+[322]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٨.٦[] اور مساوات ٨.٧[] ہر لحاظ س
+ے اصل مساوات شروڈنگر کے معادل ہیں۔ ان میں سے دوسری با[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اصول  \TU/AASameerSagarNastaleeqBold(0)/m
-/n/10 مقامیت[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں۔ آپ کو شبہ ہو سکت
-ا ہے کہ تفاعل موج کے انہدام کی خبر کسی متناہی سمتی رفتار سے[]
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 C$ \TU/JameelNoor
+iNastaleeq(1)/m/sl/10 ( حقیقی) مستقل ہوگا۔ ان میں سے پہلی ( مساوات ٨.٦[]) عموما
+ً حل نہیں کی جا سکتی ہے، لہٰذا ہمیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ”سفر“ کرتی ہے۔ تاہم ایسی صورت میں زاویائی
- معیار حرکت کی بقا مطمئن نہیں ہوگی، چونکہ ضد الیکٹران تک[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انہدام کی خبر پہنچنے سے پہلے اگر اس کے چک
-ر کی پیمائش کی جائے تو \TU/JameelNooriNastaleeq(1)/m/n/9 دونوں \TU/JameelNooriN
-astaleeq(1)/m/sl/10 ذرات ہم میدان پائے جانے کا احتمال[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پچاس پچاس فی صد ہو گا۔ آپ نظریے کے بارے م
-یں جو بھی رائے رکھتے ہوں، تجربات سے ہمیں معلوم ہوا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ دونوں کے چکر ہر صورت ایک دوسرے کے مخال
-ف ہوتے ہیں؛ زاویائی معیار حرکت کی بقا حر صورت[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 برقرار رہتی ہے؛ان چکر کا (خلاف) باہمی رشت
-ہ ہر صورت برقرار رہتا ہے۔ ظاہر ہے تفاعل موج کا انہدام[]
- []
-
-LaTeX Info: Redefining \rmfamily on input line 40.
-LaTeX Info: Redefining \sffamily on input line 40.
-LaTeX Info: Redefining \ttfamily on input line 40.
-
-Underfull \hbox (badness 1342) in paragraph at lines 39--41
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حال کو دو یک ذروی حالات کا مجموعہ نہیں لک
-ھا جا سکتا ہے، لہٰذا اس کے بارے میں بات کرتے ہوئے، کسی[]
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 39--41
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک ذرے کے ”حال“ کی بات علیحدہ سے نہیں کی
- جا سکتی ہے۔ آپ گمان کر سکتے ہیں کہ شاید ہماری علامتیت کی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بنا پر ایسا ہے، اور عین ممکن ہے کہ یک ذرو
-ی حالات کا کوئی خطی جوڑ اس نظام کو غیر ہمبستہ بنا سکے گا۔ درج ذیل[]
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 42--44
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دو سطحی نظام $\OMS/zplm/m/n/10 j\OML/zp
-lm/m/it/10 ^^^[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\O
-MS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^^[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNasta
-leeq(1)/m/sl/10 پر غور کریں، جہاں $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 ^^^[]\OM
-S/zplm/m/n/10 j\OML/zplm/m/it/10 ^^^[]\OMS/zplm/m/n/10 i \OT1/zplm/m/n/10 = \OM
-L/zplm/m/it/10 ^^N[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو۔ ( مثلاً $\OMS/zpl
-m/m/n/10 j\OML/zplm/m/it/10 ^^^[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1
-)/m/sl/10 ہم میدان اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^^[]\OMS/zplm/m/n/
-10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 خلاف[]
- []
-
-LaTeX Info: Redefining \rmfamily on input line 58.
-LaTeX Info: Redefining \sffamily on input line 58.
-LaTeX Info: Redefining \ttfamily on input line 58.
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 پر اس کا حساب ناممکن ہو سکتا ہے۔ میں صرف ات
-نا کہنا چاہتا ہوں کہ کوئی ایسی معلومات ہو گی؛مثلاً پیمائش سے قبل، نظام پر ہم مم
-کنہ[]
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 58--59
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آئنشٹائن، پوڈلسکی اور روزن کو کوانٹائی می
-کانیات کی درستگی پر کوئی شق نہیں تھا، البتہ ان کا دعویٰ تھا کہ طبیعی حقیقت کو ب
-یان[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کرنے کے لیے یہ ایک \TU/JameelNooriNastale
-eq(1)/m/n/9 نامکمل \TU/JameelNooriNastaleeq(1)/m/sl/10 نظریہ ہے: کسی بھی نظام ک
-ا حال پوری طرح جاننے کی خاطر $\OT1/zplm/m/n/10 ^^I$ \TU/JameelNooriNastaleeq(1)
-/m/sl/10 کے ساتھ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ مزید ایک مقدار، $\OML/zplm/m/it/10 ^
-^U$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، درکار ہوگی۔ چونکہ فی الحال ہم نہیں جان
-تے کہ $\OML/zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو کس طرح ناپ
-ا یا حساب کے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذریعہ معلوم کیا جائے، لہٰذا ہم اسے ”درپرد
-ہ متغیر“[][] کہتے ہیں۔[][] تاریخی طور پر کوانٹائی میکانیات کو سہارا دینے والے[]
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کئی درپردہ متغیر نظریات پیش کئے گئے، جو پ
-یچیدہ ہونے کے ساتھ ساتھ نامعقول ثابت ہوئے۔ بہر حال سن[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 تک اس پر کام کرنے کی وجہ نظر آتی تھی۔ 
-تاہم اس سال بل نے ثابت کیا کہ درپردہ متغیر نظریہ اور[]
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تخمین کی ضرورت پیش آتی ہے: ہم فرض کرتے ہی
+ں کہ حیطہ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(1)/m/sl/10 بہت آہستہ آ
+ہستہ تبدیل ہوتا ہے، لہٰذا جزو $\OML/zplm/m/it/10 A[]$[]
  []
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 59.
-[431]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بل نے آئنشٹائن، پوڈلسکی، روزن اور بوہم 
-تجربہ کو عمومی بنانے کی تجویز پیش کی: الیکٹران اور ضد الیکٹران کاشف کو[]
+(Font)              scaled to size 10.0pt on input line 90.
+[323]
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ (میں فی الحال اس کو ایک غیر قطعی ت
+کمل لکھتا ہوں؛ کسی بھی مستقل کو $\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(
+1)/m/sl/10 میں ضم کیا جا سکتا ہے، جس[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-[]\TU/JameelNooriNastaleeq(1)/m/n/9 ایک رخ \TU/JameelNooriNastaleeq(1)/m/sl/10 
-رکھنے کی بجائے بل نے انہیں علیحدہ علیحدہ زاویوں پر رکھنے کی اجازت دی۔ پہلا کاشف
- اکائی سمتیہ $\OML/cmm/b/it/10 a$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے رخ[]
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا، اور (تخمینی) عمومی حل اس طرح کے دو
+ اجزاء کا خطی جوڑ ہوگا، جہاں ایک جزو میں مثبت اور دوسرے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 الیکٹران چکر کا جزو ناپتا ہے، جبکہ دوسرا 
-$\OML/cmm/b/it/10 b$ \TU/JameelNooriNastaleeq(1)/m/sl/10 رخ ضد الیکٹران کے چکر 
-کا حصہ ناپتا ہے (شکل ١٢.٢[])۔ ہم اپنی[]
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جس کے تحت، نقطہ $\OML/zplm/m/it/10 x$ \TU
+/JameelNooriNastaleeq(1)/m/sl/10 پر ذرہ پایا جانے کا احتمال، اس نقطہ پر ذرے کے 
+(کلاسیکی) معیار حرکت (لہٰذا سمتی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت $\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n
-/10 1$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ناپی جائے گی۔ کئی $\OML/zplm/m/it/10
- ^^Y[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 تنزل کے نتائج درج ذیل جدول میں پیش 
-کئے گئے نتائج کی طرح ہو سکتے[]
+Underfull \hbox (badness 1308) in paragraph at lines 100--102
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کا احتمال کم ہوگا۔ درحقیقت، بعض اوقات تفر
+قی مساوات میں جزو $\OML/zplm/m/it/10 A[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ن
+ظرانداز کرنے کی بجائے، اس نیم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کاشف کے رخوں کی کسی ایک جوڑی کے لیے بل 
-نے چکر کے ترچھاحاصل ضرب کی  \TU/JameelNooriNastaleeq(1)/m/n/9 اوسط \TU/JameelNo
-oriNastaleeq(1)/m/sl/10 قیمت تلاش کرنے کی تجویز[]
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کلاسیکی مشاہدہ سے آغاز کرتے ہوئے ونٹزل و 
+کرامرس و برلوان تخمین اخذ کیا جاتا ہے۔ موخر الذکر طریقہ[]
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 102--103
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیش کی، جسے ہم $\OML/zplm/m/it/10 P\OT1/z
-plm/m/n/10 (\OML/cmm/b/it/10 a\OT1/ppl/m/n/10 , \OML/cmm/b/it/10 b\OT1/zplm/m/n
-/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 لکھتے ہیں۔ اگر کاشف متوازی ہوں، $\OM
-L/cmm/b/it/10 b \OT1/zplm/m/n/10 = \OML/cmm/b/it/10 a$\TU/JameelNooriNastaleeq(
-1)/m/sl/10 ، ہمیں اصل آئنشٹائن، پوڈلسکی، روزن و بوہم تشکیل[]
+Underfull \hbox (badness 3039) in paragraph at lines 103--105
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ٨.١:  \TU/AASameerSagarNastaleeqBol
+d(0)/m/n/10 دو انتصابی دیواروں والا مخفیہ کنواں۔ \TU/JameelNooriNastaleeq(1)/m/
+sl/10 فرض کریں ہمارے پاس ایک لامتناہی چوکور کنواں ہو جس کی تہہ[]
+ []
+
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+[324]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا، جو لامتناہی چوکور کنویں کی توانائی
+وں کا پرانا کلیہ ہے (مساوات ٢.٢٧[])۔ یہاں ونٹزل و کرامرس و برلوان تخمین ہمیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 حاصل ہو گا؛ ایسی صورت میں ایک ہم میدان او
-ر دوسرا خلاف میدان ہوگا، لہٰذا حاصل ضرب ہر[]
- []
-
-[432]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کی دلیل حیرت کن حد تک سادہ ہے۔ فرض ک
-ریں الیکٹران و ضد الیکٹران نظام کے ” مکمل“ حال[]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بالکل ٹھیک جواب فراہم کرتا ہے ( اصل تفاعل
+ موج کا حیطہ مستقل ہے، لہٰذا $\OML/zplm/m/it/10 A[]$ \TU/JameelNooriNastaleeq(1
+)/m/sl/10 کو نظرانداز کرنے سے کوئی اثر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو درپردہ متغیر (یا متغیرات) $\OML/zplm/m
-/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر کرتا ہے۔ ( ایک پایون تنزل 
-سے دوسرے پایون تنزل تک $\OML/zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl
-/10 کی تبدیلی[]
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.١:  ونٹزل و کرامرس و برلوان تخمین
+ استعمال کرتے ہوئے ایسے لامتناہی چوکور کنویں کی اجازتی توانائیاں $\OT1/zplm/m/n
+/10 (\OML/zplm/m/it/10 E[]\OT1/zplm/m/n/10 )$[]
+ []
+
+[325]
+Underfull \hbox (badness 3657) in paragraph at lines 164--166
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اپنے جواب کو $\OML/zplm/m/it/10 V[]$ \TU/
+JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 E[] \OMS/zplm/m/n/10 ^^Q
+ \OT1/zplm/m/n/10 (\OML/zplm/m/it/10 n^^Y\U/msb/m/n/10 }\OT1/zplm/m/n/10 )[]/\O
+T1/ppl/m/n/10 2\OML/zplm/m/it/10 ma[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 (بغی
+ر سیڑھی لامتناہی چوکور کنویں کی $\OML/zplm/m/it/10 n$\TU/JameelNooriNastaleeq(1
+)/m/sl/10 ویں اجازتی توانائی) کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کو نہ ہم سمجھتے اور نہ ہی قابو کر سکتے ہی
-ں۔) ساتھ ہی فرض کریں کہ الیکٹرانی پیمائش پر ضد الیکٹران کاشف[]
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ بہت چھوٹے $\OML/zplm/m/it/10 V[]$ \TU/
+JameelNooriNastaleeq(1)/m/sl/10 (جہاں نظریہ اضطراب کارآمد ہوگا) یا بہت بڑے $\OM
+L/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 (جہاں ونٹزل و کرامرس و بر
+لوان[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی سمت بندی $\OML/cmm/b/it/10 b$ \TU/Jame
-elNooriNastaleeq(1)/m/sl/10 کا کوئی اثر نہیں پایا جاتا؛ یاد رہے کہ تجربہ گر الی
-کٹرانی پیمائش کے بعد ضد الیکٹران کاشف[]
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 f\OT1/zplm/m/n/10
+ (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو
+ئی  \TU/JameelNooriNastaleeq(1)/m/n/9 مخلوط \TU/JameelNooriNastaleeq(1)/m/sl/10
+ تفاعل ہے۔( دھیان رہے کہ ہم یہاں عمومیت نہیں کھوتے؛ کسی بھی غیر صفر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کا رخ منتخب کر سکتا ہے۔ ایسی صورت میں چون
-کہ ضد الیکٹران کاشف کا رخ منتخب کرنے سے پہلے ہی الیکٹران کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 انہیں $\OML/zplm/m/it/10 f[]\OT1/zplm/m
+/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/
+10 اور $\OML/zplm/m/it/10 f[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n
+/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے حل کر کے دکھائیں کہ $\U/msb/m
+/n/10 }$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی اول رتبہ تک آپ مساوات ٨.١٠[] دو
+بارہ[]
+ []
+
+[326]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک مثال کے طور پر، مستطیلی رکاوٹ جس کی
+ بالائی سطح غیر ہموار ہو (شکل ٨.٣[]) سے بکھراو کے مسئلے پر غور کریں۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کی جا چکی ہوگی لہٰذا اس پر $\OML/c
-mm/b/it/10 b$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی سمت کا کوئی اثر نہیں ہو سک
-تا۔ ( یہ اصول مقامیت کا مفروضہ ہے۔)[]
+Underfull \hbox (badness 2359) in paragraph at lines 224--226
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا، جہاں $\OML/zplm/m/it/10 A$ \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 آمدی حیطہ اور $\OML/zplm/m/it/10 B$ \TU/JameelNoor
+iNastaleeq(1)/m/sl/10 منعکس حیطہ ہے، اور $\OML/zplm/m/it/10 k \OMS/zplm/m/n/10 
+^^Q []\OT1/zplm/m/n/10 /\U/msb/m/n/10 }$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے
+( حصہ ٢.٥[] دیکھیں)۔ رکاوٹ کے دائیں[]
+ []
+
+[327]
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر رکاوٹ بہت بلند، یا بہت چوڑا یا دونو
+ں ہو (یعنی جب سرنگ زنی کا احتمال بہت کم ہو)، تب قوت نمائی بڑھتے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں الیکٹرانی پیمائش کوئی تفاعل $\OML/zpl
-m/m/it/10 A\OT1/zplm/m/n/10 (\OML/cmm/b/it/10 a\OT1/ppl/m/n/10 , \OML/zplm/m/it
-/10 ^^U\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور ضد الیکٹرانی
- پیمائش کوئی دوسرا تفاعل $\OML/zplm/m/it/10 B\OT1/zplm/m/n/10 (\OML/cmm/b/it/10
- b\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^^U\OT1/zplm/m/n/10 )$ \TU/JameelNooriNas
-taleeq(1)/m/sl/10 دیگا۔[]
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جزو کا عددی سر $\OT1/zplm/m/n/10 (\OML/zp
+lm/m/it/10 C\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 لازماً چھوٹ
+ا ہوگا ( درحقیقت، \TU/JameelNooriNastaleeq(1)/m/n/9 لامتناہی \TU/JameelNooriNas
+taleeq(1)/m/sl/10 چوڑے رکاوٹ کی صورت میں یہ \TU/JameelNooriNastaleeq(1)/m/n/9 ص
+فر \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا)، اور[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 268.
+LaTeX Info: Redefining \sffamily on input line 268.
+LaTeX Info: Redefining \ttfamily on input line 268.
+
+Underfull \hbox (badness 7558) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ٨.٢:  \TU/AASameerSagarNastaleeqBol
+d(0)/m/n/10 الفا تحلیل کا نظریہ گامو۔[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 1
+928 ؁  میں جارج گامو نے مساوات ٨.٢٢[] استعمال کرتے ہوئے الفا تحلیل ([]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کے علاوہ ہم $\OML/zplm/m/it/10 ^^Z\OT1
-/zplm/m/n/10 (\OML/zplm/m/it/10 ^^U\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq
-(1)/m/sl/10 کے بارے میں کچھ بھی فرض نہیں کرتے ہیں؛ درپردہ متغیر کے مختلف نظریات
- $\OML/zplm/m/it/10 ^^Z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے[]
- []
-
-[433]
-Underfull \hbox (badness 2334) in paragraph at lines 143--146
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ تاہم مساوات ١٢.٥[] کے تحت $\OMS/zp
-lm/m/n/10 ^^@\OT1/ppl/m/n/10 1 \OMS/zplm/m/n/10 ^^T \OT1/zplm/m/n/10 [\OML/zplm
-/m/it/10 A\OT1/zplm/m/n/10 (\OML/cmm/b/it/10 a\OT1/ppl/m/n/10 , \OML/zplm/m/it/
-10 ^^U\OT1/zplm/m/n/10 )\OML/zplm/m/it/10 A\OT1/zplm/m/n/10 (\OML/cmm/b/it/10 b
-\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 ^^U\OT1/zplm/m/n/10 )] \OMS/zplm/m/n/10 ^^T
- \OT1/zplm/m/n/10 +\OT1/ppl/m/n/10 1$\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے؛ مز
-ید $\OML/zplm/m/it/10 ^^Z\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^U\OT1/zplm/m/n/1
-0 )[\OT1/ppl/m/n/10 1 \OMS/zplm/m/n/10 ^^@$[]
- []
-
-LaTeX Info: Redefining \rmfamily on input line 153.
-LaTeX Info: Redefining \sffamily on input line 153.
-LaTeX Info: Redefining \ttfamily on input line 153.
-
-Underfull \hbox (badness 1642) in paragraph at lines 152--154
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو گا۔ یہ مشہور  \TU/AASameerSagarNastale
-eqBold(0)/m/n/10 بل عدم مساوات[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ ہم ن
-ے درپردہ متغیرات کی تعداد یا خاصیت یا تقسیم $\OML/zplm/m/it/10 ^^Z$ \TU/JameelN
-ooriNastaleeq(1)/m/sl/10 کے بارے میں کچھ[]
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 152--154
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بھی فرض نہیں کیا، لہٰذا بل عدم مساوات (مس
-اوات ١٢.٥[] اور مساوات ١٢.٦[] کو مطمئن کرنے والے) ہر مقامی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن ہم بہت آسانی کے ساتھ دکھا سکتے ہیں
- کہ کوانٹائی میکانیات کی پیشنگوئی (مساوات ١٢.٤[]) اور بل عدم[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات غیر ہم آہنگ ہیں۔ مثال کے طور پر، ف
-رض کریں تینوں سمتیے ایک مستوی میں پائے جاتے ہیں، اور[]
- []
-
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 4.56004pt on input line 171.
-[434]
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں ترمیم بل سے آئنشٹائن، پوڈلسکی و روز
-ن تضاد ایک ایسی بات ثابت کرتا ہے جو اس کے مصنفین تصور بھی نہیں کر سکتے تھے۔[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر وہ درست ہوں، تب کوانٹائی میکانیات صرف
- \TU/JameelNooriNastaleeq(1)/m/n/9 نا مکمل \TU/JameelNooriNastaleeq(1)/m/sl/10 
-نہیں بلکہ مکمل طور پر \TU/JameelNooriNastaleeq(1)/m/n/9 غلط \TU/JameelNooriNast
-aleeq(1)/m/sl/10 بھی ہے۔ اس کے برعکس اگر[]
- []
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 178--179
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹائی میکانیات درست ہو، تب کوئی درپردہ
- متغیر نظریہ ہمیں غیر مقامیت، جسے آئنشٹائن مضحکہ خیز سمجھتا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--180
-[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 مسئلہ بل میں اوسط استعمال ہوتے ہیں، اور
- ممکن ہے کہ اسپکٹ کے آلات خفیہ طور پر جانب دار ہوں، جو غیر نمائندہ نمونے منتخب 
-کر کے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بل عدم مساوات کو پرکھنے کے لیے ساٹھ اور
- ستر کی دہائیوں میں کئی تجربے کیے گئے، جن میں اسپکٹ، گرنگیر اور[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 روجر کا کام قابل فخر ہے۔ ہمیں یہاں انکے ت
-جربہ کی تفصیل سے دلچسپی نہیں ہے (انہوں نے پایون تنزل کی بجائے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دو نوریہ جوہری انتقال استعمال کیا)۔ یہ خد
-شہ دور کرنے کے لیے کہ الیکٹران کاشف کی سمت بندی کو کسی طرح[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ضد الیکٹران کاشف ”جان پائے“ ، نوریہ کی رو
-انگی کے بعد دونوں کی نیم بلا منصوبہ سمت بندی کی گئی۔نتائج کوانٹائی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
-[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 قسمت کی ایک عجیب کھیل ہے کہ آئنشٹائن، پ
-وڈلسکی و روزن تضاد، جس نے حقیقت پسند سوچ کو ثابت کرنے کے لئے مقامیت فرض کی،[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 نے مقامیت کو غلط ثابت کیا، اور حقیقت پسند س
-وچ کو غیر طے شدہ چھوڑا؛ اس نتیجے کو آئنشٹائن بالکل پسند نہ کرتے۔ زیادہ تر ماہر 
-طبیعیات کا[]
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 182--182
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 خیال ہے کہ مقامی حقیقت پسند سوچ نہ ہونے کی 
-صورت میں حقیقت پسند سوچ بے کار ہے، اور اسی لئے غیر مقامی درپردہ متغیر نظریات کو
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 چند مخصوص تابکار مراکزہ سے، دو پروٹان اور
+ دو نیوٹران پر مشتمل، الفا ذرہ کے اخراج )کی وجہ پیش کی۔ چونکہ الفا ذرہ مثبت بار
 []
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 182--182
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 اہمیت نہیں دی جاتی۔ اس کے باوجود بعض مصنفین
-، جن میں بل بھی شامل ہے، کہتے ہیں کہ پیمائشی آلات اور اس نظام جس کی پیمائش کی ج
-ا[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 e\OT1/zplm/m/n/10 )$ \T
+U/JameelNooriNastaleeq(1)/m/sl/10 کا حامل ہے، لہٰذا جیسے ہی یہ مرکزوی بندشی قوت
+ کی پہنچ سے باہر نکلتا ہے، باقی مرکزہ ( کے بار $\OT1/zplm/m/n/10 (\OML/zplm/m/i
+t/10 Ze\OT1/zplm/m/n/10 )$\TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ستم ظریفی کی بات ہے کہ کوانٹائی میکانیا
-ت کی تجرباتی تصدیق نے سائنسی برادری کو ہلا کر رکھ دیا۔ لیکن اس کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 برقی قوت دافع اس کو دور جانے پر مجبور کرت
+ی ہے۔ لیکن، اس کو پہلے اس مخفی رکاوٹ سے گزرنا ہوگا ( جو یورینیم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو ابھی بھی نہیں مانتے تھے، انکے لیے \TU/
-JameelNooriNastaleeq(1)/m/n/9 غیر مقامی \TU/JameelNooriNastaleeq(1)/m/sl/10 درپ
-ردہ متغیر نظریات کا راستہ کھلا ہے، جن پر مسئلہ بل کا اطلاق نہیں[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں) خارجی الفا ذرے کی توانائی سے
+ دو گنا سے بھی زیادہ ہے۔ گامو نے اس مخفی توانائی کو تخمینی طور پر (پروٹان کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوتا[][])۔ اصل صدمہ اس بات کا تھا کہ \TU/
-JameelNooriNastaleeq(1)/m/n/9 قدرت خود بنیادی طور پر غیر مقامی ہے\TU/JameelNoor
-iNastaleeq(1)/m/sl/10 ۔ تفاعل موج کے یکدم انہدام[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 رداس) $\OML/zplm/m/it/10 r[]$ \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 وسعت کے چوکور کنواں ( جو مرکزوی قوت کشش کو ظاہر کرتا ہ
+ے) کو کولمب قوت دافع کی دم سے جوڑ کر ظاہر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں (اور غیر مقامیت یا متماثل ذرا
-ت کے لیے ضرورت تشاکلیت) ہمیشہ تقلید پسند نظریہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کیا (شکل ٨.٥[])، اور کوانٹائی سرنگ زنی کو
+ الفا ذرہ کی فرار کی وجہ قرار دیا ( مرکزوی طبیعیات پر کوانٹائی[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی خاصیت رہی ہے، لیکن اسپکٹ تجربہ سے قبل 
-اُمید کی جا سکتی تھی کہ کوانٹائی غیر مقامیت کسی طرح[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ماہر طبیعیات روشنی سے زیادہ تیز رفتار ا
-ثر و رسوخ کو کیوں برداشت نہیں کر سکتے؟ آخر، کئی چیزیں روشنی سے زیادہ[]
+[328]
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہاں رکاوٹ کی بائیں جانب مخفیہ صفر نہیں
+ ہے (مزید، حقیقتاً یہ تین بعدی مسئلہ ہے)، تاہم مساوات ٨.٢٢[] میں پیش بنیادی[]
  []
 
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 4.56004pt on input line 306.
+[329]
+LaTeX Info: Redefining \rmfamily on input line 313.
+LaTeX Info: Redefining \sffamily on input line 313.
+LaTeX Info: Redefining \ttfamily on input line 313.
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تیز رفتار سے حرکت کرتی ہیں۔ ایک موم بتی ک
-ے سامنے چلتے ہوئے کیڑے کا سامنے دیوار پر سائے کی رفتار دیوار[]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے بیچ اوسط وقفہ تقریباً $\OT1/ppl/m/n/10
+ 2\OML/zplm/m/it/10 r[]\OT1/zplm/m/n/10 /\OML/zplm/m/it/10 v$ \TU/JameelNooriNa
+staleeq(1)/m/sl/10 ہوگا، لہٰذا تصادم کا تعدد $\OML/zplm/m/it/10 v\OT1/zplm/m/n/
+10 /\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 r[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ ہوگا۔ ہر تصادم پر فرار ہونے کا احتمال $\OML/zplm/m/it/10 e[]$[]
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 234--235
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تک فاصلے کے راست متناسب ہوگی؛ اصولاً آپ ا
-س فاصلہ کو اتنا بڑھا سکتے ہیں کہ سائے کی رفتار روشنی[]
+Underfull \hbox (badness 2197) in paragraph at lines 313--314
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے، لہٰذا اکائی وقت میں اخراج کا احتمال $
+\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 v\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2\OML/zp
+lm/m/it/10 r[]\OT1/zplm/m/n/10 )\OML/zplm/m/it/10 e[]$ \TU/JameelNooriNastaleeq
+(1)/m/sl/10 ہوگا، اور یوں مائی مرکزہ کا  \TU/AASameerSagarNastaleeqBold(0)/m/n/
+10 عرصہ حیات[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 تقریباً درج[]
  []
-
 
-Underfull \hbox (badness 1960) in paragraph at lines 234--235
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے زیادہ ہو (شکل ١٢.٤[])۔ تاہم، دیوار پر 
-کسی ایک نقطہ سے دوسرے نقطہ تک سایہ نہ کوئی  \TU/JameelNooriNastaleeq(1)/m/n/9 ت
-وانائی \TU/JameelNooriNastaleeq(1)/m/sl/10 منتقل کر سکتا ہے[]
- []
 
-[435]
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کے برعکس، روشنی سے زیادہ تیز حرکت کر
-نے والے  \TU/JameelNooriNastaleeq(1)/m/n/9 سببی \TU/JameelNooriNastaleeq(1)/m/s
-l/10 اثر و رسوخ کے ناقابل قبول مضمرات پائے[]
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 شكل ٨.٦: |یورینیم اور تھوریم کے عرصہ حی
+ات کے لوگارتھم بالمقابل $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /[]$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 کی ترسیمات (جہاں خارجی الفا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جاتے ہیں۔ خصوصی نظریہ اضافت میں ایسے جمود
-ی چوکھٹ پائے جاتے ہیں جن میں اس طرح کا اشارہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 316--335
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 بدقسمتی سے ہم $\OML/zplm/m/it/10 v$ \TU/
+JameelNooriNastaleeq(1)/m/sl/10 نہیں جانتے، لیکن اس سے زیادہ فرق نہیں پڑتا، چون
+کہ ایک تابکار مرکزہ سے اور دوسرے تابکار[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[]\TU/JameelNooriNastaleeq(1)/m/n/9 وقت میں پیچھے \TU/JameelNooriNastaleeq(1)/m
-/sl/10 جا سکے گا؛ یعنی سبب سے پہلے اثر رونما ہوگا؛ جس سے ناقابل قبول منتقی مسائ
-ل کھڑے ہوتے ہیں۔[]
+Underfull \hbox (badness 10000) in paragraph at lines 316--335
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مرکزہ کے بیچ قوت نمائی جزو ضربی پچیس رتبی
+ تک تبدیل ہوتا ہے؛ اس کے سامنے $\OML/zplm/m/it/10 v$ \TU/JameelNooriNastaleeq(1
+)/m/sl/10 کی تبدیلی قابل نظرانداز[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مثلاً، آپ اپنے نوزائیدہ دادا کو قتل کر س
-کتے ہیں، جو ایک بری بات ہے!) اب سوال یہ کھڑا ہوتا ہے کہ آیا روشنی[]
+Underfull \hbox (badness 10000) in paragraph at lines 316--335
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ بالخصوص، عرصہ حیات کی تجرباتی پیمائشی
+ قیمتوں کو $\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /[]$ \TU/JameelNooriNastaleeq(1)/
+m/sl/10 کے ساتھ ترسیم کرنے سے ایک خوبصورت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سے تیز اثرات جن کی پیشنگوئی کوانٹائی میکا
-نیات کرتی ہے، اور جو اسپکٹ تجربے میں کشف ہوتے ہیں ان معنوں[]
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے، کی تخمینی ترسیمی احتمال مساوات ٨.٢٨[]
+ استعمال کرتے ہوئے حاصل کریں۔ اپنے جواب کا موازنہ اصل نتیجے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں سببی ہیں، یا یہ ( سائے کی حرکت کی طرح
-) غیر حقیقی ہیں جن پر فلسفیانہ اعتراضات نہیں لگائے جا[]
+Underfull \hbox (badness 10000) in paragraph at lines 338--341
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.٤:  مساوات ٨.٢٥[] اور مساوات ٨.٢
+٨[] استعمال کرتے ہوئے $[]\OT1/ppl/m/n/10 U[][]$ \TU/JameelNooriNastaleeq(1)/m/s
+l/10 اور $[][][][]$ کے عرصہ حیات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 آئیں تجربہ بل پر غور کرتے ہیں۔ کیا الیک
-ٹران کی پیمائش کا ضد الیکٹران کی پیمائش پر \TU/JameelNooriNastaleeq(1)/m/n/9 اث
-ر \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا؟ یقیناً، اس کا اثر ہوتا[]
+Underfull \hbox (badness 10000) in paragraph at lines 338--341
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تلاش کریں۔ \TU/JameelNooriNastaleeq(1)/m/
+n/9 اشارہ:\TU/JameelNooriNastaleeq(1)/m/sl/10 تمام مراکزہ میں مرکزوی مادہ کی کث
+افت تقریباً ایک جیسی ہوتی ہے، لہٰذا $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 r[]\OT
+1/zplm/m/n/10 )[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے؛ ورنہ ہم مواد کے بیچ باہم رشتے کی وضاح
-ت پیش کرنے سائے قاصر ہوں گے۔ لیکن کیا الیکٹران کی پیمائش[]
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 m[]$ \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 مائی مرکزہ کی کمیت، $\OML/zplm/m/it/10 m[]$ \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 بیٹی مرکزہ کی کمیت، اور $\OML/zplm/m/it/10 m[]$ \TU/Ja
+meelNooriNastaleeq(1)/m/sl/10 الفا ذرے ( یعنی $[][][][]$ مرکزہ) کی کمیت ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ضد الیکٹران کے کسی مخصوص نتیجے کا \TU/Jam
-eelNooriNastaleeq(1)/m/n/9 سبب \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے؟ اس لفظ ک
-ے عام مطلب کے نقطہ نظر سے ایسا نہیں ہوتا۔الیکٹران[]
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ دیکھنے کی خاطر کہ بیٹی مرکزہ کیا ہوگا،
+ یاد رہے کہ الفا ذرہ دو پروٹان اور دو نیوٹران لے کر فرار ہوتا ہے، لہٰذا $\OML/z
+plm/m/it/10 Z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے دو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے کاشف پر مامور شخص اپنی پیمائش کے ذریعہ
- ضد الیکٹران کاشف پر مامور شخص کو اشارہ نہیں بھیج سکتا، چونکہ وہ اپنی[]
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 A$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 سے چار منفی کریں۔ حاصل جوابات استعمال کرتے ہوئے دوری جدول 
+سے کیمیائی عنصر کا تعین کریں۔ سمتی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کے نتیجہ کو قابو نہیں کرتا ( وہ ال
-یکٹران کو ہم میدان ہونے پر \TU/JameelNooriNastaleeq(1)/m/n/9 مجبور \TU/JameelNo
-oriNastaleeq(1)/m/sl/10 نہیں کر سکتا، جیسا نقطہ $\OML/zplm/m/it/10 X$ \TU/Jamee
-lNooriNastaleeq(1)/m/sl/10 پر کیڑا[]
+Underfull \hbox (badness 2503) in paragraph at lines 347--349
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے، لہٰذا $\OML/zplm/m/it/10 v$ \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 کی قیمت اصل سے زیادہ دیگی، تاہم اب تک ہم صرف اتنا ہی
+ کر سکتے ہیں۔ اتفاقی طور پر ان کیمیائی عناصر[]
  []
-
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے سائے پر وہ شخص اثر انداز نہیں ہو سکتا)
-۔ ہاں الیکٹران کاشف پر مامور شخص \TU/JameelNooriNastaleeq(1)/m/n/9 پیمائش کرنے 
-یا نہ کرنے \TU/JameelNooriNastaleeq(1)/m/sl/10 کا فیصلہ کر سکتا ہے،[]
+[330]
+Underfull \hbox (badness 10000) in paragraph at lines 353--374
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اب تک کے بحث و فکر میں میں فرض کرتا رہا ک
+ہ مخفی کنویں ( یا رکاوٹ) کی” دیواریں“  \TU/JameelNooriNastaleeq(1)/m/n/9 انتصاب
+ی \TU/JameelNooriNastaleeq(1)/m/sl/10 تھیں، جس کی بنا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن ضد الیکٹران کاشف پر مامور شخص اپنی پ
-یمائشی نتائج کو دیکھ کر یہ نہیں بتا سکتا کہ الیکٹران کی پیمائش کی گئی یا[]
+Underfull \hbox (badness 10000) in paragraph at lines 353--374
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پر بیرونی حل آسان اور سرحدی شرائط سادہ تھ
+ے۔ درحقیقت، ہمارے مرکزی نتائج (مساوات ٨.١٦[] اور[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں، چونکہ دونوں کاشف کے نتائج پر علیحدہ
- علیحدہ غور کرنے سے مکمل بلا واسطہ مواد دیکھنے کو ملتا ہے۔ صرف بعد[]
+Underfull \hbox (badness 4479) in paragraph at lines 353--374
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٨.٢٢[]) اس صورت میں بھی کافی حد تک
+ درست ثابت ہوتے ہیں جب کناروں کی ڈھلان زیادہ نہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں دونوں مواد کا ایک دوسرے کے ساتھ \TU/J
-ameelNooriNastaleeq(1)/m/n/9 موازنہ \TU/JameelNooriNastaleeq(1)/m/sl/10 کرنے سے
- ہمیں ان کے بیچ باہم رشتہ نظر آتا ہے۔ کسی دوسری[]
+Underfull \hbox (badness 10000) in paragraph at lines 353--374
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موج کا قریبی مطالعہ کرنا چاہیں گے۔ اس حصہ
+ میں میں مقید حال مسئلہ (شکل ٨.١[]) پر غور کروں گا؛ آپ[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جمودی چوکھٹ میں الیکٹران کی پیمائش سے \TU
-/JameelNooriNastaleeq(1)/m/n/9 قبل \TU/JameelNooriNastaleeq(1)/m/sl/10 ضد الیکٹ
-ران کی پیمائش کی جائے گی، لیکن اس کے باوجود[]
+[331]
+Underfull \hbox (badness 1226) in paragraph at lines 383--385
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 خارج کر سکتے ہیں، چونکہ $\OML/zplm/m/it/1
+0 x \OMS/zplm/m/n/10 ! 1$ \TU/JameelNooriNastaleeq(1)/m/sl/10 پر یہ بے قابو بڑھ
+تا ہے۔) ہمارا کام ان دو حل کو سرحد پر ایک دوسرے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس سے کوئی منتقی تضاد پیدا نہیں ہوتا؛ دکھ
-ا گیا باہم رشتہ اس پر منحصر نہیں کہ ہم کہیں الیکٹران کی پیمائش[]
+Underfull \hbox (badness 6641) in paragraph at lines 383--385
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ جوڑنا ہے۔ لیکن یہاں ہمیں شدید مشک
+لات کا سامنا در پیش ہے: ونٹزل و کرامرس و برلوان تخمین میں[]
  []
-
 
-Underfull \hbox (badness 3417) in paragraph at lines 240--241
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ضد الیکٹران کی پیمائش پر اثر انداز ہوتی ہ
-ے یا ضد الیکٹران کی پیمائش الیکٹران کی پیمائش پر اثر انداز ہوتی ہے۔ یہ[]
- []
 
-[436]
-Underfull \hbox (badness 10000) in paragraph at lines 242--245
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں، ہمیں دو مختلف اقسام کے اثرات کی با
-ت کرنی ہوگی: ”سببی“ قسم، جو وصول کنندہ کی کسی طبیعی خاصیت میں حقیقی[]
+Underfull \hbox (badness 10000) in paragraph at lines 383--385
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن اجازتی توانائیوں کا تعین نقاط واپسیں
+ پر سرحدی شرائط کرتی ہیں۔ ہم ایک ایسا ”پیوندکار“ تفاعل موج لیتے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--245
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تبدیلیاں پیدا کرتا ہے، جنہیں صرف ذیلی نظا
-م پر تجرباتی پیمائش سے کشف کیا جا سکتا ہے، اور ”غیر حقیقی“[]
- []
+Underfull \vbox (badness 2564) has occurred while \output is active []
 
+ [332]
+LaTeX Info: Redefining \rmfamily on input line 410.
+LaTeX Info: Redefining \sffamily on input line 410.
+LaTeX Info: Redefining \ttfamily on input line 410.
+LaTeX Info: Redefining \rmfamily on input line 410.
+LaTeX Info: Redefining \sffamily on input line 410.
+LaTeX Info: Redefining \ttfamily on input line 410.
 
-Underfull \hbox (badness 4403) in paragraph at lines 242--245
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قسم جو توانائی یا معلومات کی ترسیل نہیں ک
-رتا، اور جس کا واحد ثبوت دو علیحدہ ذیلی نظاموں کے مواد کے بیچ باہم رشتہ ہے؛[]
+Underfull \hbox (badness 10000) in paragraph at lines 410--410
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 کلاسیکی طور پر، خطی مخفیہ سے مراد مستقل
+ قوت، لہٰذا مستقل اسراع ہے؛ یہ سادہ ترین حرکت ہے، جہاں سے بنیادی میکانیات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--245
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس باہم رشتہ کو کسی بھی طرح کسی ایک ذیلی 
-نظام میں تجربات کے نتائج کو دیکھ کر کشف نہیں کیا جا سکتا[]
+Underfull \hbox (badness 10000) in paragraph at lines 410--410
+[]\TU/JameelNooriNastaleeq(1)/m/n/8 کا آغاز ہوتا ہے۔ ستم ظریفی کی بات ہے کہ یہی
+ سادہ مخفیہ، کوانٹائی میکانیات میں ماورائی تفاعلات کو جنم دیتا ہے، اور اس نظریہ
+[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--245
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں۔ تفاعل موج کے انہدام سے وابستہ اثرات
- موخر الذکر قسم کے ہیں، جن کا روشنی سے تیز سفر کرنا حیران[]
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ  \TU/AASameerSagarNastaleeqBold(0)/m/n
+/10 مساوات ایئری[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے جس کے حلوں کو  \TU/
+AASameerSagarNastaleeqBold(0)/m/n/10 تفاعلات ایئری[][] \TU/JameelNooriNastaleeq
+(1)/m/sl/10 کہتے ہیں۔ [][] چونکہ مساوات ایئری دو رتبی تفرقی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کیوں  \TU/JameelNooriNastaleeq(1)/m/n/9 ا
-ن \TU/JameelNooriNastaleeq(1)/m/sl/10 کی پیمائش نہیں کرتے۔ ایسا کرنا ممکن نہیں 
-ہے۔ اگر آپ قلمیہ بنانے والا آلہ بنا پائیں، کوانٹائی میکانیات کو[]
+Overfull \hbox (40.82175pt too wide) in paragraph at lines 417--436
+ [][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال کے طور پر، یوں آئنشٹائن، پوڈلسکی، 
-روزن اور بوہم تجربہ کے ذریعہ روشنی سے تیز رفتار پر خبر بھیجنا ممکن ہوگا۔[]
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+PGFPlots: reading {kairyA.txt}
+PGFPlots: reading {kairyB.txt}
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں ضد الیکٹران کاشف چلانے والا شخص 
-”ہاں“ یا ”نہیں“ کی خبر ترسیل کرتا ہے۔ ” ہاں“ کی خبر ہونے کی[]
+Overfull \hbox (3.83385pt too wide) in paragraph at lines 475--479
+ [][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت میں بھیجنے والا ( ضد الیکٹران کا) $\
-OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ناپتا ہے۔ یہ جاننے کی
- ضرورت نہیں کہ پیمائشی نتیجہ کیا ہے؛[]
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ان کا تعلق رتبہ $\OT1/ppl/m/n/10 1\OT1/
+zplm/m/n/10 /\OT1/ppl/m/n/10 3$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے بیسل تفا
+علات کے ساتھ ہے؛ ان کے چند خواص جدول ٨.١[] میں پیش کیے گئے ہیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صرف اتنا ضروری ہے کہ پیمائش کی جائے؛ یوں 
-الیکٹران کسی غیر مبہم حال $\OMS/zplm/m/n/10 "$ \TU/JameelNooriNastaleeq(1)/m/sl
-/10 یا $\OMS/zplm/m/n/10 #$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں ہوگا (جس کا
- جاننا[]
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہ نازک دوہری مسلط شرط ہے،اور ایسے گھمب
+یر مخفیے تیار کرنا ممکن ہے کہ جن میں اس طرح کا کوئی منطبق خطہ نہ پایا جاتا ہو۔ 
+البتہ،[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر اہم ہے)۔ خبر وصول کرنے والا جلدی سے ا
-لیکٹران کے دس لاکھ قلمیہ تیار کر کے، ہر ایک پر $\OML/zplm/m/it/10 S[]$ \TU/Jame
-elNooriNastaleeq(1)/m/sl/10 ناپتا ہے۔ اگر[]
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اب $\OML/zplm/m/it/10  []$ \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 مبدا کے پڑوس میں ( تخمینی) تفاعل موج ہے؛ ہم نے مبدا کے 
+دونوں اطراف منطبق خطوں میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تمام کا ایک ہی جواب ہو ( جواب کیا ہے؟ یہ 
-جاننا ضروری نہیں)، ہم یقین سے کہہ سکیں گے کہ الیکٹران کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+[]$\OML/zplm/m/it/10  []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو ونٹزل و کرامرس
+ و برلوان حلوں کے ساتھ ہم پلہ بنانا ہوگا ( شکل ٨.٩[] دیکھیں)۔ یہ منطبق خطے نقاط
+ واپسیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کی گئی، لہٰذا خبر ”ہاں“ ہوگی۔ اگر 
-نصف الیکٹران ہم میدان، اور نصف خلاف میدان ہوں، تب یقیناً[]
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نقاط واپسیں سے اتنے دور ضرور ہیں کہ ونٹزل
+ و کرامرس و برلوان تخمین پر بھروسہ کیا جا سکتا ہے۔[][] منطبق خطوں میں[]
  []
-
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن  1982 ؁ میں ووٹرز، زورک اور ڈائکز 
-نے ثابت کیا کہ ایسا مشین نہیں بنایا جا سکتا جو کوانٹائی متماثل ذرات[]
+[333] [334]
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+[]$\OML/zplm/m/it/8 z$ \TU/JameelNooriNastaleeq(1)/m/n/8 تخمین کا استعمال نامعق
+ول نظر آتا ہے۔ لیکن یہاں تفاعل کا دلیل $\OML/zplm/m/it/8 z$ \TU/JameelNooriNast
+aleeq(1)/m/n/8 نہیں $\OML/zplm/m/it/8 ^^Kx$ \TU/JameelNooriNastaleeq(1)/m/n/8 ہ
+ے، اور اگر آپ غور کریں (سوال ٨.٨[] دیکھیں) تو آپ دیکھیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیدا کرتا ہو۔ ہم چاہیں گے کہ یہ مشین حال 
-$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10  \OMS/zplm/m/n/10 i$ \TU/JameelNooriNastal
-eeq(1)/m/sl/10 میں ایک ذرہ (جس کا نقل بنانا مقصود ہو) اور حال $\OMS/zplm/m/n/10
- j\OML/zplm/m/it/10 X\OMS/zplm/m/n/10 i$[]
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایئری تفاعلات کی بڑی $\OML/zplm/m/it/10 z
+$ \TU/JameelNooriNastaleeq(1)/m/sl/10 متقاربی روپ[][] (جدول ٨.١[]) استعمال کرتے
+ ہوئے، منطبق خطہ $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں پی
+وند کار[]
  []
 
-[437]
-Underfull \hbox (badness 4254) in paragraph at lines 262--264
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مثال کے طور پر، اگر ذرہ ایک الیکٹران ہو،
- تب $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10  []\OMS/zplm/m/n/10 i$ \TU/JameelNoori
-Nastaleeq(1)/m/sl/10 اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10  []\OMS/zplm/m/n/
-10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہم میدان اور خلاف میدان ہو سکتے ہیں)۔
- یہاں[]
+[335]
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم یہی کچھ منطبق خطہ $\OT1/ppl/m/n/10 1
+$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے بھی کرتے ہیں۔ اب بھی مساوات ٨.٣٨[]
+ ہمیں $\OML/zplm/m/it/10 p\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10
+ )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 دیگی، تاہم اس مرتبہ $\OML/zplm/m/it/10 
+x$  \TU/JameelNooriNastaleeq(1)/m/n/9 منفی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
-[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 ہم فرض کر رہے ہیں کہ حال $\OMS/zplm/m/n
-/8 j\OML/zplm/m/it/8  \OMS/zplm/m/n/8 i$ \TU/JameelNooriNastaleeq(1)/m/n/8 پر آ
-لہ \TU/JameelNooriNastaleeq(1)/m/n/9 خطی \TU/JameelNooriNastaleeq(1)/m/n/8 عمل 
-کرتا ہے؛ ہونا بھی ایسا ہی چاہیے، چونکہ تابع وقت مساوات شروڈنگر (جس کے تحت[]
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ ہی بہت بڑی \TU/JameelNooriNastaleeq(
+1)/m/n/9 منفی $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے 
+ایئری تفاعل کا متقارب روپ (جدول ٨.١[]) استعمال کرتے ہوئے پیوندی[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 556.
+LaTeX Info: Redefining \sffamily on input line 556.
+LaTeX Info: Redefining \ttfamily on input line 556.
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپ ہم میدان الیکٹران اور خلاف میدان الیکٹ
-ران کے قلمیہ بنانے کی مشین بنا سکتے ہیں، لیکن وہ کسی بھی غیر[]
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 انہیں \TU/AASameerSagarNastaleeqBold(0)/m
+/n/10 کلیات جوڑ[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے ہیں، جو نقطہ واپسی
+ں کے دونوں اطراف ونٹزل و کرامرس و برلوان حلوں کو آپس میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مہمل خطی جوڑ کی صورت میں ناکامی کا شکار ہ
-وگا۔ یہ بالکل ایسا ہوگا جیسا نقل بنانے کی مشین افقی لکیروں اور انتصابی[]
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیوند کرتے ہیں۔ پیوندی تفاعل موج کا کام، 
+نقطہ واپسیں پر پیدا درز کو ڈھانپنا تھا؛ اس کی ضرورت آگے نہیں آئے[]
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 276--276
-[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یہ طبقہ سوچ اس امتیاز کو رد کرتا ہے، او
-ر کہتا ہے کہ پیمائشی آلہ اور نظام کو ایک ہی بڑا تفاعل موج ظاہر کرے، جو مساوات ش
-روڈنگر[]
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گی۔تمام چیزوں کو معمول زنی مستقل $\OML/zp
+lm/m/it/10 D$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں بیان کر کے نقطہ و
+اپسیں کو واپس مبدا سے اختیاری نقطہ[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 کے تحت ارتقا کرتا ہو۔ ایسے نظریات میں تفاعل
- موج منہدم نہیں ہوتا، تاہم ہم انفرادی وقوعہ کو بیان کرنے سے قاصر ہوں گے؛ اس[]
- []
 
+LaTeX Warning: Command \textless invalid in math mode on input line 563.
 
-Underfull \hbox (badness 3536) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کوانٹائی میکانیات میں پیمائش کا عمل ایک ش
-رارتی کردار ادا کرتا ہے: یہیں پر عدم تعیّنیت، غیر مقامیت،[]
- []
 
+LaTeX Warning: Command \textgreater invalid in math mode on input line 563.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعل موج کا انہدام، اور باقی تمام تصورات
-ی مشکلات رونما ہوتی ہیں۔ پیمائش کی غیر موجودگی میں،مساوات[]
- []
 
+LaTeX Warning: Command \textless invalid in math mode on input line 563.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر کے تحت، تفاعل موج اطمینان اور تعی
-ینی طریقے سے ارتقا کرتا ہے، اور کوانٹائی میکانیات کسی بھی سادہ[]
- []
 
+LaTeX Warning: Command \textgreater invalid in math mode on input line 563.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 نظریہ میدان کی طرح نظر آتی ہے (جو کلاسیکی
- برقی حرکیات سے بہت سادہ ہوگی، چونکہ دو میدان ($\OML/cmm/b/it/10 E$[]
+[336]
+Missing character: There is no 6 in font nullfont!
+ [337]
+Underfull \hbox (badness 10000) in paragraph at lines 612--614
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مخصوص صورت میں ونٹزل و کرامرس و برلوان
+ تخمین اصل اجازتی توانائیاں دیتی ہے (جو \TU/JameelNooriNastaleeq(1)/m/n/9 مکمل 
+\TU/JameelNooriNastaleeq(1)/m/sl/10 ہارمونی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/cmm/b/it/10 B$\TU/JameelNooriNa
-staleeq(1)/m/sl/10 ) کے بجائے اس میں ایک میدان $\OT1/zplm/m/n/10 (\OML/zplm/m/i
-t/10  \OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 پایا جاتا ہے، اور
- جو غیر سمتی ہے)۔ یہ پیمائش کا عجیب و[]
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال  ٨.٤:  \TU/AASameerSagarNastaleeqBol
+d(0)/m/n/10 بغیر انتصابی دیواروں کا مخفیہ کنواں۔ \TU/JameelNooriNastaleeq(1)/m/
+sl/10 اس نقطہ واپسیں پر جہاں مخفیہ کی ڈھلوان اوپر رخ (شکل ٨.١١[]-ا)[]
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 276--277
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غریب کردار عمل ہی ہے، جو کوانٹائی میکانیا
-ت کو سمجھ سے باہر خواص سے نوازتا ہے۔ پیمائش در حقیقت ہے کیا؟[]
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو، مساوات ٨.٤٦[] ونٹزل و کرامرس و برلوان
+ تفاعلات موج کو آپس میں پیوند کرتی ہے۔ نیچے ڈھلوان نقطہ[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 278.
-LaTeX Info: Redefining \sffamily on input line 278.
-LaTeX Info: Redefining \ttfamily on input line 278.
-LaTeX Info: Redefining \rmfamily on input line 280.
-LaTeX Info: Redefining \sffamily on input line 280.
-LaTeX Info: Redefining \ttfamily on input line 280.
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک بلی کو فولاد کے ایک بند ڈبے میں بند
- کیا جاتا ہے؛ اس ڈبے میں ایک  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 گائگر گن
-ت کار[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 اور کسی تابکار[]
+[338]
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 سائن تفاعلات کے دلیل میں فرق مضرب $\OML
+/zplm/m/it/8 ^^Y$ \TU/JameelNooriNastaleeq(1)/m/n/8 نہ کے مضرب $\OT1/ppl/m/n/8 
+2\OML/zplm/m/it/8 ^^Y$ \TU/JameelNooriNastaleeq(1)/m/n/8 ہو گا، چونکہ مجموعی من
+فی علامت کو معمول زنی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مادے کی اتنی چھوٹی مقدار رکھی جاتی ہے جس 
-میں ایک گھنٹہ میں صرف ایک جوہر کے تنزل کا امکان ہو، تاہم[]
+Underfull \hbox (badness 10000) in paragraph at lines 682--684
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مساوات ٨.٥٠[])۔ ظاہر ہے، ماسوائے مضرب $\
+OML/zplm/m/it/10 ^^Y$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے،[][] سائن تفاعلات 
+کے دلیل لازماً برابر ہوں گے:[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ بھی ممکن ہے کہ کوئی جوہر تنزل نہ ہو۔ ت
-نزل کی صورت میں گنت کار اس ڈبے میں زہریلی گیس چھوڑتا[]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ کوانٹازنی شرط، دو ڈھلوان اطراف کے ”ع
+مومی“ مخفیہ کنویں کی اجازتی توانائیوں کو تعین کرتا ہے۔ دھیان رہے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ ایک گھنٹہ گزرنے کے بعد ہم کہہ سکتے ہی
-ں کہ تنزل نہ ہونے کی صورت میں یہ بلی زندہ ہوگی۔ پہلا[]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کہ دو انتصابی دیواروں کے کلیہ (مساوات ٨.١
+٦[]) یا ایک انتصابی دیوار کے کلیہ (مساوات ٨.٤٧[]) اور موجودہ کلیہ[]
  []
-
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تنزل اس کو زہر سے مار دیتا۔اس مکمل نظام ک
-ا تفاعل موج، اس حقیقت کو ظاہر کرنے کے لیے، زندہ اور مردہ[]
- []
 
-[438]
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ بلی نہ تو زندہ اور نہ ہی مردہ ہے، بلکہ
- پیمائش سے پہلے یہ ان دونوں کا ایک خطی جوڑ ہوگا۔ کھڑکی سے اندر دیکھ[]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مساوات ٨.٥١[]) میں صرف اس عدد ($\OT1/ppl
+/m/n/10 0$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OT1/ppl/m/n/10 1\OT1/zplm/m/n
+/10 /\OT1/ppl/m/n/10 4$ \TU/JameelNooriNastaleeq(1)/m/sl/10 یا $\OT1/ppl/m/n/10
+ 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2$\TU/JameelNooriNastaleeq(1)/m/sl/10 ) کا 
+فرق ہے جو $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے منفی ہوت
+ا ہے۔ چونکہ ونٹزل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کر بلی کا حال جاننے کو پیمائش تصور کیا جا
-ئے گا۔ آپ کا دیکھنے کا عمل بلی کو زندہ یا مردہ ہونے پر \TU/JameelNooriNastaleeq
-(1)/m/n/9 مجبور \TU/JameelNooriNastaleeq(1)/m/sl/10 کرتا ہے۔ ایسی[]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 و کرامرس و برلوان تخمین (بڑی $\OML/zplm/m
+/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی) نیم کلاسیکی طریق میں بہترین ک
+ام کرتی ہے، لہٰذا یہ فرق صرف[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت میں اگر بلی مردہ پائی جائے، تو یقینا
-ً اس کے ذمہ دار آپ ہی ہیں، چونکہ آپ نے کھڑکی سے دیکھ کر اسے[]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دکھاوے کی حد تک ہے۔ بہر حال یہ نتیجہ انتہ
+ائی طاقتور ہے، جس کو استعمال کر کے، مساوات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر اس تمام کو ایک بکواس سے زیادہ ن
-ہیں سمجھتا تھا، اور میرے خیال ہے زیادہ تر ماہر طبیعیات ان کے[]
+Underfull \hbox (badness 1158) in paragraph at lines 688--689
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 شروڈنگر حل کیے بغیر، ایک سادہ تکمل کی قیم
+ت حاصل کر کے تخمینی اجازتی توانائیاں معلوم کی جا سکتی ہیں۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ساتھ متفق ہیں۔  \TU/JameelNooriNastaleeq(
-1)/m/n/9 کلاں بین \TU/JameelNooriNastaleeq(1)/m/sl/10 اجسام کا دو (واضح طور پر)
- مختلف حالات کے ایک خطی جوڑ کی صورت میں ہونے کا تصور بے معنی[]
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.٥: []زمین پر لچکدار ٹپکیاں لیتے ہ
+وئے (کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی) گیند کے
+ کلاسیکی مسئلے کے مماثل کوانٹائی میکانی مسئلے پر[]
  []
 
 
-Underfull \hbox (badness 8170) in paragraph at lines 288--289
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ ایک الیکٹران ہم میدان اور خلاف میدان 
-کا خطی جوڑ ہو سکتا ہے، لیکن ایک بلی زندہ اور مردہ کی خطی جوڑ نہیں ہو[]
+Underfull \hbox (badness 2285) in paragraph at lines 694--696
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 مخفی توانائی کیا ہوگی اس کو زمین سے بلن
+دی $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا تفاعل لکھیں؟ (م
+نفی $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی صورت میں مخفیہ
+ لامتناہی ہوگا؛ گیند[]
  []
 
-LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 290.
-LaTeX Info: Redefining \rmfamily on input line 290.
-LaTeX Info: Redefining \sffamily on input line 290.
-LaTeX Info: Redefining \ttfamily on input line 290.
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
-[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 یقیناً، کلاں بین نظام کو بھی حتماً کوان
-ٹائی میکانیات کے قواعد بیان کرتے ہیں۔ پہلی مثال میں تفاعل موج انفرادی بنیادی ذر
-ات[]
+Underfull \hbox (badness 1931) in paragraph at lines 696--698
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مخفیہ کے لئے مساوات شروڈنگر حل کر کے
+ جواب کو مناسب ایئری تفاعل کے روپ میں لکھیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
-[]\TU/JameelNooriNastaleeq(1)/m/n/8 کو بیان کرتے ہیں؛ کلاں بین نظام کا تفاعل مو
-ج ان $\OT1/ppl/m/n/8 10[]$ \TU/JameelNooriNastaleeq(1)/m/n/8 انفرادی ذرات کے تف
-اعلات موج سے بنے گا جو مل کر نظام بناتے ہیں۔ میرا[]
+Underfull \hbox (badness 10000) in paragraph at lines 696--698
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ( یاد رہے، بڑی $\OML/zplm/m/it/10 z$ \TU/
+JameelNooriNastaleeq(1)/m/sl/10 پر $[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 z\OT1
+/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 بےقابو بڑھتا ہے، لہٰذا اس ک
+و لازماً رد کرنا ہوگا)۔ تفاعل $\OML/zplm/m/it/10  \OT1/zplm/m/n/10 (\OML/zplm/m
+/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی معمول زنی کر
+نے کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 شماریاتی مفہوم کے لحاظ سے مقبول ترین جو
-اب یہ ہے کہ گنت کار کے گنتی کا عمل ”پیمائش“ ہوگا، نہ کہ کھڑکی[]
+Underfull \hbox (badness 1365) in paragraph at lines 698--700
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 پہلی چار اجازتی توانائیوں کو تین معنی خ
+یز ہندسوں تک $\OML/zplm/m/it/10 g \OT1/zplm/m/n/10 = [] []$ \TU/JameelNooriNast
+aleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 m \OT1/zplm/m/n/10 = [] []$ \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 لے کر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں سے انسانی مشاہدہ۔ پیمائش وہ عمل ہے جو
- ”کلاں بین“ نظام (جو یہاں گنت کار ہے) پر اثر انداز ہوتا ہے۔[]
+Underfull \hbox (badness 4120) in paragraph at lines 700--701
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس ثقلی میدان میں ایک الیکٹران کی زمینی
+ حال توانائی، $[]$ میں، کتنی ہوگی؟ اوسطاً یہ الیکٹران زمین[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کا عمل اس لمحہ پر رونما ہوگا جب خو
-ردبین نظام (جسے کوانٹائی میکانیات کے قوانین بیان کرتا ہے) کلاں[]
+Underfull \hbox (badness 10000) in paragraph at lines 702--705
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.٦:  ونٹزل و کرامرس و برلوان تخمی
+ن استعمال کرتے ہوئے (سوال ٨.٥[] کی) ٹپکیاں کھاتے ہوئے گیند کا تجزیہ[]
  []
 
+[339]
+Underfull \hbox (badness 10000) in paragraph at lines 709--711
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ابسوال ٨.٥[]-ج میں دی گئی مخصوص قیمتوں 
+کو پُر کر کے ونٹزل و کرامرس و برلوان تخمین کی ابتدائی چار توانائیوں کا ”بالکل[]
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بین نظام (جسے کلاسیکی میکانیات کے قواعد ب
-یان کرتے ہیں) کے ساتھ اس طرح باہم عمل کرے کہ دائمی تبدیلی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس عجیب قصہ کی اہم ترین خاصیت تفاعل موج ک
-ا انہدام ہے۔ ایک پیمائش کے فوراً بعد دوسری[]
+Underfull \hbox (badness 10000) in paragraph at lines 723--724
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 نقطہ واپسیں سے کتنی بلندی $\OT1/zplm/m/
+n/10 (\OML/zplm/m/it/10 d\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 پر خط بند مخفیہ (مساوات ٨.٣٢[] لیکن نقطہ واپسیں $\OML/zplm/m/it/10 x[]$ \TU/J
+ameelNooriNastaleeq(1)/m/sl/10 پر ہو ) میں سہو $\OT1/ppl/m/n/10 1[]$[]
  []
-
 
-Underfull \hbox (badness 1490) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش سے اسی نتیجہ کے حصول کی خاطر خالصت
-اً نظریاتی بنیادوں پر اسے متعارف کیا گیا تھا یقیناً اس دو[]
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 769.
+[340]
+Underfull \hbox (badness 10000) in paragraph at lines 775--775
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 ہمیشہ کی طرح، ونٹزل و کرامرس و برلوان ت
+خمین نیم کلاسیکی (بڑی $\OML/zplm/m/it/8 n$\TU/JameelNooriNastaleeq(1)/m/n/8 ) ط
+ریق میں سب سے زیادہ درست ثابت ہوتی ہے۔ بالخصوص،[]
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 رس اصول موضوعہ کے قابل مشاہدہ اثرات بھی ہ
-وں گے۔ مسرا اور سدرشان نے سن [] میں تفاعلی موج[]
+Underfull \hbox (badness 7869) in paragraph at lines 779--782
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.١٢:  ونٹزل و کرامرس و برلوان تخم
+ین استعمال کر کے سوال ٢.٥١[] کے مخفیہ کے لئے مقید حال توانائی تلاش کریں۔[]
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی انہدام کا ایک ڈرامائی تجرباتی مظاہرہ ت
-جویز کیا جسے انہوں نے کوانٹائی زینو اثر کا نام دیا۔ ان کا تصور یہ تھا کہ ایک غی
-ر[]
+Underfull \hbox (badness 10000) in paragraph at lines 782--785
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.١٣:  کروی تشاکلی مخفیہ کے لئے ہم
+ رداسی حصے (مساوات ٤.٣٧[]) پر ونٹزل و کرامرس و برلوان تخمین کا اطلاق کر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مستحکم نظام مثلاً ہیجان حال میں ایک جوہر 
-کو بار بار پیمائشی عمل سے گزارا جائے۔ ہر ایک مشاہدہ تفاعل[]
+Underfull \hbox (badness 2310) in paragraph at lines 787--789
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OML/zplm/m/it/10 r[]$ \TU/JameelNo
+oriNastaleeq(1)/m/sl/10 نقطہ واپسیں ہے، ( یعنی ہم $\OML/zplm/m/it/10 r \OT1/zpl
+m/m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو لامتناہی د
+یوار تصور کرتے ہیں)۔ اس کلیہ کو زیر استعمال لاتے ہوئے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موج کو منہدم کر کے گھڑی کو دوبارہ صفر سے 
-چالو کرے گا اور یوں زیریں حال میں متوقع انتقال کو غیر معائنہ مدد[]
+[341]
+Underfull \hbox (badness 2503) in paragraph at lines 801--803
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 استعمال کر کے ہائیڈروجن کی مقید حال توانا
+ئیوں کی اندازاً قیمت تلاش کریں۔ موثر مخفیہ (مساوات ٤.٣٨[]) میں مرکز[]
  []
+
 
-[439]
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عرصہ حیات $\OML/zplm/m/it/10 ^^\$ \TU/Jam
-eelNooriNastaleeq(1)/m/sl/10 ہے۔ عام طور پر $\OML/zplm/m/it/10 ^^\$ \TU/JameelN
-ooriNastaleeq(1)/m/sl/10 سے کافی کم وقتوں کے لیے انتقالی احتمال وقت $\OML/zplm/
-m/it/10 t$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا راست متناسب[]
+Underfull \hbox (badness 5802) in paragraph at lines 832--833
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 خطہ (i) $\OML/zplm/m/it/10 x > x[]$\TU/
+JameelNooriNastaleeq(1)/m/sl/10 ، (ii) $\OML/zplm/m/it/10 x[] < x < x[]$\TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 ، اور (iii) $\OT1/ppl/m/n/10 0 \OML/zplm/m/it/10 <
+ x < x[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--304
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں ہم دیکھتے ہیں کے نظام بالائی حال
- میں ہی ہے ایسی صورت میں تفاعل موج واپس $\OML/zplm/m/it/10  []$ \TU/JameelNoori
-Nastaleeq(1)/m/sl/10 پر منہدم ہوگا[]
+Underfull \hbox (badness 2460) in paragraph at lines 832--833
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ونٹزل و کرامرس و برلوان تفاعلات موج لکھیں
+۔ نقطہ $\OML/zplm/m/it/10 x[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zp
+lm/m/it/10 x[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 پر مناسب پیوندی کلیات کا اط
+لاق کر کے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--304
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور پورا عمل ایک بار نئے سرے سے دوبارہ شر
-وع ہوگا۔ اگر ہم وقت $\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 t$ \TU/JameelNooriNasta
-leeq(1)/m/sl/10 پر دوسری پیمائش کریں تب بالائی حال[]
+[342]
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 چونکہ $\OML/zplm/m/it/10 V\OT1/zplm/m/n
+/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ تشاکلی ہے، لہٰذا ہمیں صرف جفت $\OT1/zplm/m/n/10 (+)$ \TU/JameelNooriNastaleeq(
+1)/m/sl/10 اور طاق $\OT1/zplm/m/n/10 (\OMS/zplm/m/n/10 ^^@\OT1/zplm/m/n/10 )$ \
+TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعلات موج پر غور کرنا ہوگا۔ اول الذکر[]
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 306--308
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو وہی ہے جو اس صورت ہوتا اگر ہم پہلی پیم
-ائش کرتے ہی نہیں سادہ سوچ کے تحت ایسا ہی ہونا چاہیے تھا۔ اگر ایسا[]
+Underfull \hbox (badness 5970) in paragraph at lines 853--856
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات ٨.٥٩[] ( تخمینی) اجازتی توانائیوں 
+کا تعین کرتی ہے ( دھیان رہے کہ $\OML/zplm/m/it/10 x[]$ \TU/JameelNooriNastaleeq
+(1)/m/sl/10 اور $\OML/zplm/m/it/10 x[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں
+ $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی قیمت داخل[]
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 306--308
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہی ہوتا تب نظام کا بار بار مشاہدہ کرنے سے
- کوئی فرق نہیں پڑتا اور نہ یہ کوانٹائی زینو اثر پیدا ہوتا تاہم بہت کم وقت[]
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم بالخصوص ایسی درمیانے رکاوٹ میں دلچسپ
+ی رکھتے ہیں جو بلند یا چوڑی یا دونوں ہو؛ ایسی صورت میں $\OML/zplm/m/it/10 ^^^$ 
+\TU/JameelNooriNastaleeq(1)/m/sl/10 بڑا ہوگا، لہٰذا $\OML/zplm/m/it/10 e[]$[]
  []
 
-[440]
-Underfull \hbox (badness 10000) in paragraph at lines 324--326
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تحویل نہیں ہوگا بعض مصنفین اس ماخوذ سے ات
-فاق نہیں کرتے اور ان کے نزدیک یہ تفاعل موج کے انہدام غیر[]
+[343]
+Underfull \hbox (badness 10000) in paragraph at lines 872--875
+[]\TU/JameelNooriNastaleeq(1)/m/n/9 متناہی \TU/JameelNooriNastaleeq(1)/m/sl/10 
+رکاوٹ کی صورت میں ( دونوں کنویں کے بیچ ” رابطہ“ ممکن ہوگا، لہٰذا) انحطاط ختم ہو
+گا۔ جفت حالات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--326
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 درست ہونے کا ثبوت ہے۔ تاہم ان کے دلائل مش
-اہدہ کے مفہوم کی غلط تشریح پر مبنی ہے اگر بلبلا خانہ میں[]
+Underfull \hbox (badness 10000) in paragraph at lines 875--876
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں ذرہ دائیں کنویں سے آغاز کرتا ہ
+ے؛ یا یہ کہنا زیادہ درست ہوگا کہ، ذرہ ابتدائی طور پر درج ذیل روپ میں پایا[]
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 324--326
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک ذرہ کی راہ کو مسلسل مشاہدہ قرار دے دی
-ا جائے تب یہ بالکل درست ہوں گے چونکہ ایسی ذرات یقیناً تحویل ہوتے[]
+Underfull \hbox (badness 10000) in paragraph at lines 878--880
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں ہم فرض کرتے ہیں کہ ہیّت کی وہ قیمتیں
+ منتخب کی جاتی ہیں کہ ذرے کا بیشتر حصہ دائیں کنویں میں پایا جاتا ہو۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--326
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں اور ان کا عرصہ حیات پر کاشف کا قابل پ
-یمائش اثر نہیں پایا جاتا ہے تاہم ایسا ذرہ خانہ کے اندر جوہروں[]
+Underfull \hbox (badness 10000) in paragraph at lines 885--886
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 متغیر $\OML/zplm/m/it/10 ^^^$ \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 کی قیمت، جزو -د کے مخصوص مخفیہ کے لئے تلاش کریں، اور
+ دکھائیں کہ $\OML/zplm/m/it/10 V\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 0\OT1/zplm/m/
+n/10 ) \OMS/zplm/m/n/10 ^^] \OML/zplm/m/it/10 E$\TU/JameelNooriNastaleeq(1)/m/s
+l/10 کے لئے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم دیکھتے ہیں کہ خود با خود انتقل کی صو
-رت میں یہ تجربہ عملاً ممکن نہیں ہے۔ تاہم پیدا کردہ انتقال کی صورت[]
+Underfull \hbox (badness 1867) in paragraph at lines 887--890
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.١٦:  \TU/AASameerSagarNastaleeqB
+old(0)/m/n/10 شٹارک اثر میں سرنگ زنی۔ \TU/JameelNooriNastaleeq(1)/m/sl/10 بیرون
+ی برقی میدان چالو کرنے سے اصولاً ایک الیکٹران جوہر سے سرنگ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں نتائج کا نظریاتی پیشنگوئی کے ساتھ مکم
-ل اتفاق پایا جات ہے۔ بدقسمتی سے یہ تجربہ تفاعل موج کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 887--890
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زنی کے ذریعے باہر نکل کر جوہر کو بارداریہ
+ بنا سکتا ہے۔ \TU/JameelNooriNastaleeq(1)/m/n/9 سوال: \TU/JameelNooriNastaleeq(
+1)/m/sl/10 کیا عمومی شٹارک اثر تجربے میں ایسا ہوگا؟ ہم ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 زاویائی معیار حرکت وغیرہ کا حامل نہیں ہوت
-ا اس وقت تک جب پیمائشی عمل مداخلت نہ کرے کسی[]
+Underfull \hbox (badness 10000) in paragraph at lines 887--890
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سادہ یک بُعدی نمونہ استعمال کر کے اس احتم
+ال کی اندازاً قیمت دریافت کر سکتے ہیں: فرض کریں ایک ذرہ بہت[]
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 329--330
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تفاعل موج منہدم ہوتا ہے جس کی بنا پر فورا
-ً دوسری پیمائش لازماً وہی نتیجہ دیگی۔ اگرچہ دیگر تشریحات مثلاً[]
+Underfull \hbox (badness 10000) in paragraph at lines 896--898
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سرنگ زنی جزو ضربی $\OML/zplm/m/it/10 ^^
+M$ \TU/JameelNooriNastaleeq(1)/m/sl/10 (مساوات ٨.٢٢[]) کا حساب کریں، اور ذرے کو
+ فرار ہونے کے لئے درکار وقت[]
  []
-
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر مقامی درپردہ متغیر نظریات متعدد کائنا
-ت کا تصور بلا تضاد تاریخیں سگرہ نمونے وغیرہ بھی پائے جاتے[]
+[344]
+Underfull \hbox (badness 10000) in paragraph at lines 900--903
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ٨.١٧:  میز پر کھڑی بوتل، رہائشی در
+جہ حرارت پر کوانٹائی سرنگ زنی کی وجہ سے کتنی دیر میں ازخود[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں لیکن میں یقین کرتا ہوں کہ یہ سب سے سا
-دہ ہے جس سے عموماً ماہر طبیعیات اتفاق کرتے ہیں۔ یہ ہر[]
+Underfull \hbox (badness 5862) in paragraph at lines 900--903
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 گر سکتی ہے؟ \TU/JameelNooriNastaleeq(1)/m
+/n/9 اشارہ: \TU/JameelNooriNastaleeq(1)/m/sl/10 بوتل کو کمیت $\OML/zplm/m/it/10
+ m$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، رداس $\OML/zplm/m/it/10 R$\TU/JameelNo
+oriNastaleeq(1)/m/sl/10 ، اور قد $\OML/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq
+(1)/m/sl/10 کی یکساں نلکی تصور کریں۔ گرتی ہوئی بوتل کے وسطی نقطے کی، توازنی[]
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 329--330
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طریقے کار کے بارے میں بہت کچھ جاننا ہے عی
-ن ممکن ہے کہ آنے والے نسلیں زیادہ پیچیدہ نظریہ جانتے[]
+Underfull \hbox (badness 10000) in paragraph at lines 900--903
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مقام $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10
+ h\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 2\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastale
+eq(1)/m/sl/10 سے، بلندی کو $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(1)/m/
+sl/10 سے ظاہر کریں۔ مخفی توانائی $\OML/zplm/m/it/10 mgx$ \TU/JameelNooriNastale
+eq(1)/m/sl/10 ہوگی، اور بوتل اُس صورت گرے گی جب $\OML/zplm/m/it/10 x$ \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 کی[]
  []
-
-) [441] [442
-
-
-
 
-] (./answer.tex) [443] (./quantumMechanics.ind
+) [345] (./quantumMechanics.ind
 LaTeX Info: Redefining \rmfamily on input line 2.
 LaTeX Info: Redefining \sffamily on input line 2.
 LaTeX Info: Redefining \ttfamily on input line 2.
- [447
+ [445
 
 
 
@@ -3342,8 +3074,13 @@ LaTeX Info: Redefining \ttfamily on input line 2.
 
 
 
-] [448] [449]
-[450] [451] [452] [453] [454] [455] [456] [457])
+
+
+
+
+
+] [446] [447] [448] [449] [450] [451]
+[452] [453] [454] [455] [456] [457] [458])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3394,8 +3131,8 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
  (./quantumMechanics.aux
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/quantumTheWaveFunction.aux)
@@ -3411,32 +3148,30 @@ LaTeX Info: Redefining \ttfamily on input line 358.
 (./tex/quantumTheWKBapproximation.aux)
 (./tex/quantumTimeDependentPertubationTheory.aux)
 (./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
-(./tex/quantumAfterword.aux)
-No file ./tex/questions.aux.
-(./tex/quantumAppendixLinearAlgebra.aux)
-LaTeX Info: Redefining \rmfamily on input line 31.
-LaTeX Info: Redefining \sffamily on input line 31.
-LaTeX Info: Redefining \ttfamily on input line 31.
+(./tex/quantumAfterword.aux) (./tex/quantumAppendixLinearAlgebra.aux)
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 262.
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 2.26395pt have occurred.
+(Font)              up to 3.75237pt have occurred.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 262.
  ) 
 Here is how much of TeX's memory you used:
- 57053 strings out of 479819
- 1490308 string characters out of 11645846
- 14082499 words of memory out of 24000000
- 73056 multiletter control sequences out of 15000+600000
- 571273 words of font info for 208 fonts, out of 12000000 for 9000
+ 57753 strings out of 479819
+ 1509588 string characters out of 11645846
+ 14372334 words of memory out of 24000000
+ 73743 multiletter control sequences out of 15000+600000
+ 582859 words of font info for 255 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,13n,136p,2641b,806s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,23n,396p,2641b,2492s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (36 pages).
+Output written on quantumMechanics.pdf (49 pages).

@@ -110,7 +110,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquation,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword,./tex/quantumAppendixLinearAlgebra}
 %
 %
-\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumAfterword}
+\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWKBapproximation}
 %
 %\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/calculusPreliminaries,./tex/calculusLimitsAndContinuity,./tex/calculusDerivatives,./tex/calculusApplicationsOfDerivatives,./tex/calculusIntegration,./tex/calculusApplicationsOfIntegrals,./tex/calculusTranscendentalFunctions,./tex/calculusTechniquesOfIntegration,./tex/calculusIntegrationTable}%
 %
@@ -154,6 +154,9 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \begin{document}
 \sloppy
 
+\binoppenalty=\maxdimen		%these two lines avoids line breaks in inline equations
+\relpenalty=\maxdimen
+
 \renewcommand*{\contentsname}{عنوان}    %this command has to be placed right here
 %\renewcommand*{\proofname}{ثبوت}   %if placed before start of begin{urdufont}, it gets swept by the settings of the font environment
 %\renewcommand*{\appendixname}{ضمیمہ}
@@ -193,7 +196,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \include{./tex/quantumTheAdiabaticApproximation}
 \include{./tex/quantumScattering}
 \include{./tex/quantumAfterword}
-\include{./tex/questions}
+%\include{./tex/questions}
 
 
 %\immediate\closeout\tempfileTerms
@@ -217,6 +220,8 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %\end{thebibliography}
 %============================================================
 
+%de-comment the following if answers at the end are to be added
+\begin{comment}
 \chapter*{جوابات}
 \addcontentsline{toc}{chapter}{جوابات}
 \immediate\closeout\tempfile
@@ -225,6 +230,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \input{answer}
 }
 \end{multicols}
+\end{comment}
 
 %=======================
 \appendix
