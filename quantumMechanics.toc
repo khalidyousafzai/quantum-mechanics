@@ -139,6 +139,6 @@
 \contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {449}}%
 \contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {453}}%
 \contentsline {section}{\numberline {ا.\arabicdigits {3}}قوالب}{\arabicdigits {455}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {461}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی سمتیات اور امتیازی اقدار}{\arabicdigits {463}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمیشی تبادلہ}{\arabicdigits {469}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {463}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی سمتیات اور امتیازی اقدار}{\arabicdigits {465}}%
+\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلہ}{\arabicdigits {471}}%

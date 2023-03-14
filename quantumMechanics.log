@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  11 MAR 2023 18:28
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  14 MAR 2023 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20233111108.tex)...disabled (restricted).
+runsystem(touch w18-test-2023314952.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20233111108.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2023314952.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2438,12 +2438,20 @@ eq(1)/m/n/9 زاویہ \TU/JameelNooriNastaleeq(1)/m/sl/10 ایسی ہندسی �
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 163--165
+Underfull \hbox (badness 2057) in paragraph at lines 163--165
+[]$[] \OML/zplm/m/it/10 ^^R \OT1/zplm/m/n/10 = (\OML/cmm/b/it/10 a \OMS/zplm/m/
+n/10 ^^A \OML/cmm/b/it/10 b\OT1/zplm/m/n/10 )/ [] []$ \TU/JameelNooriNastaleeq(
+1)/m/sl/10 ہے۔تاہم اندرونی ضرب عموماً مخلوط عدد ہو گا، لہٰذا ( اختیاری اندرونی 
+ضرب فضا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں) مماثل کلیہ (حقیقی) زاویہ $\OML/zplm/
-m/it/10 ^^R$ \TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں دیگا۔ تاہم، اس مقدار کی \
-TU/JameelNooriNastaleeq(1)/m/n/9 مطلق قیمت \TU/JameelNooriNastaleeq(1)/m/sl/10 
-ایسا عدد ہوگا جو $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے تجا
-وز نہیں[]
+m/it/10 ^^R$ \TU/JameelNooriNastaleeq(1)/m/sl/10 نہیں دیگا۔ بہرحال، اس مقدار کی
+ \TU/JameelNooriNastaleeq(1)/m/n/9 مطلق قیمت \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 ایسا عدد ہوگا جو $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے[]
+
  []
 
 LaTeX Info: Redefining \rmfamily on input line 168.
@@ -2456,213 +2464,391 @@ eqBold(0)/m/n/10 شوارز عدم مساوات[][][] []\TU/JameelNooriNastaleeq
 ہتے ہیں؛ جس کا ثبوت سوال ا.٥[] میں پیش کیا گیا ہے۔) یوں، آپ چاہیں[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 173.
+LaTeX Info: Redefining \sffamily on input line 173.
+LaTeX Info: Redefining \ttfamily on input line 173.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٤: []فرض کریں آپ اساس $\OT1/zplm/
-m/n/10 (\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/ppl/m/n/1
-0 , \OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/ppl/m/n/10 , 
-[] , \OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 
-)$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے آغاز کرتے ہیں جو معیاری عمودی نہیں[]
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٤: []فرض کریں آپ اساس ($\OMS/zplm
+/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNooriNastaleeq(1)/m/
+sl/10 ،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ،$[] $،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm
+/m/n/10 i$\TU/JameelNooriNastaleeq(1)/m/sl/10 ) سے آغاز کرتے ہیں جو معیاری عمود
+ی  \TU/JameelNooriNastaleeq(1)/m/n/9 نہیں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ اس سے معیاری عمودی اساس $\OT1/zplm/m/
-n/10 (\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/ppl/m/n/10 
-, \OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/ppl/m/n/10 , []
- , \OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 )$
- \TU/JameelNooriNastaleeq(1)/m/sl/10 گرہم شمڈ حکمت عملی سے حاصل کی جا[]
+Underfull \hbox (badness 2334) in paragraph at lines 171--174
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ اس اساس سے، \TU/AASameerSagarNastalee
+qBold(0)/m/n/10 گرام و شمد حکمت عملی[][][] []\TU/JameelNooriNastaleeq(1)/m/sl/1
+0 کے ذریعہ ( جو ایک منظم ترکیب ہے) معیاری عمودی اساس[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٥: []شوارز عدم مساوات ثابت کریں۔
- اشارہ: $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^M\OMS/zplm/m/n/10 i \OT1/zplm/m/
-n/10 = \OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i ^^@ \OT1/zplm/
-m/n/10 (\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 j\OML/zplm/m/it
-/10 ^^L\OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 /\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 
-^^K\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i\OT1/zplm/m/n/10 )\
-OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastal
-eeq(1)/m/sl/10 اور[]
+Underfull \hbox (badness 3907) in paragraph at lines 184--187
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ( سمتیہ $\OMS/zplm/m/n/10 j\OML/zplm/m/it
+/10 e[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا $\OMS/zplm/m/
+n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl
+/10 کے رخ غیر سمتیہ تظلیل $\OMS/zplm/m/n/10 h\OML/zplm/m/it/10 e[]\OMS/zplm/m/n
+/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/
+10 ہے جس کے دائیں جانب اکائی سمتیہ $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS
+/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 چسپاں کرنے سے[]
  []
 
 [454]
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں آپ تین فضا میں ہر سمتیہ کو $\OT1
-/ppl/m/n/10 17$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دیں یا ہر سمتیہ کو $
-\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 محور کے گرد $\OT1/ppl/
-m/n/10 39[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 گھمائیں یا $\OML/zplm/m/it/10 
-xy$ \TU/JameelNooriNastaleeq(1)/m/sl/10 مستوی[]
+Overfull \hbox (0.98232pt too wide) detected at line 197
+[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 210.
+LaTeX Info: Redefining \sffamily on input line 210.
+LaTeX Info: Redefining \ttfamily on input line 210.
+
+Underfull \hbox (badness 4156) in paragraph at lines 210--210
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/8 اس باب میں خطی تبادلہ کو ٹوپی کی علامت 
+($[]$) سے ظاہر کیا جائے گا؛ جیسا ہم دیکھیں گے، کوانٹائی عامل بھی خطی مبدل ہیں ا
+ور ان[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میں ہر سمتیہ کا عکس لیں یہ تمام خطی تبالہ
- کی مثالیں ہیں خطی مبدل $[]$ ایک سمتی فضا میں یر ایک سمتیہ کا کسی[]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں آپ (تین بُعدی فضا میں) ہر سمتیہ 
+کو $\OT1/ppl/m/n/10 17$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے ضرب دیں، یا ہر س
+متیہ کو $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 محور کے گرد $
+\OT1/ppl/m/n/10 39[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 گھمائیں، یا $\OML/zpl
+m/m/it/10 xy$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--223
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر ہے کہ $[]$ ایک سمتیہ کو جس کے ارکان 
-$\OML/zplm/m/it/10 a[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 a[]\OT1/ppl/m/n/10 , 
-[] , \OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوں کو ایک نئے 
-سمتیہ میں لے جاتا ہے جن کے ارکان[]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مستوی میں ہر سمتیہ کا عکس لیں؛ یہ تمام \T
+U/AASameerSagarNastaleeqBold(0)/m/n/10 خطی تبادلہ[][][] []\TU/JameelNooriNastal
+eeq(1)/m/sl/10 کی مثالیں ہیں۔ خطی مبدل $[]$[][] سمتی فضا میں ہر ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ جانتے ہوئے کہ \TU/JameelNooriNastale
+eq(1)/m/n/9 اساسی \TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیات کے سلسلہ کے ساتھ خ
+طی مبدل کیا کرتا ہے، آپ با آسانی جان سکتے ہیں کہ[]
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 216--218
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وہ \TU/JameelNooriNastaleeq(1)/m/n/9 کسی 
+بھی \TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیہ کے ساتھ کیا کرے گا۔ مثلاً، اگر $\
+OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNooriNastale
+eq(1)/m/sl/10 ، $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/
+JameelNooriNastaleeq(1)/m/sl/10 ،$[] $،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]
+\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اساس قائم کرتے ہوں اور 
+خطی مبدل $[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اساسی سمتیہ $\OMS/zplm/m/n/10 j\OML/zplm/
+m/it/10 e[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 پر عمل ($[]\
+OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNooriNastale
+eq(1)/m/sl/10 ) کر کے ایک نیا سمتیہ پیدا کرتا ہے؛ ظاہر ہے، کسی بھی سمتیہ کی طرح
+، اس نئے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 لکھا جا سکتا ہے جہاں $\OML/zplm/m/it/10 T
+[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10 T[]$\TU/JameelNoori
+Nastaleeq(1)/m/sl/10 ، $[] $، $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(
+1)/m/sl/10 عددی سر ہیں۔ اسی طرح باقی اساسی سمتیات کے لئے ایسا کیا[]
  []
 
 [455]
-Underfull \hbox (badness 7558) in paragraph at lines 225--227
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں جس طرح کسی اساس کے لحاظ سے $\OML/zplm
-/m/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ارکان $\OML/zplm/m/it/10 a[]$ \
-TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیہ یا $\OMS/zplm/m/n/10 j\OML/zplm/m/it/1
-0 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو یکتہ ظاہر کرتے 
-ہیں اسی طرح $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے $\OM
-L/zplm/m/it/10 n[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ارکان[]
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس مساوات میں اساسی سمتیہ $\OMS/zplm/m/n/
+10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/1
+0 کے عددی سر $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 a[]T[] \OT1/zplm/m/n/10 + \OM
+L/zplm/m/it/10 a[]T[] \OT1/zplm/m/n/10 + [] + \OML/zplm/m/it/10 a[]T[]\OT1/zplm
+/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--245
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں خطی مبدل کا مطالعہ محز قوالب کے نظریہ
- کا مطالعہ ہوگا دو خطی مبدل کا مجموعہ $\OT1/zplm/m/n/10 ([] + [])$ \TU/JameelNo
-oriNastaleeq(1)/m/sl/10 کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+[]$[][] \OML/zplm/m/it/10 a[]T[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 لکھا جا س
+کتا ہے، اور اسی طرح باقی اساسی سمتیات کے عددی سروں کے لئے بھی لکھا جا سکتا[]
  []
 
 [456]
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اندراجات کا آپس میں ضرب لیکر تمام کو جمع 
-کرتے ہیں اسی طریقہ کو استعمال کرتے ہوئے مستطیل قوالب کو[]
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (مساوات ٣٠[] اور مساوات ٣٢[] میں اشاریہ آ
+گے پیچھے کئے گئے ہیں۔ یہ لکھتے ہوئے غلطی نہیں کی گئی۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپس میں ضرب کیا جاسکتا ہے بس اتنا ضروری ہ
-ے کہ پہلے میں قطاروں کی تعداد دوسرے میں صفوں کی[]
+Underfull \hbox (badness 3088) in paragraph at lines 264--266
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دوسرے لفظوں میں ( $\OML/zplm/m/it/10 i$ \
+TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 j$ \TU/JameelNooriNas
+taleeq(1)/m/sl/10 آپس میں تبدیل کرنے $\OML/zplm/m/it/10 i \OMS/zplm/m/n/10 $ \O
+ML/zplm/m/it/10 j$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے مراد یہ ہے کہ) اگر اج
+زاء کا تبادلہ[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 267.
+LaTeX Info: Redefining \sffamily on input line 267.
+LaTeX Info: Redefining \ttfamily on input line 267.
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 آئیں اب قالبی اصطلاحات سیکھیں: ایک قالب
- کا تبدیل محل جس کو ہم اعراب کے ساتھ لکھتے ہیں[]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں جس طرح کسی اساس کے لحاظ سے $\OML/zp
+lm/m/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ارکان $\OML/zplm/m/it/10 a[]$
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیہ یا $\OMS/zplm/m/n/10 j\OML/zplm/m/it
+/10 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو یکتا طور ظاہر
+ کرتے ہیں اسی طرح $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ک
+ے $\OML/zplm/m/it/10 n[]$[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
-[]$[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ٹلڈ انہی ارکان پر مشتمل ہوتا تاہم اس
- میں صف اور قطار آپس میں تبدیل ہوتے ہیں۔ بلخصوص قطاری قالب کا[]
- []
-
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
 [457]
-Underfull \hbox (badness 4193) in paragraph at lines 298--300
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہر رکن کا مخلوط جوڑی دار لینے سے قالب کا 
-مخلوط جوڑی دار جس کو ہم ہمیشہ کی طرح ستارہ سے ظاہر کرتے ہیں حاصل[]
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یوں خطی مبدل کا مطالعہ محض قوالب کے نظریہ
+ کا مطالعہ ہوگا۔ دو خطی مبدل کے \TU/JameelNooriNastaleeq(1)/m/n/9 مجموعہ $\OT1/
+zplm/m/n/10 ([] + [])$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 305.
+LaTeX Info: Redefining \sffamily on input line 305.
+LaTeX Info: Redefining \ttfamily on input line 305.
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قوالب ضرب کرنے کا یہ رائج طریقہ ہے؛ آپ $[
+]$ کے $\OML/zplm/m/it/10 i$\TU/JameelNooriNastaleeq(1)/m/sl/10 ویں صف اور $[]$ 
+کے $\OML/zplm/m/it/10 k$\TU/JameelNooriNastaleeq(1)/m/sl/10 ویں قطار کے مطابقتی
+ اندراج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--332
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر ایک چکور قالب اپنے ہرمیشی جوڑی دار کے
- برابر ہو ہرمیشی یا خود شریق قالب ہوگا اگر ہرمیشی جوڑی دار منفی علامت[]
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 آپس میں ضرب کر کے تمام کا مجموعہ لے کر حا
+صل ضرب $[]$ کا $\OML/zplm/m/it/10 ik$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ویں ر
+کن تلاش کرتے ہیں۔یہی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--336
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس علامتیت میں دو سمتیات کے اندرونی ضرب ک
-و کسی معیاری عمودی اساس کے لحاظ سے نہایت خوبصورتی[]
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طریقہ کار بروئے کار لاتے ہوئے  \TU/Jameel
+NooriNastaleeq(1)/m/n/9 مستطیل قوالب \TU/JameelNooriNastaleeq(1)/m/sl/10 ضرب کی
+ے جاتے ہیں، بس اتنا ضروری ہے کہ پہلے قالب میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--340
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دیہان رہے کہ اس رکوع میں متعارف تینوں اعم
-ال کا دو مرتبہ اطلاق کرنے سے واپس اصل قالب[]
+Underfull \hbox (badness 7558) in paragraph at lines 304--306
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 قطاروں کی تعداد دوسرے قالب میں صفوں کی تع
+داد کے برابر ہو۔ بالخصوص $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/
+10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ارکان کے $\OML/zplm/m/it/10 n$ \TU
+/JameelNooriNastaleeq(1)/m/sl/10 اجزائی سلسلہ کو[]
  []
 
 [458]
-Underfull \hbox (badness 10000) in paragraph at lines 350--352
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اکائی قالب خطی تبادلہ کو ظاہر کرتا ہے جو 
-ہر سمتیہ کو اپنے میں ہی لے جاتا ہے مرکزی وتر پر ایک اور باقی تمام ارکان[]
+LaTeX Info: Redefining \rmfamily on input line 321.
+LaTeX Info: Redefining \sffamily on input line 321.
+LaTeX Info: Redefining \ttfamily on input line 321.
+LaTeX Info: Redefining \rmfamily on input line 321.
+LaTeX Info: Redefining \sffamily on input line 321.
+LaTeX Info: Redefining \ttfamily on input line 321.
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 قالب کا \TU/AASameerSagarNastaleeqBold(
+0)/m/n/10 تبدیل محل[][][] []\TU/JameelNooriNastaleeq(1)/m/sl/10 ( جس کو ہم لاطی
+نی حرف پر ”مد“ ڈال کر لکھتے ہیں:$[]$) انہی ارکان پر مشتمل ہوگا، تاہم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--374
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ جہاں ہم ضربیوں کا قالب $\OML/zplm/m
-/it/10 C$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے رکن $\OML/zplm/m/it/10 T[]$ \T
-U/JameelNooriNastaleeq(1)/m/sl/10 کا ہم ضربی $\OT1/zplm/m/n/10 (\OMS/zplm/m/n/1
-0 ^^@\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10
- ضرب اس ذیلی قالب کے مقطع کا حاصل[]
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس میں صف اور قطار آپس میں جگہیں تبدیل کر
+تی ہیں۔ بالخصوص \TU/JameelNooriNastaleeq(1)/m/n/9 قطار قالب \TU/JameelNooriNast
+aleeq(1)/m/sl/10 کا تبدیل محل  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 صف[]
  []
 
+LaTeX Info: Redefining \rmfamily on input line 328.
+LaTeX Info: Redefining \sffamily on input line 328.
+LaTeX Info: Redefining \ttfamily on input line 328.
+LaTeX Info: Redefining \rmfamily on input line 338.
+LaTeX Info: Redefining \sffamily on input line 338.
+LaTeX Info: Redefining \ttfamily on input line 338.
+LaTeX Info: Redefining \rmfamily on input line 338.
+LaTeX Info: Redefining \sffamily on input line 338.
+LaTeX Info: Redefining \ttfamily on input line 338.
+LaTeX Info: Redefining \rmfamily on input line 343.
+LaTeX Info: Redefining \sffamily on input line 343.
+LaTeX Info: Redefining \ttfamily on input line 343.
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--374
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ضرب ہوگا جو $\OML/zplm/m/it/10 T$ \TU/Jam
-eelNooriNastaleeq(1)/m/sl/10 کے $\OML/zplm/m/it/10 i$\TU/JameelNooriNastaleeq(1
-)/m/sl/10 ویں صف اور $\OML/zplm/m/it/10 j$\TU/JameelNooriNastaleeq(1)/m/sl/10 و
-یں قطار کو مٹانے سے حاصل ہوگا۔ ایسا قالب جس کا معکوس نہ[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--374
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیا جاتا ہو نادر کہلاتا ہے۔ حاصل ضرب کا م
-عکوس اگر موجود ہو انکئ معکوسوں کا الٹ نظم میں حاصل[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 380--382
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ فرض کرتے ہوئے کہ اساس معیاری عمودی ہے 
-اکہرا قالب کے قطار معیاری عمودی سلسلہ قائم[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--388
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی بدولت ایسے خطی تبادلہ جنہیں اکہرا قوال
-ب ظاہر کرتے ہیں اندرونی حاصل ضرب برقرار رکھتے ہیں۔ سوال  ا.٨:[]
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہر رکن کا مخلوط جوڑی دار لینے سے قالب ک
+ا (مخلوط) \TU/AASameerSagarNastaleeqBold(0)/m/n/10 جوڑی دار[][][] []\TU/JameelN
+ooriNastaleeq(1)/m/sl/10 (جس کو ہم ہمیشہ کی طرح ستارہ، $[][]$ سے[]
  []
 
 [459]
-Underfull \hbox (badness 10000) in paragraph at lines 401--403
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 درجہ ذیل کا حساب لگائیں: (الف) $\OML/zplm
-/m/it/10 A \OT1/zplm/m/n/10 + \OML/zplm/m/it/10 B$\TU/JameelNooriNastaleeq(1)/m
-/sl/10 ، (ب) $\OML/zplm/m/it/10 AB$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، (ج) $\
-OT1/zplm/m/n/10 [\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 B\OT1/z
-plm/m/n/10 ]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، (د) $[]$، (ھ) $\OML/zplm/m/i
-t/10 A[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، (و) $\OML/zplm/m/it/10 A[]$\TU/J
-ameelNooriNastaleeq(1)/m/sl/10 ، (گ)[]
+LaTeX Info: Redefining \rmfamily on input line 358.
+LaTeX Info: Redefining \sffamily on input line 358.
+LaTeX Info: Redefining \ttfamily on input line 358.
+LaTeX Info: Redefining \rmfamily on input line 358.
+LaTeX Info: Redefining \sffamily on input line 358.
+LaTeX Info: Redefining \ttfamily on input line 358.
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--359
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تمام ارکان حقیقی ہونے کی صورت میں قالب  \
+TU/AASameerSagarNastaleeqBold(0)/m/n/10 حقیقی[][][] []\TU/JameelNooriNastaleeq(
+1)/m/sl/10 ہوگا، جبکہ تمام ارکان خیالی ہونے کی صورت میں[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 363.
+LaTeX Info: Redefining \sffamily on input line 363.
+LaTeX Info: Redefining \ttfamily on input line 363.
+LaTeX Info: Redefining \rmfamily on input line 363.
+LaTeX Info: Redefining \sffamily on input line 363.
+LaTeX Info: Redefining \ttfamily on input line 363.
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--382
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس علامتیت میں دو سمتیات کے اندرونی ضرب ک
+و ( معیاری عمودی اساس کے لحاظ سے) نہایت[]
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 425--428
+Underfull \hbox (badness 3098) in paragraph at lines 386--387
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یاد رہے کہ درج بالا رکوع میں متعارف تینوں
+ اعمال (تبدیلی محل، جوڑی دار، ہرمشی جوڑی دار) کا دو مرتبہ اطلاق سے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 388.
+LaTeX Info: Redefining \sffamily on input line 388.
+LaTeX Info: Redefining \ttfamily on input line 388.
+
+Underfull \hbox (badness 1009) in paragraph at lines 388--389
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 عام طور پر قالبی ضرب غیر مقلبی $[] \OMS
+/zplm/m/n/10 6\OT1/zplm/m/n/10 = []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا؛ 
+ضرب لکھنے کے دونوں طریقوں کے بیچ  \TU/JameelNooriNastaleeq(1)/m/n/9 فرق \TU/Jam
+eelNooriNastaleeq(1)/m/sl/10 کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مقلب[]
+[][] []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہتے[]
+ []
+
+[460]
+LaTeX Info: Redefining \rmfamily on input line 401.
+LaTeX Info: Redefining \sffamily on input line 401.
+LaTeX Info: Redefining \ttfamily on input line 401.
+LaTeX Info: Redefining \rmfamily on input line 415.
+LaTeX Info: Redefining \sffamily on input line 415.
+LaTeX Info: Redefining \ttfamily on input line 415.
+LaTeX Info: Redefining \rmfamily on input line 419.
+LaTeX Info: Redefining \sffamily on input line 419.
+LaTeX Info: Redefining \ttfamily on input line 419.
+LaTeX Info: Redefining \rmfamily on input line 423.
+LaTeX Info: Redefining \sffamily on input line 423.
+LaTeX Info: Redefining \ttfamily on input line 423.
+LaTeX Info: Redefining \rmfamily on input line 423.
+LaTeX Info: Redefining \sffamily on input line 423.
+LaTeX Info: Redefining \ttfamily on input line 423.
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا، جہاں \TU/AASameerSagarNastaleeqBold
+(0)/m/n/10 ہم ضربیوں[][][] []\TU/JameelNooriNastaleeq(1)/m/sl/10 کا قالب $[]$ ہ
+ے (قالب $[]$ سے $\OML/zplm/m/it/10 i$\TU/JameelNooriNastaleeq(1)/m/sl/10 ویں صف
+ اور $\OML/zplm/m/it/10 j$\TU/JameelNooriNastaleeq(1)/m/sl/10 ویں قطار خارج کر 
+کے حاصل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذیلی قالب کے مقطع کو $\OT1/zplm/m/n/10 (\
+OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )[]$ \TU/JameelNooriNastal
+eeq(1)/m/sl/10 سے ضرب دینے سے رکن $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastal
+eeq(1)/m/sl/10 کا ہم ضربی حاصل ہو گا۔)۔ ایسا قالب جس کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 معکوس نہ پایا جاتا ہو \TU/AASameerSagarNa
+staleeqBold(0)/m/n/10 نادر[][][] []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہلاتا ہ
+ے۔ حاصل ضرب کا معکوس ( اگر موجود ہو) \TU/JameelNooriNastaleeq(1)/m/n/9 الٹ ترتی
+ب \TU/JameelNooriNastaleeq(1)/m/sl/10 میں انفرادی[]
+ []
+
+[461]
+LaTeX Info: Redefining \rmfamily on input line 427.
+LaTeX Info: Redefining \sffamily on input line 427.
+LaTeX Info: Redefining \ttfamily on input line 427.
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[][][]\TU/JameelNooriNastaleeq(1)/m/n/9 حقیقی \TU/JameelNooriNastaleeq(1)/m/n/8
+ سمتیہ فضا (یعنی جس میں غیر سمتیات حقیقی ہوں) میں ہرمشی جوڑی دار اور تبدیل محل 
+ایک ہوں گے، اور اکہرا قالب قائمہ:[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 یہ فرض کرتے ہوئے کہ اساس معیاری عمودی ہے،
+ اکہرا قالب کے قطار معیاری عمودی سلسلہ قائم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتے ہیں، اور اس کے صف بھی ایسا کرتے ہیں 
+(سوال ا.١٢[] دیکھیں)۔ایسے خطی تبادلہ جنہیں اکہرا قوالب ظاہر کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 درجہ ذیل کا حساب لگائیں: (الف) $[] \OT1/z
+plm/m/n/10 + []$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، (ب) $[]$، (ج) $\OT1/zplm/
+m/n/10 [[]\OT1/ppl/m/n/10 , []\OT1/zplm/m/n/10 ]$\TU/JameelNooriNastaleeq(1)/m/
+sl/10 ، (د) $[]$، (ہ) $[][]$، (و) $[][]$، (ز)آثار([]
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 468--472
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.١٠:  درجہ ذیل میں صریحاً قوالب ت
-یار کرتے ہوئے دیکھائیں کہ کسی بھی قالب $\OML/zplm/m/it/10 T$ \TU/JameelNooriNas
-taleeq(1)/m/sl/10 کو درجہ ذیل لکھا جا[]
+یار کرتے ہوئے دکھائیں کہ کسی بھی قالب $\OML/zplm/m/it/10 T$ \TU/JameelNooriNast
+aleeq(1)/m/sl/10 کو درجہ ذیل لکھا جا[]
+ []
+
+[462]
+Underfull \hbox (badness 3229) in paragraph at lines 479--482
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.١١: []مساوات ٥٢[]، مساوات ٥٣[] ا
+ور مساوات ٥٨[] ثابت کریں۔ دکھائیں کہ دو اکہرا قوالب کا حاصل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--437
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.١١:  مساوات $\OML/zplm/m/it/10 A
-\OT1/ppl/m/n/10 .52$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10 A\
-OT1/ppl/m/n/10 .53$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 
-A\OT1/ppl/m/n/10 .58$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ثابت کریں۔ دیکھائیں ک
-ہ دو اکہرا قوالب کا حاصل ضرب[]
+Underfull \hbox (badness 10000) in paragraph at lines 479--482
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ضرب اکہرا ہوگا۔ کن شرائط کہ تحت دو ہرمشی 
+قوالب کا حاصل ضرب بھی ہرمشی ہوگا؟ کیا دو اکہرا قوالب کا[]
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 434--437
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اکہرا ہوگا۔ کن شرائط کہ تحط دو ہرمیشی قوا
-لب کا حآصل ضرب ہرمیشی ہوگا؟ کیا دو اکہرا قوالب کا مجموعہ اکہرا ہوگا؟[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کسی بھی سمتیہ یا خطی تبادلہ کو ظاہر کرنے 
 والے قالب کے ارکان اساس کا انتخاب پر منحصر ہوگا۔ اساس تبدیل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرنے سے یہ عداد کس طرح تبدیل ہوتے ہیں اس 
 پر غور کرتے ہیں۔ پرانے اساسی سمتیات $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OM
 S/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کسی بھی سمتیہ کی[]
  []
 
-[460]
-Underfull \hbox (badness 10000) in paragraph at lines 476--478
+[463]
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ عمومی طور پر دو قوالب $\OML/zplm/m/
 it/10 T[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zplm/m/it/10 T[]$ \TU/
 JameelNooriNastaleeq(1)/m/sl/10 اس صورت متشابہ ہونگے جب کسی غیر نادر قالب $\OML
@@ -2670,13 +2856,13 @@ JameelNooriNastaleeq(1)/m/sl/10 اس صورت متشابہ ہونگے جب کس�
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--478
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرنے والے قالب متشابہ ہونگے۔ اتفاقی طور پ
 ر اگر پہلی اساس معیاری عمودی ہو تب دوسری اساس[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--478
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صرف اس صورت میں معیاری عمودی ہوگا جب قالب
  $\OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اکہرا ہو سوال $\OML/
 zplm/m/it/10 A\OT1/ppl/m/n/10 .16$ \TU/JameelNooriNastaleeq(1)/m/sl/10 دیکھیں۔ 
@@ -2684,13 +2870,13 @@ zplm/m/it/10 A\OT1/ppl/m/n/10 .16$ \TU/JameelNooriNastaleeq(1)/m/sl/10 دیکھ�
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگرچہ نئی اساسوں میں کوئی بھی خطی تبادل
 ہ کے ارکان بہت مختلف نظر آتے ہیں قالب سے وابستہ دو اعداد یعنی[]
  []
 
-[461]
-Underfull \hbox (badness 1838) in paragraph at lines 498--499
+
+Underfull \hbox (badness 1838) in paragraph at lines 545--546
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (الف) مبدہ کی طرف دیکھتے ہوئے خلاف گھڑی
  $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(1)/m/sl/10 محور کے گرد زاویہ $\
 OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(1)/m/sl/10 گھومنے کو ظاہر کرنے و
@@ -2698,7 +2884,7 @@ OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(1)/m/sl/10 گھومنے کو ظا
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ب) نقطہ $\OT1/zplm/m/n/10 (\OT1/ppl/m/
 n/10 1, 1, 1\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سے گزرتے ہو
 ئے محور کے گرد محور سے مبدہ کی طرف دیکھتے ہوئے خلاف گھڑی $\OT1/ppl/m/n/10 120[]
@@ -2706,7 +2892,7 @@ $[]
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 505--508
+Underfull \hbox (badness 1052) in paragraph at lines 552--555
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.١٥:  عمومی اساس $\OT1/zplm/m/n/1
 0 ([]\OT1/ppl/m/n/10 , [], []\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(1)/m/
 sl/10 استعمال کرتے ہوئے محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(1)/
@@ -2715,7 +2901,7 @@ m/sl/10 کے گرد زاویہ $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--508
+Underfull \hbox (badness 10000) in paragraph at lines 552--555
 []$\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور محور $\OML/zp
 lm/m/it/10 y$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے گرد زاویہ $\OML/zplm/m/it/
 10 ^^R$ \TU/JameelNooriNastaleeq(1)/m/sl/10 گھمونے کو ظاہر کرنے والے قالب $\OML
@@ -2723,49 +2909,49 @@ lm/m/it/10 y$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے گرد زاویہ $\OML/z
 م اساس[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--511
+[464]
+Underfull \hbox (badness 10000) in paragraph at lines 555--558
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوگا۔ عمومی طور پر متشابہت تشاکلی حقیقت ی
-ا ہرمیشی پن برقرار نہیں رکھتا لیکن دیکھائیں اگر $\OML/zplm/m/it/10 S$ \TU/Jamee
-lNooriNastaleeq(1)/m/sl/10 اکہرا ہو اور $\OML/zplm/m/it/10 H[]$[]
+ا ہرمشی پن برقرار نہیں رکھتا لیکن دکھائیں اگر $\OML/zplm/m/it/10 S$ \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 اکہرا ہو اور $\OML/zplm/m/it/10 H[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--511
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہرمیشی ہو تب $\OML/zplm/m/it/10 H[]$ \TU/
-JameelNooriNastaleeq(1)/m/sl/10 ہرمیشی ہوگا۔ دیکھائیں کہ $\OML/zplm/m/it/10 S$ 
-\TU/JameelNooriNastaleeq(1)/m/sl/10 صرف اس صورت معیاری عمودی اساس کو دوسری معیا
-ری[]
+Underfull \hbox (badness 10000) in paragraph at lines 555--558
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہرمشی ہو تب $\OML/zplm/m/it/10 H[]$ \TU/J
+ameelNooriNastaleeq(1)/m/sl/10 ہرمشی ہوگا۔ دکھائیں کہ $\OML/zplm/m/it/10 S$ \TU
+/JameelNooriNastaleeq(1)/m/sl/10 صرف اس صورت معیاری عمودی اساس کو دوسری معیاری[
+]
  []
 
-[462]
-Underfull \hbox (badness 5133) in paragraph at lines 516--517
+
+Underfull \hbox (badness 5133) in paragraph at lines 563--564
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تھرہ فضا میں کسی مخصوص محور کے گرد زاویہ 
 $\OML/zplm/m/it/10 ^^R$\TU/JameelNooriNastaleeq(1)/m/sl/10 گھمانے کو ظاہر کرنے 
 والے خطی تبادلہ پر غور کریں۔ زیادہ تر سمتیات پچیدہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 انداز سے تبدیل ہوں گے یہ اس محور کے گرد م
 خروط پر حرکت کریں گے لیکن وہ سمتیات جو اسی محور پر پائے جاتے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تبادلہ کے اس طرح کے مخصوص سمتیات پائے جات
 ے ہیں جو اپنے آپ کے غیر سمتی مضرب میں تبدیل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+Underfull \hbox (badness 10000) in paragraph at lines 566--568
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 انہیں اس تبادلہ کے امتیازی سمتیات کہتے ہی
 ں اور مخلوط عدد $\OML/zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو 
 انکا امتیازی قدر کہتے ہیں۔ معدوم سمتیہ محمل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+Underfull \hbox (badness 10000) in paragraph at lines 566--568
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 معنوں میں مساوات $\OML/zplm/m/it/10 A\OT1
 /ppl/m/n/10 .69$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو کسی بھی $[]$ اور $\OML/
 zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے مطمعن کرتا ہے اسے 
@@ -2773,14 +2959,14 @@ zplm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے مطمعن ک�
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+Underfull \hbox (badness 10000) in paragraph at lines 566--568
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جاتا تکنیکی طور پر ایک امتیازی سمتیہ سے م
 راد وہ غیر صفر سمتیہ ہے جو مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .69$ \TU/
 JameelNooriNastaleeq(1)/m/sl/10 کع مطمعن کرتا ہو۔[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--531
+[465]
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اختیار کرتا ہے۔ یہاں [] ایسا صفر قالب ہے 
 جس کے تمام ارکان صفر ہیں۔ اب اگر قالب $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 T \O
 MS/zplm/m/n/10 ^^@ \OML/zplm/m/it/10 ^^UI\OT1/zplm/m/n/10 )$ \TU/JameelNooriNas
@@ -2788,7 +2974,7 @@ taleeq(1)/m/sl/10 کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--531
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لیکن ہم $\OML/zplm/m/it/10 a$ \TU/JameelN
 ooriNastaleeq(1)/m/sl/10 کو غیر صفر فرض کر چکے ہیں لہٰذا $\OT1/zplm/m/n/10 (\OM
 L/zplm/m/it/10 T \OMS/zplm/m/n/10 ^^@ \OML/zplm/m/it/10 ^^UI\OT1/zplm/m/n/10 )$
@@ -2796,22 +2982,22 @@ L/zplm/m/it/10 T \OMS/zplm/m/n/10 ^^@ \OML/zplm/m/it/10 ^^UI\OT1/zplm/m/n/10 )$
  مقطع[]
  []
 
-[463]
-Underfull \hbox (badness 10000) in paragraph at lines 544--546
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--593
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مساوات کہتے ہیں اور اس کے حل امتیازی اقدا
 ر کا تعین کرتے ہیں۔ دیہان رہے کہ یہ $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastal
 eeq(1)/m/sl/10 رطبی ماساوات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 544--546
+Underfull \hbox (badness 10000) in paragraph at lines 591--593
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے لہٰذا الجبرا کے بنیادی مسئلہ کے تحت اس
  کے $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(1)/m/sl/10 مخلوط ھزر ہوںگے ا
 لبتہ ان میں سے چند مرکب جذر ہو[]
  []
 
 
-Underfull \hbox (badness 6428) in paragraph at lines 544--546
+Underfull \hbox (badness 6428) in paragraph at lines 591--593
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سکتے ہیں لہٰذا ہم صرف اتنا کہہ سکتے ہیں ک
 ہ $\OML/zplm/m/it/10 n \OMS/zplm/m/n/10 ^^B \OML/zplm/m/it/10 n$ \TU/JameelNoor
 iNastaleeq(1)/m/sl/10 قالب کا کم سے کم ایک اور زیادہ سے زیادہ $\OML/zplm/m/it/1
@@ -2819,134 +3005,134 @@ iNastaleeq(1)/m/sl/10 قالب کا کم سے کم ایک اور زیادہ سے
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 544--546
+Underfull \hbox (badness 10000) in paragraph at lines 591--593
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اقدار ہو سکتے ہیں۔ قالب کے تمام امتیازی ا
 قدار کے زخیرہ کو اس کا طیف کہتے ہیں اگر دو یا دو سے زیادہ خطی غیر تابع[]
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 547--548
+Underfull \hbox (badness 1789) in paragraph at lines 594--595
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 امتیازی سمتیات تیار کرنے کا عام طور پر 
 سادہ ترین طریقہ یہ ہے کہ مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .70$ \TU/Ja
 meelNooriNastaleeq(1)/m/sl/10 میں ہر ایک $\OML/zplm/m/it/10 ^^U$ \TU/JameelNoor
 iNastaleeq(1)/m/sl/10 ڈال[]
  []
 
-[464] [465]
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+[466] [467]
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر امتیازی سمتیات فضا کا احاطہ کرتے ہو
 ں جیسا گزشتہ مثال میں کرتے تھے ہم انہیں اساس کے طور پر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--680
+Underfull \hbox (badness 10000) in paragraph at lines 725--727
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس اساس میں $[]$ کو ظاہر کرنے والا قالب ا
 نتہائی سادہ روپ اختیار کرتا ہے جس میں امتیازی اقدار[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 702--704
+[468]
+Underfull \hbox (badness 10000) in paragraph at lines 749--751
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایسا قالب جس کو اساس کی تبدیلی سے وتری رو
 پ مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .79$ \TU/JameelNooriNastaleeq(1)/m
 /sl/10 کی صورت میں لایا جا سکے وتری[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--704
+Underfull \hbox (badness 10000) in paragraph at lines 749--751
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کہلاتا ہے ظاہر ہے کہ ای کقالب صرف اس صورت
  میں وتری ہوگا جب اس کے امتیازی سمتیات فضا کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--704
+Underfull \hbox (badness 10000) in paragraph at lines 749--751
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 احاطہ کرتے ہوں۔ متشابہت قالب جو وتری بنات
 ا ہے کو پرانی اساس میں معمول شدہ امتیازی سمتیات بطور[]
  []
 
-[466]
-Underfull \hbox (badness 6428) in paragraph at lines 754--755
+
+Underfull \hbox (badness 6428) in paragraph at lines 801--802
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 قالب کو وتری روپ میں لانے کا صاف نظر آن
 ے والا فائدہ ہے اس کے ساتھ کام کرنا نہایت آسان ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 بد قسمتی سے ہر قالب کو وتری نہیں بنایا جا
  سکتا امتایزی سمتیات کو فضا کا احاطہ کرنا ہوگا۔ اگر امتیازی مساوات[]
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 754--755
+Underfull \hbox (badness 4120) in paragraph at lines 801--802
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کے $\OML/zplm/m/it/10 n$ \TU/JameelNooriN
 astaleeq(1)/m/sl/10 منفرد جذر ہوں تب قالب لظاماً وتری بنایا جا سکتا ہے لیکن مرق
 ب جذر کی صورت میں بھی ممکن[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے کہ یہ وتری بنانے کے قابل ہو۔ وتری بنان
 ے کے غیر قابل قالب کے لئے سوال $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .19$ \TU/Jam
 eelNooriNastaleeq(1)/m/sl/10 دیکیھیں۔ کیا بہتر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوتا اگر تمام امتیازی سمتیات معلوم کرنے س
 ے قبل ہم جان سکتے کہ آیہ ایک قالب وتری بنانے کے قابل[]
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 754--755
+Underfull \hbox (badness 3343) in paragraph at lines 801--802
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے یا نہیں ایک کافی لیکن لاظمی نہیں شرط د
-رجہ ذیل ہے ایک قالب جو اپنے ہرمیشی جوڑی دار کے ساتھ مقلوب ہو[]
+رجہ ذیل ہے ایک قالب جو اپنے ہرمشی جوڑی دار کے ساتھ مقلوب ہو[]
  []
 
-
-Underfull \hbox (badness 7814) in paragraph at lines 757--759
+[469]
+Underfull \hbox (badness 10000) in paragraph at lines 804--806
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہر عمودی قالب وتری بنانے کے قابل ہے اس کے
- امتیازی سمتیات فضا کا احاطہ کرتے ہیں۔ بلخصوص ہر ہرمیشی[]
+ امتیازی سمتیات فضا کا احاطہ کرتے ہیں۔ بالخصوص ہر ہرمشی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
+Underfull \hbox (badness 10000) in paragraph at lines 807--810
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں ہمارے پاس دو وتری بنانے کے قاب
 ل قالب ہیں قونٹائی معملات میں عموماً ایک سوال کھڑا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
+Underfull \hbox (badness 10000) in paragraph at lines 807--810
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہوتا ہے کیا انہیں بیک وقت وتری بنایا جا س
 کتا ہے یعنی ایک ہی مشابہت قالب $\OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1
 )/m/sl/10 کے ذریع؟ دوسرے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
+Underfull \hbox (badness 10000) in paragraph at lines 807--810
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لفظوں میں کیا ایسی اساس موجود ہے جس میں د
 ونوں وتری بنائے جا سکتے ہیں؟ اس کا جواب ہے کہ صرف اور[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
+Underfull \hbox (badness 10000) in paragraph at lines 807--810
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صرف اس صورت یہ ممکن ہوگا جب دونوں قالب مق
 لوبی ہوں سوال $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .22$ \TU/JameelNooriNastaleeq
 (1)/m/sl/10 دیکھیں۔ سوال  ا.١٨:  مستوی $\OML/zplm/m/it/10 xy$[]
  []
 
-[467]
-Underfull \hbox (badness 10000) in paragraph at lines 769--771
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--818
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دیکجھائیں کہ ماسوائے مخصوص زاویوں کے بتائ
 یں وہ کونسے زاویہ ہیں؟ اس قالب کا کوئی حقیقی امتیازی قدر نہیں پایا جاتا۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 769--771
+Underfull \hbox (badness 10000) in paragraph at lines 816--818
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سکتا اس کا موازنہ تین ابعاد میں گھمانے سے
  کریں۔ البتہ اس قالب کے مخلوط امتیازی اقدار اور امتیازی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 769--771
+Underfull \hbox (badness 10000) in paragraph at lines 816--818
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیات ہوںگے۔ انہیں تلاش کریں۔ قالب $\OML
 /zplm/m/it/10 T$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو وتری بنانے والا قالب $\
 OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کریں۔ متشابہت تباد
@@ -2954,20 +3140,20 @@ OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کریں۔ مت
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 782--785
-[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٢٠:  دیکھائیں کہ امتیازی مساوات 
-مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .73$ \TU/JameelNooriNastaleeq(1)/m/s
-l/10 کا پہلا، دوسرا اور آخری عددی سر درجہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 829--832
+[] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٢٠:  دکھائیں کہ امتیازی مساوات م
+ساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .73$ \TU/JameelNooriNastaleeq(1)/m/sl
+/10 کا پہلا، دوسرا اور آخری عددی سر درجہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--792
+Underfull \hbox (badness 10000) in paragraph at lines 836--839
 [] \TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٢١:  صاف ظاہر ہے کہ وتری قالب کا
  آسار قالب اس کے امتیازی اقدار کا مجموعہ اور اس کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--792
+Underfull \hbox (badness 10000) in paragraph at lines 836--839
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مقطع ان کا حاصل ضرب ہوگا صرف مساوات $\OML
 /zplm/m/it/10 A\OT1/ppl/m/n/10 .79$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو دیکھ
 نے کی دیر ہے یوں مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .65$ \TU/JameelNoor
@@ -2976,36 +3162,43 @@ oriNastaleeq(1)/m/sl/10 کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--792
+Underfull \hbox (badness 10000) in paragraph at lines 836--839
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تحت کسی بھی وتری بنانے کے قابل قالب کے لئ
 ے بھی ایسا ہی ہوگا۔ درجہ ذیل حقیقت کسی بھی قالب کے لئے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 794--796
+[470]
+Underfull \hbox (badness 10000) in paragraph at lines 841--843
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 امتیازی مساوات کے $\OML/zplm/m/it/10 n$ \
 TU/JameelNooriNastaleeq(1)/m/sl/10 حل یہاں $\OML/zplm/m/it/10 ^^U$ \TU/JameelNo
 oriNastaleeq(1)/m/sl/10 ہیں مرقب جذر کی صورت میں حلوں سے کم خطی غیر تابع[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 794--796
+Underfull \hbox (badness 10000) in paragraph at lines 841--843
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 امتیازی سمتیات ہوسکتے ہیں لیکن ہم $\OML/z
 plm/m/it/10 ^^U$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو اتنی مرتبہ ہی گنتے ہیں 
 جتنی مرتبہ یہ پایا جاتا ہو۔ اشارہ: امتیازی[]
  []
 
-[468]
-Underfull \hbox (badness 3792) in paragraph at lines 825--826
+
+Underfull \hbox (badness 1028) in paragraph at lines 850--851
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (الف) دکھائیں اگر دو قالب کسی ایک اساس 
+میں مقلوبی ہوں تب وہ ہر اساس میں مقلوبی ہوںگے یعنی درجہ[]
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 872--873
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میں نے مساوات $\OML/zplm/m/it/10 A\OT1/pp
 l/m/n/10 .48$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں قالب کے تبدیل محل و جوڑی 
 دار $\OML/zplm/m/it/10 T[] \OT1/zplm/m/n/10 = []$ \TU/JameelNooriNastaleeq(1)/m
-/sl/10 کو اس کی ہرمیشی جوڑی دار[]
+/sl/10 کو اس کی ہرمشی جوڑی دار[]
  []
 
+[471]
 Missing character: There is no ؔ in font zplmr7m!
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جہاں $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10
  ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OMS/zplm/m/n/
 10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/1
@@ -3014,19 +3207,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 828--830
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 وہ بیک وقت وتری بنانے کے قابل ہوںگے ثابت 
 کرنا اتنا آسان نہیں ہے۔ ہاشیہ آپ پوچھ سکتے ہیں ایسا تبادلہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لاظماً موجود ہوگا یہ ایک اچھا سوال ہے اس 
 کا جواب ہے جی ہاں۔ میں آپ کو خبردار کرتا چلوں کہ اگرچہ ہر کوئی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اسے استعمال کرتا ہے یہ فرصودہ علامتیت ہے 
 سمتیات $\OML/zplm/m/it/10 ^^K$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $\OML/zp
 lm/m/it/10 ^^L$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں جبکہ $\OMS/zplm/m/n/10 
@@ -3036,14 +3229,14 @@ astaleeq(1)/m/sl/10 سمتیات نہیں بلکہ نام ہیں۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بلخصوص ان کے کوئی ریاضیاتی خواص نہیں پائے
- جاتے اور $[]\OML/zplm/m/it/10 ^^L$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا فقرہ
- بے معانی ہے خطی تبادلہ کسی سمتیہ پر نا کہ نام پر عمل[]
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بالخصوص ان کے کوئی ریاضیاتی خواص نہیں پائ
+ے جاتے اور $[]\OML/zplm/m/it/10 ^^L$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا فقر
+ہ بے معانی ہے خطی تبادلہ کسی سمتیہ پر نا کہ نام پر عمل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کرتے ہیں۔ لیکن اس علامت کا مطلب صاف ظاہر 
 ہے سمتیہ $[]\OML/zplm/m/it/10 ^^L$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کا نام $
 []\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i$ \TU/JameelNooriNas
@@ -3052,91 +3245,91 @@ plm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور سمتیہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 836--838
+Underfull \hbox (badness 10000) in paragraph at lines 883--885
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اگر آپ ہمیشہ کی طرح معیاری عمودی اساس میں
- کام کر رہے ہوں خطی تبادلہ کے ہرمیشی جوڑی دار کو مطابقتی[]
+ کام کر رہے ہوں خطی تبادلہ کے ہرمشی جوڑی دار کو مطابقتی[]
  []
 
-[469]
-Underfull \hbox (badness 10000) in paragraph at lines 869--870
-[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ج) ہرمیشی تبادلہ کے امتیازی سمتیات فضا
- کا احاطہ کرتے ہیں جیسا ہم دیکھ چکے ہیں یہ اس فکرے کے[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 869--870
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مترادف ہے کہ کسی بھی ہرمیشی قالب کو وتری 
-بنایا جاسکتا ہے مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .82$ \TU/JameelNoori
-Nastaleeq(1)/m/sl/10 دیکھیں۔ یہ حقیقت[]
+[472]
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ج) ہرمشی تبادلہ کے امتیازی سمتیات فضا 
+کا احاطہ کرتے ہیں جیسا ہم دیکھ چکے ہیں یہ اس فکرے کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--870
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مترادف ہے کہ کسی بھی ہرمشی قالب کو وتری ب
+نایا جاسکتا ہے مساوات $\OML/zplm/m/it/10 A\OT1/ppl/m/n/10 .82$ \TU/JameelNooriN
+astaleeq(1)/m/sl/10 دیکھیں۔ یہ حقیقت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جو خاسی تکنیکی ہے وہ ریاضیاتی سہارا ہے جس
  پر زیادہ تر کوانٹائی میکانیات کھڑی ہے۔ چونکہ اس ثبوت کو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 869--870
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لامتناہی ابعادی سمتی فضائوں تک وصت نہیں د
 ی جا سکتی لہٰذا یہ ایک باریک لڑی ہے جس پر کوانٹائی[]
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 871--873
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٢٤:  ہرمیشی خطی تبادلہ کو تمام سم
-تیات $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNoor
-iNastaleeq(1)/m/sl/10 اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n
-/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے لاظماً $\OMS/zplm/m/n/10 h\OM
-L/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 j[]\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i \
-OT1/zplm/m/n/10 = \OMS/zplm/m/n/10 h[]\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 j\O
-ML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 مطمع
-ن کرنا ہوگا۔[]
+Underfull \hbox (badness 1552) in paragraph at lines 918--920
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  ا.٢٤:  ہرمشی خطی تبادلہ کو تمام سمت
+یات $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNoori
+Nastaleeq(1)/m/sl/10 اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/
+10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے لئے لاظماً $\OMS/zplm/m/n/10 h\OML
+/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 j[]\OML/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i \O
+T1/zplm/m/n/10 = \OMS/zplm/m/n/10 h[]\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 j\OM
+L/zplm/m/it/10 ^^L\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 مطمعن
+ کرنا ہوگا۔[]
  []
 
-[470]
-Underfull \hbox (badness 10000) in paragraph at lines 905--906
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--953
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ب) قالب $\OML/zplm/m/it/10 T$ \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 کی امتیازی اقدار تلاش کریں۔ تصدیق کریں کہ انکا مجمو
 عہ اور حاصل ضرب مساوات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 907--908
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (ج) قالب $\OML/zplm/m/it/10 T$ \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 کےامتیازی سمتیات تلاش کریں۔ انحطاطی حلقہ میں دو خطی
  غیر طابع امتیازی سمتیات تیار[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 907--908
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کریں ہرمیشی قالب کے لئے یہ قدم ہر صورت مم
-کن ہوگا لیکن کسی بھی اختیاری قالب کے لئے لاظمی نہیں کہ ایسا[]
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کریں ہرمشی قالب کے لئے یہ قدم ہر صورت ممک
+ن ہوگا لیکن کسی بھی اختیاری قالب کے لئے لاظمی نہیں کہ ایسا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 907--908
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ممکن ہو سوال $\OML/zplm/m/it/10 A\OT1/ppl
 /m/n/10 .19$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے ساتھ موازنہ کریں۔ انہیں قائ
 مہ بنائیں اور تصدیق کریں کہ تیسرے کے لحاظ سے دونوں[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 909--910
+[473]
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 (د) قالب $\OML/zplm/m/it/10 T$ \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 کو وتری بنانے والا اکہرا قالب $\OML/zplm/m/it/10 S$
- \TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کریں اور صریحاً دیکھائیں کہ متشابہت ت
-بادلہ $\OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو[]
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 تیار کریں اور صریحاً دکھائیں کہ متشابہت تب
+ادلہ $\OML/zplm/m/it/10 S$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کو[]
  []
 
-[471]
-Underfull \hbox (badness 10000) in paragraph at lines 942--944
+
+Underfull \hbox (badness 10000) in paragraph at lines 989--991
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تبصرہ: اگر $\OML/zplm/m/it/10 M$ \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 وتری بنانے کے قابل نہ ہو تب بھی یہ درست ہوگا تاہم ا
 یسی عمومی صورت کے لئے اسکو ثابت[]
  []
 
-) [472]
+) [474]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3221,12 +3414,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
  ) 
 Here is how much of TeX's memory you used:
- 56741 strings out of 479819
- 1483879 string characters out of 11645846
- 14083171 words of memory out of 24000000
- 72746 multiletter control sequences out of 15000+600000
- 571297 words of font info for 211 fonts, out of 12000000 for 9000
+ 56836 strings out of 479819
+ 1485498 string characters out of 11645846
+ 14083862 words of memory out of 24000000
+ 72840 multiletter control sequences out of 15000+600000
+ 574771 words of font info for 220 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,15n,136p,2641b,1063s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on quantumMechanics.pdf (34 pages).
+Output written on quantumMechanics.pdf (36 pages).
