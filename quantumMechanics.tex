@@ -108,9 +108,9 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 
 
 %
-%\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquation,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword,./tex/quantumAppendix}
+\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquation,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword,./tex/quantumAppendix}
 %
-\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumAppendix}
+%\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumAppendix}
 %
 %\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/calculusPreliminaries,./tex/calculusLimitsAndContinuity,./tex/calculusDerivatives,./tex/calculusApplicationsOfDerivatives,./tex/calculusIntegration,./tex/calculusApplicationsOfIntegrals,./tex/calculusTranscendentalFunctions,./tex/calculusTechniquesOfIntegration,./tex/calculusIntegrationTable}%
 %
@@ -121,7 +121,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 خالد خان یوسفزئی\\
 \\
 {\small {جامعہ کامسیٹ، اسلام آباد}}\\
-\texttt{khalidyousafzai@comsats.edu.pk}
+\texttt{khalidyousafzai@hotmail.com}
 }
 
 %=========
@@ -148,7 +148,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\linenumbers
-\makeindex
+%\makeindex
 
 %==========
 \begin{document}
@@ -233,8 +233,16 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \end{comment}
 
 %=======================
+
 \appendix
-\renewcommand{\theequation}{\arabic{equation}}  %this ensures that the chapter number is not included
+%changing numbering scheme to show equation numbers etc as "A-??"
+\renewcommand{\theequation}{A-\arabic{equation}}  
+\renewcommand{\thequestioncounter}{A-\arabic{questioncounter}} 
+\renewcommand{\theexamplecounter}{A-\arabic{examplecounter}} 
+\renewcommand{\thesection}{A-\arabic{section}} 
+
+
+
 \include{./tex/quantumAppendix}
 %\include{./tex/quantumAppendixLinearAlgebra}
 %
@@ -257,7 +265,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \cleardoublepage
 \addcontentsline{toc}{chapter}{فرہنگ}
 
-%\printindex
+\printindex
 
 
 \end{document}

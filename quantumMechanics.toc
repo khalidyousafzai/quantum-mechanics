@@ -135,10 +135,16 @@
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {3}}مسئلہ قلمیہ}{\arabicdigits {443}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {4}}شروڈنگر کی بلی}{\arabicdigits {444}}%
 \contentsline {section}{\numberline {\arabicdigits {12}.\arabicdigits {5}}کوانٹائی زینو تضاد}{\arabicdigits {446}}%
-\contentsline {chapter}{\numberline {ا}ضمیمہ}{\arabicdigits {449}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {1}}سمتیات}{\arabicdigits {449}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {453}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {3}}قوالب}{\arabicdigits {455}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {463}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {5}}امتیازی سمتیات اور امتیازی اقدار}{\arabicdigits {465}}%
-\contentsline {section}{\numberline {ا.\arabicdigits {6}}ہرمشی تبادلہ}{\arabicdigits {472}}%
+\contentsline {chapter}{ضمیمہ}{\arabicdigits {449}}%
+\contentsline {chapter}{\numberline {ا}خطی الجبرا}{\arabicdigits {449}}%
+\contentsline {section}{\numberline {A-\arabicdigits {1}}سمتیات}{\arabicdigits {449}}%
+\contentsline {section}{\numberline {A-\arabicdigits {2}}اندرونی ضرب}{\arabicdigits {453}}%
+\contentsline {section}{\numberline {A-\arabicdigits {3}}قوالب}{\arabicdigits {455}}%
+\contentsline {section}{\numberline {A-\arabicdigits {4}}تبدیلی اساس}{\arabicdigits {463}}%
+\contentsline {section}{\numberline {A-\arabicdigits {5}}امتیازی سمتیات اور امتیازی اقدار}{\arabicdigits {466}}%
+\contentsline {section}{\numberline {A-\arabicdigits {6}}ہرمشی تبادلہ}{\arabicdigits {472}}%
+\contentsline {chapter}{فرہنگ}{\arabicdigits {477}}%
+\bgroup 
+\selectlanguage *{english}
+\egroup 
+\selectlanguage *{urdu}
