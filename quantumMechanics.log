@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  18 MAR 2023 13:33
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  20 MAR 2023 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2023318813.tex)...disabled (restricted).
+runsystem(touch w18-test-20233201015.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2023318813.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20233201015.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -1780,7 +1780,11 @@ LaTeX Info: Redefining \ttfamily on input line 380.
 (./tex/quantumTheWKBapproximation.aux)
 (./tex/quantumTimeDependentPertubationTheory.aux)
 (./tex/quantumTheAdiabaticApproximation.aux) (./tex/quantumScattering.aux)
-(./tex/quantumAfterword.aux) (./tex/quantumAppendix.aux))
+(./tex/quantumAfterword.aux) (./tex/quantumAppendix.aux)
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+)
 \openout1 = `quantumMechanics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
@@ -2003,7 +2007,11 @@ e 73.
 [4]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/sl' will be
 (Font)              scaled to size 10.0pt on input line 109.
- [5] [6])
+ [5] [6]
+LaTeX Info: Redefining \rmfamily on input line 148.
+LaTeX Info: Redefining \sffamily on input line 148.
+LaTeX Info: Redefining \ttfamily on input line 148.
+)
 \tf@toc=\write6
 \openout6 = `quantumMechanics.toc'.
 
@@ -12837,8 +12845,8 @@ LaTeX Info: Redefining \ttfamily on input line 281.
 
 Underfull \hbox (badness 10000) in paragraph at lines 281--281
 [][][]\TU/JameelNooriNastaleeq(1)/m/n/8 مراکزہ کے بیچ شراکتی الیکٹران جمع ہو کر
- جوہروں کو قریب کھینچ کر شریک گرفتی بند پیدا کرتے ہیں۔ اس کے لئے دو عدد الیکٹرا
-ن[]
+ جوہروں کو قریب کھینچ کر شریک گرفتی بندھ پیدا کرتے ہیں۔ اس کے لئے دو عدد الیکٹر
+ان[]
  []
 
 
@@ -24074,7 +24082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--69
 
 
 Underfull \hbox (badness 1082) in paragraph at lines 67--69
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر تابع” کہلاتا ہے۔ جب ہر سمتیہ کو سمتیا
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 غیر تابع“ کہلاتا ہے۔ جب ہر سمتیہ کو سمتیا
 ت کے ایک ذخیرہ کے ارکان کا خطی مجموعہ لکھنا ممکن ہو، ہم کہتے ہیں کہ[]
  []
 
@@ -25226,8 +25234,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
  ) 
 Here is how much of TeX's memory you used:
  63105 strings out of 479819
- 1617549 string characters out of 11645846
- 14544843 words of memory out of 24000000
+ 1617551 string characters out of 11645846
+ 14544873 words of memory out of 24000000
  79021 multiletter control sequences out of 15000+600000
  593109 words of font info for 298 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
