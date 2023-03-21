@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  20 MAR 2023 16:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  20 MAR 2023 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20233201015.tex)...disabled (restricted).
+runsystem(touch w18-test-20233201103.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20233201015.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20233201103.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -14609,17 +14609,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1028--1029
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اب ایک ایسے اختیاری مخفیہ پر غور کرتے ہیں
  جس کی یک ذروی توانائیاں $\OML/zplm/m/it/10 E[]$\TU/JameelNooriNastaleeq(1)/m/s
 l/10 ، $\OML/zplm/m/it/10 E[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/
-m/it/10 E[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $[] $ اور انحطاط $\OML/zplm/m
-/it/10 d[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10 d[]$\TU/Jam
-eelNooriNastaleeq(1)/m/sl/10 ،[]
+m/it/10 E[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $[]$ اور انحطاط $\OML/zplm/m/
+it/10 d[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10 d[]$\TU/Jame
+elNooriNastaleeq(1)/m/sl/10 ،[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1028--1029
-[]$\OML/zplm/m/it/10 d[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $[] $ ہوں ( یعنی
- توانائی $\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے $\OML/z
-plm/m/it/10 d[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 منفرد یک ذروی حالات ہیں)۔ف
-رض کریں ہم (ایک جیسی کمیت کے)[]
+[]$\OML/zplm/m/it/10 d[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $[]$ ہوں ( یعنی 
+توانائی $\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے $\OML/zp
+lm/m/it/10 d[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 منفرد یک ذروی حالات ہیں)۔فر
+ض کریں ہم (ایک جیسی کمیت کے)[]
  []
 
 
@@ -14845,8 +14845,8 @@ zplm/m/it/10 N$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہو ایک جتنا محت�
 Underfull \hbox (badness 10000) in paragraph at lines 1100--1101
 []\TU/JameelNooriNastaleeq(1)/m/n/9 تشکیل $\OML/zplm/m/it/10 N[]\OT1/ppl/m/n/10
  , \OML/zplm/m/it/10 N[]\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 N[]\OT1/ppl/m/n/10 
-, [] $ \TU/JameelNooriNastaleeq(1)/m/sl/10 وہ ہوگا جس کو سب سے زیادہ مختلف طریق
-وں سے حاصل کرنا ممکن ہو؛ یہ وہ مخصوص[]
+, []$ \TU/JameelNooriNastaleeq(1)/m/sl/10 وہ ہوگا جس کو سب سے زیادہ مختلف طریقو
+ں سے حاصل کرنا ممکن ہو؛ یہ وہ مخصوص[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 1110.
@@ -19485,6 +19485,13 @@ Underfull \hbox (badness 3009) in paragraph at lines 219--221
  کر صفر ہوتا ہے! لمحات $\OML/zplm/m/it/10 t[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/1
 0 2\OML/zplm/m/it/10 n^^Y\OT1/zplm/m/n/10 / []$ \TU/JameelNooriNastaleeq(1)/m/s
 l/10 پر، جہاں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 عرصے کے لیے چالو نہ رکھیں؛ بہتر ہوگا کہ آ
+پ وقت $\OML/zplm/m/it/10 ^^Y\OT1/zplm/m/n/10 / []$ \TU/JameelNooriNastaleeq(1)/
+m/sl/10 پر اضطراب کو بند کر کے نظام[]
  []
 
 
@@ -24246,6 +24253,16 @@ LaTeX Info: Redefining \rmfamily on input line 172.
 LaTeX Info: Redefining \sffamily on input line 172.
 LaTeX Info: Redefining \ttfamily on input line 172.
 
+Underfull \hbox (badness 1173) in paragraph at lines 170--173
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سوال  A-٤: []فرض کریں آپ اساس ($\OMS/zplm
+/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNooriNastaleeq(1)/m/
+sl/10 ،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNoo
+riNastaleeq(1)/m/sl/10 ،$[]$،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/
+m/n/10 i$\TU/JameelNooriNastaleeq(1)/m/sl/10 ) سے آغاز کرتے ہیں جو معیاری عمودی
+  \TU/JameelNooriNastaleeq(1)/m/n/9 نہیں[]
+ []
+
+
 Underfull \hbox (badness 2334) in paragraph at lines 170--173
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ اس اساس سے، \TU/AASameerSagarNastalee
 qBold(0)/m/n/10 گرام و شمد حکمت عملی[][] \TU/JameelNooriNastaleeq(1)/m/sl/10 کے
@@ -24309,14 +24326,14 @@ eq(1)/m/n/9 اساسی \TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیات کے س�
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 215--217
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 وہ \TU/JameelNooriNastaleeq(1)/m/n/9 کسی 
 بھی \TU/JameelNooriNastaleeq(1)/m/sl/10 سمتیہ کے ساتھ کیا کرے گا۔ مثلاً، اگر $\
 OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/JameelNooriNastale
 eq(1)/m/sl/10 ، $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\OMS/zplm/m/n/10 i$\TU/
-JameelNooriNastaleeq(1)/m/sl/10 ،$[] $،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]
-\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اساس قائم کرتے ہوں اور 
-خطی مبدل $[]$[]
+JameelNooriNastaleeq(1)/m/sl/10 ،$[]$،$\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 e[]\
+OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(1)/m/sl/10 اساس قائم کرتے ہوں اور خ
+طی مبدل $[]$[]
  []
 
 
@@ -24332,8 +24349,8 @@ eq(1)/m/sl/10 ) کر کے ایک نیا سمتیہ پیدا کرتا ہے؛ ظا
 Underfull \hbox (badness 10000) in paragraph at lines 215--217
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 لکھا جا سکتا ہے جہاں $\OML/zplm/m/it/10 T
 []$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10 T[]$\TU/JameelNoori
-Nastaleeq(1)/m/sl/10 ، $[] $، $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(
-1)/m/sl/10 عددی سر ہیں۔ اسی طرح باقی اساسی سمتیات کے لئے ایسا کیا[]
+Nastaleeq(1)/m/sl/10 ، $[]$، $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(1
+)/m/sl/10 عددی سر ہیں۔ اسی طرح باقی اساسی سمتیات کے لئے ایسا کیا[]
  []
 
 [455]
@@ -24352,6 +24369,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--252
  []
 
 [456]
+Underfull \hbox (badness 5022) in paragraph at lines 259--261
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ظاہر ہے کہ $[]$ ایک سمتیہ کو جس کے ارکان 
+$\OML/zplm/m/it/10 a[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ، $\OML/zplm/m/it/10
+ a[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 ،$[]$،$\OML/zplm/m/it/10 a[]$ \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 ہوں کا تبادلہ ایک نئے سمتیہ میں کرتا ہے جس کے[]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 263--265
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (مساوات A-٣٠[] اور مساوات A-٣٢[] میں اشار
 یہ آگے پیچھے کئے گئے ہیں۔ یہ لکھتے ہوئے غلطی نہیں کی گئی۔[]
@@ -25235,7 +25260,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
 Here is how much of TeX's memory you used:
  63105 strings out of 479819
  1617551 string characters out of 11645846
- 14544873 words of memory out of 24000000
+ 14544871 words of memory out of 24000000
  79021 multiletter control sequences out of 15000+600000
  593109 words of font info for 298 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191

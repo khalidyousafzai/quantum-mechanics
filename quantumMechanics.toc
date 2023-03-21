@@ -70,7 +70,7 @@
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {1}}ایک مثال}{\arabicdigits {238}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {2}}عمومی صورت}{\arabicdigits {241}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {3}}سب سے زیادہ محتمل تشکیل}{\arabicdigits {244}}%
-\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {4}}\tmspace +\medmuskip {.2222em}\ensuremath {\alpha }\tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em}\ensuremath {\beta }\tmspace +\medmuskip {.2222em} کی طبیعی اہمیت}{\arabicdigits {247}}%
+\contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {4}}\tmspace +\medmuskip {.2222em}\(\alpha \)\tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em}\(\beta \)\tmspace +\medmuskip {.2222em} کی طبیعی اہمیت}{\arabicdigits {247}}%
 \contentsline {subsection}{\numberline {\arabicdigits {5}.\arabicdigits {4}.\arabicdigits {5}}سیاہ جسمی طیف}{\arabicdigits {252}}%
 \contentsline {chapter}{\numberline {\arabicdigits {6}}غیر تابع وقت نظریہ اضطراب}{\arabicdigits {257}}%
 \contentsline {section}{\numberline {\arabicdigits {6}.\arabicdigits {1}} غیر انحطاطی نظریہ اضطراب}{\arabicdigits {257}}%
@@ -106,7 +106,7 @@
 \contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {2}}انجذاب، تحرک شدہ اخراج اور ازخود اخراج}{\arabicdigits {362}}%
 \contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {2}.\arabicdigits {3}}غیر اتساقی اضطراب}{\arabicdigits {364}}%
 \contentsline {section}{\numberline {\arabicdigits {9}.\arabicdigits {3}}ازخود اخراج}{\arabicdigits {367}}%
-\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {1}}آئنشٹائن عددی سر \tmspace +\medmuskip {.2222em}\ensuremath {A}\tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em}\ensuremath {B}\tmspace +\medmuskip {.2222em}}{\arabicdigits {367}}%
+\contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {1}}آئنشٹائن عددی سر \tmspace +\medmuskip {.2222em}\(A\)\tmspace +\medmuskip {.2222em} اور \tmspace +\medmuskip {.2222em}\(B\)\tmspace +\medmuskip {.2222em}}{\arabicdigits {367}}%
 \contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {2}}ہیجان حال کا عرصہ حیات}{\arabicdigits {369}}%
 \contentsline {subsection}{\numberline {\arabicdigits {9}.\arabicdigits {3}.\arabicdigits {3}}قواعد انتخاب}{\arabicdigits {371}}%
 \contentsline {chapter}{\numberline {\arabicdigits {10}}حر ناگزر تخمین}{\arabicdigits {381}}%
