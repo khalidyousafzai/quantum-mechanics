@@ -84,15 +84,27 @@
 }
 \newcommand{\زور}[1]{\aemph{#1}} %overline urdu text to emphasize
 
-\newcommand{\kQuote}[1]{“#1”}
-\newcommand{\kquote}[1]{‘#1’}
-\newcommand{\قولء}[1]{’#1‘}
-\newcommand{\قول}[1]{”#1“}
+\newcommand{\kQuote}[1]{“\ignorespaces#1\ignorespaces”}
+\newcommand{\kquote}[1]{‘\ignorespaces#1\ignorespaces’}
+\newcommand{\قولء}[1]{’\ignorespaces#1\ignorespaces‘}
+\newcommand{\قول}[1]{”\ignorespaces#1\ignorespaces“}
 
 \renewcommand{\indexname}{فرہنگ}        %does nothing here. must be placed within begin{urdufont} environment to be the last to take effect 
 
 %\newcommand{\مکالمہ}[1]{”{#1}“}  %urdu quotation marks. fails if\\عددی{} included. needs further study
 %===============================
+%===============================
+%===============================
+%needed for correct format in toc, 
+
+%%numbering scheme
+\renewcommand*{\thefigure}{\thechapter.\arabic{figure}}
+\renewcommand*{\thetable}{\thechapter.\arabic{table}}
+\renewcommand*{\theequation}{\thechapter.\arabic{equation}}
+\renewcommand*{\thesection}{\thechapter.\arabic{section}}
+\renewcommand*{\thesubsection}{\thechapter.\arabic{section}.\arabic{subsection}}
+\renewcommand*{\thesubsubsection}{\thechapter.\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+%=======================================
 
 
 %=======================================
