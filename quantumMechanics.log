@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  25 DEC 2023 16:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  19 JAN 2024 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202312251008.tex)...disabled (restricted).
+runsystem(touch w18-test-20241191074.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202312251008.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20241191074.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2033,21 +2033,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 4--5
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 پاکستان میں اعلٰی تعلیم کا نظام انگریزی
- زبان میں رائج ہے۔دنیا میں تحقیقی کام کا بیشتر حصہ انگریزی زبان میں ہی چھپتا[]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 پاکستان میں اعلیٰ تعلیم کا نظام انگریزی
+ زبان میں رائج ہے۔دنیا میں تحقیقی کام کا بیشتر حصہ انگریزی زبان میں ہی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے لئے انگریزی زبان میں موجود مواد سے است
-فادہ کرنا تو ایک طرف، انگریزی زبان ازخود ایک رکاوٹ کے طور پر ان کے[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہمارے ملک میں طلبہ و طالبات کی ایک بہت 
+بڑی تعداد بنیادی تعلیم اردو زبان میں حاصل کرتی ہے۔[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سامنے آتی ہے۔یہ طلبہ و طالبات ذہین ہونے ک
-ے باوجود آگے بڑھنے اور قوم و ملک کی بھر پور خدمت کرنے کے[]
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 انگریزی زبان میں موجود مواد سے استفادہ کر
+نا تو دور کی بات ، ان کے لئے انگریزی زبان خود ایک رکاوٹ ہے۔یہ طلبہ و[]
  []
 
 
@@ -2069,51 +2069,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 کتاب میں بین الاقوامی نظامِ اکائی استعم
-ال کی گئ ہے۔اہم متغیرات کی علامتیں وہی رکھی گئی ہیں جو موجودہ نظامِ تعلیم کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 گئی ہے۔کوشش کی گئی ہے کہ اسکول کی سطح پر 
+مستعمل تکنیکی اصطلاحات استعمال کئے جائیں۔جہاں اصطلاحات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 موجود نہ تھی وہاں روز مرہ استعمال الفاظ چ
+نے گئے۔تکنیکی اصطلاحات کی چنائی یوں کی گئی ہے کہ ان کا استعمال دیگر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نصابی کتابوں میں رائج ہیں۔یوں اردو میں لک
-ھی اس کتاب اور انگریزی میں اسی مضمون پر لکھی کتاب پڑھنے والے طلبہ و[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 کتاب میں بین الاقوامی نظامِ اکائی استعم
+ال کی گئی۔اہم متغیرات کی علامتیں وہی رکھی گئی جو موجودہ نظامِ تعلیم کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نصابی کتابوں میں رائج ہے۔یوں اردو میں لکھ
+ی اس کتاب اور انگریزی میں اسی مضمون پر لکھی کتاب پڑھنے والے طلبہ و[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 امید کی جاتی ہے کہ یہ کتاب ایک دن خالصت
-اً اردو زبان میں انجنیئرنگ کی نصابی کتاب کے طور پر استعمال کی[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 امید کی جاتی ہے یہ کتاب ایک دن خالصتاً 
+اردو زبان میں انجنیئری نصاب کی کتاب کے طور پر پڑھائی جائے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 اس کتاب کے پڑھنے والوں سے گزارش کی جاتی
- ہے کہ اسے زیادہ سے زیادہ طلبہ و طالبات تک پہنچانے میں[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 کتاب کے پڑھنے والوں سے گزارش کی جاتی ہے
+ کہ اسے زیادہ سے زیادہ طلبہ و طالبات تک پہنچانے میں مدد دیں[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مدد دیں اور انہیں جہاں اس کتاب میں غلطی ن
-ظر آئے وہ اس کی نشاندہی میری ای-میل پر کریں۔میں ان کا[]
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اور جہاں بھی کتاب میں غلطی نظر آئے ، اس ک
+ی نشاندہی میری برقیاتی پتہ پر کریں؛ میں ان کا نہایت شکر[]
  []
 
 [9]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 اس کتاب میں تمام غلطیاں مجھ سے ہی سر زد
- ہوئی ہیں البتہ انہیں درست کرنے میں بہت لوگوں کا ہاتھ[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 کتاب میں تمام غلطیاں مجھ سے سر زد ہوئی 
+ہیں جنہیں درست کرنے میں بہت لوگوں کا ہاتھ ہے۔میں ان سب[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔میں ان سب کا شکریہ ادا کرتا ہوں۔ یہ سل
-سلہ ابھی جاری ہے اور مکمل ہونے پر ان حضرات کے تاثرات[]
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کا شکریہ ادا کرتا ہوں۔ یہ سلسلہ ابھی جاری
+ ہے اور مکمل ہونے پر ان حضرات کے تاثرات یہاں شامل کئے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
-[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں یہاں کامسیٹ یونیورسٹی اور ہائر ایجو
-کیشن کمیشن کا شکریہ ادا کرنا چاہتا ہوں جن کی وجہ سے ایسی سرگرمیاں[]
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں کامسیٹ یونیورسٹی اور ہائر ایجوکیشن 
+کمیشن کا شکریہ ادا کرنا چاہتا ہوں جن کی وجہ سے ایسی سرگرمیاں ممکن[]
  []
 
 ) [10]
@@ -12525,7 +12537,7 @@ LaTeX Info: Redefining \sffamily on input line 1450.
 LaTeX Info: Redefining \ttfamily on input line 1450.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1449--1451
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کلاسیکی میکانیات میں بے لچک جسم کے زاویائ
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کلاسیکی میکانیات میں استوار جسم کے زاویائ
 ی معیار حرکت کے دو اقسام پائے جاتے ہیں: پہلی قسم، کمیت[]
  []
 
@@ -30382,12 +30394,10 @@ LaTeX Info: Redefining \ttfamily on input line 2.
 
 ] [478] [479] [480] [481] [482]
 [483]
-LaTeX Info: Redefining \rmfamily on input line 649.
-LaTeX Info: Redefining \sffamily on input line 649.
-LaTeX Info: Redefining \ttfamily on input line 649.
- [484] [485] [486] [487] [488] [489] [490] [491] [492
-
-])
+LaTeX Info: Redefining \rmfamily on input line 651.
+LaTeX Info: Redefining \sffamily on input line 651.
+LaTeX Info: Redefining \ttfamily on input line 651.
+ [484] [485] [486] [487] [488] [489] [490] [491] [492])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -30471,9 +30481,9 @@ LaTeX Info: Redefining \ttfamily on input line 388.
 LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 29.
 LaTeX Info: Redefining \ttfamily on input line 29.
-LaTeX Info: Redefining \rmfamily on input line 51.
-LaTeX Info: Redefining \sffamily on input line 51.
-LaTeX Info: Redefining \ttfamily on input line 51.
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
 )
 
 LaTeX Font Warning: Size substitutions with differences
@@ -30485,7 +30495,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  66980 strings out of 476191
- 1771523 string characters out of 9562072
+ 1771520 string characters out of 9562072
  2876495 words of memory out of 7000000
  86597 multiletter control sequences out of 15000+600000
  507492 words of font info for 175 fonts, out of 8000000 for 9000
