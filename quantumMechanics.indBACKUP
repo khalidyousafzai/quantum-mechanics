@@ -1,0 +1,1265 @@
+\begin{theindex}
+\begin{otherlanguage}{english}
+  \item 21-centimeter line, 272
+
+  \indexspace
+
+  \item adiabatic, 353
+    \subitem approximation, 354
+    \subitem theorem, 354
+  \item adiabatic series, 375
+  \item adjoint, 96, 425
+  \item agnostic, 403
+  \item Airy functions, 312
+  \item Airy's equation, 312
+  \item allowed
+    \subitem values, 30
+  \item aluminium, 208
+  \item amplification, 335
+  \item angular momentum
+    \subitem conservation, 163
+    \subitem extrinsic, 166
+    \subitem intrinsic, 166
+  \item antisymmetric, 425
+  \item approximation
+    \subitem impulse, 400
+  \item argument, 56
+  \item associative, 416
+
+  \indexspace
+
+  \item bands, 220
+  \item baryon, 182
+  \item basis, 417
+  \item Bell inequality, 407
+  \item Berry's phase, 364
+  \item Bessel
+    \subitem spherical function, 139
+  \item binding energy, 147
+  \item binomial coefficient, 225
+  \item blackbody spectrum, 235
+  \item Bloch's theorem, 217
+  \item Bohr
+    \subitem radius, 147
+  \item Bohr formula, 146
+  \item Bohr magneton, 266
+  \item Boltzmann factor, 339
+  \item Born approximation, 396
+  \item Born-Oppenheimer approximation, 353
+  \item Bose condensation, 234
+  \item Bose-Einstein distribution, 232
+  \item bosons, 198
+  \item boundary conditions, 29
+  \item bra, 119
+  \item bra-ket
+    \subitem notation, 119
+  \item bubble chamber, 413
+  \item bulk modulus, 215
+
+  \indexspace
+
+  \item cat paradox, 411
+  \item Cauchy's
+    \subitem integral formula, 393
+  \item centrifugal term, 138
+  \item chain reaction, 335
+  \item Chandrasekhar limit, 237
+  \item characteristic
+    \subitem equation, 431
+  \item chemical potential, 232
+  \item Clebsch-Gordon coefficients, 181
+  \item clones, 410
+  \item closed, 415
+  \item cofactor, 427
+  \item coherent states, 123
+  \item collapse, 403
+  \item collapses, 4, 104
+  \item column matrix, 424
+  \item commutation
+    \subitem canonical relation, 41
+    \subitem canonical relations, 130
+    \subitem fundamental relations, 158
+  \item commutative, 415
+  \item commutator, 40, 426
+  \item commute, 40
+  \item complete, 32, 94, 417
+  \item conductor, 221
+  \item configuration, 223
+  \item conjugate, 425
+  \item connection formulas, 315
+  \item continuity equation, 185
+  \item continuous, 98
+  \item continuum, 130
+  \item coordinates
+    \subitem spherical, 131
+  \item Copenhagen interpretation, 3
+  \item Coriolis, 362
+  \item correlated, 404
+  \item covalent bond, 203
+  \item cubic symmetry, 279
+
+  \indexspace
+
+  \item Darwin term, 262
+  \item decay modes, 341
+  \item decoherence, 412
+  \item decomposition
+    \subitem spectral, 121
+  \item degeneracy pressure, 215
+  \item degenerate, 83, 97, 431
+  \item degrees of freedom, 238
+  \item delta
+    \subitem Kronecker, 32
+  \item density
+    \subitem free electron, 214
+  \item determinant, 427
+    \subitem Slater, 203
+  \item determinate state, 96
+  \item deuterium, 278
+  \item deuteron, 278
+  \item diagonal
+    \subitem form, 434
+    \subitem main, 424
+  \item diagonalizable, 434
+  \item diagonalization, 434
+  \item diagonalized
+    \subitem simultaneously, 435
+  \item differential scattering cross-section, 379
+  \item dimension, 417
+  \item dipole moment
+    \subitem magnetic, 173
+  \item Dirac
+    \subitem comb, 216
+    \subitem notation, 118
+    \subitem orthonormality, 101
+  \item direct integral, 294
+  \item discrete, 98
+  \item dispersion
+    \subitem relation, 61
+  \item distributive, 416
+  \item dope, 221
+  \item dynamic phase, 363
+
+  \indexspace
+
+  \item eigenfunction, 97
+  \item eigenvalue, 97, 431
+  \item eigenvalue equation, 97
+  \item eigenvectors, 431
+  \item electrodynamics
+    \subitem quantum, 261
+  \item electron
+    \subitem classic radius, 167
+  \item elements, 423
+  \item energy
+    \subitem allowed, 26
+    \subitem conservation, 35
+  \item energy gap, 272
+  \item ensemble, 13
+  \item entangled states, 197, 405
+  \item EPR paradox, 404
+  \item equation
+    \subitem Helmholtz, 391
+  \item exchange force, 202
+  \item exchange integral, 294
+  \item expectation
+    \subitem value, 6
+
+  \indexspace
+
+  \item Fermi
+    \subitem energy, 214
+    \subitem temperature, 215
+  \item Fermi surface, 214
+  \item Fermi's Golden rule, 339
+  \item Fermi-Dirac distribution, 232
+  \item fermions, 198
+  \item Feynman
+    \subitem diagram, 401
+    \subitem formulation, 401
+  \item Feynmann-Hellmann theorem, 275
+  \item fine structure, 255
+  \item fine structure constant, 255
+  \item flux quantization, 370
+  \item forbidden transitions, 346
+  \item formula
+    \subitem De Broglie, 16
+    \subitem Euler, 27
+    \subitem Rayleigh's, 386
+  \item Foucault pendulum, 362
+  \item Fourier
+    \subitem inverse transform, 58
+    \subitem transform, 58
+  \item Frobenius
+    \subitem method, 50
+  \item function
+    \subitem Dirac delta, 65
+    \subitem even, 28
+    \subitem Green's, 392
+  \item fundamental theorem of algebra, 431
+
+  \indexspace
+
+  \item g-factor, 261
+  \item gamma function, 234
+  \item Gamow's theory, 308
+  \item gaps, 220
+  \item gauge
+    \subitem invariant, 193
+    \subitem transformation, 193
+  \item gauge transformation, 368
+  \item Geiger counter, 411
+  \item generalized
+    \subitem distribution, 65
+    \subitem function, 65
+  \item generalized statistical interpretation, 103
+  \item generating
+    \subitem function, 55
+  \item generator
+    \subitem translation in space, 126
+    \subitem translation in time, 126
+  \item geometric phase, 363
+  \item geometric series, 238
+  \item good
+    \subitem linear combinations, 247
+  \item good quantum numbers, 258
+  \item Gram-Schmidt
+    \subitem orthogonalization process, 100
+  \item Gram-Schmidt procedure, 420
+  \item graviton, 156
+  \item group theory, 182
+  \item gyromagnetic ratio, 173
+
+  \indexspace
+
+  \item half-life, 343
+  \item Hamiltonian, 25
+  \item harmonic
+    \subitem oscillator, 29
+  \item harmonic oscillator
+    \subitem three-dimensional, 184
+  \item Helium, 156
+  \item Hermitian
+    \subitem conjugate, 45
+  \item hermitian, 95, 425
+    \subitem anti, 121, 425
+    \subitem conjugate, 96
+    \subitem skew, 121, 425
+    \subitem transformation, 437
+  \item hermitian conjugate, 425
+  \item hidden variable, 405
+  \item hidden variables, 3
+  \item Hilbert space, 92
+  \item hole, 221
+  \item Hund's
+    \subitem first rule, 210
+    \subitem second rule, 210
+    \subitem third rule, 210
+  \item Hund's Rules, 208
+  \item hydrogen
+    \subitem muonic, 197
+  \item hydrogenic atom, 156
+  \item hyperfine structure, 255
+
+  \indexspace
+
+  \item ideal gas, 230
+  \item idempotent, 120
+  \item imaginary, 425
+  \item impact parameter, 377
+  \item indeterminacy, 2
+  \item induced, 413
+  \item infinite spherical well, 138
+  \item inner
+    \subitem product space, 419
+  \item inner product, 92
+  \item insulator, 221
+  \item interference, 364
+  \item inverse, 426
+  \item inverse beta decay, 237
+  \item inverse vector, 416
+
+  \indexspace
+
+  \item ket, 119
+  \item kion, 182
+  \item Kronig-Penny model, 218
+
+  \indexspace
+
+  \item ladder
+    \subitem operators, 42
+  \item Lagrange multiplier, 227
+  \item Laguerre
+    \subitem associated polynomial, 149
+    \subitem polynomial, 149
+  \item Lamb shift, 255
+  \item Landau Levels, 192
+  \item Lande g-factor, 266
+  \item Laplacian, 130
+  \item Larmor formula, 342
+  \item Larmor frequency, 175
+  \item Larmor precession, 174
+  \item laser, 336
+  \item law
+    \subitem Hooke, 38
+  \item LCAO, 292
+  \item Legendre
+    \subitem associated, 134
+  \item leptons, 168
+  \item Levi-Civita symbol, 172
+  \item lifetime, 309, 341
+  \item linear
+    \subitem combination, 26
+  \item linear algebra, 91
+  \item linear combination, 417
+  \item linearly independent, 417
+  \item Lithium, 156
+  \item locality, 404
+  \item Lorentz force
+    \subitem law, 191
+  \item luminosity, 380
+
+  \indexspace
+
+  \item magnetic flux, 364, 369
+  \item magnetic moment
+    \subitem anomalous, 261
+  \item magnetic resonance, 348
+  \item mass
+    \subitem reduced, 196
+  \item matrices, 92
+  \item matrix, 423
+    \subitem S, 87
+    \subitem transfer, 88
+    \subitem unit, 426
+    \subitem zero, 431
+  \item matrix elements, 116
+  \item Maxwell-Boltzmann distribution, 232
+  \item mean, 6
+  \item median, 6
+  \item meson, 182
+    \subitem pi, 404
+  \item metastable, 346
+  \item momentum, 15
+  \item momentum space
+    \subitem wave function, 185
+  \item momentum space wave function, 105
+  \item momentum transfer, 397
+  \item monochromatic, 337
+  \item motion
+    \subitem cyclotron, 192
+  \item multiple roots, 431
+  \item muon catalysis, 299
+  \item muonic hydrogen, 273
+  \item muonium, 273
+
+  \indexspace
+
+  \item Neumann
+    \subitem spherical function, 139
+  \item neutrino
+    \subitem electron, 118
+    \subitem muon, 118
+  \item neutron star, 237
+  \item nmr, 349
+  \item node, 31
+  \item non-normalizable, 11
+  \item nonholonomic, 362
+  \item norm, 419
+  \item normal, 435
+  \item normalizable, 12
+  \item normalization, 11
+  \item normalization constant, 20
+  \item normalized, 93, 419
+  \item nuclear magnetic resonance, 349
+  \item null, 416
+
+  \indexspace
+
+  \item observables
+    \subitem incompatible, 108
+  \item occupation number, 223
+  \item oddness, 328
+  \item operator, 15
+    \subitem exchange, 198
+    \subitem lowering, 42, 159
+    \subitem projection, 119
+    \subitem raising, 42, 159
+  \item orbital, 166
+  \item orbitals, 207
+  \item orthodox, 403
+  \item orthogonal, 31, 93, 419
+  \item orthohelium, 206
+  \item orthonormal, 32, 93
+  \item orthonormal set, 419
+  \item orthorhombic symmetry, 279
+  \item oscillation
+    \subitem neutrino, 118
+  \item overlap integral, 293
+
+  \indexspace
+
+  \item pair annihilation, 273
+  \item parahelium, 205
+  \item partial wave, 389
+  \item partial wave amplitude, 385
+  \item particle
+    \subitem unstable, 19
+  \item Paschen-Back effect, 267
+  \item Pauli exclusion principle, 198
+  \item Pauli spin matrices, 169
+  \item periodic table, 207
+  \item perturbation theory
+    \subitem degenerate, 244
+  \item phase shift, 389
+  \item phenomenon
+    \subitem watched pot, 412
+  \item photocopier, 410
+  \item pion, 182
+  \item Planck's
+    \subitem formula, 155
+  \item polynomial
+    \subitem Hermite, 53
+  \item population inversion, 336
+  \item position
+    \subitem agnostic, 3
+    \subitem orthodox, 3
+    \subitem realist, 3
+  \item positronium, 197, 273
+  \item potential, 13
+    \subitem effective, 138
+    \subitem reflectionless, 86
+  \item probability
+    \subitem conservation, 185
+    \subitem density, 9
+  \item probability current, 19, 185
+  \item probable
+    \subitem most, 5
+  \item product
+    \subitem inner, 418
+  \item propagator, 401
+
+  \indexspace
+
+  \item quantum
+    \subitem principle number, 146
+    \subitem Zeno effect, 412
+  \item quantum dots, 299
+  \item quantum dynamics, 325
+  \item quantum electrodynamics, 335
+  \item quantum jumps, 325
+  \item quantum number
+    \subitem azimuthal, 136
+    \subitem magnetic, 136
+  \item quantum numbers, 139
+  \item quantum statics, 325
+  \item quark, 182
+
+  \indexspace
+
+  \item Rabi flopping frequency, 332
+  \item radial equation, 138
+  \item radiation zone, 383
+  \item real, 425
+  \item realist, 403
+  \item recursion
+    \subitem formula, 50
+  \item reflection
+    \subitem coefficient, 72
+  \item relation
+    \subitem Kramers, 276
+    \subitem Pasternack, 276
+  \item relativistic correction, 255
+  \item resonance curve, 349
+  \item revival time, 82
+  \item Reynolds number, 362
+  \item Riemann zeta function, 234
+  \item rigid rotor, 166
+  \item Rodrigues
+    \subitem formula, 55
+  \item Rodrigues formula, 134
+  \item rotating wave approximation, 332
+  \item rotation
+    \subitem generator, 190
+  \item row matrix, 424
+  \item Rydberg
+    \subitem constant, 156
+    \subitem formula, 156
+
+  \indexspace
+
+  \item scattering
+    \subitem low energy, 397
+    \subitem low-energy soft-sphere, 397
+    \subitem matrix, 86, 87
+    \subitem Rutherford, 380, 399
+    \subitem Yukawa, 398
+  \item scattering amplitude, 382
+  \item scattering angle, 377
+  \item Schrodinger
+    \subitem time-independent, 24
+  \item Schrodinger align, 2
+  \item Schrodinger equation
+    \subitem integral form, 395
+  \item Schwarz inequality, 93, 420
+  \item screened, 207
+  \item selection rules, 344
+  \item semiconductors, 221
+  \item separation constant, 24
+  \item sequential measurements, 121
+  \item series
+    \subitem Balmer, 156
+    \subitem Fourier, 32
+    \subitem Lyman, 156
+    \subitem Paschen, 156
+    \subitem power, 39
+  \item shell, 207
+  \item similar, 429
+  \item singular, 427
+  \item sodium, 20
+  \item solenoid, 368
+  \item solid angle, 361
+  \item space
+    \subitem dual, 119
+    \subitem outer, 21
+  \item span, 417
+  \item spectral lines
+    \subitem coincident, 187
+  \item spectrum, 97, 431
+  \item spherical
+    \subitem harmonics, 136
+  \item spherical Hankel functions, 384
+  \item spherical symmetrical potential, 398
+  \item spin, 166, 167
+  \item spin down, 168
+  \item spin up, 168
+  \item spin-orbit
+    \subitem interaction, 261
+  \item spin-orbit coupling, 255
+  \item spin-spin coupling, 272
+  \item spinor, 168
+  \item spontaneous emission, 336
+  \item square-integrable, 11
+  \item square-integrable functions, 92
+  \item standard deviation, 8
+  \item Stark effect, 277
+  \item state
+    \subitem bound, 64
+    \subitem excited, 31
+    \subitem ground, 31, 147
+    \subitem scattering, 65
+  \item stationary states, 25
+  \item statistical
+    \subitem interpretation, 2
+  \item Stefan-Boltzmann formula, 236
+  \item step function, 74
+  \item Stern-Gerlach experiment, 176
+  \item stimulated emission, 335
+  \item Stirling's approximation, 228
+  \item superconducting, 370
+  \item symmetric, 425
+  \item symmetrization
+    \subitem requirement, 198
+
+  \indexspace
+
+  \item temperature, 222
+  \item tetragonal symmetry, 279
+  \item theorem
+    \subitem Dirichlet's, 32
+    \subitem Ehrenfest, 16
+    \subitem equipartition, 238
+    \subitem optical, 402
+    \subitem Plancherel, 57
+  \item thermal equilibrium, 222
+  \item Thomas precession, 261
+  \item total cross-section, 380
+  \item trace, 427, 429
+  \item trajectory, 377
+  \item transformation
+    \subitem linear, 421
+  \item transformations
+    \subitem linear, 91
+  \item transition, 155
+  \item transition probability, 331
+  \item transition rate, 337
+  \item transitions
+    \subitem allowed electric dipole, 350
+    \subitem forbidden electric quadrupole, 350
+    \subitem forbidden magnetic dipole, 350
+  \item transmission
+    \subitem coefficient, 72
+  \item transpose, 424
+  \item trigger, 335
+  \item triplet, 179
+  \item tunneling, 65, 73
+  \item turning point, 302
+  \item turning points, 64
+
+  \indexspace
+
+  \item uncertainty principle, 17, 108
+    \subitem energy-time, 111
+  \item unit
+    \subitem vector, 419
+  \item unitary, 427
+
+  \indexspace
+
+  \item valence, 210
+  \item Van der Waals interaction, 275
+  \item variables
+    \subitem separation of, 23
+  \item variance, 8
+  \item variational principle, 281
+  \item vector space, 415
+  \item vectors, 91
+  \item velocity
+    \subitem group, 60
+    \subitem phase, 60
+  \item virial theorem, 123
+    \subitem three-dimensional, 184
+
+  \newpage
+
+  \item wag the tail, 52
+  \item wave
+    \subitem incident, 71
+    \subitem packet, 57
+    \subitem reflected, 71
+    \subitem transmitted, 71
+  \item wave function, 1
+  \item wave number, 381
+  \item wave vector, 212
+  \item wavelength, 16
+  \item white dwarf, 236
+  \item Wien displacement law, 236
+  \item WKB, 301
+
+  \indexspace
+
+  \item Yukawa potential, 297, 398
+
+  \indexspace
+
+  \item Zeeman effect, 264
+  \item zero, 416
+  \item zero-crossing, 31
+\end{otherlanguage}
+
+  \newpage
+
+\item آبادی الٹنا، 336
+\item آثار، 427، 429
+\item آئنشٹائن، پوڈلسکی و روزن تضاد، 404
+\indexspace
+\item اتساقی، 337
+   \subitem حالات، 123
+\item اجازتی
+   \subitem قیمتیں، 30
+\item احاطہ، 417
+\item ارتعاش
+   \subitem نیوٹرینو، 118
+\item ارکان، 423
+\item ازخود اخراج، 336
+\item اساس، 417
+\item استبدالی، 415
+\item استمراری، 98
+\item استمراری مساوات، 185
+\item استمراریہ، 130
+\item استوار پھرکی، 166
+\item اشاعت کار، 401
+\item اصول
+   \subitem عدم یقینیت، 17
+\item اصول تغیریت، 281
+\item اصول عدم یقینیت، 108
+\item اضافیتی تصحیح، 255
+\item اعلٰی موصلی، 370
+\item افزائش، 335
+\item اکائی
+   \subitem سمتیہ، 419
+\item اکہرا، 427
+\item اکیس سنٹی میٹر لکیر، 272
+\item الجبرا کا بنیادی مسئلہ، 431
+\item الیکٹران
+   \subitem کلاسیکی رداس، 167
+\item الیکٹران نیوٹرینو، 118
+\item امالی، 413
+\item امتیازی
+   \subitem سمتیات، 431
+   \subitem قدر، 431
+   \subitem مساوات، 431
+\item امتیازی تفاعل، 97
+\item امتیازی قیمت، 97
+\item امتیازی قیمت مساوات، 97
+\item انتخابی قواعد، 344
+\item انتشاری
+   \subitem رشتہ، 61
+\item انتقال معیار حرکت، 397
+\item انحطاطی، 83، 97، 431
+\item انحطاطی دباو، 215
+\item انداز تنزل، 341
+\item اندرونی
+   \subitem ضرب، 418
+   \subitem ضرب فضا، 419
+\item اندرونی ضرب، 92
+\item انعکاس
+   \subitem شرح، 72
+\item انکاری، 403
+\item اوسط، 6
+\indexspace
+\item بارن تخمین، 396
+\item بارن و اوپن ہائیمر تخمین، 353
+\item با ضابطہ معیار حرکت، 193
+\item باہمی رشتہ، 404
+\item برقی جفت قطب اخراج، 334
+\item برقی حرکیات
+   \subitem کوانٹائی، 261
+\item بُعد، 417
+\item بقا
+   \subitem توانائی، 35
+\item بقا احتمال، 185
+\item بکھراو
+   \subitem ردرفورڈ، 380، 399
+   \subitem کم توانائی نرم کرہ، 397
+   \subitem یوکاوا، 398
+\item بلاواسطہ تکمل، 294
+\item بلبلا خانہ، 413
+\item بل عدم مساوات، 407
+\item بند، 415
+\item بندشی توانائی، 147
+\item بوس ا آئنشٹائن تقسیم، 232
+\item بوس انجماد، 234
+\item بوسن، 198
+\item بولٹزمن جزو ضربی، 339
+\item بوہر
+   \subitem رداس، 147
+   \subitem کلیہ، 146
+\item بوہر مقناطیسہ، 266
+\item بیریان، 182
+\item بیسل
+   \subitem کروی تفاعل، 139
+\item بیک وقت وتری، 435
+\indexspace
+\item تابندگی، 380
+\item تبدیل محل، 424
+\item تجدیدی عرصہ، 82
+\item تجربہ
+   \subitem شٹرن و گرلاخ، 176
+\item تحرک زدہ اخراج، 335
+\item تحویل، 155
+\item تحویلات
+   \subitem اجازتی برقی جفت قطبی، 350
+   \subitem ممنوعہ مقناطیسی جفت قطبی، 350
+\item تحویلی احتمال، 331
+\item تحویلی شرح، 337
+\item تخمین
+   \subitem ضرب، 400
+\item ترتیبی پیمائشیں، 121
+\item ترسیل
+   \subitem شرح، 72
+\item تسلسل
+   \subitem بالمر، 156
+   \subitem پاسشن، 156
+   \subitem طاقتی، 39
+   \subitem فوریئر، 32
+   \subitem لیمان، 156
+\item تشاکلی، 425
+\item تشاکلیت
+   \subitem ضرورت، 198
+\item تشکیل، 223
+\item تضاد بلی، 411
+\item تعداد مکین، 223
+\item تعیین حال، 96
+\item تغیریت، 8
+\item تفاعل
+   \subitem ڈیلٹا، 65
+   \subitem گرین، 392
+\item تفاعلات ایئری، 312
+\item تفاعل موج، 1
+\item تفاعلیہ، 119
+\item تفریقی بکھراو عمودی تراش، 379
+\item تقلید پسند، 403
+\item تکمل
+   \subitem ڈھانپائی، 293
+\item تلازمی، 416
+\item توالی
+   \subitem کلیہ، 50
+\item توانائی
+   \subitem اجازتی، 26
+\item توقعاتی
+   \subitem قیمت، 6
+\indexspace
+\item ثنائی عددی سر، 225
+\indexspace
+\item جذر
+   \subitem متعدد، 431
+\item جزو ڈارون، 262
+\item جزوی موج، 389
+\item جزوی موج حیطہ، 385
+\item جزئیتی تقسیمی، 416
+\item جسیم مقیاس، 215
+\item جفت، 31
+   \subitem تفاعل، 28
+\item جفت قطب معیار اثر
+   \subitem مقناطیسی، 173
+\item جوڑی دار، 425
+\item جوہری مدارچوں
+   \subitem  خطی جوڑ ترکیب، 292
+\item جی جزو ضربی، 261
+\indexspace
+\item حال
+   \subitem بکھراو، 65
+   \subitem زمینی، 31، 147
+   \subitem مقید، 64
+   \subitem ہیجان، 31
+\item حراری توازن، 222
+\item حرکت
+   \subitem سائیکلوٹران، 192
+\item حرکی ہیّت، 363
+\item حر ناگزر، 353
+   \subitem تخمین، 354
+   \subitem مسئلہ، 354
+\item حر ناگزر تسلسل، 375
+\item حقیقت پسند، 403
+\item حقیقی، 425
+\item حیطہ بکھراو، 382
+\indexspace
+\item ختمیت اتساق، 412
+\item خط حرکت، 377
+\item خطہ اشعاعی، 383
+\item خطی الجبرا، 91
+\item خطی تبادلہ، 91، 421
+\item خطی جوڑ، 26
+\item خطی غیر تابع، 417
+\item خطی مجموعہ، 417
+\item خفیہ متغیرات، 3
+\item خلاف تشاکلی، 425
+\item خود شریک، 425
+\item خول، 207، 221
+\item خیالی، 425
+\indexspace
+\item درجات آزادی، 238
+\item درجہ حرارت، 222
+\item درز، 220
+\item درز توانائی، 272
+\item دلیل، 56
+\item دم ہلانا، 52، 88
+\item دوری جدول، 207
+\indexspace
+\item ذرہ
+   \subitem غیر مستحکم، 19
+\indexspace
+\item رو
+   \subitem احتمال، 19
+\item رابی پلٹنی تعدد، 332
+\item رداسی مساوات، 138
+\item رڈبرگ، 156
+   \subitem کلیہ، 156
+\item رشتہ
+   \subitem پسترنک، 276
+   \subitem کرامرس، 276
+\item رفتار
+   \subitem دوری سمتی، 60
+   \subitem گروہی سمتی، 60
+\item رمزاور و ٹاونسنڈ اثر، 79
+\item رو احتمال، 185
+\item روڈریگیس
+   \subitem کلیہ، 134
+\item ریمان زیٹا تفاعل، 234
+\item رینالڈ عدد، 362
+\indexspace
+\item زاویائی معیار حرکت
+   \subitem  بقا، 163
+   \subitem خلقی، 166
+   \subitem غیر خلقی، 166
+\item زاویہ بکھراو، 377
+\item زیمان اثر، 264
+\indexspace
+\item ساکن
+   \subitem حالات، 25
+\item سٹرلنگ تخمین، 228
+\item سٹیفن و بولٹزمن کلیہ، 236
+\item سرحدی شرائط، 29
+\item سرنگ زنی، 65، 73
+\item سفید بونا، 236
+\item سلور، 208
+\item سمتاویہ، 119
+\item سمتیات، 91
+\item سمتی فضا، 415
+\item سمتیہ موج، 212
+\item سوچ
+   \subitem انکاری، 3
+   \subitem تقلید پسند، 3
+   \subitem حقیقت پسند، 3
+\item سوڈیم، 20
+\item سہ تا، 179
+\item سیاہ جسمی طیف، 235
+\item سیڑھی
+   \subitem عاملین، 42
+\item سیڑھی تفاعل، 74
+\indexspace
+\item شٹارک اثر، 277
+\item شروڈنگر
+   \subitem غیر تابع وقت، 24
+\item شروڈنگر نقطہ نظر، 126
+\item شریک، 425
+\item شریک عامل، 96
+\item شریک گرفتی بندھ، 203
+\item شماریاتی مفہوم، 2
+\item شوارز عدم مساوات، 93، 420
+\indexspace
+\item صفر، 416
+\item صفر مقام انقطاع، 31
+\item صف قالب، 424
+\indexspace
+\item طاق، 31
+\item طاق پن، 328
+\item طامس استقبالی حرکت، 261
+\item طول موج، 16، 155
+\item طیف، 97، 431
+\item طیفی تحلیل، 121
+\item طیفی خطوط
+   \subitem ہم میدان، 187
+\indexspace
+\item عامل، 15
+   \subitem تظلیل، 119
+   \subitem تقلیل، 42، 159
+   \subitem رفعت، 42، 159
+   \subitem مبادلہ، 198
+\item عدد موج، 381
+\item عدم تعین، 2
+\item عدم یقینیت
+   \subitem توانائی و وقت، 111
+\item عدم یقینیت اصول، 17
+\item عرصہ حیات، 309، 341
+\item عقدہ، 31
+\item علامتیت
+   \subitem تفاعلیہ و سمتاویہ، 119
+\item علیحدگی متغیرات، 23
+\item علیحدگی مستقل، 24
+\item عمودی، 31، 93، 435
+\indexspace
+\item غیر مسلسل، 98
+\item غیر موصل، 221
+\indexspace
+\item فائن من
+   \subitem اشکال، 401
+   \subitem تشریح، 401
+\item فرقہ، 13
+\item فرمی
+   \subitem توانائی، 214
+   \subitem درجہ حرارت، 215
+   \subitem سطح، 214
+   \subitem سنہرا قانون، 339
+\item فرمیان، 198
+\item فرمی و ڈیراک تقسیم، 232
+\item فروبنیوس
+   \subitem ترکیب، 50
+\item فضا
+   \subitem بیرونی، 21
+   \subitem دوہری، 119
+\item فوریئر
+   \subitem الٹ بدل، 58
+   \subitem بدل، 58
+\item فوقو رقاص، 362
+\indexspace
+\item قابل مشاہدہ
+   \subitem غیر ہم آہنگ، 108
+\item قالب، 423
+   \subitem اکائی، 426
+   \subitem بکھراو، 86، 87
+   \subitem ترسیل، 88
+   \subitem صفر، 431
+\item قالبی ارکان، 116
+\item قانون
+   \subitem ہک، 38
+\item قائمہ، 419
+\item قائمی معّین، 279
+\item قطار قالب، 424
+\item قلمیہ، 410
+\item قواعد ہن، 208
+\item قوالب، 92
+\item قوت مبادلہ، 202
+\indexspace
+\item لاپلاسی، 130
+\item لارمر
+   \subitem استقبالی حرکت، 174
+\item لارمر تعدد، 175
+\item لاگیغ
+   \subitem شریک کثیر رکنی، 149
+   \subitem کثیر رکنی، 149
+\item لامتناہی کروی کنواں، 138
+\item لپٹان، 168
+\item لتھیم، 156
+\item لگرانج مضرب، 227
+\item لنڈو سطحیں، 192
+\item لنڈے جی جزو ضربی، 266
+\item لورینز قوت
+   \subitem قانون، 191
+\item لوی و چَویتا، 172
+\item لیزر، 336
+\item لیژانڈر
+   \subitem شریک، 134
+\item لیمب انتقال، 255
+\indexspace
+\item ماپ
+   \subitem  تبادلہ، 193
+   \subitem غیر متغیر، 193
+\item ماپ تبادلہ، 368
+\item مبادلہ تکمل، 294
+\item متحرک، 335
+\item متشابہ، 429
+\item متعمم
+   \subitem تفاعل، 65
+   \subitem تقسیم، 65
+\item متعمم شماریاتی مفہوم، 103
+\item محتمل
+   \subitem سب سے زیادہ، 5
+\item محدد
+   \subitem کروی، 131
+\item مخالف بیٹا تحلیل، 237
+\item مخالف سمتیہ، 416
+\item مخفیہ، 13
+   \subitem بلاانعکاس، 86
+   \subitem موثر، 138
+\item مداخلت، 364
+\item مدارچے، 207
+\item مداری، 166
+\item مربع متکامل، 11
+\item مربع متکامل تفاعلات، 92
+\item مرتعش
+   \subitem ہارمونی، 29
+\item مرکز گریز جزو، 138
+\item مرکزوی مقناطیسی گمک، 349
+\item مساوات
+   \subitem ہلم ہولٹز، 391
+\item مساوات ایئری، 312
+\item مساوات شروڈنگر، 2
+   \subitem تکملی روپ، 395
+\item مسکن مقناطیسی نسبت، 173
+\item مسلسل تعامل، 335
+\item مسئلہ
+   \subitem اہرنفسٹ، 16
+   \subitem بصریات، 402
+   \subitem پلانشرال، 57
+   \subitem ڈرشلے، 32
+   \subitem مساوی خانہ بندی، 238
+\item مسئلہ بلوخ، 217
+\item مسئلہ فائنمن و ہلمن، 275
+\item مسئلہ وریل، 123
+   \subitem تین ابعادی، 184
+\item مظہر
+   \subitem نگاہ تلے برتن، 412
+\item معدوم، 416
+\item معکوس، 426
+\item معمول زنی، 11
+   \subitem قابل، 12
+   \subitem مستقل، 20
+   \subitem ناقابل، 11
+\item معمول شدہ، 93، 419
+\item معیار، 419
+\item معیار حرکت، 15
+\item معیار حرکی فضا تفاعل موج، 105، 185
+\item معیاری انحراف، 8
+\item معیاری عمودی، 32، 93
+\item معیاری عمودی سلسلہ، 419
+\item مقامیت، 404
+\item مقطع، 427
+   \subitem سلیٹر، 203
+\item مقلب، 40، 426
+\item مقلبیت
+   \subitem باضابطہ رشتہ، 41
+   \subitem باضابطہ رشتے، 130
+   \subitem بنیادی رشتے، 158
+\item مقلوب، 40
+\item مقناطیسی بہاو، 364، 369
+\item مقناطیسی گمک، 348
+\item مقناطیسی معیار اثر
+   \subitem بے ضابطہ، 261
+\item مکمل، 32، 94، 417
+\item ملاوٹ، 221
+\item ممنوعہ برقی جفت قطبی تحویلات، 350
+\item ممنوعہ تحویلات، 346
+\item منحنی گمک، 349
+\item منہدم، 4، 104، 403
+\item موج
+   \subitem آمدی، 71
+   \subitem ترسیلی، 71
+   \subitem منعکس، 71
+\item موجی اکٹھ، 57
+\item موزوں
+   \subitem خطی جوڑ، 247
+\item موزوں کوانٹائی اعداد، 258
+\item موصل، 221
+\item مہین ساخت، 255
+\item مہین ساخت مستقل، 255
+\item میذان، 182
+\item میزون
+   \subitem پائے، 404
+\item میون عمل انگیزی، 299
+\item میون نیوٹرینو، 118
+\item میونی ہائیڈروجن، 273
+\item میونیئم، 273
+\item میکسویل و بولٹزمن تقسیم، 232
+\indexspace
+\item نابودگی جوڑا، 273
+\item نادر، 427
+\item نازک مستحکم، 346
+\item نزدہیلیم، 205
+\item نصف حیات، 343
+\item نظریہ اضطراب
+   \subitem انحطاطی، 244
+\item نظریہ گامو
+   \subitem الفا تحلیل، 308
+\item نقطہ واپسیں، 302
+\item نقل گیر آلہ، 410
+\item نہایت مہین ساخت، 255
+\item نیم موصل، 221
+\item نیومن
+   \subitem کروی تفاعل، 139
+\item نیوٹران ستارہ، 237
+\indexspace
+\item وائن قانون ہٹاو، 236
+\item واپسی نقاط، 64
+\item وتر
+   \subitem پذیر، 434
+   \subitem مرکزی، 424
+\item وتری
+   \subitem روپ، 434
+\item وتری سازی، 434
+\item وسطانیہ، 6
+\item ون در والس باہم عمل، 274
+\item ونٹزل و کرامرس و برلوان ، 301
+\indexspace
+\item ٹکراو مقدار معلوم، 377
+\item ٹھوس زاویہ، 361
+\indexspace
+\item پازیٹرانیم، 197، 273
+\item پاشن و بیک اثر، 267
+\item پالی اصول مناعت، 198
+\item پالی قالب چکر، 169
+\item پایان، 182
+\item پس پردہ، 207
+\item پلانک
+   \subitem کلیہ، 155
+\item پٹیاں، 220
+\item پیدا کار
+   \subitem فضا میں انتقال کا، 126
+   \subitem وقت میں انتقال، 126
+\item پیداکار
+   \subitem تفاعل، 55
+   \subitem گھومنا، 190
+\item پیچواں لچھا، 368
+\indexspace
+\item چندرشیکھر حد، 237
+\item چو زاویہ تشاکل، 279
+\item چکر، 166، 167
+   \subitem مخالف میدان، 168
+   \subitem ہم میدان، 168
+\item چکر و مدار باہم عمل، 261
+\item چکر و مدار ربط، 255
+\item چکر چکر ربط، 272
+\item چکرکار، 168
+\indexspace
+\item ڈیراک
+   \subitem علامتیت، 118
+   \subitem کنگھی، 216
+   \subitem معیاری عمودیت، 101
+\item ڈیلٹا
+   \subitem کرونیکر، 32
+\item ڈیوٹریم، 278
+\item ڈیوٹیران، 278
+\indexspace
+\item کامل گیس، 230
+\item کایان، 182
+\item کثافت
+   \subitem آزاد الیکٹران، 214
+   \subitem احتمال، 9
+\item کثیر رکنی
+   \subitem ہرمائٹ، 53
+\item کرانگ و پینی نمونہ، 218
+\item کروی
+   \subitem ہارمونیات، 136
+\item کروی تشاکلی مخفیہ، 398
+\item کروی ہینکل تفاعلات، 384
+\item کعبی تشاکل، 279
+\item کل عمودی تراش، 380
+\item کلیات جوڑ، 315
+\item کلیبش و گورڈن عددی سر، 181
+\item کلیہ
+   \subitem ڈی بروگ لی، 16
+   \subitem روڈریگیس، 55
+   \subitem ریلے، 386
+   \subitem یولر، 27
+\item کلیہ لارمر، 342
+\item کم توانائی بکھراو، 397
+\item کمیت
+   \subitem تخفیف شدہ، 196
+\item کوارک، 182
+\item کوانٹائی
+   \subitem زینو اثر، 412
+   \subitem صدر عدد، 146
+\item کوانٹائی اعداد، 139
+\item کوانٹائی برقی حرکیات، 335
+\item کوانٹائی حرکیات، 325
+\item کوانٹائی سکونیات، 325
+\item کوانٹائی عدد
+   \subitem اسّمتی، 136
+   \subitem مقناطیسی، 136
+\item کوانٹائی نقطے، 299
+\item کوانٹائی چھلانگ، 325
+\item کوانٹازنی بہاو، 370
+\item کوریولس، 362
+\item کوشی
+   \subitem کلیہ تکمل، 393
+\item کوپن ہیگن مفہوم، 3
+\item کیمیاوی مخفیہ، 232
+\indexspace
+\item گائگر گنت کار، 411
+\item گرام شمد
+   \subitem ترکیب عمودیت، 99
+\item گرام و شمد حکمت عملی، 420
+\item گرفتی، 210
+\item گروہی نظریہ، 182
+\item گرگٹی، 362
+\item گریویٹان، 156
+\item گھومتی موج تخمین، 332
+\item گیما تفاعل، 234
+\indexspace
+\item ہائیڈروجن
+   \subitem میونی، 197
+\item ہائیڈروجنی جوہر، 156
+\item ہارمونی
+   \subitem مرتعش، 29
+\item ہارمونی مرتعش
+   \subitem تین ابعادی، 184
+\item ہرمشی، 95، 425
+   \subitem تبادلہ، 437
+   \subitem جوڑی دار، 45، 96
+   \subitem خلاف، 121، 425
+   \subitem منحرف، 121، 425
+\item ہرمشی جوڑی دار، 425
+\item ہلبرٹ فضا، 92
+\item ہم ضربی، 427
+\item ہمبستہ حال، 197
+\item ہمبستہ حالات، 405
+\item ہن
+   \subitem کا پہلا قاعدہ، 210
+   \subitem کا تیسرا قاعدہ، 210
+   \subitem کا دوسرا قاعدہ، 210
+\item ہندسی تسلسل، 238
+\item ہندسی ہیّت، 363
+\item ہیزنبرگ نقطہ نظر ، 126
+\item ہیلیم، 156
+\item ہیلیم پرست، 206
+\item ہیملٹنی، 25
+\item ہیّت بیری، 364
+\item ہیّتی انتقال، 389
+\indexspace
+\item یوکاوا مخفیہ، 297، 398
+\item یک رنگی، 337
+\item یک طاقتی، 120
+
+\end{theindex}
