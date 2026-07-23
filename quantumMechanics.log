@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  8 JUN 2026 19:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  23 JUL 2026 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2026681163.tex)...disabled (restricted).
+runsystem(touch w18-test-2026723984.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2026681163.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2026723984.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2285,23 +2285,23 @@ staleeqBold(0)/m/n/8 متعدد دنیاوں[]
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 1964 ؁  تک تینوں طبقات فکر کے حامی پائے 
-جاتے تھے البتہ اس سال جان بل نے ثابت کیا کہ تجربے سے قبل ذرے کا مقام ٹھیک ہونے 
-یا نہ ہونے کا تجربے[]
+[][][] \TU/JameelNooriNastaleeq(2)/b/n/10 تک تینوں طبقات فکر کے حامی پائے جاتے 
+تھے البتہ اس سال جان بل نے ثابت کیا کہ تجربے سے قبل ذرے کا مقام ٹھیک ہونے یا نہ
+ ہونے کا تجربے پر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 پر قابل مشاہدہ اثر پایا جاتا ہے (ظاہر ہے ک
-ہ ہمیں یہ مقام معلوم نہیں ہو گا)۔ اس ثبوت نے انکاری سوچ کو غلط ثابت کیا۔ اب حقی
-قت پسند اور تقلید پسند سوچ کے[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 قابل مشاہدہ اثر پایا جاتا ہے (ظاہر ہے کہ ہ
+میں یہ مقام معلوم نہیں ہو گا)۔ اس ثبوت نے انکاری سوچ کو غلط ثابت کیا۔ اب حقیقت 
+پسند اور تقلید پسند سوچ کے بیچ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 بیچ فیصلہ کرنا باقی ہے جو تجربہ کر کے کیا 
-جا سکتا ہے۔ اس پر کتاب کے آخر میں بات کی جائے گی جب آپ کی علمی فکر اتنی بڑھ چکی
- ہو گی کہ آپ کو جان بل کی دلیل[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 فیصلہ کرنا باقی ہے جو تجربہ کر کے کیا جا س
+کتا ہے۔ اس پر کتاب کے آخر میں بات کی جائے گی جب آپ کی علمی فکر اتنی بڑھ چکی ہو 
+گی کہ آپ کو جان بل کی دلیل[]
  []
 
 
@@ -9375,14 +9375,6 @@ LaTeX Info: Redefining \ttfamily on input line 711.
 LaTeX Info: Redefining \rmfamily on input line 719.
 LaTeX Info: Redefining \sffamily on input line 719.
 LaTeX Info: Redefining \ttfamily on input line 719.
-
-Underfull \hbox (badness 10000) in paragraph at lines 718--720
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 یہ مشہور زمانہ \TU/AASameerSagarNastaleeqB
-old(0)/m/n/10 کلیہ بوہر[][] \TU/JameelNooriNastaleeq(2)/b/n/10 ہے جو غالباً پور
-ے کوانٹائی میکانیات میں اہم ترین نتیجہ ہے۔ جناب بوہر نے  1913 ؁  میں، ناقابل اس
-تعمال کلاسیکی طبیعیات اور نیم[]
- []
-
 LaTeX Info: Redefining \rmfamily on input line 721.
 LaTeX Info: Redefining \sffamily on input line 721.
 LaTeX Info: Redefining \ttfamily on input line 721.
@@ -9395,7 +9387,7 @@ LaTeX Info: Redefining \ttfamily on input line 729.
 LaTeX Info: Redefining \rmfamily on input line 729.
 LaTeX Info: Redefining \sffamily on input line 729.
 LaTeX Info: Redefining \ttfamily on input line 729.
-[146]
+ [146]
 LaTeX Info: Redefining \rmfamily on input line 737.
 LaTeX Info: Redefining \sffamily on input line 737.
 LaTeX Info: Redefining \ttfamily on input line 737.
@@ -18701,8 +18693,8 @@ LaTeX Info: Redefining \ttfamily on input line 416.
 
 Underfull \hbox (badness 10000) in paragraph at lines 416--416
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 آئنشٹائن کا مقالہ مساوات شروڈنگر کی آمد
- سے قبل  1917 ؁  میں شائع ہوا۔ اس دلیل میں پلانک سیاہ جسمی کلیہ (مساوات [][]۵.۱
-۱۳[][][])، جو  1900 ؁  میں منظر عام پر آیا، کے ذریعہ کوانٹائی حرکیات[]
+ سے قبل [] میں شائع ہوا۔ اس دلیل میں پلانک سیاہ جسمی کلیہ (مساوات [][]۵.۱۱۳[][]
+[])، جو [] میں منظر عام پر آیا، کے ذریعہ کوانٹائی حرکیات[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 416.
@@ -18879,7 +18871,7 @@ LaTeX Info: Redefining \ttfamily on input line 547.
 Underfull \hbox (badness 10000) in paragraph at lines 546--548
 []\TU/JameelNooriNastaleeq(2)/b/n/10 مساوات [][]۹.۵۳[][] []اُس بات کی تصدیق کرت
 ی ہے جو ہم پہلے سے جانتے تھے: تحرک شدہ اخراج کی تحویلی شرح وہی ہے جو انجذاب کی 
-ہے۔ 1907 ؁  میں یہ ایک[]
+ہے۔[] میں یہ ایک[]
  []
 
 
@@ -19950,9 +19942,9 @@ LaTeX Info: Redefining \ttfamily on input line 466.
 Underfull \hbox (badness 10000) in paragraph at lines 465--467
 []\TU/JameelNooriNastaleeq(2)/b/n/10 یہ مقدار معلوم فضا میں بند راہ پر \TU/Jame
 elNooriNastaleeq(0)/m/n/9 لکیری \TU/JameelNooriNastaleeq(2)/b/n/10 تکمل ہے، جو 
-عموماً غیر صفر ہوگا۔ مساوات [][]۱۰.۴۵[][] []کو پہلی مرتبہ   1984 ؁  میں[][] \TU
-/JameelNooriNastaleeq(0)/m/n/9 میکائل بیری \TU/JameelNooriNastaleeq(2)/b/n/10 ن
-ے حاصل کیا اور یوں[]
+عموماً غیر صفر ہوگا۔ مساوات [][]۱۰.۴۵[][] []کو پہلی مرتبہ [] میں[][] \TU/Jameel
+NooriNastaleeq(0)/m/n/9 میکائل بیری \TU/JameelNooriNastaleeq(2)/b/n/10 نے حاصل 
+کیا اور یوں[]
  []
 
 
@@ -20231,14 +20223,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 647--649
 []\TU/JameelNooriNastaleeq(2)/b/n/10 جن خطوں میں $\OML/cmm/b/it/10 E$ \TU/Jamee
 lNooriNastaleeq(2)/b/n/10 اور $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(2)/
 b/n/10 صفر ہوں وہاں، بالکل کلاسیکی نظریہ کی طرح، کسی قسم کا برقناطیسی اثر نہیں 
-پایا جاتا۔ لیکن  1959 ؁  میں اہارونو اور بوہم نے دکھایا[]
+پایا جاتا۔ لیکن [] میں اہارونو اور بوہم نے دکھایا کہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--649
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 کہ اس خطہ میں بھی، جہاں میدان صفر ہو، حرکت
- پذیر باردار ذرہ کے کوانٹائی رویہ پر سمتی مخفیہ اثر انداز ہوگا۔ میں ایک سادہ مث
-ال پیش کر کے اہارونو و بوہم اثر پر[]
+Underfull \hbox (badness 2452) in paragraph at lines 647--649
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 اس خطہ میں بھی، جہاں میدان صفر ہو، حرکت پذ
+یر باردار ذرہ کے کوانٹائی رویہ پر سمتی مخفیہ اثر انداز ہوگا۔ میں ایک سادہ مثال 
+پیش کر کے اہارونو و بوہم اثر پر تبصرہ[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 678.
@@ -21668,11 +21660,11 @@ LaTeX Info: Redefining \rmfamily on input line 13.
 LaTeX Info: Redefining \sffamily on input line 13.
 LaTeX Info: Redefining \ttfamily on input line 13.
 
-Underfull \hbox (badness 4832) in paragraph at lines 13--14
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 1935 ؁ میں آئنشٹائن، پوڈلسکی اور روزن نے م
-ل کر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 آئنشٹائن، پوڈلسکی و روزن تضاد[][]
- \TU/JameelNooriNastaleeq(2)/b/n/10 پیش کیا، جس کا مقصد (خالصتاً نظریاتی بنیادو
-ں پر) یہ ثابت کرنا تھا[]
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 میں آئنشٹائن، پوڈلسکی اور روزن نے مل کر 
+\TU/AASameerSagarNastaleeqBold(0)/m/n/10 آئنشٹائن، پوڈلسکی و روزن تضاد[][] \TU/
+JameelNooriNastaleeq(2)/b/n/10 پیش کیا، جس کا مقصد (خالصتاً نظریاتی بنیادوں پر)
+ یہ ثابت کرنا تھا[]
  []
 
 
@@ -22015,6 +22007,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 مسئلہ بل میں اوسط استعمال ہوتے ہیں، اور
+ ممکن ہے کہ اسپکٹ کے آلات خفیہ طور پر جانب دار ہوں، جو غیر نمائندہ نمونے منتخب 
+کر کے اوسط کی غلط قیمت دیتے ہوں۔ [] میں مسئلہ بل کا[]
+ []
+
+
 Underfull \hbox (badness 4595) in paragraph at lines 181--182
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 بل عدم مساوات کو پرکھنے کے لیے ساٹھ اور 
 ستر کی دہائیوں میں کئی تجربے کیے گئے، جن میں اسپکٹ، گرنگیر اور روجر کا کام قابل
@@ -22291,9 +22290,9 @@ leeq(2)/b/n/10 کی[]
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 251--252
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 لیکن  1982 ؁ میں ووٹرز، زورک اور ڈائکز ن
-ے ثابت کیا کہ ایسا نقل گیر آلہ نہیں بنایا جا سکتا جو کوانٹائی متماثل ذرات پیدا 
-کرتا ہو۔ ہم چاہیں گے کہ یہ آلہ حال[]
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 لیکن []میں ووٹرز، زورک اور ڈائکز نے ثابت
+ کیا کہ ایسا نقل گیر آلہ نہیں بنایا جا سکتا جو کوانٹائی متماثل ذرات پیدا کرتا ہ
+و۔ ہم چاہیں گے کہ یہ آلہ حال[]
  []
 
 
@@ -22463,8 +22462,8 @@ Underfull \hbox (badness 7869) in paragraph at lines 293--294
 
 Underfull \hbox (badness 10000) in paragraph at lines 293--294
 []\TU/JameelNooriNastaleeq(2)/b/n/10 متعارف کیا گیا تھا۔ یقیناً اس دور رس اصول 
-موضوعہ کے قابل مشاہدہ اثرات بھی ہوں گے۔  1977 ؁  میں مسرا اور سدرشان نے تفاعلی 
-موج کے انہدام کا ایک[]
+موضوعہ کے قابل مشاہدہ اثرات بھی ہوں گے۔ [] میں مسرا اور سدرشان نے تفاعلی موج کے
+ انہدام کا ایک[]
  []
 
 
@@ -23722,10 +23721,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 70458 strings out of 474878
- 1869597 string characters out of 9512517
- 3060966 words of memory out of 7000000
- 91397 multiletter control sequences out of 15000+600000
+ 70459 strings out of 474878
+ 1869604 string characters out of 9512517
+ 3060992 words of memory out of 7000000
+ 91398 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,23n,391p,2413b,2799s stack positions out of 10000i,1000n,20000p,200000b,200000s
