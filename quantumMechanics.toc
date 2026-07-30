@@ -1,7 +1,8 @@
 \xpginauxfiletrue 
 \selectlanguage *{urdu}
+\contentsline {chapter}{دیباچہ}{ix}{}%
 \contentsline {chapter}{ دیباچہ}{viii}{}%
-\contentsline {chapter}{پہلی کتاب کا دیباچہ}{viii}{}%
+\contentsline {chapter}{پہلی کتاب کا دیباچہ}{x}{}%
 \contentsline {chapter}{\numberline {\farsidigits {1}}تفاعل موج}{\farsidigits {1}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {1}}مساوات شروڈنگر}{\farsidigits {1}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {2}}شماریاتی مفہوم}{\farsidigits {2}}{}%
