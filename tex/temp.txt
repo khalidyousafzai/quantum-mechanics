@@ -1,0 +1,3 @@
+./quantumMechanicsTime_independentSchrodingerEquation.tex
+./quantumTheAdiabaticApproximation.tex
+./quantumTimeIndependentPertubationTheory.tex
