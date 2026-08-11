@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  1 AUG 2026 16:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  11 AUG 2026 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202681982.tex)...disabled (restricted).
+runsystem(touch w18-test-20268111032.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202681982.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20268111032.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -3053,20 +3053,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 492--492
 کے بعد آنے والے تفاعل کے ساتھ آپ کو \TU/JameelNooriNastaleeq(0)/m/n/9 کیا کرنا 
 \TU/JameelNooriNastaleeq(0)/m/n/8 ہو گا۔ عامل[] مقام آپ سے کہتا ہے کہ آپ $\OML/
 zplm/m/it/8 x$ \TU/JameelNooriNastaleeq(0)/m/n/8 سے ضرب دیں۔ عامل معیار حرکت کہ
-تا[]
+تا ہے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 492--492
-[]\TU/JameelNooriNastaleeq(0)/m/n/8 ہے کہ $\OML/zplm/m/it/8 x$ \TU/JameelNooriN
-astaleeq(0)/m/n/8 کے لحاظ سے تفرق لیں (اور نتیجہ کو $\OMS/zplm/m/n/8 ^^@\OML/zp
-lm/m/it/8 i\U/msb/m/n/8 }$ \TU/JameelNooriNastaleeq(0)/m/n/8 سے ضرب دیں)۔ اس کت
-اب میں تمام عاملین تفرقات ($[] \OT1/zplm/m/n/8 / [] \OML/zplm/m/it/8 t$\TU/Jame
-elNooriNastaleeq(0)/m/n/8 ، $[][] \OT1/zplm/m/n/8 / [] \OML/zplm/m/it/8 t[]$\TU
-/JameelNooriNastaleeq(0)/m/n/8 ، $\OML/zplm/m/it/8 @[]\OT1/zplm/m/n/8 /\OML/zpl
-m/m/it/8 @x@y$\TU/JameelNooriNastaleeq(0)/m/n/8 ، وغیرہ) یا ضرب کار ($\OT1/ppl/
-m/n/8 2$\TU/JameelNooriNastaleeq(0)/m/n/8 ، $\OML/zplm/m/it/8 i$\TU/JameelNoori
-Nastaleeq(0)/m/n/8 ،[]
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 کہ $\OML/zplm/m/it/8 x$ \TU/JameelNooriNast
+aleeq(0)/m/n/8 کے لحاظ سے تفرق لیں (اور نتیجہ کو $\OMS/zplm/m/n/8 ^^@\OML/zplm/
+m/it/8 i\U/msb/m/n/8 }$ \TU/JameelNooriNastaleeq(0)/m/n/8 سے ضرب دیں)۔ اس کتاب 
+میں تمام عاملین تفارق ($[] \OT1/zplm/m/n/8 / [] \OML/zplm/m/it/8 t$\TU/JameelNo
+oriNastaleeq(0)/m/n/8 ، $[][] \OT1/zplm/m/n/8 / [] \OML/zplm/m/it/8 t[]$\TU/Jam
+eelNooriNastaleeq(0)/m/n/8 ، $\OML/zplm/m/it/8 @[]\OT1/zplm/m/n/8 /\OML/zplm/m/
+it/8 @x@y$\TU/JameelNooriNastaleeq(0)/m/n/8 ، وغیرہ) یا ضرب کار ($\OT1/ppl/m/n/
+8 2$\TU/JameelNooriNastaleeq(0)/m/n/8 ، $\OML/zplm/m/it/8 i$\TU/JameelNooriNast
+aleeq(0)/m/n/8 ، $\OML/zplm/m/it/8 x[]$\TU/JameelNooriNastaleeq(0)/m/n/8 ،[]
  []
 
 
@@ -11623,11 +11623,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 []\TU/JameelNooriNastaleeq(2)/b/n/10 (ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNa
 staleeq(2)/b/n/10 اور ذرہ $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/b/n/1
-0 کے محدد کے لحاظ سے تفرقات کو، $\OMS/zplm/m/n/10 r$ \TU/JameelNooriNastaleeq(2
-)/b/n/10 کے زیر نوشت میں، بالترتیب $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq
-(2)/b/n/10 اور $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/b/n/10 سے ظاہر ک
-یا گیا ہے۔) ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/b/n/10 کا حجم $
-[][] \OML/cmm/b/it/10 r[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور ذرہ[]
+0 کے محدد کے لحاظ سے تفارق کو، $\OMS/zplm/m/n/10 r$ \TU/JameelNooriNastaleeq(2)
+/b/n/10 کے زیر نوشت میں، بالترتیب $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(
+2)/b/n/10 اور $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/b/n/10 سے ظاہر کی
+ا گیا ہے۔) ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/b/n/10 کا حجم $[
+][] \OML/cmm/b/it/10 r[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور ذرہ $\OT1/ppl/
+m/n/10 2$[]
  []
 
 [193]
@@ -13945,11 +13946,11 @@ t/10 ^^L$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے[]
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 1122--1124
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 لحاظ سے تفرقات کو صفر کے برابر رکھنے سے مح
-ض (مساوات [][]۵.۷۸[][] []اور مساوات [][]۵.۷۹[][] []میں دی گئے) پابندیاں دوبارہ 
-حاصل ہوتی ہیں؛ یوں $\OML/zplm/m/it/10 N[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 ک
-ے لحاظ سے[]
+Underfull \hbox (badness 10000) in paragraph at lines 1122--1124
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 لحاظ سے تفارق کو صفر کے برابر رکھنے سے محض
+ (مساوات [][]۵.۷۸[][] []اور مساوات [][]۵.۷۹[][] []میں دی گئے) پابندیاں دوبارہ ح
+اصل ہوتی ہیں؛ یوں $\OML/zplm/m/it/10 N[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے
+ لحاظ سے[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 1125.
@@ -17304,7 +17305,7 @@ plm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 سے کم ہے۔ صلیب ک
 Underfull \hbox (badness 10000) in paragraph at lines 713--715
 []$\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 /\OT1/ppl/m/n/10 8$ \TU/JameelNooriNastale
 eq(2)/b/n/10 حصے پر تکمل لینا ہوگا؛ باقی سات تکملات بھی یہی جواب دیں گے۔ البتہ 
-دھیان رہے کہ، اگرچہ آزمائشی تفاعل موج استمراری ہے، اس کے تفرقات[]
+دھیان رہے کہ، اگرچہ آزمائشی تفاعل موج استمراری ہے، اس کے تفارق غیر[]
  []
 
 ) [298]
@@ -23852,7 +23853,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  70471 strings out of 474878
- 1869925 string characters out of 9512517
+ 1869929 string characters out of 9512517
  3072597 words of memory out of 7000000
  91403 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
