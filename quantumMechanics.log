@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  17 AUG 2026 13:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  18 AUG 2026 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2026817830.tex)...disabled (restricted).
+runsystem(touch w18-test-20268181016.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2026817830.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20268181016.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2003,7 +2003,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 استعمال تکنیکی الفاظ ہی استعمال کئے جائیں۔
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 استعمال تکنیکی الفاظ ہی استعمال کیے جائیں۔
 جہاں ایسے الفاظ موجود نہ تھے وہاں روز مرہ میں استعمال ہونے والے الفاظ چنے گئے۔ت
 کنیکی اصطلاحات کی چنائی کے[]
  []
@@ -2736,13 +2736,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 261--261
-[][][] \TU/JameelNooriNastaleeq(2)/b/n/10 بلا منصوبہ منتخب کئے گئے رکن کا $\OML
+[][][] \TU/JameelNooriNastaleeq(2)/b/n/10 بلا منصوبہ منتخب کیے گئے رکن کا $\OML
 /zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور[][]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 261--261
-[][][] \TU/JameelNooriNastaleeq(2)/b/n/10 بلا منصوبہ منتخب کئے گئے رکن کا $\OML
+[][][] \TU/JameelNooriNastaleeq(2)/b/n/10 بلا منصوبہ منتخب کیے گئے رکن کا $\OML
 /zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور[][]
  []
 
@@ -9534,7 +9534,7 @@ garNastaleeqBold(0)/m/n/10 لاگیغ کثیررکنی[][] \TU/JameelNooriNastal
 
 Underfull \hbox (badness 10000) in paragraph at lines 897--898
 []\TU/JameelNooriNastaleeq(2)/b/n/10 گئی ہیں؛ جدول [][]۴.۷[][] []میں چند ابتدائ
-ی رداسی تفاعلات موج پیش کئے گئے ہیں جنہیں شکل [][]۴.۴[][] []میں ترسیم کیا گیا ہ
+ی رداسی تفاعلات موج پیش کیے گئے ہیں جنہیں شکل [][]۴.۴[][] []میں ترسیم کیا گیا ہ
 ے۔) ہائیڈروجن کے معمول شدہ تفاعلات موج[]
  []
 
@@ -11087,7 +11087,7 @@ leeq(2)/b/n/10 ہے۔ چکر $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/b/n
 Underfull \hbox (badness 10000) in paragraph at lines 2755--2756
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 ہائیڈروجن جوہر کے حال $\OML/zplm/m/it/10
   []$ \TU/JameelNooriNastaleeq(2)/b/n/10 میں ایک مخالف میدان الیکٹران پایا جاتا
- ہے۔ اگر آپ( پروٹان کے چکر کو شامل کئے بغیر) صرف الیکٹران کے کل[]
+ ہے۔ اگر آپ( پروٹان کے چکر کو شامل کیے بغیر) صرف الیکٹران کے کل[]
  []
 
 
@@ -15786,7 +15786,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
 Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
 []\TU/JameelNooriNastaleeq(0)/m/n/8 لئے درست ہوں۔ثانوی اضطراب (زیمان بٹوارا) $\
 OML/zplm/m/it/8 J[]$ \TU/JameelNooriNastaleeq(0)/m/n/8 میں،جو یہاں حصہ [][]۶.۲.
-۱[][] []میں پیش کئے گئے مسئلہ میں عامل $\OML/zplm/m/it/8 A$ \TU/JameelNooriNast
+۱[][] []میں پیش کیے گئے مسئلہ میں عامل $\OML/zplm/m/it/8 A$ \TU/JameelNooriNast
 aleeq(0)/m/n/8 کا کردار ادا کرتا ہے، باقی انحطاط اٹھاتا ہے۔عامل $\OML/zplm/m/it
 /8 J[]$ \TU/JameelNooriNastaleeq(0)/m/n/8 تکنیکی لحاظ سے $\OML/zplm/m/it/8 H[]$
 []
@@ -21992,7 +21992,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 نظریات پیش کئے گئے، جو پیچیدہ ہونے کے ساتھ
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 نظریات پیش کیے گئے، جو پیچیدہ ہونے کے ساتھ
  ساتھ نامعقول ثابت ہوئے۔ بہر حال سن $\OT1/ppl/m/n/10 1964$ \TU/JameelNooriNasta
 leeq(2)/b/n/10 تک اس پر کام کرنے کی وجہ نظر آتی تھی۔ تاہم اس سال بل[]
  []
@@ -23854,7 +23854,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  70471 strings out of 474878
- 1869927 string characters out of 9512517
+ 1869929 string characters out of 9512517
  3072597 words of memory out of 7000000
  91403 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
