@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  20 AUG 2026 16:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  22 AUG 2026 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20268201008.tex)...disabled (restricted).
+runsystem(touch w18-test-2026822849.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20268201008.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2026822849.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -4592,46 +4592,24 @@ LaTeX Info: Redefining \ttfamily on input line 579.
 LaTeX Info: Redefining \rmfamily on input line 591.
 LaTeX Info: Redefining \sffamily on input line 591.
 LaTeX Info: Redefining \ttfamily on input line 591.
-
-Underfull \hbox (badness 10000) in paragraph at lines 590--592
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 البتہ یہاں بات اتنی سادہ نہیں ہے چونکہ $\O
-ML/zplm/m/it/10 p$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 x$
- \TU/JameelNooriNastaleeq(0)/m/n/9 عاملین \TU/JameelNooriNastaleeq(2)/b/n/10 ہی
-ں اور عاملین عموماً \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مقلوب[][] \TU/Jame
-elNooriNastaleeq(2)/b/n/10 نہیں ہوتے ہیں (یعنی آپ $\OML/zplm/m/it/10 xp$ \TU/Ja
-meelNooriNastaleeq(2)/b/n/10 سے مراد $\OML/zplm/m/it/10 px$ \TU/JameelNooriNast
-aleeq(2)/b/n/10 نہیں لے سکتے[]
- []
-
 LaTeX Info: Redefining \rmfamily on input line 602.
 LaTeX Info: Redefining \sffamily on input line 602.
 LaTeX Info: Redefining \ttfamily on input line 602.
 
-Underfull \hbox (badness 5359) in paragraph at lines 601--603
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 اس میں متوقع اضافی جزو $\OT1/zplm/m/n/10 (
-\OML/zplm/m/it/10 xp \OMS/zplm/m/n/10 ^^@ \OML/zplm/m/it/10 px\OT1/zplm/m/n/10 
-)$ \TU/JameelNooriNastaleeq(2)/b/n/10 پایا جاتا ہے جس کو ہم $\OML/zplm/m/it/10 
-x$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 p$ \TU/JameelNoori
-Nastaleeq(2)/b/n/10 کا \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مقلب[][] \TU/Ja
-meelNooriNastaleeq(2)/b/n/10 کہتے ہیں اور جو ان کی آپس میں مقلوب نہ ہونے کی پیم
-ائش ہے۔[]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 611--612
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 ہمیں $\OML/zplm/m/it/10 x$ \TU/JameelNoo
-riNastaleeq(2)/b/n/10 اور عددیp کا مقلب دریافت کرنا ہو گا۔ \TU/JameelNooriNasta
-leeq(0)/m/n/9 انتباہ: \TU/JameelNooriNastaleeq(2)/b/n/10 عاملین پر ذہنی کام کرن
-ا عموماً غلطی کا سبب بنتا ہے۔ بہتر ہو گا کہ عاملین پرکھنے کے لیے آپ انہیں تفاعل
-[]
+riNastaleeq(2)/b/n/10 اور عددیp کا تعویض گر دریافت کرنا ہو گا۔ \TU/JameelNooriN
+astaleeq(0)/m/n/9 انتباہ: \TU/JameelNooriNastaleeq(2)/b/n/10 عاملین پر ذہنی کام
+ کرنا عموماً غلطی کا سبب بنتا ہے۔ بہتر ہو گا کہ عاملین پرکھنے کے لیے آپ انہیں[]
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 611--612
-[]$\OML/zplm/m/it/10 f\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ 
-\TU/JameelNooriNastaleeq(2)/b/n/10 عمل کرنے کے لیے پیش کریں۔ آخر میں اس پرکھی ت
-فاعل کو رد کر کے آپ صرف عاملین پر مبنی مساوات حاصل کر سکتے ہیں۔ موجودہ صورت میں
-[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 تفاعل $\OML/zplm/m/it/10 f\OT1/zplm/m/n/10
+ (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/b/n/10 عمل
+ کرنے کے لیے پیش کریں۔ آخر میں اس پرکھی تفاعل کو رد کر کے آپ صرف عاملین پر مبنی
+ مساوات حاصل کر سکتے ہیں۔ موجودہ صورت[]
  []
 
 [40]
@@ -4639,10 +4617,10 @@ LaTeX Info: Redefining \rmfamily on input line 619.
 LaTeX Info: Redefining \sffamily on input line 619.
 LaTeX Info: Redefining \ttfamily on input line 619.
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--619
+Underfull \hbox (badness 1924) in paragraph at lines 619--619
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 گہری نظر سے دیکھا جائے تو کوانٹائی میکا
-نیات کے تمام طلسمات کا دارومدار اس حقیقت پر ہے کہ مقام اور معیار حرکت آپس میں م
-قلوب نہیں ہیں۔ بعض مصنفین باضابطہ مقلبیت رشتہ کو[]
+نیات کے تمام طلسمات کا دارومدار اس حقیقت پر ہے کہ مقام اور معیار حرکت آپس میں ت
+عویض پذیر نہیں ہیں۔ بعض مصنفین باضابطہ تعویضی رشتہ کو[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 621.
@@ -7889,23 +7867,23 @@ LaTeX Info: Redefining \ttfamily on input line 595.
 
 Underfull \hbox (badness 10000) in paragraph at lines 595--595
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 یہ اس حقیقت کے ساتھ مطابقت رکھتا ہے کہ 
-غیر مقلب قالبوں کو بیکوقت وتری نہیں بنایا جا سکتا ہے (یعنی، انہیں ایک جیسی متشا
-بہ تبادلہ سے وتری نہیں بنایا جا سکتا ہے)، جبکہ مقلوب ہرمشی[]
- []
-
-
-Underfull \hbox (badness 4229) in paragraph at lines 595--596
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 حقیقتاً \TU/JameelNooriNastaleeq(0)/m/n/
-9 ہر دو قابل مشاہدہ جوڑی جن کے عاملین غیر مقلوب ہوں \TU/JameelNooriNastaleeq(2)
-/b/n/10 کے لیے ایک عدد”اصول عدم یقینیت“ پایا جاتا ہے؛ ہم انہیں \TU/AASameerSaga
-rNastaleeqBold(0)/m/n/10 غیر ہم آہنگ قابل مشاہدہ[][][]
+غیر تعویضی قالبوں کو بیکوقت وتری نہیں بنایا جا سکتا ہے (یعنی، انہیں ایک جیسی مت
+شابہ تبادلہ سے وتری نہیں بنایا جا سکتا ہے)، جبکہ تعویض پذیر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 595--596
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 کہتے ہیں۔ غیر ہم آہنگ قابل مشاہدہ کے مشترک
-ہ امتیازی تفاعل نہیں پائے جاتے؛ کم از کم ان کے مشترکہ امتیازی تفاعلات کا مکمل س
-لسلہ نہیں ہو گا ( سوال [][]۳.۱۵[][][]
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 حقیقتاً \TU/JameelNooriNastaleeq(0)/m/n/
+9 ہر دو قابل مشاہدہ جوڑی جن کے عاملین غیر تعویض پذیر ہوں \TU/JameelNooriNastale
+eq(2)/b/n/10 کے لیے ایک عدد”اصول عدم یقینیت“ پایا جاتا ہے؛ ہم انہیں \TU/AASamee
+rSagarNastaleeqBold(0)/m/n/10 غیر ہم آہنگ قابل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 مشاہدہ[][] \TU/JameelNooriNastaleeq(
+2)/b/n/10 کہتے ہیں۔ غیر ہم آہنگ قابل مشاہدہ کے مشترکہ امتیازی تفاعل نہیں پائے ج
+اتے؛ کم از کم ان کے مشترکہ امتیازی تفاعلات کا مکمل سلسلہ نہیں ہو گا ([]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 599.
@@ -7978,10 +7956,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
 [108]
 Underfull \hbox (badness 10000) in paragraph at lines 629--633
-[] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۳.۱۵: []دکھائیں کہ دو غیر مقلوب عام
-لین کے مشترکہ امتیازی تفاعلات کا مکمل سلسلہ نہیں پایا جاتا ہے۔ \TU/JameelNooriN
-astaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 دکھائیں اگر $[]$ او
-ر $[]$ کے مشترکہ[]
+[] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۳.۱۵: []دکھائیں کہ دو غیر تعویض پذی
+ر عاملین کے مشترکہ امتیازی تفاعلات کا مکمل سلسلہ نہیں پایا جاتا ہے۔ \TU/JameelN
+ooriNastaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 دکھائیں اگر $[
+]$ اور $[]$ کے[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 637.
@@ -8153,10 +8131,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 693--695
 
 Underfull \hbox (badness 10000) in paragraph at lines 693--695
 []\TU/JameelNooriNastaleeq(2)/b/n/10 قیمت کی تبدیلی کی شرح کو عامل اور ہیملٹنی 
-کا مقلب تعین کرتا ہے۔ بالخصوص ا گر $[]$ اور $[]$ آپس میں \TU/JameelNooriNastale
-eq(0)/m/n/9 قابل تبدل \TU/JameelNooriNastaleeq(2)/b/n/10 ہوں، تب $\OMS/zplm/m/n
-/10 h\OML/zplm/m/it/10 Q\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(2)/b/n/10 
-مستقل ہو گا، اور اس[]
+کا تعویض گر تعین کرتا ہے۔ بالخصوص ا گر $[]$ اور $[]$ آپس میں \TU/JameelNooriNas
+taleeq(0)/m/n/9 قابل تبدل \TU/JameelNooriNastaleeq(2)/b/n/10 ہوں، تب $\OMS/zplm
+/m/n/10 h\OML/zplm/m/it/10 Q\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastaleeq(2)/b/n
+/10 مستقل ہو گا، اور[]
  []
 
 [111]
@@ -9795,9 +9773,9 @@ LaTeX Info: Redefining \rmfamily on input line 1071.
 LaTeX Info: Redefining \sffamily on input line 1071.
 LaTeX Info: Redefining \ttfamily on input line 1071.
 
-Underfull \hbox (badness 1057) in paragraph at lines 1070--1072
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1072
 []\TU/JameelNooriNastaleeq(2)/b/n/10 معیار حرکت عاملین کے امتیازی قیمتیں حاصل ک
-یے جائیں گے۔ یہ ترکیب، عاملین کے مقلبیت تعلقات پر مبنی ہے۔ اس کے بعد ہم امتیازی
+یے جائیں گے۔ یہ ترکیب، عاملین کے تعویضی تعلقات پر مبنی ہے۔ اس کے بعد ہم امتیازی
  تفاعلات حاصل کریں[]
  []
 
@@ -9819,13 +9797,13 @@ LaTeX Info: Redefining \sffamily on input line 1082.
 LaTeX Info: Redefining \ttfamily on input line 1082.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1080--1083
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 باضابطہ مقلبیت رشتوں (مساوات [][]۴.۱۰[][][
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 باضابطہ تعویضی رشتوں (مساوات [][]۴.۱۰[][][
 ]) سے ہم جانتے ہیں کہ صرف $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n
 /10 اور $\OML/zplm/m/it/10 p[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، $\OML/zplm/
 m/it/10 y$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 p[]$\TU/Ja
 meelNooriNastaleeq(2)/b/n/10 ، $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(2
 )/b/n/10 اور $\OML/zplm/m/it/10 p[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 عاملین 
-غیر مقلوب ہیں۔ یوں درمیانے دو[]
+غیر تعویضی ہیں۔ یوں درمیانے دو[]
  []
 
 
@@ -9849,9 +9827,9 @@ LaTeX Info: Redefining \sffamily on input line 1112.
 LaTeX Info: Redefining \ttfamily on input line 1112.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1111--1113
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 (مقالب کی سادہ روپ حاصل کرنے کے لیے میں نے
- مساوات[][]۳.۶۴[][] []استعمال کیا؛ یہ بھی یاد رہے کہ ہر عامل اپنے آپ کے ساتھ مق
-لوب ہوگا۔) اس سے آپ[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 (تعویض گر کا سادہ روپ حاصل کرنے کے لیے میں
+ نے مساوات[][]۳.۶۴[][] []استعمال کیا؛ یہ بھی یاد رہے کہ ہر عامل اپنے آپ کے ساتھ
+ تعویضی ہوگا۔) اس سے[]
  []
 
 [158]
@@ -9985,7 +9963,7 @@ LaTeX Info: Redefining \ttfamily on input line 1289.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1287--1290
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 میں امید کرتا ہوں کہ میں آپ کو متاثر کرن
-ے میں کامیاب ہوا ہوں گا۔ زاویائی معیار حرکت کے بنیادی مقلبیت رشتوں (مساوات [][]
+ے میں کامیاب ہوا ہوں گا۔ زاویائی معیار حرکت کے بنیادی تعویضی رشتوں (مساوات [][]
 ۴.۹۹[][][]) سے آغاز کرتے[]
  []
 
@@ -10230,6 +10208,21 @@ LaTeX Info: Redefining \ttfamily on input line 1454.
 LaTeX Info: Redefining \rmfamily on input line 1454.
 LaTeX Info: Redefining \sffamily on input line 1454.
 LaTeX Info: Redefining \ttfamily on input line 1454.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1454
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 ہم انہیں نظریہ چکر کے \TU/JameelNooriNa
+staleeq(0)/m/n/9 اصول موضوعہ \TU/JameelNooriNastaleeq(0)/m/n/8 لیتے ہیں؛ مداری 
+زاویائی معیار حرکت کے مماثل کلیات (مساوات [][]۴.۹۹[][][]) کو عاملین کے معلوم رو
+پ (مساوات [][]۴.۹۶[][][]) سے اخذ کیا گیا تھا۔ زیادہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1454
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 نفیس انداز میں ان دونوں کو تین ابعاد میں گھ
+ماو کے عدم تغیریت سے حاصل کیا جا سکتا ہے۔ یقیناً، یہ تین بنیادی تعویضی رشتے ہر 
+قسم کے زاویائی معیار حرکت کے لیے درست ہوں گے، چاہے وہ چکری،[]
+ []
+
 LaTeX Info: Redefining \rmfamily on input line 1458.
 LaTeX Info: Redefining \sffamily on input line 1458.
 LaTeX Info: Redefining \ttfamily on input line 1458.
@@ -10544,7 +10537,7 @@ LaTeX Info: Redefining \ttfamily on input line 1630.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1630--1632
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 تصدیق کیجیے گا کہ چکری قالب ( مساوات [][
-]۴.۱۴۵[][] []اور مساوات [][]۴.۱۴۷[][][]) زاویائی معیار حرکت کے بنیادی مقلبیت رش
+]۴.۱۴۵[][] []اور مساوات [][]۴.۱۴۷[][][]) زاویائی معیار حرکت کے بنیادی تعویضی رش
 توں (مساوات [][]۴.۱۳۴[][][]) کو مطمئن[]
  []
 
@@ -11080,15 +11073,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2755--2756
  ہے۔ اگر آپ( پروٹان کے چکر کو شامل کیے بغیر) صرف الیکٹران کے کل[]
  []
 
-
-Underfull \hbox (badness 3547) in paragraph at lines 2757--2760
-[] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۴.۳۷:  $\OML/zplm/m/it/10 S[]$ \TU/
-JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNasta
-leeq(2)/b/n/10 کا مقلوب تعین کریں (جہاں $[] \OMS/zplm/m/n/10 ^^Q [][] \OT1/zplm
-/m/n/10 + [][]$ \TU/JameelNooriNastaleeq(2)/b/n/10 ہوگا)۔ اپنے نتیجہ کو عمومیت 
-دیتے ہوئے درج ذیل[]
- []
-
 LaTeX Info: Redefining \rmfamily on input line 2763.
 LaTeX Info: Redefining \sffamily on input line 2763.
 LaTeX Info: Redefining \ttfamily on input line 2763.
@@ -11103,24 +11087,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 2762--2765
 []\TU/JameelNooriNastaleeq(0)/m/n/9 تبصرہ: \TU/JameelNooriNastaleeq(2)/b/n/10 م
 یں یہاں بتانا چاہوں گا کہ چونکہ $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastalee
 q(2)/b/n/10 اور $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 آپس 
-میں غیر مقلوبی ہیں لہٰذا ہم ایسے حالات حاصل کرنے سے قاصر ہونگے جو دونوں کے بیک 
-وقت[]
+میں غیر تعویضی ہیں لہٰذا ہم ایسے حالات حاصل کرنے سے قاصر ہونگے جو دونوں کے بیک[
+]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2762--2765
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 امتیازی سمتیات ہوں۔ ہمیں $\OML/zplm/m/it/1
-0 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات تیار کرنے کی خاطر $\
-OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات کے خط
-ی مجموعے درکار ہونگے۔( مساوات [][]۴.۱۸۵[][][]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 وقت امتیازی سمتیات ہوں۔ ہمیں $\OML/zplm/m/
+it/10 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات تیار کرنے کی خاط
+ر $\OML/zplm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات ک
+ے خطی مجموعے درکار ہونگے۔( مساوات[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2762--2765
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 میں) کلیبش و گورڈن عددی سر یہی کچھ کرتے 
-ہیں۔ ساتھ ہی مساوات [][]۴.۱۸۷[][] []سے ہم کہہ سکتے ہیں کہ $\OML/zplm/m/it/10 S[
-]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ مجموعہ $[][] \OT1/zplm/m/n/10 + [
-][]$ \TU/JameelNooriNastaleeq(2)/b/n/10 مقلوبی[]
+[][][]\TU/JameelNooriNastaleeq(2)/b/n/10 ۴.۱۸۵[][] []میں) کلیبش و گورڈن عددی سر
+ یہی کچھ کرتے ہیں۔ ساتھ ہی مساوات [][]۴.۱۸۷[][] []سے ہم کہہ سکتے ہیں کہ $\OML/z
+plm/m/it/10 S[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ مجموعہ $[][] \OT1/z
+plm/m/n/10 + [][]$[]
  []
 
 [182] [183]
@@ -11437,7 +11421,7 @@ LaTeX Info: Redefining \ttfamily on input line 3038.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3036--3039
 [] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۴.۵۷:  زاویائی معیار حرکت کے بنیادی
- مقلبیت رشتے (مساوات [][]۴.۹۹[][][]) امتیازی قیمتوں کی ( عدد صحیح قیمتوں کے سات
+ تعویضی رشتے (مساوات [][]۴.۹۹[][][]) امتیازی قیمتوں کی ( عدد صحیح قیمتوں کے سات
 ھ ساتھ) نصف عدد صحیح قیمتوں[]
  []
 
@@ -11455,7 +11439,7 @@ LaTeX Info: Redefining \ttfamily on input line 3057.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3056--3059
 []\TU/JameelNooriNastaleeq(2)/b/n/10 الجبرائی نظریہ میں ہیملٹنی کے روپ اور باضا
-بطہ مقلبیت رشتوں سے یہ اخذ کیا گیا)۔ اس کو استعمال کرتے ہوئے اخذ کریں کہ $\OML/
+بطہ تعویضی رشتوں سے یہ اخذ کیا گیا)۔ اس کو استعمال کرتے ہوئے اخذ کریں کہ $\OML/
 zplm/m/it/10 L[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی امتیازی قیمتیں لازماً[]
 
  []
@@ -11854,12 +11838,12 @@ LaTeX Info: Redefining \rmfamily on input line 120.
 LaTeX Info: Redefining \sffamily on input line 120.
 LaTeX Info: Redefining \ttfamily on input line 120.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 5787) in paragraph at lines 120--120
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 بعض اوقات اشارہ دیا جاتا ہے کہ $\OML/zp
 lm/m/it/8 P$ \TU/JameelNooriNastaleeq(0)/m/n/8 اور $\OML/zplm/m/it/8 H$ \TU/Jam
-eelNooriNastaleeq(0)/m/n/8 کے باہمی مقلوبی ہونا ضرورت تشاکلیت (مساوات [][]۵.۱۴[
-][][]) کی پشت پر ہے۔ یہ بالکل غلط ہے:ہم دو قابل ممیز ذرات (مثلاً ایک الیکٹران ا
-ور[]
+eelNooriNastaleeq(0)/m/n/8 کا باہمی تعویض پذیر ہونا ضرورت تشاکلیت (مساوات [][]۵
+.۱۴[][][]) کی پشت پر ہے۔ یہ بالکل غلط ہے:ہم دو قابل ممیز ذرات (مثلاً ایک الیکٹر
+ان اور[]
  []
 
 
@@ -14911,9 +14895,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--352
 []\TU/JameelNooriNastaleeq(2)/b/n/10 مسئلہ  ۶.۱:  فرض کریں $\OML/zplm/m/it/10 A
 $ \TU/JameelNooriNastaleeq(2)/b/n/10 ایک ایسا ہرمشی عامل ہے، جو $\OML/zplm/m/it
 /10 H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 H[]$ \TU/Jam
-eelNooriNastaleeq(2)/b/n/10 کے ساتھ مقلوبی ہے۔ اگر( $\OML/zplm/m/it/10 H[]$ \TU
-/JameelNooriNastaleeq(2)/b/n/10 کے انحطاطی امتیازی تفاعلات) $\OML/zplm/m/it/10 
- []$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور[]
+eelNooriNastaleeq(2)/b/n/10 کے ساتھ تعویض پذیر ہے۔ اگر( $\OML/zplm/m/it/10 H[]$
+ \TU/JameelNooriNastaleeq(2)/b/n/10 کے انحطاطی امتیازی تفاعلات)[]
  []
 
 [248]
@@ -14926,15 +14909,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 367--368
 /n/10 اگر آپ کا سامنا انحطاطی حالات سے ہو، ایسا ہرمشی عامل $\OML/zplm/m/it/10 A
 $ \TU/JameelNooriNastaleeq(2)/b/n/10 تلاش کرنے کی کوشش کریں جو $\OML/zplm/m/it/
 10 H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 H[]$ \TU/Jame
-elNooriNastaleeq(2)/b/n/10 کے ساتھ مقلوبی ہو؛ $\OML/zplm/m/it/10 H[]$ \TU/Jamee
-lNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 A$[]
+elNooriNastaleeq(2)/b/n/10 کے ساتھ تعویض پذیر ہو؛ $\OML/zplm/m/it/10 H[]$[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 367--368
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 کے بیک وقت امتیازی تفاعلات کو غیر مضطرب حا
-لات منتخب کر کے سادہ اول رتبی نظریہ اضطراب بروئے کار لائیں۔ ایسے عامل کی تلاش م
-یں ناکامی کی صورت[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 A$ \TU/JameelNooriN
+astaleeq(2)/b/n/10 کے بیک وقت امتیازی تفاعلات کو غیر مضطرب حالات منتخب کر کے سا
+دہ اول رتبی نظریہ اضطراب بروئے کار لائیں۔ ایسے عامل کی تلاش میں ناکامی کی[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 375.
@@ -14993,10 +14975,10 @@ LaTeX Info: Redefining \rmfamily on input line 436.
 LaTeX Info: Redefining \sffamily on input line 436.
 LaTeX Info: Redefining \ttfamily on input line 436.
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--436
+Underfull \hbox (badness 1009) in paragraph at lines 436--436
 [][][]\TU/JameelNooriNastaleeq(0)/m/n/8 انحطاطی نظریہ اضطراب، درحقیقت، ہیملٹنی 
-کے انحطاطی حصہ کو وتری بنانے کے مترادف ہے۔ قوالب کا وتری بنانا (اور مقلوبی قوال
-ب کا بیکوقت وتری بنانا) ضمیمہ کے حصہ [][]A-۵[][] []میں سکھایا[]
+کے انحطاطی حصہ کو وتری بنانے کے مترادف ہے۔ قوالب کا وتری بنانا (اور تعویض پذیر 
+قوالب کا بیکوقت وتری بنانا) ضمیمہ کے حصہ [][]A-۵[][] []میں[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 436.
@@ -15006,25 +14988,25 @@ LaTeX Info: Redefining \ttfamily on input line 436.
 Underfull \hbox (badness 10000) in paragraph at lines 435--437
 []\TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی قیمتیں تلاش کرتے ہیں۔ الجبرا کی
  زبان میں ”موزوں“ غیر مضطرب تفاعلات موج کی تلاش سے مراد انحطاطی ذيلی فضا میں ای
-سی اساس تیار کرنا ہے[]
+سی اساس تیار کرنا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 435--437
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 جو قالب $[]$ کو  \TU/JameelNooriNastaleeq(
-0)/m/n/9 وتری \TU/JameelNooriNastaleeq(2)/b/n/10 بناتی ہو۔ یہاں بھی اگر آپ ایسا
- عامل $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/b/n/10 تلاش کر سکیں، جو
- $\OML/zplm/m/it/10 H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کا مقلوبی ہو، اور $
-\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 
-H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے بیک وقت امتیازی تفاعلات[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہے جو قالب $[]$ کو  \TU/JameelNooriNastale
+eq(0)/m/n/9 وتری \TU/JameelNooriNastaleeq(2)/b/n/10 بناتی ہو۔ یہاں بھی اگر آپ ا
+یسا عامل $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/b/n/10 تلاش کر سکیں،
+ جو $\OML/zplm/m/it/10 H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ تعویض پذ
+یر ہو، اور $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/z
+plm/m/it/10 H[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے بیک وقت[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 435--437
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 استعمال کر سکیں تو قالب $\OML/zplm/m/it/10
- W$ \TU/JameelNooriNastaleeq(2)/b/n/10 خود بخود وتری ہو گا، لہٰذا آپ کو امتیازی
- مساوات حل کرنے کی ضرورت پیش نہیں آئی گی۔[][] ( اگر آپ کو میری دو پڑتا انحطاط ک
-و[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 امتیازی تفاعلات استعمال کر سکیں تو قالب $\
+OML/zplm/m/it/10 W$ \TU/JameelNooriNastaleeq(2)/b/n/10 خود بخود وتری ہو گا، لہٰ
+ذا آپ کو امتیازی مساوات حل کرنے کی ضرورت پیش نہیں آئی گی۔[][] ( اگر آپ کو میری[
+]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 439.
@@ -15095,8 +15077,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 615--615
  \TU/JameelNooriNastaleeq(0)/m/n/8 کے ساتھ، $\OML/zplm/m/it/8 x$ \TU/JameelNoor
 iNastaleeq(0)/m/n/8 اور $\OML/zplm/m/it/8 y$ \TU/JameelNooriNastaleeq(0)/m/n/8 
 کو آپس میں تبدیل کرنے والا عامل، $\OML/zplm/m/it/8 P[]$ \TU/JameelNooriNastalee
-q(0)/m/n/8 مقلوب ہے، ہم اس نتیجے کو قیاساً معلوم کر سکتے تھے۔ اس کے امتیازی قیم
-تیں (زیر تبدیلی جفت[]
+q(0)/m/n/8 تعویض پذیر ہے، ہم اس نتیجے کو قیاساً معلوم کر سکتے تھے۔ اس کے امتیاز
+ی قیمتیں (زیر تبدیلی[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 626.
@@ -15321,22 +15303,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 780--781
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 780--781
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
 []\TU/JameelNooriNastaleeq(2)/b/n/10 کروی تشاکلی ہے، لہٰذا یہ $\OML/zplm/m/it/1
 0 L[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 L[]$ \TU/Jamee
-lNooriNastaleeq(2)/b/n/10 کا مقلوب ہو گا۔ مزید کسی $\OML/zplm/m/it/10 E[]$ \TU/
-JameelNooriNastaleeq(2)/b/n/10 کے $\OML/zplm/m/it/10 n[]$ \TU/JameelNooriNastal
-eeq(2)/b/n/10 حالات کے لیے ان (ایک ساتھ تمام) عاملین کے امتیازی تفاعلات کی منفر
-د[]
+lNooriNastaleeq(2)/b/n/10 کے ساتھ تعویض پذیر ہو گا۔ مزید کسی $\OML/zplm/m/it/10
+ E[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے $\OML/zplm/m/it/10 n[]$ \TU/JameelN
+ooriNastaleeq(2)/b/n/10 حالات کے لیے ان (ایک ساتھ تمام) عاملین کے امتیازی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 780--781
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 امتیازی قیمتیں ہوں گی۔ یوں خوش قسمتی سے، ت
-فاعلات $\OML/zplm/m/it/10  []$ \TU/JameelNooriNastaleeq(2)/b/n/10 اس مسئلہ کے”م
-وزوں“ حالات ہوں گے ( یا جیسا ہم کہتے ہیں $\OML/zplm/m/it/10 n$\TU/JameelNooriNa
-staleeq(2)/b/n/10 ، $\OML/zplm/m/it/10 `$ \TU/JameelNooriNastaleeq(2)/b/n/10 او
-ر $\OML/zplm/m/it/10 m$ \TU/AASameerSagarNastaleeqBold(0)/m/n/10 موزوں[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 تفاعلات کی منفرد امتیازی قیمتیں ہوں گی۔ یو
+ں خوش قسمتی سے، تفاعلات $\OML/zplm/m/it/10  []$ \TU/JameelNooriNastaleeq(2)/b/n
+/10 اس مسئلہ کے”موزوں“ حالات ہوں گے ( یا جیسا ہم کہتے ہیں $\OML/zplm/m/it/10 n$
+\TU/JameelNooriNastaleeq(2)/b/n/10 ، $\OML/zplm/m/it/10 `$[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 783.
@@ -15538,8 +15518,8 @@ LaTeX Info: Redefining \ttfamily on input line 897.
 
 Underfull \hbox (badness 10000) in paragraph at lines 897--898
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 اب کوانٹائی میکانیات کی بات کرتے ہیں۔ چک
-ر و دائری ربط کی صورت میں $[]$ اور $[]$ کے ساتھ ہیملٹنی غیر مقلوب ہو گا، لہٰذا 
-چکر اور مداری زاویائی معیار اثر[]
+ر و دائری ربط کی صورت میں $[]$ اور $[]$ کے ساتھ ہیملٹنی غیر تعویض پذیر ہو گا، ل
+ہٰذا چکر اور مداری زاویائی معیار[]
  []
 
 [261]
@@ -15549,18 +15529,19 @@ LaTeX Info: Redefining \ttfamily on input line 901.
 
 Underfull \hbox (badness 10000) in paragraph at lines 900--902
 []\TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ $\OML/zplm/m/it/10 H[]$ \TU/Jameel
-NooriNastaleeq(2)/b/n/10 مقلوب ہو گا، لہٰذا یہ مقداریں بقائی ہوں گی ( مساوات []
-[]۳.۷۱[][] []اور اس کے نیچے پیراگراف دیکھیں )۔دوسرے لفظوں میں، $\OML/zplm/m/it/
-10 L[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 S[]$[]
+NooriNastaleeq(2)/b/n/10 تعویض پذیر ہو گا، لہٰذا یہ مقداریں بقائی ہوں گی ( مساو
+ات [][]۳.۷۱[][] []اور اس کے نیچے پیراگراف دیکھیں )۔دوسرے لفظوں میں، $\OML/zplm/
+m/it/10 L[]$[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 900--902
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات نظریہ اضطراب میں استعمال 
-کے لیے ”موزوں“ حالات نہیں ہیں، جبکہ $\OML/zplm/m/it/10 L[]$\TU/JameelNooriNasta
-leeq(2)/b/n/10 ، $\OML/zplm/m/it/10 S[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، $\
-OML/zplm/m/it/10 J[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، اور $\OML/zplm/m/it/1
-0 J[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے امتیازی حالات ”موزوں“[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 S[]$ \TU/JameelNoor
+iNastaleeq(2)/b/n/10 کے امتیازی حالات نظریہ اضطراب میں استعمال کے لیے ”موزوں“ ح
+الات نہیں ہیں، جبکہ $\OML/zplm/m/it/10 L[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ،
+ $\OML/zplm/m/it/10 S[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، $\OML/zplm/m/it/10
+ J[]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، اور $\OML/zplm/m/it/10 J[]$ \TU/Jamee
+lNooriNastaleeq(2)/b/n/10 کے امتیازی حالات[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 913.
@@ -15641,12 +15622,13 @@ LaTeX Info: Redefining \sffamily on input line 1010.
 LaTeX Info: Redefining \ttfamily on input line 1010.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1005--1011
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۶.۱۶: []درج ذیل مقلب کی قیمتیں تلاش 
-کریں۔ ( الف) $\OT1/zplm/m/n/10 [[] \OMS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 , []\
-OT1/zplm/m/n/10 ]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، ( ب) $\OT1/zplm/m/n/10 [
-[] \OMS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 , []\OT1/zplm/m/n/10 ]$\TU/JameelNoor
-iNastaleeq(2)/b/n/10 ، ( ج) $\OT1/zplm/m/n/10 [[] \OMS/zplm/m/n/10 ^^A []\OT1/p
-pl/m/n/10 , []\OT1/zplm/m/n/10 ]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، ( د)[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۶.۱۶: []درج ذیل تعویض گر کی قیمتیں ت
+لاش کریں۔ ( الف) $\OT1/zplm/m/n/10 [[] \OMS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 ,
+ []\OT1/zplm/m/n/10 ]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، ( ب) $\OT1/zplm/m/n/
+10 [[] \OMS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 , []\OT1/zplm/m/n/10 ]$\TU/Jameel
+NooriNastaleeq(2)/b/n/10 ، ( ج) $\OT1/zplm/m/n/10 [[] \OMS/zplm/m/n/10 ^^A []\O
+T1/ppl/m/n/10 , []\OT1/zplm/m/n/10 ]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، ( د)[
+]
  []
 
 
@@ -15657,8 +15639,8 @@ m/n/10 [[] \OMS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 S[]\OT1/z
 plm/m/n/10 ]$\TU/JameelNooriNastaleeq(2)/b/n/10 ، ( و) $\OT1/zplm/m/n/10 [[] \O
 MS/zplm/m/n/10 ^^A []\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 J[]\OT1/zplm/m/n/10 ]$
 \TU/JameelNooriNastaleeq(2)/b/n/10 ؛  \TU/JameelNooriNastaleeq(0)/m/n/9 اشارہ: 
-$[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $[]$ زاویائی معیار حرکت کے بنیادی م
-قلبیت رشتوں (مساوات[]
+$[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور $[]$ زاویائی معیار حرکت کے بنیادی ت
+عویضی رشتوں (مساوات[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 1013.
@@ -16319,10 +16301,10 @@ iNastaleeq(2)/b/n/10 کی صورت میں لکھیں۔ اس کے بعد تکمل
 ق کو گھٹائیں۔[]
  []
 
+[276]
 LaTeX Info: Redefining \rmfamily on input line 1484.
 LaTeX Info: Redefining \sffamily on input line 1484.
 LaTeX Info: Redefining \ttfamily on input line 1484.
-[276]
 LaTeX Info: Redefining \rmfamily on input line 1492.
 LaTeX Info: Redefining \sffamily on input line 1492.
 LaTeX Info: Redefining \ttfamily on input line 1492.
@@ -16393,13 +16375,13 @@ staleeq(2)/b/n/10 اور $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(2)/b/n
 LaTeX Info: Redefining \rmfamily on input line 1515.
 LaTeX Info: Redefining \sffamily on input line 1515.
 LaTeX Info: Redefining \ttfamily on input line 1515.
-LaTeX Info: Redefining \rmfamily on input line 1528.
-LaTeX Info: Redefining \sffamily on input line 1528.
-LaTeX Info: Redefining \ttfamily on input line 1528.
-LaTeX Info: Redefining \rmfamily on input line 1528.
-LaTeX Info: Redefining \sffamily on input line 1528.
-LaTeX Info: Redefining \ttfamily on input line 1528.
 [277]
+LaTeX Info: Redefining \rmfamily on input line 1528.
+LaTeX Info: Redefining \sffamily on input line 1528.
+LaTeX Info: Redefining \ttfamily on input line 1528.
+LaTeX Info: Redefining \rmfamily on input line 1528.
+LaTeX Info: Redefining \sffamily on input line 1528.
+LaTeX Info: Redefining \ttfamily on input line 1528.
 LaTeX Info: Redefining \rmfamily on input line 1535.
 LaTeX Info: Redefining \sffamily on input line 1535.
 LaTeX Info: Redefining \ttfamily on input line 1535.
@@ -16419,10 +16401,10 @@ LaTeX Info: Redefining \ttfamily on input line 1557.
 LaTeX Info: Redefining \rmfamily on input line 1577.
 LaTeX Info: Redefining \sffamily on input line 1577.
 LaTeX Info: Redefining \ttfamily on input line 1577.
+[278]
 LaTeX Info: Redefining \rmfamily on input line 1579.
 LaTeX Info: Redefining \sffamily on input line 1579.
 LaTeX Info: Redefining \ttfamily on input line 1579.
-[278]
 LaTeX Info: Redefining \rmfamily on input line 1582.
 LaTeX Info: Redefining \sffamily on input line 1582.
 LaTeX Info: Redefining \ttfamily on input line 1582.
@@ -23606,15 +23588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 822--823
 Underfull \hbox (badness 10000) in paragraph at lines 822--823
 []\TU/JameelNooriNastaleeq(2)/b/n/10 ہو گا۔ (غیر وتر پذیر قالب کی مثال کے لئے س
 وال [][]A-۱۹[][] []دیکھیں۔) کیا بہتر ہوتا (اگر تمام امتیازی سمتیات معلوم کرنے س
-ے قبل) ہم جان سکتے کہ آیا قالب[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 822--823
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 وتر پذیر ہے یا نہیں۔ ایک کارآمد کافی (تاہم
- غیر لازمی) شرط درجہ ذیل ہے: ایک قالب جو اپنے ہرمشی جوڑی دار کے ساتھ مقلوب ہو \
-TU/AASameerSagarNastaleeqBold(0)/m/n/10 عمودی[][] \TU/JameelNooriNastaleeq(2)/b
-/n/10 قالب کہلاتا[]
+ے قبل) ہم جان سکتے کہ آیا قالب وتر[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 828.
@@ -23826,7 +23800,9 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/it' will be
 LaTeX Info: Redefining \rmfamily on input line 649.
 LaTeX Info: Redefining \sffamily on input line 649.
 LaTeX Info: Redefining \ttfamily on input line 649.
- [448] [449] [450] [451] [452] [453] [454] [455] [456])
+ [448] [449] [450] [451] [452] [453] [454] [455] [456
+
+])
 (./quantumMechanics.aux (./tex/quantumPreface.aux) (./tex/prefaceFirstBook.aux)
 (./tex/quantumTheWaveFunction.aux)
 (./tex/quantumMechanicsTime_independentSchrodingerEquation.aux)
@@ -23853,7 +23829,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  70472 strings out of 474878
- 1869940 string characters out of 9512517
+ 1869938 string characters out of 9512517
  3072604 words of memory out of 7000000
  91404 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
