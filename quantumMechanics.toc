@@ -18,10 +18,10 @@
 \contentsline {section}{\numberline {\farsidigits {2}.\farsidigits {3}}ہارمونی مرتعش}{\farsidigits {38}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {2}.\farsidigits {3}.\farsidigits {1}}الجبرائی ترکیب}{\farsidigits {40}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {2}.\farsidigits {3}.\farsidigits {2}}تحلیلی ترکیب}{\farsidigits {48}}{}%
-\contentsline {section}{\numberline {\farsidigits {2}.\farsidigits {4}}آزاد ذرہ}{\farsidigits {55}}{}%
+\contentsline {section}{\numberline {\farsidigits {2}.\farsidigits {4}}آزاد ذرہ}{\farsidigits {56}}{}%
 \contentsline {section}{\numberline {\farsidigits {2}.\farsidigits {5}}ڈیلٹا تفاعل مخفیہ}{\farsidigits {64}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {2}.\farsidigits {5}.\farsidigits {1}}مقید حالات اور بکھراو حالات}{\farsidigits {64}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {2}.\farsidigits {5}.\farsidigits {2}}ڈیلٹا تفاعل کنواں}{\farsidigits {66}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {2}.\farsidigits {5}.\farsidigits {2}}ڈیلٹا تفاعل کنواں}{\farsidigits {65}}{}%
 \contentsline {section}{\numberline {\farsidigits {2}.\farsidigits {6}}متناہی چوکور کنواں}{\farsidigits {75}}{}%
 \contentsline {chapter}{\numberline {\farsidigits {3}}قواعد و ضوابط}{\farsidigits {91}}{}%
 \contentsline {section}{\numberline {\farsidigits {3}.\farsidigits {1}}ہلبرٹ فضا}{\farsidigits {91}}{}%
