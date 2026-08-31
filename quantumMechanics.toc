@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {1}}مساوات شروڈنگر}{\farsidigits {1}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {2}}شماریاتی مفہوم}{\farsidigits {2}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {3}}احتمال}{\farsidigits {4}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {1}.\farsidigits {3}.\farsidigits {1}} غیر مسلسل متغیرات}{\farsidigits {4}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {1}.\farsidigits {3}.\farsidigits {1}} منفصل متغیرات}{\farsidigits {4}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {1}.\farsidigits {3}.\farsidigits {2}}استمراری متغیرات}{\farsidigits {8}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {4}}معمول زنی}{\farsidigits {11}}{}%
 \contentsline {section}{\numberline {\farsidigits {1}.\farsidigits {5}}معیار حرکت}{\farsidigits {13}}{}%
@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {\farsidigits {3}.\farsidigits {2}.\farsidigits {1}}ہرمشی عاملین}{\farsidigits {94}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {3}.\farsidigits {2}.\farsidigits {2}}تعیین حال}{\farsidigits {96}}{}%
 \contentsline {section}{\numberline {\farsidigits {3}.\farsidigits {3}}ہرمشی عامل کے امتیازی تفاعل}{\farsidigits {98}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {3}.\farsidigits {3}.\farsidigits {1}}غیر مسلسل طیف}{\farsidigits {98}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {3}.\farsidigits {3}.\farsidigits {1}}منفصل طیف}{\farsidigits {98}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {3}.\farsidigits {3}.\farsidigits {2}}استمراری طیف}{\farsidigits {100}}{}%
 \contentsline {section}{\numberline {\farsidigits {3}.\farsidigits {4}}متعمم شماریاتی مفہوم}{\farsidigits {103}}{}%
 \contentsline {section}{\numberline {\farsidigits {3}.\farsidigits {5}}اصول عدم یقینیت }{\farsidigits {107}}{}%
