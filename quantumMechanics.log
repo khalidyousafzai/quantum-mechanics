@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  31 AUG 2026 21:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  1 SEP 2026 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20268311303.tex)...disabled (restricted).
+runsystem(touch w18-test-2026911075.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20268311303.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2026911075.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -5162,11 +5162,20 @@ meelNooriNastaleeq(2)/b/n/10 کا $\OML/zplm/m/it/10 n$[]
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1120--1137
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 درجی کثیررکنی ہو گا، جو جفت عدد صحیح $\OML
-/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صورت میں جفت طاقتوں کا ا
-ور طاق عدد صحیح $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صور
-ت میں طاق طاقتوں کا کثیررکنی ہو گا۔ جزو ضربی $\OML/zplm/m/it/10 a[]$ \TU/Jameel
-NooriNastaleeq(2)/b/n/10 اور[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 درجی کثیر رکنی ہو گا، جو جفت عدد صحیح $\OM
+L/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صورت میں جفت طاقتوں کا 
+اور طاق عدد صحیح $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صو
+رت میں طاق طاقتوں کا کثیر رکنی ہو گا۔ جزو ضربی $\OML/zplm/m/it/10 a[]$ \TU/Jame
+elNooriNastaleeq(2)/b/n/10 اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1137
+[]$\OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے علاوہ یہ عین \T
+U/AASameerSagarNastaleeqBold(0)/m/n/10 ہرمائٹ کثیر رکنی[][] $\OML/zplm/m/it/10 
+H[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 ^^X\OT1/zplm/m/n/10 )$ \TU/JameelNooriNa
+staleeq(2)/b/n/10 ہیں[][]۔ جدول [][]۲.۱[][] []میں اس کے چند ابتدائی ارکان پیش ک
+یے گئے ہیں۔ روایتی طور پر اختیاری جزو[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 1140.
@@ -9025,20 +9034,20 @@ LaTeX Info: Redefining \ttfamily on input line 250.
 
 Underfull \hbox (badness 10000) in paragraph at lines 216--251
 [] \TU/JameelNooriNastaleeq(2)/b/n/10 جدول [][]۴.۱[][] []میں ابتدائی چند لیژانڈ
-ر کثیررکنیاں پیش کی گئی ہیں۔ جیسا کہ نام سے ظاہر ہے، $\OML/zplm/m/it/10 P[]\OT1
-/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2
-)/b/n/10 متغیر $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی درجہ
- $\OML/zplm/m/it/10 `$ \TU/JameelNooriNastaleeq(2)/b/n/10 کثیررکنی ہے، اور $\OM
-L/zplm/m/it/10 `$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی قیمت طے[]
+ر کثیر رکنیاں پیش کی گئی ہیں۔ جیسا کہ نام سے ظاہر ہے، $\OML/zplm/m/it/10 P[]\OT
+1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(
+2)/b/n/10 متغیر $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی درج
+ہ $\OML/zplm/m/it/10 `$ \TU/JameelNooriNastaleeq(2)/b/n/10 کثیر رکنی ہے، اور $\
+OML/zplm/m/it/10 `$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی قیمت طے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 216--251
 []\TU/JameelNooriNastaleeq(2)/b/n/10 کرتی ہے کہ آیا یہ جفت یا طاق ہو گی۔ تاہم $
 \OML/zplm/m/it/10 P[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \
-TU/JameelNooriNastaleeq(2)/b/n/10 عموماً کثیررکنی نہیں ہو گا؛ اور طاق $\OML/zpl
-m/m/it/10 m$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صورت میں اس میں $[]$ کا جزو 
-ضربی پایا جائے[]
+TU/JameelNooriNastaleeq(2)/b/n/10 عموماً کثیر رکنی نہیں ہو گا؛ اور طاق $\OML/zp
+lm/m/it/10 m$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی صورت میں اس میں $[]$ کا جزو
+ ضربی پایا جائے[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 256.
@@ -9494,11 +9503,11 @@ LaTeX Info: Redefining \rmfamily on input line 897.
 LaTeX Info: Redefining \sffamily on input line 897.
 LaTeX Info: Redefining \ttfamily on input line 897.
 
-Underfull \hbox (badness 10000) in paragraph at lines 897--898
+Underfull \hbox (badness 1735) in paragraph at lines 897--898
 [][]$\OML/zplm/m/it/10 q$ \TU/JameelNooriNastaleeq(2)/b/n/10 ویں \TU/AASameerSa
-garNastaleeqBold(0)/m/n/10 لاگیغ کثیررکنی[][] \TU/JameelNooriNastaleeq(2)/b/n/1
-0 ہے۔[][] (جدول [][]۴.۵[][] []میں چند ابتدائی لاگیغ کثیررکنیاں پیش کی گئی ہیں؛ 
-جدول [][]۴.۶[][] []میں چند ابتدائی شریک لاگیغ کثیررکنیاں پیش کی[]
+garNastaleeqBold(0)/m/n/10 لاگیغ کثیر رکنی[][] \TU/JameelNooriNastaleeq(2)/b/n/
+10 ہے۔[][] (جدول [][]۴.۵[][] []میں چند ابتدائی لاگیغ کثیر رکنیاں پیش کی گئی ہیں
+؛ جدول [][]۴.۶[][] []میں چند ابتدائی شریک لاگیغ کثیر رکنیاں پیش کی[]
  []
 
 
@@ -21033,11 +21042,11 @@ LaTeX Info: Redefining \rmfamily on input line 459.
 LaTeX Info: Redefining \sffamily on input line 459.
 LaTeX Info: Redefining \ttfamily on input line 459.
 
-Underfull \hbox (badness 2671) in paragraph at lines 458--460
+Underfull \hbox (badness 2150) in paragraph at lines 458--460
 []\TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۱۱.۳: []مساوات [][]۱۱.۳۲[][] []سے آغ
 از کرتے ہوئے مساوات [][]۱۱.۳۲[][] []ثابت کریں۔ \TU/JameelNooriNastaleeq(0)/m/n/
-9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 لیژانڈر کثیررکنیوں کی عمودیت بروئے 
-کار لاتے ہوئے دکھائیں کہ[]
+9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 لیژانڈر کثیر رکنیوں کی عمودیت بروئے
+ کار لاتے ہوئے دکھائیں کہ[]
  []
 
 
@@ -23843,7 +23852,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  70472 strings out of 474878
- 1869940 string characters out of 9512517
+ 1869938 string characters out of 9512517
  3061808 words of memory out of 7000000
  91404 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
