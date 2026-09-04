@@ -101,7 +101,7 @@
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {2}.\farsidigits {2}}انجذاب، تحرک شدہ اخراج اور ازخود اخراج}{\farsidigits {335}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {2}.\farsidigits {3}}غیر اتساقی اضطراب}{\farsidigits {336}}{}%
 \contentsline {section}{\numberline {\farsidigits {9}.\farsidigits {3}}ازخود اخراج}{\farsidigits {339}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {1}}آئنشٹائن عددی سر \:\(A\)\: اور \:\(B\)\:}{\farsidigits {339}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {1}}آئنشٹائن ضریب \:\(A\)\: اور \:\(B\)\:}{\farsidigits {339}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {2}}ہیجان حال کا عرصہ حیات}{\farsidigits {341}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {3}}قواعد انتخاب}{\farsidigits {343}}{}%
 \contentsline {chapter}{\numberline {\farsidigits {10}}حر ناگزر تخمین}{\farsidigits {353}}{}%
