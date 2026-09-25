@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  21 SEP 2026 16:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.6.2)  22 SEP 2026 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,9 +1618,9 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2026921992.tex)...disabled (restricted).
+runsystem(touch w18-test-20269221037.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2026921992.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20269221037.tex)...disabled (restricted).
 
 runsystem(rm -f "quantumMechanics.gnuploterrors")...disabled (restricted).
 
@@ -2996,8 +2996,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 454--455
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 چونکہ $\OT1/zplm/m/n/10 ^^I$ \TU/JameelN
 ooriNastaleeq(2)/b/n/10 وقت اور مقام کا تابع ہے لہٰذا وقت گزرنے کے ساتھ ساتھ $\
 OMS/zplm/m/n/10 h\OML/zplm/m/it/10 x\OMS/zplm/m/n/10 i$ \TU/JameelNooriNastalee
-q(2)/b/n/10 تبدیل ہو گا۔ ہمیں اس کی سمتی رفتار جاننے میں دلچسپی ہو سکتی ہے۔ مسا
-وات[]
+q(2)/b/n/10 تبدیل ہو گا۔ ہمیں اس کی سمتیہ رفتار جاننے میں دلچسپی ہو سکتی ہے۔ مس
+اوات[]
  []
 
 
@@ -3014,22 +3014,22 @@ LaTeX Info: Redefining \ttfamily on input line 476.
 Underfull \hbox (badness 10000) in paragraph at lines 476--477
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 اس نتیجے سے ہم کیا مطلب حاصل کر سکتے ہیں
 ؟ یہ $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی توقعاتی قیمت ک
-ی سمتی رفتار ہے نہ کہ ذرے کی سمتی رفتار۔ ابھی تک ہم جو کچھ دیکھ چکے ہیں اس سے[]
-
+ی سمتیہ رفتار ہے نہ کہ ذرے کی سمتیہ رفتار۔ ابھی تک ہم جو کچھ دیکھ چکے ہیں اس سے
+[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 476--477
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ذرے کی سمتی رفتار دریافت نہیں کی جا سکتی۔ 
-کوانٹائی میکانیات میں ذرے کی سمتی رفتار کا مفہوم واضح نہیں ہے۔ اگر پیمائش سے قب
-ل ایک ذرے کا مقام بلا تعیین[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ذرے کی سمتیہ رفتار دریافت نہیں کی جا سکتی۔
+ کوانٹائی میکانیات میں ذرے کی سمتیہ رفتار کا مفہوم واضح نہیں ہے۔ اگر پیمائش سے 
+قبل ایک ذرے کا مقام بلا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 476--477
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہو تب اس کی سمتی رفتار بھی بلا تعیین ہو گی
-۔ ہم ایک مخصوص قیمت کا نتیجہ حاصل کرنے کے احتمال کی صرف بات کر سکتے ہیں۔ ہم $\O
-T1/zplm/m/n/10 ^^I$ \TU/JameelNooriNastaleeq(2)/b/n/10 جانتے ہوئے کثافت[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 تعیین ہو تب اس کی سمتیہ رفتار بھی بلا تعیی
+ن ہو گی۔ ہم ایک مخصوص قیمت کا نتیجہ حاصل کرنے کے احتمال کی صرف بات کر سکتے ہیں۔
+ ہم $\OT1/zplm/m/n/10 ^^I$ \TU/JameelNooriNastaleeq(2)/b/n/10 جانتے ہوئے[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 480.
@@ -4191,15 +4191,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
 Underfull \hbox (badness 10000) in paragraph at lines 322--323
 []\TU/JameelNooriNastaleeq(2)/b/n/10 تشاکلی ہو؛ دوسری خاصیت مخفیہ کی شکل و صورت
- سے قطع نظر، ایک عالمگیر خاصیت ہے۔ عمودیت بھی کافی عمومی خاصیت ہے، جس کا ثبوت م
-یں باب [][]۳[][] []میں[]
+ سے قطع نظر، ایک عالمگیر خاصیت ہے۔ تعامد بھی کافی عمومی خاصیت ہے، جس کا ثبوت می
+ں باب [][]۳[][] []میں پیش[]
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 322--323
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 پیش کروں گا۔ عمومیت ان تمام مخفیہ کے لیے ب
-رقرار رہتی ہے جو ہمیں درپیش ہو سکتے ہیں لیکن اس بات کا ثبوت کافی لمبا اور پیچید
-ہ ہے؛ مجھے خدشہ ہے کہ زیادہ تر[]
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 کروں گا۔ عمومیت ان تمام مخفیہ کے لیے برقرا
+ر رہتی ہے جو ہمیں درپیش ہو سکتے ہیں لیکن اس بات کا ثبوت کافی لمبا اور پیچیدہ ہے
+؛ مجھے خدشہ ہے کہ زیادہ تر[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 324.
@@ -4851,9 +4851,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 848--850
 
 Underfull \hbox (badness 10000) in paragraph at lines 859--860
 [][]$\OML/zplm/m/it/10  []$\TU/JameelNooriNastaleeq(2)/b/n/10 ,$\OML/zplm/m/it/
-10  []$$ []$ \TU/JameelNooriNastaleeq(2)/b/n/10 کی عمودیت کی تصدیق تکمل لے کر ص
-ریحاً کریں۔ اشارہ: تفاعلات کی جفت پن اور طاق پن کو بروئے کار لاتے ہوئے حقیقتاً 
-صرف[]
+10  []$$ []$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے تعامد کی تصدیق تکمل لے کر صر
+یحاً کریں۔ اشارہ: تفاعلات کی جفت پن اور طاق پن کو بروئے کار لاتے ہوئے حقیقتاً ص
+رف ایک[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 866.
@@ -5242,17 +5242,17 @@ LaTeX Info: Redefining \rmfamily on input line 1263.
 LaTeX Info: Redefining \sffamily on input line 1263.
 LaTeX Info: Redefining \ttfamily on input line 1263.
 
-Underfull \hbox (badness 3679) in paragraph at lines 1262--1264
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 چونکہ موج پر تمام نقاط ایک سی سمتی رفتار س
-ے حرکت کرتے ہیں لہٰذا موج کی شکل و صورت حرکت کے ساتھ تبدیل نہیں ہو گی۔ یوں مساو
-ات [][]۲.۹۳[][] []کا پہلا جزو[]
+Underfull \hbox (badness 10000) in paragraph at lines 1262--1264
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 چونکہ موج پر تمام نقاط ایک سی سمتیہ رفتار 
+سے حرکت کرتے ہیں لہٰذا موج کی شکل و صورت حرکت کے ساتھ تبدیل نہیں ہو گی۔ یوں مسا
+وات [][]۲.۹۳[][] []کا پہلا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1262--1264
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 دائیں رخ حرکت کرتی موج کو ظاہر کرتا ہے جبک
-ہ اس کا دوسرا جزو بائیں رخ حرکت کرتی (اتنی ہی توانائی کی) موج کو ظاہر کرتا ہے۔ 
-چونکہ ان میں فرق صرف $\OML/zplm/m/it/10 k$[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 جزو دائیں رخ حرکت کرتی موج کو ظاہر کرتا ہے
+ جبکہ اس کا دوسرا جزو بائیں رخ حرکت کرتی (اتنی ہی توانائی کی) موج کو ظاہر کرتا 
+ہے۔ چونکہ ان میں فرق صرف[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 1275.
@@ -5487,31 +5487,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 حال آزاد ذرے کی تفاعل موج (مساوات [][]۲.۱۰
-۰[][][]) میں سموئی سمتی رفتار کی معلومات پر غور کرنا دلچسپی کا باعث ہے۔ بنیادی 
-تصور کچھ یوں ہے: سائن نما تفاعلات[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہیں، ذرے کی رفتار ہو گی۔ غلاف کی سمتیہ رفت
+ار لہروں کی فطرت پر منحصر ہو گی؛ یہ لہروں کی سمتیہ رفتار سے زیادہ، کم یا اس کے 
+برابر ہو سکتی ہے۔ ایک دھاگے پر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 کا خطی میل جس کے حیطہ کو $\OML/zplm/m/it/1
-0 ^^^$ \TU/JameelNooriNastaleeq(2)/b/n/10 ترمیم کرتا ہو (شکل [][]۲.۱۱[][][]) مو
-جی اکٹھ ہو گا؛ یہ ”غلاف“ میں ڈھانکے ہوئے ”لہروں“ پر مشتمل ہو گا۔ انفرادی لہر کی
- رفتار، جس[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہیں، ذرے کی رفتار ہو گی۔ غلاف کی سمتی رفتا
-ر لہروں کی فطرت پر منحصر ہو گی؛ یہ لہروں کی سمتی رفتار سے زیادہ، کم یا اس کے بر
-ابر ہو سکتی ہے۔ ایک دھاگے پر[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 امواج کی گروہی سمتی رفتار اور دوری سمتی رف
-تار برابر ہوتی ہیں۔ پانی کی امواج کیلئے یہ دوری سمتی رفتار کی نصف ہو گی، جیسا آ
-پ نے جھیل میں پتھر پھینک کر[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 امواج کی گروہی سمتیہ رفتار اور دوری سمتیہ 
+رفتار برابر ہوتی ہیں۔ پانی کی امواج کیلئے یہ دوری سمتیہ رفتار کی نصف ہو گی، جیس
+ا آپ نے جھیل میں پتھر پھینک کر[]
  []
 
 
@@ -5550,9 +5535,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1477--1479
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1477--1479
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہے اور کسی مخصوص سمتی رفتار پر حرکت کرتے ہ
-وئے ایک مجموعہ کا تصور بے معنی ہو جاتا ہے۔) چونکہ $\OML/zplm/m/it/10 k[]$ \TU/J
-ameelNooriNastaleeq(2)/b/n/10 سے دور متکمل قابل نظر انداز ہے لہٰذا ہم تفاعل[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہے اور کسی مخصوص سمتیہ رفتار پر حرکت کرتے 
+ہوئے ایک مجموعہ کا تصور بے معنی ہو جاتا ہے۔) چونکہ $\OML/zplm/m/it/10 k[]$ \TU/
+JameelNooriNastaleeq(2)/b/n/10 سے دور متکمل قابل نظر انداز ہے لہٰذا ہم تفاعل[]
  []
 
 [61]
@@ -6813,15 +6798,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2626--2629
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 []\TU/JameelNooriNastaleeq(2)/b/n/10 مثلاً ہارمونی مرتعش میں توانائی کی سطح میں
- جفت فاصلے) جبکہ باقی (مثلاً عدم یقینیت کا اصول اور ساکن حالات کی عمودیت) زیادہ
- عمومی معلوم ہوتے ہیں، جنہیں[]
+ جفت فاصلے) جبکہ باقی (مثلاً عدم یقینیت کا اصول اور ساکن حالات کا تعامد) زیادہ 
+عمومی معلوم ہوتے ہیں، جنہیں ایک[]
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 7--8
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ایک ہی مرتبہ ثابت کرنا مفید ہوگا۔ اس کو مد
- نظر رکھتے ہوئے اس باب میں نظریہ کو زیادہ مضبوط روپ میں پیش کیا جائے گا۔ یہاں ک
-وئی نئی بات نہیں کی جائے گی[]
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہی مرتبہ ثابت کرنا مفید ہوگا۔ اس کو مد نظر
+ رکھتے ہوئے اس باب میں نظریہ کو زیادہ مضبوط روپ میں پیش کیا جائے گا۔ یہاں کوئی 
+نئی بات نہیں کی جائے گی بلکہ[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 9.
@@ -6906,6 +6891,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--42
 قف ہوں گے، بہرحال[]
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 متغیر $\OML/zplm/m/it/10 x$ \TU/JameelNo
+oriNastaleeq(2)/b/n/10 کے تمام تفاعلات مل کر سمتیہ فضا قائم کرتے ہیں، جو ہمارے 
+مقصد کے لیے ضرورت سے زیادہ بڑی فضا ہے۔ کسی بھی ممکنہ طبیعی حال کو ظاہر کرنے[]
+ []
+
 LaTeX Info: Redefining \rmfamily on input line 48.
 LaTeX Info: Redefining \sffamily on input line 48.
 LaTeX Info: Redefining \ttfamily on input line 48.
@@ -6917,35 +6909,33 @@ LaTeX Info: Redefining \sffamily on input line 52.
 LaTeX Info: Redefining \ttfamily on input line 52.
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]\TU/JameelNooriNastaleeq(0)/m/n/8 ہلبرٹ فضا ہو گی۔چونکہ $\OML/zplm/m/it/8 L[]
-$ \TU/JameelNooriNastaleeq(0)/m/n/8 کوانٹائی میکانیات کا اکھاڑا ہے لہٰذا ماہر ط
-بیعیات اسی کو”ہلبرٹ فضا“ کہتے ہیں۔ویسے یہاں لفظ \TU/AASameerSagarNastaleeqBold(
-0)/m/n/8 مکمل \TU/JameelNooriNastaleeq(0)/m/n/8 سے مراد یہ ہے کہ ہلبرٹ فضا کے ک
-سی بھی تفاعل کی کوشی ترتیب[]
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 تکنیکی طور پر، ہلبرٹ فضا سے مراد \TU/AA
+SameerSagarNastaleeqBold(0)/m/n/8 مکمل اندرونی ضرب فضا \TU/JameelNooriNastaleeq
+(0)/m/n/8 ہے، اور مربع متکامل تفاعلات کا ذخیرہ ہلبرٹ فضا کی فقط ایک مثال ہے؛ در
+حقیقت، ہر متناہی ابعادی سمتیہ فضا ایک بے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]\TU/JameelNooriNastaleeq(0)/m/n/8 جس تفاعل پر مرتکز ہو، وہ اسی فضا میں پایا ج
-ائے۔ اس میں کوئی ”سوراخ“ نہیں پایا جاتا، جیسا کہ تمام حقیقی اعداد کے سلسلہ میں 
-کوئی سوراخ نہیں پایا جاتا (اس کے برعکس،مثلاً، تمام کثیر رکنیوں کی فضا[]
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 وقعت ہلبرٹ فضا ہو گی۔چونکہ $\OML/zplm/m/it/
+8 L[]$ \TU/JameelNooriNastaleeq(0)/m/n/8 کوانٹائی میکانیات کا اکھاڑا ہے لہٰذا م
+اہر طبیعیات اسی کو”ہلبرٹ فضا“ کہتے ہیں۔ویسے یہاں لفظ \TU/AASameerSagarNastaleeq
+Bold(0)/m/n/8 مکمل \TU/JameelNooriNastaleeq(0)/m/n/8 سے مراد یہ ہے کہ ہلبرٹ فضا
+ کے کسی بھی تفاعل کی کوشی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[]\TU/JameelNooriNastaleeq(0)/m/n/8 میں اور تمام ناطق اعداد کے سلسلہ میں یقیناً
- سوراخ پائے جاتے ہیں)۔فضا کی مکملیت کا تفاعلات کے سلسلہ کی مکملیت کے ساتھ (ایک 
-ہی لفظ استعمال کیے جانے کے باوجود) کوئی تعلق نہیں۔ تفاعلات کی[]
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 ترتیب جس تفاعل پر مرتکز ہو، وہ اسی فضا میں 
+پایا جائے۔ اس میں کوئی ”سوراخ“ نہیں پایا جاتا، جیسا کہ تمام حقیقی اعداد کے سلسل
+ہ میں کوئی سوراخ نہیں پایا جاتا (اس کے برعکس،مثلاً، تمام کثیر رکنیوں کی[]
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 51--53
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 مل کر( اس سے بہت چھوٹی) سمتی فضا قائم کرتے
- ہیں ( سوال [][]۳.۱[][][]-ا دیکھیں)۔ ریاضی دان اسے $\OML/zplm/m/it/10 L[]\OT1/z
-plm/m/n/10 (\OML/zplm/m/it/10 a\OT1/ppl/m/n/10 , \OML/zplm/m/it/10 b\OT1/zplm/m
-/n/10 )$ \TU/JameelNooriNastaleeq(2)/b/n/10 جبکہ ماہر طبیعیات اسے \TU/AASameerS
-agarNastaleeqBold(0)/m/n/10 ہلبرٹ فضا [][][] []\TU/JameelNooriNastaleeq(2)/b/n/
-10 کہتے[][][]
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 فضا میں اور تمام ناطق اعداد کے سلسلہ میں یق
+یناً سوراخ پائے جاتے ہیں)۔فضا کی مکملیت کا تفاعلات کے سلسلہ کی مکملیت کے ساتھ (
+ایک ہی لفظ استعمال کیے جانے کے باوجود) کوئی تعلق نہیں۔ تفاعلات[]
  []
 
 [92]
@@ -7083,9 +7073,9 @@ LaTeX Info: Redefining \ttfamily on input line 92.
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--94
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 ظاہر کریں کہ تمام مربع متکامل تفاعلات کا
- سلسلہ سمتی فضا دے گا ( صفحہ ۴۱۳[] پر ضمیمہ [][]A-۱[][] []میں تعریف کا موازنہ ک
-ریں)۔  \TU/JameelNooriNastaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n
-/10 آپ نے دکھانا ہوگا کے دو[]
+ سلسلہ سمتیہ فضا دے گا ( صفحہ ۴۱۳[] پر ضمیمہ [][]A-۱[][] []میں تعریف کا موازنہ 
+کریں)۔  \TU/JameelNooriNastaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/
+n/10 آپ نے دکھانا ہوگا کے دو[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 94.
@@ -7385,18 +7375,10 @@ LaTeX Info: Redefining \rmfamily on input line 283.
 LaTeX Info: Redefining \sffamily on input line 283.
 LaTeX Info: Redefining \ttfamily on input line 283.
 
-Underfull \hbox (badness 1205) in paragraph at lines 283--284
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 بدقسمتی سے مسئلہ [][]۳.۲[][] []ہمیں انحط
-اطی حالات $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 q[] \OT1/zplm/m/n/10 = \OML/zplm
-/m/it/10 q\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے بارے میں کو
-ئی معلومات فراہم نہیں کرتا۔ تاہم، اگر دو (یا دو سے زیادہ) امتیازی حالات[]
- []
-
-
-Underfull \hbox (badness 5847) in paragraph at lines 283--284
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 ایک سی امتیازی قیمت رکھتے ہوں، تب ان کا ہر
- خطی جوڑ بھی اسی امتیازی قیمت والا امتیازی حال ہو گا (سوال [][]۳.۷[][][]-ا ) او
-ر ہم \TU/AASameerSagarNastaleeqBold(0)/m/n/10 گرام شمد ترکیب عمودیت[][][][]
+Underfull \hbox (badness 3068) in paragraph at lines 283--284
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 سی امتیازی قیمت رکھتے ہوں، تب ان کا ہر خطی
+ جوڑ بھی اسی امتیازی قیمت والا امتیازی حال ہو گا (سوال [][]۳.۷[][][]-ا ) اور ہم
+ \TU/AASameerSagarNastaleeqBold(0)/m/n/10 گرام شمد ترکیب متعامد سازی[][][][]
  []
 
 
@@ -7415,9 +7397,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
 [99]
 Underfull \hbox (badness 10000) in paragraph at lines 285--286
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 متناہی بُعدی سمتی فضا میں ہرمشی قالب کے 
-امتیازی سمتیے تیسری بنیادی خاصیت بھی رکھتے ہیں۔ یہ فضا کا احاطہ کرتے ہیں ( یعنی
- ہر سمتیے کو ان کے خطی جوڑ کی[]
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 متناہی بُعدی سمتیہ فضا میں ہرمشی قالب کے
+ امتیازی سمتیے تیسری بنیادی خاصیت بھی رکھتے ہیں۔ یہ فضا کا احاطہ کرتے ہیں ( یعن
+ی ہر سمتیے کو ان کے خطی جوڑ کی[]
  []
 
 
@@ -7468,8 +7450,8 @@ q(0)/m/n/9 استمراری \TU/JameelNooriNastaleeq(2)/b/n/10 ہونے کی ص�
 
 Underfull \hbox (badness 10000) in paragraph at lines 310--311
 []\TU/JameelNooriNastaleeq(2)/b/n/10 ہوں گے اور امتیازی تفاعلات غیر اکائی پذیر 
-ہوں گے۔ اس کے باوجود ایک لحاظ سے تین لازم خصوصیات (حقیقت، عمودیت اور مکملیت ) ا
-ب بھی کارآمد ہوں[]
+ہوں گے۔ اس کے باوجود ایک لحاظ سے تین لازم خصوصیات (حقیقت، تعامد اور مکملیت ) اب
+ بھی کارآمد ہوں گی۔[]
  []
 
 [100]
@@ -8387,7 +8369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 858--858
 []\TU/JameelNooriNastaleeq(0)/m/n/8 کو، $\OML/zplm/m/it/8 x$ \TU/JameelNooriNas
 taleeq(0)/m/n/8 پر، بطور مربع متکامل تفاعلات کا سلسلہ متعارف کرتے ہوئے اس کو (ا
 ساس مقام کا) پابند بنایا جو ایک امتناعی صورت ہے۔میں چاہتا ہوں کہ آپ اس کو ایک ت
-صوراتی سمتی فضا سمجھیں، جس کے[]
+صوراتی سمتیہ فضا سمجھیں، جس کے[]
  []
 
 
@@ -8441,19 +8423,19 @@ lm/m/n/10 j[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 t\OT1/zplm/m/n/10 )\OMS/zplm/m
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 سمتی فضا میں رہتا ہے؛ جس کو (کسی دیے گئے ا
-ساس کے لحاظ سے)، $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 N\OT1/zplm/m/n/10 )$ \TU/
-JameelNooriNastaleeq(2)/b/n/10 اجزاء کی قطار سے ظاہر کیا جا سکتا ہے جبکہ عاملین
- $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 N \OMS/zplm/m/n/10 ^^B \OML/zplm/m/it/10 
-N\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/b/n/10 سادہ قالب کا[]
+Underfull \hbox (badness 4859) in paragraph at lines 900--901
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 سمتیہ فضا میں رہتا ہے؛ جس کو (کسی دیے گئے 
+اساس کے لحاظ سے)، $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 N\OT1/zplm/m/n/10 )$ \TU
+/JameelNooriNastaleeq(2)/b/n/10 اجزاء کی قطار سے ظاہر کیا جا سکتا ہے جبکہ عاملی
+ن $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 N \OMS/zplm/m/n/10 ^^B \OML/zplm/m/it/10
+ N\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/b/n/10 سادہ قالب کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
+Underfull \hbox (badness 1968) in paragraph at lines 900--901
 []\TU/JameelNooriNastaleeq(2)/b/n/10 روپ اختیار کرتے ہیں۔ یہ سادہ ترین کوانٹائی
- نظام ہیں؛ جن میں لامتناہی آبادی سمتی فضا سے وابستہ باریکیاں نہیں پائی جاتی ہیں
-۔ ان میں سب سے آسان دو حالتی[]
+ نظام ہیں؛ جن میں لامتناہی آبادی سمتیہ فضا سے وابستہ باریکیاں نہیں پائی جاتی ہی
+ں۔ ان میں سب سے آسان دو حالتی[]
  []
 
 [116] [117]
@@ -8546,8 +8528,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 956--957
 Underfull \hbox (badness 10000) in paragraph at lines 959--961
 []\TU/JameelNooriNastaleeq(2)/b/n/10 جہاں چوکور قوسین $\OT1/zplm/m/n/10 [[] ]$ 
 \TU/JameelNooriNastaleeq(2)/b/n/10 میں وہ تفاعل پر کیا جائے گا جو تفاعلیہ کے دا
-ئیں ہاتھ سمتاویہ میں موجود ہو گا۔ ایک متناہی ابعاد سمتی فضا میں، جہاں سمتیات کو
-[]
+ئیں ہاتھ سمتاویہ میں موجود ہو گا۔ ایک متناہی ابعاد سمتیہ فضا میں، جہاں سمتیات ک
+و[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 970.
@@ -10264,11 +10246,11 @@ l/m/n/8 1\OT1/zplm/m/n/8 /\OT1/ppl/m/n/8 2$ \TU/JameelNooriNastaleeq(0)/m/n/8 چ
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1471--1471
-[]\TU/JameelNooriNastaleeq(0)/m/n/8 ہلبرٹ فضا کے بجائے، ہم سادہ دو بُعدی سمتی ف
-ضا میں کام کرتے ہیں؛ غیر مانوس تفرقی مساوات اور ترنگ تفاعلات کے بجائے، ہمارا وا
-سطہ $\OT1/ppl/m/n/8 2 \OMS/zplm/m/n/8 ^^B \OT1/ppl/m/n/8 2$ \TU/JameelNooriNast
-aleeq(0)/m/n/8 قالب اور $\OT1/ppl/m/n/8 2$ \TU/JameelNooriNastaleeq(0)/m/n/8 رک
-نی سمتیات سے ہوتا ہے۔ اسی[]
+[]\TU/JameelNooriNastaleeq(0)/m/n/8 ہلبرٹ فضا کے بجائے، ہم سادہ دو بُعدی سمتیہ 
+فضا میں کام کرتے ہیں؛ غیر مانوس تفرقی مساوات اور ترنگ تفاعلات کے بجائے، ہمارا و
+اسطہ $\OT1/ppl/m/n/8 2 \OMS/zplm/m/n/8 ^^B \OT1/ppl/m/n/8 2$ \TU/JameelNooriNas
+taleeq(0)/m/n/8 قالب اور $\OT1/ppl/m/n/8 2$ \TU/JameelNooriNastaleeq(0)/m/n/8 ر
+کنی سمتیات سے ہوتا ہے۔ اسی[]
  []
 
 
@@ -11182,8 +11164,8 @@ LaTeX Info: Redefining \ttfamily on input line 2808.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2806--2809
 [] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۴.۴۱:  اس سوال کو صرف اس صورت میں ح
-ل کرنے کی کوشش کریں اگر آپ سمتی علم الاحصاء سے واقف ہوں۔ سوال [][]۱.۱۴[][] []کو
- عمومیت دیتے[]
+ل کرنے کی کوشش کریں اگر آپ سمتیہ علم الاحصاء سے واقف ہوں۔ سوال [][]۱.۱۴[][] []ک
+و عمومیت دیتے[]
  []
 
 [182]
@@ -11487,8 +11469,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3063--3066
 [] \TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۴.۵۹: []کلاسیکی برقی حرکیات میں ایک
  ذرہ، جس کا بار $\OML/zplm/m/it/10 q$ \TU/JameelNooriNastaleeq(2)/b/n/10 ہو اور
  جو برقی میدان $\OML/cmm/b/it/10 E$ \TU/JameelNooriNastaleeq(2)/b/n/10 اور مقنا
-طیسی میدان $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(2)/b/n/10 میں سمتی رفت
-ار $\OML/cmm/b/it/10 v$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ حرکت[]
+طیسی میدان $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(2)/b/n/10 میں سمتیہ رف
+تار $\OML/cmm/b/it/10 v$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ حرکت[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 3069.
@@ -17434,8 +17416,8 @@ oriNastaleeq(2)/b/n/10 بہت آہستہ آہستہ تبدیل ہوتا ہے، �
 Underfull \hbox (badness 10000) in paragraph at lines 100--102
 []\TU/JameelNooriNastaleeq(2)/b/n/10 جس کے تحت، نقطہ $\OML/zplm/m/it/10 x$ \TU/
 JameelNooriNastaleeq(2)/b/n/10 پر ذرہ پایا جانے کا احتمال، اس نقطہ پر ذرے کے (ک
-لاسیکی) معیار حرکت (لہٰذا سمتی رفتار) کا بالعکس متناسب ہوگا۔ ہم یہی توقع رکھتے 
-ہیں،[]
+لاسیکی) معیار حرکت (لہٰذا سمتیہ رفتار) کا بالعکس متناسب ہوگا۔ ہم یہی توقع رکھتے
+ ہیں،[]
  []
 
 
@@ -17616,8 +17598,8 @@ LaTeX Info: Redefining \ttfamily on input line 313.
 
 Underfull \hbox (badness 10000) in paragraph at lines 313--314
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 اگر ہم مرکزہ کے اندر الفا ذرے کو محصور ت
-صور کریں اور کہیں کہ اسکی اوسط سمتی رفتار $\OML/zplm/m/it/10 v$ \TU/JameelNoori
-Nastaleeq(2)/b/n/10 ہے، تب دیواروں کے ساتھ تصادم کے بیچ اوسط وقفہ[]
+صور کریں اور کہیں کہ اسکی اوسط سمتیہ رفتار $\OML/zplm/m/it/10 v$ \TU/JameelNoor
+iNastaleeq(2)/b/n/10 ہے، تب دیواروں کے ساتھ تصادم کے بیچ اوسط وقفہ[]
  []
 
 
@@ -19756,9 +19738,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--91
 []\TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۱۰.۱: []ایک لامتناہی چوکور کنواں، جس
- کی دائیں دیوار ایک مستقل سمتی رفتار $\OML/zplm/m/it/10 v$ \TU/JameelNooriNasta
-leeq(2)/b/n/10 سے حرکت کرتے ہوئے کنویں کو وسیع بناتی ہے، کو \TU/JameelNooriNast
-aleeq(0)/m/n/9 ٹھیک ٹھیک \TU/JameelNooriNastaleeq(2)/b/n/10 حل[]
+ کی دائیں دیوار ایک مستقل سمتیہ رفتار $\OML/zplm/m/it/10 v$ \TU/JameelNooriNast
+aleeq(2)/b/n/10 سے حرکت کرتے ہوئے کنویں کو وسیع بناتی ہے، کو \TU/JameelNooriNas
+taleeq(0)/m/n/9 ٹھیک ٹھیک \TU/JameelNooriNastaleeq(2)/b/n/10 حل[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 101.
@@ -19827,16 +19809,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--213
  $\OMS/zplm/m/n/10 ^^@\OML/zplm/m/it/10 e$ \TU/JameelNooriNastaleeq(2)/b/n/10 ک
 ا ) ساکن الیکٹران پایا جاتا ہے۔ اس مقناطیسی میدان کی \TU/JameelNooriNastaleeq(0
 )/m/n/9 مقدار $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 B[]\OT1/zplm/m/n/10 )$[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--213
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 مستقل ہے، جبکہ اس کا \TU/JameelNooriNastal
-eeq(0)/m/n/9 رخ \TU/JameelNooriNastaleeq(2)/b/n/10 محور $\OML/zplm/m/it/10 z$ \
-TU/JameelNooriNastaleeq(2)/b/n/10 کے گرد، مقررہ زاویائی سمتی رفتار $\OML/zplm/m
-/it/10 !$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ، مخروطی سطح پر رہتے ہوئے گ
-ھومتا ہے۔ محور $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(2)/b/n/10 کے ساتھ
- مخروط کا اندرونی[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 234.
@@ -20283,8 +20255,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 547--549
 []\TU/JameelNooriNastaleeq(2)/b/n/10 صورت (جس کا تجزیہ مثال [][]۱۰.۱[][] []میں 
 کیا گیا) پر غور کرتے ہیں جس میں محور $\OML/zplm/m/it/10 z$ \TU/JameelNooriNasta
 leeq(2)/b/n/10 کے ساتھ مقررہ زاویہ $\OML/zplm/m/it/10 ^^K$ \TU/JameelNooriNasta
-leeq(2)/b/n/10 پر رہتے ہوئے، مستقل زاویائی سمتی رفتار $\OML/zplm/m/it/10 !$ \TU
-/JameelNooriNastaleeq(2)/b/n/10 سے،[]
+leeq(2)/b/n/10 پر رہتے ہوئے، مستقل زاویائی سمتیہ رفتار $\OML/zplm/m/it/10 !$ \T
+U/JameelNooriNastaleeq(2)/b/n/10 سے،[]
  []
 
 
@@ -20397,22 +20369,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 647--649
 []\TU/JameelNooriNastaleeq(2)/b/n/10 نہ کہ $\OML/cmm/b/it/10 E$ \TU/JameelNoori
 Nastaleeq(2)/b/n/10 اور $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(2)/b/n/10
  کی صورت میں۔ بہرحال، زیر ماپ تبادلہ کوانٹائی نظریہ غیر متغیر رہتا ہے (سوال [][
-]۴.۶۱[][] []دیکھیں)، اور بہت لمبے عرصے کے لیے مانا جاتا تھا کہ[]
+]۴.۶۱[][] []دیکھیں)، اور بہت لمبے عرصے کے لیے مانا جاتا تھا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 647--649
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 جن خطوں میں $\OML/cmm/b/it/10 E$ \TU/Jamee
-lNooriNastaleeq(2)/b/n/10 اور $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(2)/
-b/n/10 صفر ہوں وہاں، بالکل کلاسیکی نظریہ کی طرح، کسی قسم کا برقناطیسی اثر نہیں 
-پایا جاتا۔ لیکن [] میں اہارونو اور بوہم نے دکھایا کہ[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 کہ جن خطوں میں $\OML/cmm/b/it/10 E$ \TU/Ja
+meelNooriNastaleeq(2)/b/n/10 اور $\OML/cmm/b/it/10 B$ \TU/JameelNooriNastaleeq(
+2)/b/n/10 صفر ہوں وہاں، بالکل کلاسیکی نظریہ کی طرح، کسی قسم کا برقناطیسی اثر نہ
+یں پایا جاتا۔ لیکن [] میں اہارونو اور بوہم نے دکھایا[]
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 647--649
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 اس خطہ میں بھی، جہاں میدان صفر ہو، حرکت پذ
-یر باردار ذرہ کے کوانٹائی رویہ پر سمتی مخفیہ اثر انداز ہوگا۔ میں ایک سادہ مثال 
-پیش کر کے اہارونو و بوہم اثر پر تبصرہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 647--649
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 کہ اس خطہ میں بھی، جہاں میدان صفر ہو، حرکت
+ پذیر باردار ذرہ کے کوانٹائی رویہ پر سمتیہ مخفیہ اثر انداز ہوگا۔ میں ایک سادہ م
+ثال پیش کر کے اہارونو و بوہم اثر پر[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 678.
@@ -20484,8 +20456,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 776--777
 [][]\TU/JameelNooriNastaleeq(2)/b/n/10 بظاہر \TU/JameelNooriNastaleeq(0)/m/n/9 
 بغیر $\OML/cmm/b/it/10 A$ \TU/JameelNooriNastaleeq(2)/b/n/10 مساوات شروڈنگر کو 
 $\OT1/zplm/m/n/10 ^^I[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 مطمئن کرتا ہے۔ مساو
-ات [][]۱۰.۸۰[][] []کا حل تلاش کرنے کے بعد (بغیر گردش) سمتی مخفیہ کے شمول کی تصح
-یح حقیر سا کام[]
+ات [][]۱۰.۸۰[][] []کا حل تلاش کرنے کے بعد (بغیر گردش) سمتیہ مخفیہ کے شمول کی تص
+حیح حقیر سا کام[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 778.
@@ -21065,11 +21037,11 @@ LaTeX Info: Redefining \rmfamily on input line 459.
 LaTeX Info: Redefining \sffamily on input line 459.
 LaTeX Info: Redefining \ttfamily on input line 459.
 
-Underfull \hbox (badness 2150) in paragraph at lines 458--460
+Underfull \hbox (badness 10000) in paragraph at lines 458--460
 []\TU/JameelNooriNastaleeq(2)/b/n/10 سوال  ۱۱.۳: []مساوات [][]۱۱.۳۲[][] []سے آغ
 از کرتے ہوئے مساوات [][]۱۱.۳۲[][] []ثابت کریں۔ \TU/JameelNooriNastaleeq(0)/m/n/
-9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 لیژانڈر کثیر رکنیوں کی عمودیت بروئے
- کار لاتے ہوئے دکھائیں کہ[]
+9 اشارہ: \TU/JameelNooriNastaleeq(2)/b/n/10 لیژانڈر کثیر رکنیوں کا تعامد بروئے 
+کار لاتے ہوئے دکھائیں کہ $\OML/zplm/m/it/10 `$[]
  []
 
 
@@ -21947,8 +21919,8 @@ rSagarNastaleeqBold(0)/m/n/10 مقامیت[][][] []\TU/JameelNooriNastaleeq(2)/b
 
 Underfull \hbox (badness 10000) in paragraph at lines 37--39
 []\TU/JameelNooriNastaleeq(2)/b/n/10 ہے کہ تفاعل موج کے انہدام کی خبر کسی متناہ
-ی سمتی رفتار سے ”سفر“ کرتی ہے۔ تاہم ایسی صورت میں زاویائی معیار حرکت کی بقا مطم
-ئن نہیں ہوگی، چونکہ ضد[]
+ی سمتیہ رفتار سے ”سفر“ کرتی ہے۔ تاہم ایسی صورت میں زاویائی معیار حرکت کی بقا مط
+مئن نہیں ہوگی، چونکہ ضد[]
  []
 
 
@@ -22787,6 +22759,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 میں دی جاتی ہے: $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1\OT1/zplm/m/n/10 )$[]
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[][][]\TU/JameelNooriNastaleeq(0)/m/n/8 ہمارے مقصد کے لئے عددیے سادہ مخلوط اعدا
+د ہوں گے۔ ریاضی دان آپ کو زیادہ پراسرار میدانوں پر سمتیہ فضاوں کے بارے میں بتا 
+سکتے ہیں، تاہم ان کا کوانٹائی میکانیات میں کوئی کردار[]
+ []
+
 LaTeX Info: Redefining \rmfamily on input line 8.
 LaTeX Info: Redefining \sffamily on input line 8.
 LaTeX Info: Redefining \ttfamily on input line 8.
@@ -22803,8 +22782,8 @@ Nastaleeq(2)/b/n/10 ، $[] $کے سلسلہ اور \TU/AASameerSagarNastaleeqBol
 0 عددیوں \TU/JameelNooriNastaleeq(2)/b/n/10 ($\OML/zplm/m/it/10 a$\TU/JameelNoo
 riNastaleeq(2)/b/n/10 ، $\OML/zplm/m/it/10 b$\TU/JameelNooriNastaleeq(2)/b/n/10
  ، $\OML/zplm/m/it/10 c$\TU/JameelNooriNastaleeq(2)/b/n/10 ، $[] $) [][] کے سلس
-لہ پر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 سمتی فضا[][] [][] \TU/JameelNoor
-iNastaleeq(2)/b/n/10 مشتمل ہو گا جو سمتی جمع اور عددیہ[]
+لہ پر \TU/AASameerSagarNastaleeqBold(0)/m/n/10 سمتیہ فضا[][] [][] \TU/JameelNoo
+riNastaleeq(2)/b/n/10 مشتمل ہو گا جو سمتیہ جمع اور عددیہ[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 18.
@@ -22922,10 +22901,10 @@ eeq(0)/m/n/9 اشارہ\TU/JameelNooriNastaleeq(2)/b/n/10 : کیا ایسے دو
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 114--116
-[][]\TU/JameelNooriNastaleeq(2)/b/n/10 کیا یہ سلسلہ سمتی فضا قائم کرتا ہے (جہاں
- کثیر رکنیاں بطور ”سمتیات“ ہوں)؟ اگر فضا قائم کرتا ہو تو مناسب اساس تجویز کریں 
-اور اس فضا کا بُعد بتائیں۔ اگر[]
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 کیا یہ سلسلہ سمتیہ فضا قائم کرتا ہے (جہا
+ں کثیر رکنیاں بطور ”سمتیات“ ہوں)؟ اگر فضا قائم کرتا ہو تو مناسب اساس تجویز کریں
+ اور اس فضا کا بُعد بتائیں۔[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 130.
@@ -22933,19 +22912,19 @@ LaTeX Info: Redefining \sffamily on input line 130.
 LaTeX Info: Redefining \ttfamily on input line 130.
 
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 تین ابعاد میں دو اقسام کے سمتی ضرب پائے جا
-تے ہیں: نقطوی ضرب اور صلیبی ضرب۔ موخر الذکر کی قدرتی توسیع کسی طرح بھی $\OML/zp
-lm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 ابعاد سمتی فضاوں میں[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 تین ابعاد میں دو اقسام کے سمتیہ ضرب پائے ج
+اتے ہیں: نقطوی ضرب اور صلیبی ضرب۔ موخر الذکر کی قدرتی توسیع کسی طرح بھی $\OML/z
+plm/m/it/10 n$ \TU/JameelNooriNastaleeq(2)/b/n/10 ابعاد سمتیہ فضاوں[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 نہیں کی جا سکتی، جبکہ اول الذکر کی کی جا س
-کتی ہے؛ اور اس سیاق و سباق میں اسے عموماً  \TU/AASameerSagarNastaleeqBold(0)/m/
-n/10 اندرونی ضرب[][][] []\TU/JameelNooriNastaleeq(2)/b/n/10 پکارا جاتا ہے۔ دو س
-متیات ($\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i$ \TU/JameelNo
-oriNastaleeq(2)/b/n/10 اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zplm/m/
-n/10 i$\TU/JameelNooriNastaleeq(2)/b/n/10 ) کا[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 میں نہیں کی جا سکتی، جبکہ اول الذکر کی کی 
+جا سکتی ہے؛ اور اس سیاق و سباق میں اسے عموماً  \TU/AASameerSagarNastaleeqBold(0
+)/m/n/10 اندرونی ضرب[][][] []\TU/JameelNooriNastaleeq(2)/b/n/10 پکارا جاتا ہے۔ 
+دو سمتیات ($\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 i$ \TU/Jame
+elNooriNastaleeq(2)/b/n/10 اور $\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^L\OMS/zpl
+m/m/n/10 i$\TU/JameelNooriNastaleeq(2)/b/n/10 ) کا[]
  []
 
 [416]
@@ -22955,8 +22934,8 @@ LaTeX Info: Redefining \ttfamily on input line 136.
 
 Underfull \hbox (badness 10000) in paragraph at lines 135--137
 []\TU/JameelNooriNastaleeq(2)/b/n/10 مخلوط اعداد تک عمومیت کے علاوہ یہ مسلمات ن
-قطوی ضرب کے جانے پہچانے رویّوں کو ریاضی کی زبان میں پیش کرتے ہیں۔ ایسی سمتی فضا
- جس میں اندرونی[]
+قطوی ضرب کے جانے پہچانے رویّوں کو ریاضی کی زبان میں پیش کرتے ہیں۔ ایسی سمتیہ فض
+ا جس میں اندرونی[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 138.
@@ -23460,9 +23439,9 @@ aleeq(2)/b/n/10 ۔ اگر $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(2)/b/
 Underfull \hbox (badness 10000) in paragraph at lines 575--576
 []$\OT1/zplm/m/n/10 ([]\OMS/zplm/m/n/10 j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10 
 i \OT1/zplm/m/n/10 = \OMS/zplm/m/n/10 ^^@j\OML/zplm/m/it/10 ^^K\OMS/zplm/m/n/10
- i\OT1/zplm/m/n/10 )$\TU/JameelNooriNastaleeq(2)/b/n/10 ۔ مخلوط سمتی فضا[][] می
-ں \TU/JameelNooriNastaleeq(0)/m/n/9 ہر \TU/JameelNooriNastaleeq(2)/b/n/10 خطی ت
-بادلہ کے، اس طرح کے ”مخصوص“ سمتیات پائے جاتے ہیں جو اپنے آپ کے عددیہ[]
+ i\OT1/zplm/m/n/10 )$\TU/JameelNooriNastaleeq(2)/b/n/10 ۔ مخلوط سمتیہ فضا[][] م
+یں \TU/JameelNooriNastaleeq(0)/m/n/9 ہر \TU/JameelNooriNastaleeq(2)/b/n/10 خطی 
+تبادلہ کے، اس طرح کے ”مخصوص“ سمتیات پائے جاتے ہیں جو اپنے آپ کے عددیہ[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 579.
@@ -23771,8 +23750,8 @@ Underfull \hbox (badness 2310) in paragraph at lines 950--951
 
 Underfull \hbox (badness 10000) in paragraph at lines 950--951
 []\TU/JameelNooriNastaleeq(2)/b/n/10 ریاضیاتی سہارا ہے جس پر، ایک لحاظ سے، زیاد
-ہ تر کوانٹائی میکانیات کھڑی ہے۔ چونکہ اس ثبوت کو لامتناہی ابعادی سمتی فضاوں تک 
-وسعت نہیں دی جا سکتی،[]
+ہ تر کوانٹائی میکانیات کھڑی ہے۔ چونکہ اس ثبوت کو لامتناہی ابعادی سمتیہ فضاوں تک
+ وسعت نہیں دی جا سکتی،[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 992.
@@ -23844,7 +23823,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  70465 strings out of 474878
- 1869693 string characters out of 9512517
+ 1869695 string characters out of 9512517
  3061824 words of memory out of 7000000
  91399 multiletter control sequences out of 15000+600000
  596326 words of font info for 186 fonts, out of 8000000 for 9000
