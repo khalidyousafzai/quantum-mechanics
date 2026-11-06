@@ -104,22 +104,22 @@
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {1}}آئنشٹائن ضریب \:\(A\)\: اور \:\(B\)\:}{\farsidigits {337}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {2}}ہیجان حال کا عرصہ حیات}{\farsidigits {339}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {9}.\farsidigits {3}.\farsidigits {3}}قواعد انتخاب}{\farsidigits {341}}{}%
-\contentsline {chapter}{\numberline {\farsidigits {10}}حر ناگزر تخمین}{\farsidigits {351}}{}%
-\contentsline {section}{\numberline {\farsidigits {10}.\farsidigits {1}}مسئلہ حر ناگزر}{\farsidigits {351}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {1}.\farsidigits {1}}حر ناگزر عمل}{\farsidigits {351}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {1}.\farsidigits {2}}مسئلہ حر ناگزر کا ثبوت}{\farsidigits {354}}{}%
-\contentsline {section}{\numberline {\farsidigits {10}.\farsidigits {2}}ہیّت بيری}{\farsidigits {359}}{}%
+\contentsline {chapter}{\numberline {\farsidigits {10}}حرّ ناگزر تخمین}{\farsidigits {351}}{}%
+\contentsline {section}{\numberline {\farsidigits {10}.\farsidigits {1}}مسئلہ حرّ ناگزر}{\farsidigits {351}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {1}.\farsidigits {1}}حرّ ناگزر عمل}{\farsidigits {351}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {1}.\farsidigits {2}}مسئلہ حرّ ناگزر کا ثبوت}{\farsidigits {354}}{}%
+\contentsline {section}{\numberline {\farsidigits {10}.\farsidigits {2}}ہیت بيری}{\farsidigits {359}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {2}.\farsidigits {1}}گرگٹی عمل}{\farsidigits {359}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {2}.\farsidigits {2}}ہندسی ہیّت}{\farsidigits {361}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {2}.\farsidigits {2}}ہندسی ہیت}{\farsidigits {361}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {10}.\farsidigits {2}.\farsidigits {3}}اہارونو و بوہم اثر}{\farsidigits {366}}{}%
-\contentsline {chapter}{\numberline {\farsidigits {11}}بکھراو}{\farsidigits {375}}{}%
+\contentsline {chapter}{\numberline {\farsidigits {11}}بکھراؤ}{\farsidigits {375}}{}%
 \contentsline {section}{\numberline {\farsidigits {11}.\farsidigits {1}}تعارف}{\farsidigits {375}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {1}.\farsidigits {1}}کلاسیکی نظریہ بکھراو}{\farsidigits {375}}{}%
-\contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {1}.\farsidigits {2}}کوانٹائی نظریہ بکھراو}{\farsidigits {379}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {1}.\farsidigits {1}}کلاسیکی نظریہ بکھراؤ}{\farsidigits {375}}{}%
+\contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {1}.\farsidigits {2}}کوانٹائی نظریہ بکھراؤ}{\farsidigits {379}}{}%
 \contentsline {section}{\numberline {\farsidigits {11}.\farsidigits {2}}جزوی موج تجزیہ}{\farsidigits {380}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {2}.\farsidigits {1}}اصول و ضوابط}{\farsidigits {380}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {2}.\farsidigits {2}}لائحہ عمل}{\farsidigits {384}}{}%
-\contentsline {section}{\numberline {\farsidigits {11}.\farsidigits {3}}ہیّتی انتقال}{\farsidigits {386}}{}%
+\contentsline {section}{\numberline {\farsidigits {11}.\farsidigits {3}}ہیتی انتقال}{\farsidigits {386}}{}%
 \contentsline {section}{\numberline {\farsidigits {11}.\farsidigits {4}}بارن تخمین}{\farsidigits {389}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {4}.\farsidigits {1}}مساوات شروڈنگر کی تکملی روپ}{\farsidigits {389}}{}%
 \contentsline {subsection}{\numberline {\farsidigits {11}.\farsidigits {4}.\farsidigits {2}}بارن تخمین اول}{\farsidigits {393}}{}%
