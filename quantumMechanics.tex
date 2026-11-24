@@ -39,6 +39,7 @@
 \colorlet{llgray}{gray!10}
 \definecolor{dgray}{cmyk}{0,0,0,0.7}
 %========================
+
 %\usepackage[hidelinks]{hyperref}  %used in machines book but not here
 \usepackage{./tex/khalidUrduBooks}                     %my sty file
 \usepackage{amsbsy} %for bold Poynting, lessgtr symbol
@@ -72,30 +73,15 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \usepgfplotslibrary{fillbetween}
 \usepackage[]{gnuplottex}
 %============================
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{newfile}                                                                  %writing answers to the end of the book
-\newwrite\tempfile
-\immediate\openout\tempfile=answer.tex
-\newcommand*\wf[1]{\immediate\write\tempfile{#1}}
-%
-%%the  \اصطلاح and \حاشیہب have been disabled  in "myUrduCommandsCalculus.tex" and instead 
-%%the following is used. this retains their original definitions and writes them to a "technicalTerms.tex" text file too.
-%\newwrite\tempfileTerms				 %collecting technical terms. uses newfile package
-%\immediate\openout\tempfileTerms=technicalTerms.tex
-%\newcommand*\wTechTerms[1]{\immediate\write\tempfileTerms{#1}}
-%\newcommand*{\اصطلاح}[1]{\wTechTerms{\unexpanded{ur, #1 ,}}{\urduTechTermsfont{#1}}}
-%\newcommand*{\حاشیہب}[1]{ \wTechTerms{\unexpanded{en, #1,}}{\raggedright{\footnote{\textenglish{#1}}}}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%============================                                                            
 %=================================
 \DeclareRobustCommand{\s}{\text{\reflectbox{$\&$}}}
 
-%=================================
-
 \input{./tex/myHarpoons.tex}                       %testing harpoons
+\usepackage{newfile}		%used to write answers and technical terms to files 
 
 
 \input{./tex/myUrduCommandsQuantum.tex}                  %turning latex into urdu
+\input{./tex/kConditionalCollectTerms}			%collecting terms at end of book
 \input{./tex/myUrduGreek.tex}
 \input{./tex/myEMTvectors.tex}
 \input{./tex/myDeclareFunctions.tex}     %\sech, \csch, \arcsh, \arcs   hyperbolic and arc-secant etc
@@ -112,9 +98,10 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %
 \includeonly{./tex/quantumPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquation,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword,./tex/quantumAppendix}
 %
-%\includeonly{./tex/quantumPreface,./tex/prefaceFirstBook,./tex/quantumAppendix}
+%\includeonly{./tex/quantumMechanicsTime_independentSchrodingerEquation}
+%\includeonly{./tex/quantumFormalism}
 %
-%\includeonly{./tex/quantumPreface,./tex/prefaceFirstBook,./tex/quantumMechanicsTime_independentSchrodingerEquation}%
+%\includeonly{./tex/test}%
 
 
 \author{
@@ -200,10 +187,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \include{./tex/quantumTheAdiabaticApproximation}
 \include{./tex/quantumScattering}
 \include{./tex/quantumAfterword}
-%\include{./tex/questions}
-
-
-%\immediate\closeout\tempfileTerms
+%\include{./tex/test}
 
 %=========================================================
 %\addcontentsline{toc}{chapter}{حوالہ}     %it is standard not to include References in toc. 

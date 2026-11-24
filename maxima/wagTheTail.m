@@ -1,0 +1,12 @@
+kill(all);
+load("dynamics");
+K:0.9;
+a:0;
+b:10;
+c:- 10 ;
+d:10;
+sol:rk([v,(x^2-K)*u],[u,v],[1,0],[x,0,10,0.001]);
+plot2d([discrete,makelist([sol[i][1],sol[i][2]],i,1,length(sol))],[x,a,b],[y,c,d],[xlabel,"x"],
+[ylabel,"u(x)"],[style,[lines,2]],[gnuplot_preamble,"set xzeroaxis; set yzeroaxis"]);
+
+
